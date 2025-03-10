@@ -69,15 +69,28 @@ def write_json_to_txt(filename: str):
         basic_info = ' '.join([event[key] for key in key_features[:-1]
                               if key in event])
         optional_info = ' '.join([event[key] for key in optional_features])
-        formatted_text = [basic_info, optional_info, '']
+        formatted_text = [basic_info, optional_info]
         if 'description' in event:
             formatted_text.insert(1, event['description'])
+        # Join all text into one line
+        contents.append(' '.join(formatted_text))
         # Add a blank line to separate events
-        contents.extend(formatted_text)
+        contents.append('')
 
-    with open(f'{filename}.txt', 'w') as f:
+    txt_dir = os.path.join(os.path.dirname(os.getcwd()), 'events_formatted')
+    os.makedirs(txt_dir, exist_ok=True)
+    txt_filepath = os.path.join(txt_dir, f'{filename}.txt')
+    with open(txt_filepath, 'w') as f:
         f.write('\n'.join(contents))
-    print(f'Write data to {filename}.txt')
+    print(f'Write data to {txt_filepath}')
+
+
+def convert_all_jsons():
+    for filename in tqdm(os.listdir()):
+        if filename.endswith('.json'):
+            filename = os.path.splitext(filename)[0]
+            write_json_to_txt(filename)
+
 
 # ============================================================================ #
 # Pittsburgh Events
@@ -552,18 +565,23 @@ if __name__ == '__main__':
     os.makedirs(data_dir, exist_ok=True)
     os.chdir(data_dir)
 
-    driver = webdriver.Chrome()
-    driver.implicitly_wait(2)
-
     save_json = True
     save_txt = True
+    web_scraping = False
 
-    get_pittsburgh_events('pittsburgh_events', save_json, save_txt)
-    get_pdp_events('downtown_pittsburgh_events', save_json, save_txt)
-    get_pghcitypaper_events('pittsburgh_city_paper_events')
-    get_cmu_events('cmu_events', save_json, save_txt,
-                   start_date=STARTING_DATE,
-                   end_date=ENDING_DATE)
-    get_cmu_community_events('cmu_community_events', save_json, save_txt)
+    if web_scraping:
+        driver = webdriver.Chrome()
+        driver.implicitly_wait(2)
 
-    driver.quit()
+        get_pittsburgh_events('pittsburgh_events', save_json, save_txt)
+        get_pdp_events('downtown_pittsburgh_events', save_json, save_txt)
+        get_pghcitypaper_events('pittsburgh_city_paper_events')
+        get_cmu_events('cmu_events', save_json, save_txt,
+                       start_date=STARTING_DATE,
+                       end_date=ENDING_DATE)
+        get_cmu_community_events('cmu_community_events', save_json, save_txt)
+
+        driver.quit()
+
+    else:
+        convert_all_jsons()

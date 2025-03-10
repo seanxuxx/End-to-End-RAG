@@ -28,15 +28,19 @@ def write_json_to_txt(filename: str):
     key_features = ['title', 'startdate', 'datetime', 'location', 'description']
 
     for event in data:
-        optional_features = list(event.keys() - set(key_features))
-        for key in key_features+optional_features:
-            text = event.get(key, '')
-            if not text or 'url' in key:
-                continue
+        event.pop('url', None)
+        # Add a period at the end of the text if it doesn't end with a punctuation
+        for key, text in event.items():
             if re.search(r'[\w\]\}\)]$', text):
-                text += '.'
-            contents.append(text)
-        contents.append('')  # Add a blank line to separate events
+                event[key] = f'{text}.'
+        # Format the text
+        optional_features = list(event.keys() - set(key_features))
+        basic_info = ' '.join([event[key] for key in key_features[:-1]
+                              if key in event])
+        description = event.get('description', '')
+        optional_info = ' '.join([event[key] for key in optional_features])
+        # Add a blank line to separate events
+        contents.extend([basic_info, description, optional_info, ''])
 
     with open(f'{filename}.txt', 'w') as f:
         f.write('\n'.join(contents))

@@ -1,47 +1,50 @@
 Beginning at 6pm tonight (3/7), the 311 system will be undergoing maintenance and enhancements and will have limited functionality until 3/10. Please call 311 to leave a message, or try submitting again on Monday
 Close this announcement: /Business-Development/Mobility-and-Infrastructure/Maps?OC_EA_EmergencyAnnouncementList_Dismiss=ebbd3924-41f4-4bb6-9b5d-d16007c71c77
-EnglishSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=en-US
-Chinese (Simplified) - 中文Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=zh-CN
-Spanish - españolSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=es
-Arabic - العربيةSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ar
-French - françaisSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=fr
-Nepali -  नेपालीSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ne
-Portuguese - portuguêsSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=pt
-Pashto - پښتوSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ps
-Russian - Русский языкSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ru
-Uzbek - أۇزبېك ﺗﻴﻠیSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=uz
-SwahiliSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=sw
-Hebrew - עִברִיתSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=iw
-Hindi - बहाना करनाSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=hi
-Ukrainian - українськаSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=uk
-Korean - 한국인Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ko
+English Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=en-US
+Chinese (Simplified) - 中文 Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=zh-CN
+Spanish - español Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=es
+Arabic - العربية Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ar
+French - français Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=fr
+Nepali -  नेपाली Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ne
+Portuguese - português Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=pt
+Pashto - پښتو Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ps
+Russian - Русский язык Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ru
+Uzbek - أۇزبېك ﺗﻴﻠی Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=uz
+Swahili Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=sw
+Hebrew - עִברִית Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=iw
+Hindi - बहाना करना Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=hi
+Ukrainian - українська Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=uk
+Korean - 한국인 Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Maps?oc_lang=ko
 Select the Escape key to close the menu. Focus will then be set to the first menu item.
 In This Section
 Welcome to the Department of Mobility and Infrastructures map hub! Here you can explore several mapped data sets on a variety of subjects that we use to inform our work. We share this information to inform the public, increase transparency, and promote governmental collaboration on all levels.
-Pittsburgh High Injury Network (HIN)The High Injury Network (HIN) identifies corridors and road segments with a high frequencies of traffic-related injuries and fatalities
+Pittsburgh High Injury Network (HIN) The High Injury Network (HIN) identifies corridors and road segments with a high frequencies of traffic-related injuries and fatalities
 Pittsburgh High Injury Network (HIN): https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=e9a7cec4ad854b6e9afde646b44575e8
-Pittsburgh Crash DataThis dashboard shows information on the reportable crashes in the City of Pittsburgh which is under the jurisdiction of both the Pittsburgh Bureau of Police & Pennsylvania State Police.
+Pittsburgh Crash Data This dashboard shows information on the reportable crashes in the City of Pittsburgh which is under the jurisdiction of both the Pittsburgh Bureau of Police & Pennsylvania State Police.
 Pittsburgh Crash Data: https://experience.arcgis.com/experience/854cc687784c461caef34a41f68f2b69
-Project MapThis map contains the location, project type, and status updates for projects managed by the City of Pittsburgh’s Department of Mobility and Infrastructure (DOMI) and PennDOT projects.
+Project Map This map contains the location, project type, and status updates for projects managed by the City of Pittsburgh’s Department of Mobility and Infrastructure (DOMI) and PennDOT projects.
 Project Map: https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=fad12a64d38b4f208fa9ff03f6a59609
-Right of Way ObstructionsBeta- This map contains all permitted obstructions to the public right of way, which are streets, alleys, trails and sidewalks.
-Agency CounterThis map contains all code enforcement violations under DOMI jurisdiction.
-Traffic CalmingThis map contains all requests, eligibility status, and constructed traffic calming projects on streets owned by the City of Pittsburgh. The traffic calming program introduces features such as speed humps, chicanes, and other measures to improve safety for motorists, pedestrians, and cyclists.
+Right of Way Obstructions Beta - This map contains all permitted obstructions to the public right of way, which are streets, alleys, trails and sidewalks.
+Right of Way Obstructions: https://pittsburghpa.maps.arcgis.com/apps/instant/slider/index.html?appid=c0928b12c1054874b308b4992bbd43bd
+Agency Counter This map contains all code enforcement violations under DOMI jurisdiction.
+Agency Counter: https://pittsburghpa.agencycounter.com/
+Traffic Calming This map contains all requests, eligibility status, and constructed traffic calming projects on streets owned by the City of Pittsburgh. The traffic calming program introduces features such as speed humps, chicanes, and other measures to improve safety for motorists, pedestrians, and cyclists.
 Traffic Calming: https://experience.arcgis.com/experience/4299aff15d8a47a69a9a352aa5ce3049/page/Page/
-5 Year Paving HistoryThis map contains all roads paved in the City of Pittsburgh from 2019 to 2023.
+5 Year Paving History This map contains all roads paved in the City of Pittsburgh from 2019 to 2023.
 5 Year Paving History: https://pittsburghpa.maps.arcgis.com/apps/dashboards/b7fd705ad59c40e0b08fbf4ac1323c7c
-Pittsburgh Bicycle FacilitiesThis map contains all constructed and proposed bicycle facilities in the City of Pittsburgh.
+Pittsburgh Bicycle Facilities This map contains all constructed and proposed bicycle facilities in the City of Pittsburgh.
 Pittsburgh Bicycle Facilities: https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b56a2a11f5a74f64948c3f214b207e50
-Pittsburgh City StepsThis dashboard of the City Steps map shows information on the known sets of steps to be of City of Pittsburgh public right-of-way.
+Pittsburgh City Steps This dashboard of the City Steps map shows information on the known sets of steps to be of City of Pittsburgh public right-of-way.
 Pittsburgh City Steps: https://pittsburghpa.maps.arcgis.com/apps/dashboards/84a0e248c87f4712baa1afd836f3ea4f
-Outdoor Dining LocationsThis map contains all permitted outdoor dining locations in the City of Pittsburgh.
+Outdoor Dining Locations This map contains all permitted outdoor dining locations in the City of Pittsburgh.
 Outdoor Dining Locations: https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=17f520cd09d2466fb00ac8f51489c345
-Street OwnershipThis map shows the ownership of streets within the City of Pittsburgh.
-Bridge DashboardThis dashboard contains the location, structure details, and some status updates for bridges owned and maintained by the City of Pittsburgh’s Department of Mobility and Infrastructure (DOMI).
+Street Ownership This map shows the ownership of streets within the City of Pittsburgh.
+Street Ownership: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=ca33322ae91b4945af942ef01290180b
+Bridge Dashboard This dashboard contains the location, structure details, and some status updates for bridges owned and maintained by the City of Pittsburgh’s Department of Mobility and Infrastructure (DOMI).
 Bridge Dashboard: https://pittsburghpa.maps.arcgis.com/apps/dashboards/90f424c0e3614fc48827bf52e31559c5
 Terms and Conditions
 The City of Pittsburgh GIS data available to the public on this web page is subject to the following terms and conditions:
 The data presented in this viewer is for informational purposes and is not suitable for legal, engineering or surveying purposes.
-If you have any comments or questions contact us atgeoffrey.leonard@pittsburghpa.gov.
+If you have any comments or questions contact us at geoffrey.leonard@pittsburghpa.gov .
 geoffrey.leonard@pittsburghpa.gov: mailto:geoffrey.leonard@pittsburghpa.gov
-City of Pittsburgh414 Grant St.Pittsburgh, PA 15219(Accessibility entrance on Ross St.)View on Map412-255-2621
+City of Pittsburgh 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.) View on Map 412-255-2621

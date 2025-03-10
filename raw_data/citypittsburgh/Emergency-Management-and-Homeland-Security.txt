@@ -1,23 +1,23 @@
 Beginning at 6pm tonight (3/7), the 311 system will be undergoing maintenance and enhancements and will have limited functionality until 3/10. Please call 311 to leave a message, or try submitting again on Monday
 Close this announcement: /Safety/Public-Safety/Emergency-Management-and-Homeland-Security?OC_EA_EmergencyAnnouncementList_Dismiss=ebbd3924-41f4-4bb6-9b5d-d16007c71c77
-EnglishSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=en-US
-Chinese (Simplified) - 中文Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=zh-CN
-Spanish - españolSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=es
-Arabic - العربيةSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ar
-French - françaisSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=fr
-Nepali -  नेपालीSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ne
-Portuguese - portuguêsSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=pt
-Pashto - پښتوSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ps
-Russian - Русский языкSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ru
-Uzbek - أۇزبېك ﺗﻴﻠیSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=uz
-SwahiliSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=sw
-Hebrew - עִברִיתSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=iw
-Hindi - बहाना करनाSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=hi
-Ukrainian - українськаSelect this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=uk
-Korean - 한국인Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ko
+English Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=en-US
+Chinese (Simplified) - 中文 Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=zh-CN
+Spanish - español Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=es
+Arabic - العربية Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ar
+French - français Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=fr
+Nepali -  नेपाली Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ne
+Portuguese - português Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=pt
+Pashto - پښتو Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ps
+Russian - Русский язык Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ru
+Uzbek - أۇزبېك ﺗﻴﻠی Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=uz
+Swahili Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=sw
+Hebrew - עִברִית Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=iw
+Hindi - बहाना करना Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=hi
+Ukrainian - українська Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=uk
+Korean - 한국인 Select this as your preferred language: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security?oc_lang=ko
 Select the Escape key to close the menu. Focus will then be set to the first menu item.
 Press left and right keys to move between slides.
-Emergency Operations Plan(PDF, 1MB): /files/assets/city/v/1/public-safety/documents/23371_emergency_plan.pdf
+Emergency Operations Plan (PDF, 1MB): /files/assets/city/v/1/public-safety/documents/23371_emergency_plan.pdf
 Emergency Operations Plan
 Weather Ready Nation: https://www.weather.gov/media/wrn/WRN_Ambassador_Flyer.pdf
 Weather Ready Nation
@@ -32,13 +32,19 @@ In 1998 came the formation of the Southwestern Emergency Response Task Force com
 Following the 9/11 attacks came the establishment of the federal Department of Homeland Security (DHS). With the release of the DHS National Preparedness Goal initiative, it was recognized that Homeland Security begins with Hometown Security. As such, the Pittsburgh Emergency Management Agency expanded its mission area to include Homeland Security and altered the name of the organization to the Pittsburgh Office of Emergency Management & Homeland Security (OEMHS).
 The post 9/11 era also brought new federal preparedness and response funding for state and local agencies through the Homeland Security Grant Program (HSGP). Through this program, Pittsburgh OEMHS was able to purchase various vehicles and equipment to fill response gaps created from the newly evolving threat landscape. These pieces of equipment and vehicles helped enhance operational abilities and address capability gaps within the City and Region. Pittsburgh was a pioneer in many pieces of equipment including the creation of the state of the art Pierce/LDV Mobile Command Post equipped with the latest technology to function as a free standing 911 center. The Bomb Squad received a new response vehicle and a remote controlled robot with capabilities not previously integrated into such equipment. A Lenco fully armored response vehicle was put into service in order to better protect SWAT officers responding to hostile events. The K-9 team received a first-of-its-kind vehicle capable of responding with up to eight teams and functioning as a base of operations. River Rescue took delivery of a second SeaArk rescue craft to enhance water borne capabilities. A new Hazmat response vehicle and a Mass Casualty unit were also placed in service. All of these vehicles and equipment are designated for regional response to any county in need throughout the Region 13 Task Force area.
 Today, Pittsburgh OEMHS continues to be the conduit for planning, coordination, and information sharing between the public and private sector in the mission areas of protection, prevention, mitigation, response, and recovery.
+Report Suspicious Activity: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Report-Suspicious-Activity
+OEMHS Internships: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/OEMHS-Internships
+Ready City An emergency plan is essential for everyone in your family.  With a plan in place, everyone can get in contact and meet in a single location.: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Ready-City
 An emergency plan is essential for everyone in your family.  With a plan in place, everyone can get in contact and meet in a single location.
-Your browser does not support inline frames.Please visithttps://docs.google.com/presentation/d/e/2PACX-1vTnOCQ-p2oH3Veb65e3YfPZ6ei4qXmXgj6tW1oRPoPQX4pfrF8q-cHV7MnbTRIgvVOCLRp0OsWklN3x/embed?start=true&loop=true&delayms=2000
+Safety Resources: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Safety-Resources
+Community Emergency Response Teams (CERT): https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Community-Emergency-Response-Teams-CERT
+Active Shooter/Active Threat: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Active-ShooterActive-Threat
+Your browser does not support inline frames. Please visit https://docs.google.com/presentation/d/e/2PACX-1vTnOCQ-p2oH3Veb65e3YfPZ6ei4qXmXgj6tW1oRPoPQX4pfrF8q-cHV7MnbTRIgvVOCLRp0OsWklN3x/embed?start=true&loop=true&delayms=2000
 https://docs.google.com/presentation/d/e/2PACX-1vTnOCQ-p2oH3Veb65e3YfPZ6ei4qXmXgj6tW1oRPoPQX4pfrF8q-cHV7MnbTRIgvVOCLRp0OsWklN3x/embed?start=true&loop=true&delayms=2000: https://docs.google.com/presentation/d/e/2PACX-1vTnOCQ-p2oH3Veb65e3YfPZ6ei4qXmXgj6tW1oRPoPQX4pfrF8q-cHV7MnbTRIgvVOCLRp0OsWklN3x/embed?start=true&loop=true&delayms=2000
-Pittsburgh Office of Emergency Management & Homeland Security (OEMHS)2945 Railroad StPittsburgh, PA 15201
-Emergency9-1-1
-Phone412-255-2633
-Emailpittsburghemergencymanagement@pittsburghpa.gov
-Your browser does not support inline frames.Please visithttps://syndication.twitter.com/srv/timeline-profile/screen-name/PittsburghOEMHS?dnt=true&embedId=twitter-widget-0
+Pittsburgh Office of Emergency Management & Homeland Security (OEMHS) 2945 Railroad St Pittsburgh, PA 15201
+Emergency 9-1-1
+Phone 412-255-2633
+Email pittsburghemergencymanagement@pittsburghpa.gov
+Your browser does not support inline frames. Please visit https://syndication.twitter.com/srv/timeline-profile/screen-name/PittsburghOEMHS?dnt=true&embedId=twitter-widget-0
 https://syndication.twitter.com/srv/timeline-profile/screen-name/PittsburghOEMHS?dnt=true&embedId=twitter-widget-0: https://syndication.twitter.com/srv/timeline-profile/screen-name/PittsburghOEMHS?dnt=true&embedId=twitter-widget-0
-City of Pittsburgh414 Grant St.Pittsburgh, PA 15219(Accessibility entrance on Ross St.)View on Map412-255-2621
+City of Pittsburgh 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.) View on Map 412-255-2621

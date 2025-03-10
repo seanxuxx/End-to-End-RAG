@@ -1,23 +1,33 @@
 Beginning at 6pm tonight (3/7), the 311 system will be undergoing maintenance and enhancements and will have limited functionality until 3/10. Please call 311 to leave a message, or try submitting again on Monday
 Close this announcement: /Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?OC_EA_EmergencyAnnouncementList_Dismiss=ebbd3924-41f4-4bb6-9b5d-d16007c71c77
-EnglishSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=en-US
-Chinese (Simplified) - 中文Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=zh-CN
-Spanish - españolSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=es
-Arabic - العربيةSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ar
-French - françaisSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=fr
-Nepali -  नेपालीSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ne
-Portuguese - portuguêsSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=pt
-Pashto - پښتوSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ps
-Russian - Русский языкSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ru
-Uzbek - أۇزبېك ﺗﻴﻠیSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=uz
-SwahiliSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=sw
-Hebrew - עִברִיתSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=iw
-Hindi - बहाना करनाSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=hi
-Ukrainian - українськаSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=uk
-Korean - 한국인Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ko
+English Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=en-US
+Chinese (Simplified) - 中文 Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=zh-CN
+Spanish - español Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=es
+Arabic - العربية Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ar
+French - français Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=fr
+Nepali -  नेपाली Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ne
+Portuguese - português Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=pt
+Pashto - پښتو Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ps
+Russian - Русский язык Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ru
+Uzbek - أۇزبېك ﺗﻴﻠی Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=uz
+Swahili Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=sw
+Hebrew - עִברִית Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=iw
+Hindi - बहाना करना Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=hi
+Ukrainian - українська Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=uk
+Korean - 한국인 Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms?oc_lang=ko
 Select the Escape key to close the menu. Focus will then be set to the first menu item.
 In This Section
+Permit Applications: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Permit-Applications
+License Applications: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/License-Applications
+Checklists: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Checklists
+Record Requests: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Record-Requests
+Other Applications & Forms: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Other-Applications-Forms
 For more information about permits, licenses & applications please visit the areas below.
 Permits
+Residential: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/Residential-Permits
+Commercial: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/Commercial-Permits
 Licenses
-City of Pittsburgh414 Grant St.Pittsburgh, PA 15219(Accessibility entrance on Ross St.)View on Map412-255-2621
+Contractor: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Contractor-Licenses
+Trade: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Trade-Licenses
+Business: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Business-Licenses
+City of Pittsburgh 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.) View on Map 412-255-2621

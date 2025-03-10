@@ -1,8 +1,8 @@
 Learn more: https://www.iccsafe.org/about/icc-online-privacy-policy/
-homeHome: /PI6865/home
+home Home: /PI6865/home
 Code: /PI6865
 Index: /PI6865/index
-gavelNew Laws (3): /PI6865/laws
+gavel New Laws (3): /PI6865/laws
 Welcome: /help/PI6865
 Basic Navigation: /help/PI6865/navigation
 Toolbar: /help/PI6865/tools
@@ -15,46 +15,46 @@ FAQ: /help/PI6865/faq
 Request Support: /help/PI6865/support
 About: /help/PI6865/about
 Login: /user/login/PI6865?url=%2FPI6865%3F
-printPrint: /print/PI6865?guid=PI6865
-emailEmail: mailto:?subject=City%20of%20Pittsburgh%2C%20PA&body=City%20of%20Pittsburgh%2C%20PA Code%0A%0Aundefined%0Ahttps://ecode360.com/PI6865%0A%0A
-downloadDownload: /output/word_html/PI6865
-shareShare: mailto:?subject=City of Pittsburgh, PA&body=City of Pittsburgh, PA Code%0A
+print Print: /print/PI6865?guid=PI6865
+email Email: mailto:?subject=City%20of%20Pittsburgh%2C%20PA&body=City%20of%20Pittsburgh%2C%20PA Code%0A%0Aundefined%0Ahttps://ecode360.com/PI6865%0A%0A
+download Download: /output/word_html/PI6865
+share Share: mailto:?subject=City of Pittsburgh, PA&body=City of Pittsburgh, PA Code%0A
 %0A
 https://ecode360.com/PI6865
 arrow_forward: /45480664
 City of Pittsburgh, PA: /PI6865#PI6865
 Includes legislation through 07-30-2024.: PI6865_LAST_DL_ENTRY#PI6865_LAST_DL_ENTRY
 Home Rule Charter: /45480931#45480931
-Title CHAHome Rule Charter(§ 101 – § 1001): /45480664#45480664
+Title CHA Home Rule Charter (§ 101 – § 1001): /45480664#45480664
 Code of Ordinances: /45436511#45436511
-Title 1Administrative(§ 101.01 – § 199.04): /45430113#45430113
+Title 1 Administrative (§ 101.01 – § 199.04): /45430113#45430113
 chevron_right: /45430113
-Title 2Fiscal(§ 201.01 – § 272.05): /45438453#45438453
+Title 2 Fiscal (§ 201.01 – § 272.05): /45438453#45438453
 chevron_right: /45438453
-Title 3Water(§ 301.01 – § 347.01): /45438235#45438235
+Title 3 Water (§ 301.01 – § 347.01): /45438235#45438235
 chevron_right: /45438235
-Title 4Public Places and Property(§ 410.01 – § 492.16): /45445078#45445078
+Title 4 Public Places and Property (§ 410.01 – § 492.16): /45445078#45445078
 chevron_right: /45445078
-Title 5Traffic(§ 501.01 – § 550.04): /45463676#45463676
+Title 5 Traffic (§ 501.01 – § 550.04): /45463676#45463676
 chevron_right: /45463676
-Title 6Conduct(§ 601.01 – § 699.20): /45470879#45470879
+Title 6 Conduct (§ 601.01 – § 699.20): /45470879#45470879
 chevron_right: /45470879
-Title 7Business Licensing(§ 701.01 – § 782.01): /45464631#45464631
+Title 7 Business Licensing (§ 701.01 – § 782.01): /45464631#45464631
 chevron_right: /45464631
-Title 8Fire Prevention(§ 801.01 – § 802.08): /45464270#45464270
+Title 8 Fire Prevention (§ 801.01 – § 802.08): /45464270#45464270
 chevron_right: /45464270
-Title 10Building(§ 1001.01 – § 1006.01): /45464337#45464337
+Title 10 Building (§ 1001.01 – § 1006.01): /45464337#45464337
 chevron_right: /45464337
-Title 11Historic Preservation(§ 1101.01 – § 1101.11): /45480452#45480452
+Title 11 Historic Preservation (§ 1101.01 – § 1101.11): /45480452#45480452
 chevron_right: /45480452
-Title 12Lighting Code(§ 1201.01 – § 1201.14): /45500259#45500259
+Title 12 Lighting Code (§ 1201.01 – § 1201.14): /45500259#45500259
 chevron_right: /45500259
-Title 13Stormwater Management(§ 1301.01 – § 1310.01): /45512668#45512668
+Title 13 Stormwater Management (§ 1301.01 – § 1310.01): /45512668#45512668
 chevron_right: /45512668
 Tables: /45500257#45500257
-Title CCTCode Comparative Table - Ordinances(§ CCT.01): /45500383#45500383
+Title CCT Code Comparative Table - Ordinances (§ CCT.01): /45500383#45500383
 chevron_right: /45500383
 Zoning Code: /45609156#45609156
-Title 9Zoning Code(§ 901.01 – § 926.01): /45474054#45474054
+Title 9 Zoning Code (§ 901.01 – § 926.01): /45474054#45474054
 chevron_right: /45474054
-Termsof Use: https://ecode360.com/docs/TOS.html
+Terms of Use: https://ecode360.com/docs/TOS.html

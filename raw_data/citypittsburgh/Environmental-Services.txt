@@ -1,33 +1,34 @@
 Beginning at 6pm tonight (3/7), the 311 system will be undergoing maintenance and enhancements and will have limited functionality until 3/10. Please call 311 to leave a message, or try submitting again on Monday
 Close this announcement: /Resident-Services/Trash-Recycling?OC_EA_EmergencyAnnouncementList_Dismiss=ebbd3924-41f4-4bb6-9b5d-d16007c71c77
-EnglishSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=en-US
-Chinese (Simplified) - 中文Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=zh-CN
-Spanish - españolSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=es
-Arabic - العربيةSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ar
-French - françaisSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=fr
-Nepali -  नेपालीSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ne
-Portuguese - portuguêsSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=pt
-Pashto - پښتوSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ps
-Russian - Русский языкSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ru
-Uzbek - أۇزبېك ﺗﻴﻠیSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=uz
-SwahiliSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=sw
-Hebrew - עִברִיתSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=iw
-Hindi - बहाना करनाSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=hi
-Ukrainian - українськаSelect this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=uk
-Korean - 한국인Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ko
+English Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=en-US
+Chinese (Simplified) - 中文 Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=zh-CN
+Spanish - español Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=es
+Arabic - العربية Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ar
+French - français Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=fr
+Nepali -  नेपाली Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ne
+Portuguese - português Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=pt
+Pashto - پښتو Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ps
+Russian - Русский язык Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ru
+Uzbek - أۇزبېك ﺗﻴﻠی Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=uz
+Swahili Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=sw
+Hebrew - עִברִית Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=iw
+Hindi - बहाना करना Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=hi
+Ukrainian - українська Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=uk
+Korean - 한국인 Select this as your preferred language: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling?oc_lang=ko
 Select the Escape key to close the menu. Focus will then be set to the first menu item.
 The mission of Environmental Services is to establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers.
 There are a few main ways Environmental Services accomplishes these goals:
 Find and view your home's schedule for trash, recycling, and yard-debris pickups, Landlord Waste and Recycling Fact Sheet, and Recycling FAQ below.
+PGH.ST: https://pgh.st/
 Municipal Code 619: https://ecode360.com/45471745#45471745
-Handy Recycling Tips(PDF, 585KB): /files/assets/city/v/1/dpw/documents/2024_handy_recyclingtips.pdf
-Landlord Letter(PDF, 214KB): /files/assets/city/v/1/dpw/documents/20278_cover_letter_waste__recycling_fact_sheet_-_2023.pdf
-Recycling Decal Download(PDF, 4MB): /files/assets/city/v/1/dpw/documents/8806_blue_bin_recycling_decal.pdf
-Waste and Recycling Fact Sheet/Lease Addendum(PDF, 497KB): /files/assets/city/v/3/dpw/documents/waste-recyling-fact-sheet.pdf
+Handy Recycling Tips (PDF, 585KB): /files/assets/city/v/1/dpw/documents/2024_handy_recyclingtips.pdf
+Landlord Letter (PDF, 214KB): /files/assets/city/v/1/dpw/documents/20278_cover_letter_waste__recycling_fact_sheet_-_2023.pdf
+Recycling Decal Download (PDF, 4MB): /files/assets/city/v/1/dpw/documents/8806_blue_bin_recycling_decal.pdf
+Waste and Recycling Fact Sheet/Lease Addendum (PDF, 497KB): /files/assets/city/v/3/dpw/documents/waste-recyling-fact-sheet.pdf
 The City of Pittsburgh offers collection services to promote environmentally friendly disposal of your trash, recycling, and yard debris.
 The mission of Environmental Services is to establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers.
 Commercial Recycling Resources and Tonnage Reporting Requirement
 Organizers of special events that expect 200 or more individuals per day are required to separate recyclables from municipal waste.
 The mission of Environmental Services is to establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers.
 Littering and dumping has major effects on the City of Pittsburgh and its residents, so we are tackling the problem through prevention, education, abatement and enforcement.
-City of Pittsburgh414 Grant St.Pittsburgh, PA 15219(Accessibility entrance on Ross St.)View on Map412-255-2621
+City of Pittsburgh 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.) View on Map 412-255-2621

@@ -1,62 +1,37 @@
 Beginning at 6pm tonight (3/7), the 311 system will be undergoing maintenance and enhancements and will have limited functionality until 3/10. Please call 311 to leave a message, or try submitting again on Monday
 Close this announcement: /Sitemap?OC_EA_EmergencyAnnouncementList_Dismiss=ebbd3924-41f4-4bb6-9b5d-d16007c71c77
-EnglishSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=en-US
-Chinese (Simplified) - 中文Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=zh-CN
-Spanish - españolSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=es
-Arabic - العربيةSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ar
-French - françaisSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=fr
-Nepali -  नेपालीSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ne
-Portuguese - portuguêsSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=pt
-Pashto - پښتوSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ps
-Russian - Русский языкSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ru
-Uzbek - أۇزبېك ﺗﻴﻠیSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=uz
-SwahiliSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=sw
-Hebrew - עִברִיתSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=iw
-Hindi - बहाना करनाSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=hi
-Ukrainian - українськаSelect this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=uk
-Korean - 한국인Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ko
+English Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=en-US
+Chinese (Simplified) - 中文 Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=zh-CN
+Spanish - español Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=es
+Arabic - العربية Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ar
+French - français Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=fr
+Nepali -  नेपाली Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ne
+Portuguese - português Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=pt
+Pashto - پښتو Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ps
+Russian - Русский язык Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ru
+Uzbek - أۇزبېك ﺗﻴﻠی Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=uz
+Swahili Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=sw
+Hebrew - עִברִית Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=iw
+Hindi - बहाना करना Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=hi
+Ukrainian - українська Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=uk
+Korean - 한국인 Select this as your preferred language: https://www.pittsburghpa.gov/Sitemap?oc_lang=ko
 Select the Escape key to close the menu. Focus will then be set to the first menu item.
 Curbside Refuse: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Curbside-Refuse
 Curbside Recycling: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Curbside-Recycling
-Blue Bin Program: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Blue-Bin-Program
 Bulk Pick Up: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Bulk-Pick-Up
 Protect Our Refuse Workers: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Protect-Our-Refuse-Workers
 Yard Debris: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Yard-Debris
 Missed Pick Up: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Curbside-Pick-Up/Missed-Pick-Up
-Recycling Drop-Off Locations: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Recycling-Drop-Off-Locations
 Electronic Waste and Household Hazardous Waste Disposal: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Electronic-Waste-and-Household-Hazardous-Waste-Disposal
-Waste Disposal Resources: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Waste-Disposal-Resources
 Christmas Tree Recycling: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Christmas-Tree-Recycling
-Zero Waste: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Drop-Off-Info-Additional-Resources/Zero-Waste
-Plastic Bag Ban & Paper Bag Fee: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Plastic-Bag-Ban
 Frequently Asked Questions: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Frequently-Asked-Questions
-Volunteer Applications: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Volunteer-Applications
 Additional Organization Resources: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Additional-Organization-Resources
 Litter Index: https://www.pittsburghpa.gov/Resident-Services/Trash-Recycling/Anti-Litter-and-Illegal-Dumping/Litter-Index
-Street Sweeping: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Street-Maintenance/Street-Sweeping
-Disaster Response: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Street-Maintenance/Disaster-Response
 Pittsburgh Paving Program: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Paving-Schedule/Pittsburgh-Paving-Program
 Curb Ramp Schedule: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Paving-Schedule/Curb-Ramp-Schedule
 PWSA Paving Schedule: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Paving-Schedule/PWSA-Paving-Schedule
-Traffic Calming: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Road-Safety/Traffic-Calming
-Autonomous Technology: https://www.pittsburghpa.gov/Resident-Services/Road-Maintenance/Road-Safety/Autonomous-Technology
 Guidelines: https://www.pittsburghpa.gov/Resident-Services/Community-Programming/Love-Your-Block/Guidelines
 Apply: https://www.pittsburghpa.gov/Resident-Services/Community-Programming/Love-Your-Block/Apply
-Allegheny Commons Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Allegheny-Commons-Park
-Allegheny Landing Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Allegheny-Landing-Park
-Arsenal Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Arsenal Park
-August Wilson Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/August-Wilson-Park
-Market Square: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Market-Square
-McKinley Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/McKinley Park
-Mellon Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Mellon-Park
-Mellon Square: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Mellon-Square
-North Shore Riverfront Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/North-Shore-Riverfront-Park
-Point State Park – Pittsburgh’s Confluence: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Point-State-Park-–-Pittsburgh’s-Confluence
-Sheraden Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Sheraden-Park
-South Shore Riverfront Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/South-Shore-Riverfront-Park
-South Side Park: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/South-Side-Park
-Three Rivers Heritage Trail: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/Three-Rivers-Heritage-Trail
-West End Overlook: https://www.pittsburghpa.gov/Recreation-Events/Parks/Our-Parks/West-End-Overlook
 Rec2Tech: https://www.pittsburghpa.gov/Recreation-Events/Parks/For-Kids/Rec2Tech
 KidSMART Club: https://www.pittsburghpa.gov/Recreation-Events/Parks/For-Kids/KidSMART-Club
 CitiCamp: https://www.pittsburghpa.gov/Recreation-Events/Parks/For-Kids/CitiCamp
@@ -78,31 +53,9 @@ Disc Golf: https://www.pittsburghpa.gov/Recreation-Events/Parks/Outdoor-Activiti
 Lawn Bowling: https://www.pittsburghpa.gov/Recreation-Events/Parks/Outdoor-Activities/Lawn-Bowling
 Skate Parks: https://www.pittsburghpa.gov/Recreation-Events/Parks/Outdoor-Activities/Skate-Parks
 Trails: https://www.pittsburghpa.gov/Recreation-Events/Parks/Outdoor-Activities/Trails
-Community Garden Plots Form: https://www.pittsburghpa.gov/Recreation-Events/Parks/Community-Garden-Plots/Community-Garden-Plots-Form
-Farmers Market Overview: https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets/Farmers-Market-Overview
-Farmers Market Vendor Registration: https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets/Farmers-Market-Vendor-Registration
-Carrick Farmers Market: https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets/Carrick-Farmers-Market
-East End Farmers Market: https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets/East-End-Farmers-Market
-Northside Farmers Market: https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets/Northside-Farmers-Market
-Squirrel Hill Farmers Market: https://www.pittsburghpa.gov/Recreation-Events/Events/Farmers-Markets/Squirrel-Hill-Farmers-Market
-Arsenal Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Arsenal-Park
-Banksville Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Banksville-Park
-Brookline Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Brookline-Park
-Flagstaff Hill in Schenley Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Flagstaff-Hill-in-Schenley-Park
-Grandview Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Grandview-Park
-Highland Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Highland-Park
-McBride Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/McBride-Park
-Ormsby Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Ormsby-Park
-Riverview Park: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Riverview-Park
-Schenley Plaza: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/Schenley-Plaza
-West End Elliott Overlook: https://www.pittsburghpa.gov/Recreation-Events/Events/Dollar-Bank-Cinema-In-The-Park/West-End-Elliott-Overlook
 Roving Art Cart Registration: https://www.pittsburghpa.gov/Recreation-Events/Events/Roving-Art-Cart/Roving-Art-Cart-Registration
 ARTWorks Eligibility, Guidelines & Rules: https://www.pittsburghpa.gov/Recreation-Events/Events/ARTWorks/ARTWorks-Eligibility-Guidelines-Rules
 ARTWorks Registration: https://www.pittsburghpa.gov/Recreation-Events/Events/ARTWorks/ARTWorks-Registration
-Bach, Beethoven and Brunch: https://www.pittsburghpa.gov/Recreation-Events/Events/Concerts/Bach-Beethoven-and-Brunch
-Jam At Grandview: https://www.pittsburghpa.gov/Recreation-Events/Events/Concerts/Jam-At-Grandview
-Reservoir of Jazz: https://www.pittsburghpa.gov/Recreation-Events/Events/Concerts/Reservoir-of-Jazz
-Stars at Riverview Jazz Series: https://www.pittsburghpa.gov/Recreation-Events/Events/Concerts/Stars-at-Riverview-Jazz-Series
 Brookline Breeze 5k: https://www.pittsburghpa.gov/Recreation-Events/Events/Footraces/Brookline-Breeze-5k
 Historic Hill 5K Run, Walk, & Ride: https://www.pittsburghpa.gov/Recreation-Events/Events/Footraces/Historic-Hill-5K-Run-Walk-Ride
 Run Around The Square: https://www.pittsburghpa.gov/Recreation-Events/Events/Footraces/Run-Around-The-Square
@@ -112,39 +65,17 @@ Greenfield Glide 5K: https://www.pittsburghpa.gov/Recreation-Events/Events/Footr
 Riverview Park 5K Run & Fitness Walk: https://www.pittsburghpa.gov/Recreation-Events/Events/Footraces/Riverview-Park-5K-Run-Fitness-Walk
 Recreation Centers General Info: https://www.pittsburghpa.gov/Recreation-Events/Park-Facilities/Recreation-Centers/Recreation-Centers-General-Info
 Independence Day Celebration: https://www.pittsburghpa.gov/Recreation-Events/Special-Events/Independence-Day-Celebration/Independence-Day-Celebration
-Frequently Asked Questions: https://www.pittsburghpa.gov/Recreation-Events/Park-Permits/Reserve-Park-Shelter/Frequently-Asked-Questions
-Picnic Shelter Regulations & Guidelines: https://www.pittsburghpa.gov/Recreation-Events/Park-Permits/Reserve-Park-Shelter/Picnic-Shelter-Regulations-Guidelines
-Welcoming Communities Network: https://www.pittsburghpa.gov/City-Government/Mayor/Office-of-Immigrant-and-Refugee-Affairs/Welcoming-Communities-Network
-Renting to Refugees: https://www.pittsburghpa.gov/City-Government/Mayor/Office-of-Immigrant-and-Refugee-Affairs/Renting-to-Refugees
-Immigrant & Refugee Regional Data: https://www.pittsburghpa.gov/City-Government/Mayor/Office-of-Immigrant-and-Refugee-Affairs/Immigrant-Refugee-Regional-Data
-Latinos in Pittsburgh: https://www.pittsburghpa.gov/City-Government/Mayor/Office-of-Immigrant-and-Refugee-Affairs/Latinos-in-Pittsburgh
-Newsletter Signup: https://www.pittsburghpa.gov/City-Government/Mayor/Office-of-Immigrant-and-Refugee-Affairs/Newsletter-Signup
-Core Services: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/About-the-Controller/Core-Services
-Biography of City Controller Rachael Heisler: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/About-the-Controller/Controller-Rachael-Heisler-Biography
-Contact the Controller's Office: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/About-the-Controller/Contact-the-Controllers-Office
-Fiscal Audits: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Fiscal-Audits
 Performance Audits: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Performance-Audits
-Annual Comprehensive Financial Report: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Annual-Comprehensive-Financial-Report
 Expenditure Report: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Expenditure-Report
 Revenue Report: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Revenue-Report
 Popular Annual Financial Reports: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Popular-Annual-Financial-Reports
 Disclosure of Interest Reports: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Disclosure-of-Interest-Reports
 Special Reports: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Audits-Reports/Special-Reports
 Watchdog PGH Privacy Policy: https://www.pittsburghpa.gov/City-Government/City-Controllers-Office/Pittsburgh-Watchdog/Watchdog-PGH-Privacy-Policy
-Bobby Wilson, District 1: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Bobby-Wilson-District-1
-Theresa Kail-Smith, District 2: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Theresa-Kail-Smith-District-2
-Bob Charland, District 3: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Bob-Charland-District-3
-Anthony Coghill, District 4: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Anthony-Coghill-District-4
-Barb Warwick, District 5: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Barb-Warwick-District-5
-R. Daniel Lavelle, District 6: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/R.-Daniel-Lavelle-District-6
-Deb Gross, District 7: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Deb-Gross-District-7
-Erika Strassburger, District 8: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Erika-Strassburger-District-8
-Khari Mosley, District 9: https://www.pittsburghpa.gov/City-Government/City-Council/Districts/Khari-Mosley-District-9
 What is a City Clerk?: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/What-is-a-City-Clerk
 Kimberly Clark-Baskin, CMC, City Clerk: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/Kimberly-D.-Clark-Baskin
 City Clerk Functions: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/City-Clerk-Functions
 City Ordinances: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/City-Ordinances
-Council Meeting Schedule: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/Council-Meeting-Schedule
 Rules of Council: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/Rules-of-Council
 Legislative Information Center: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/Legislative-Information-Center
 Records Management Division: https://www.pittsburghpa.gov/City-Government/City-Council/Clerks-Office/Records-Management-Division
@@ -167,7 +98,6 @@ Board of Appeals: https://www.pittsburghpa.gov/City-Government/Boards-Authoritie
 City-County Task Force on Disabilities: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/City-County-Task-Force-on-Disabilities
 Civil Service Commission: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Civil-Service-Commission
 Clean Pittsburgh Commission: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Clean-Pittsburgh-Commission
-Commission on Human Relations: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Commission-on-Human-Relations
 Comprehensive Municipal Pension Trust Fund: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Comprehensive-Municipal-Pension-Trust-Fund
 Ethics Hearing Board: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Ethics-Hearing-Board
 Equipment Leasing Authority: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Equipment-Leasing-Authority
@@ -186,10 +116,6 @@ Southwestern Pennsylvania Commission: https://www.pittsburghpa.gov/City-Governme
 Sports and Exhibition Authority: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Sports-and-Exhibition-Authority
 Stadium Authority: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Stadium-Authority
 Urban Redevelopment Authority: https://www.pittsburghpa.gov/City-Government/Boards-Authorities-Commissions/List-of-Boards-Authorities-Commissions/Urban-Redevelopment-Authority
-Core Services: https://www.pittsburghpa.gov/City-Government/Legal-Services/Department-of-Law/Core-Services
-Filing a Claim with Law: https://www.pittsburghpa.gov/City-Government/Legal-Services/Department-of-Law/Filing-a-Claim-with-Law
-Right to Know: https://www.pittsburghpa.gov/City-Government/Legal-Services/Department-of-Law/Right-to-Know
-Acceptance of Service of Process: https://www.pittsburghpa.gov/City-Government/Legal-Services/Department-of-Law/Acceptance-of-Service-of-Process
 Paid Sick Days Act: https://www.pittsburghpa.gov/City-Government/Legal-Services/Office-of-Equal-Protection/Paid-Sick-Days-Act
 Disruptive Properties: https://www.pittsburghpa.gov/City-Government/Legal-Services/Office-of-Equal-Protection/Disruptive-Properties
 ADA & Disability Rights: https://www.pittsburghpa.gov/City-Government/Legal-Services/Office-of-Equal-Protection/ADA-Disability-Rights
@@ -219,14 +145,6 @@ Debt Obligations: https://www.pittsburghpa.gov/City-Government/Finances-Budget/P
 Contact Finance: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Property-Sales/Contact-Finance
 About Finance: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Property-Sales/About-Finance
 Waiver and Refund Request: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Property-Sales/Waiver-and-Refund-Request
-About Office of Management and Budget: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/About-Office-of-Management-and-Budget
-Budgets and Reports: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Budgets-and-Reports
-Procurement: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Procurement
-Budget Engagement: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Budget-Engagement
-Grants Office: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Grants-Office
-Fleet Operations: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Fleet-Operations
-Community Development: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/Community-Development
-OMB Contacts: https://www.pittsburghpa.gov/City-Government/Finances-Budget/Management-Budget/OMB-Contacts
 Mayor's Office: https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Directory/Mayors-Office
 Authorities: https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Directory/Authorities
 City Department A-Z: https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Directory/City-Department-A-Z
@@ -249,13 +167,6 @@ City Channel Schedule: https://www.pittsburghpa.gov/City-Government/Contacts-Inf
 City Channel FAQs: https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Channel-Pittsburgh/City-Channel-FAQs
 City Channel Franchise: https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Channel-Pittsburgh/City-Channel-Franchise
 City Channel Pittsburgh YouTube Highlights: https://www.pittsburghpa.gov/City-Government/Contacts-Information/City-Channel-Pittsburgh/City-Channel-Pittsburgh-YouTube-Highlights
-Police Headquarters: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Headquarters
-Police Zone 1: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Police-Zone-1
-Police Zone 2: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Police-Zone-2
-Police Zone 3: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Police-Zone-3
-Police Zone 4: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Police-Zone-4
-Police Zone 5: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Police-Zone-5
-Police Zone 6: https://www.pittsburghpa.gov/Safety/Police/Police-Zones/Police-Zone-6
 Why Serve: https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Why-Serve
 Pittsburgh: https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/Pittsburgh
 About PBP: https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/About-PBP
@@ -267,10 +178,6 @@ FAQs: https://www.pittsburghpa.gov/Safety/Police/Police-Officer-Recruitment/FAQs
 PBP Annual Reports: https://www.pittsburghpa.gov/Safety/Police/Police-Data-Portal/PBP-Annual-Reports
 Pittsburgh Overdose Dashboard: https://www.pittsburghpa.gov/Safety/Police/Police-Data-Portal/Pittsburgh-Overdose-Dashboard
 Response to Community Task Force on Police Reform: https://www.pittsburghpa.gov/Safety/Police/Police-Data-Portal/Response-to-Community-Task-Force-on-Police-Reform
-Operations Branch: https://www.pittsburghpa.gov/Safety/Police/Branches/Operations-Branch
-Investigations Branch: https://www.pittsburghpa.gov/Safety/Police/Branches/Investigations-Branch
-Administration Branch: https://www.pittsburghpa.gov/Safety/Police/Branches/Administration-Branch
-Special Deployment Division (SDD): https://www.pittsburghpa.gov/Safety/Police/Branches/Special-Deployment-Division-SDD
 Mission & Values: https://www.pittsburghpa.gov/Safety/Police/About-Police/Mission-Values
 History of the Badge: https://www.pittsburghpa.gov/Safety/Police/About-Police/History-of-the-Badge
 Policies and Procedural Manual: https://www.pittsburghpa.gov/Safety/Police/About-Police/Policies-and-Procedural-Manual
@@ -285,27 +192,12 @@ Firefighter Development: https://www.pittsburghpa.gov/Safety/Fire/Firefighter-Re
 Recruiting Events: https://www.pittsburghpa.gov/Safety/Fire/Firefighter-Recruitment/Recruiting-Events
 Contact Us: https://www.pittsburghpa.gov/Safety/Fire/Firefighter-Recruitment/Contact-Us
 Fire Safe Building Ordinance: https://www.pittsburghpa.gov/Safety/Fire/Fire-Safety-Programs/Fire-Safe-Building-Ordinance
-Annual Reports: https://www.pittsburghpa.gov/Safety/Animal-Care-Control/Animal-Control-FAQs/Annual-Reports
-Contact Animal Control: https://www.pittsburghpa.gov/Safety/Animal-Care-Control/Animal-Control-FAQs/Contact-Animal-Control
 Station Locations: https://www.pittsburghpa.gov/Safety/Emergency-Medical-Services/Ambulance-Division/Station-Locations
 What is a Paramedic?: https://www.pittsburghpa.gov/Safety/Emergency-Medical-Services/Ambulance-Division/What-is-a-Paramedic
 What's on your Medic Unit?: https://www.pittsburghpa.gov/Safety/Emergency-Medical-Services/Ambulance-Division/Whats-on-your-Medic-Unit
 Rescue Division: https://www.pittsburghpa.gov/Safety/Emergency-Medical-Services/Special-Event-Operations/Rescue-Division
 Special Operations: https://www.pittsburghpa.gov/Safety/Emergency-Medical-Services/Special-Event-Operations/Special-Operations
 Special Programs: https://www.pittsburghpa.gov/Safety/Emergency-Medical-Services/Special-Event-Operations/Special-Programs
-Overdose Prevention: https://www.pittsburghpa.gov/Safety/Office-of-Community-Health-and-Safety/Health-and-Safety-Resources/Overdose-Prevention
-BigBurgh: https://www.pittsburghpa.gov/Safety/Office-of-Community-Health-and-Safety/Health-and-Safety-Resources/BigBurgh
-Domestic Violence Resource Guide: https://www.pittsburghpa.gov/Safety/Office-of-Community-Health-and-Safety/Health-and-Safety-Resources/Domestic-Violence-Resource-Guide
-Report Suspicious Activity: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Report-Suspicious-Activity
-OEMHS Internships: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/OEMHS-Internships
-Ready City: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Ready-City
-Safety Resources: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Safety-Resources
-Community Emergency Response Teams (CERT): https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Community-Emergency-Response-Teams-CERT
-Active Shooter/Active Threat: https://www.pittsburghpa.gov/Safety/Public-Safety/Emergency-Management-and-Homeland-Security/Active-ShooterActive-Threat
-Office of Community Services & Violence Prevention: https://www.pittsburghpa.gov/Safety/Public-Safety/Violence-Prevention/Office-of-Community-Services-Violence-Prevention
-Student and Citizen's Police Academy: https://www.pittsburghpa.gov/Safety/Public-Safety/Violence-Prevention/Student-and-Citizens-Police-Academy
-Safe Passage: https://www.pittsburghpa.gov/Safety/Public-Safety/Violence-Prevention/Safe-Passage
-Key Contacts: https://www.pittsburghpa.gov/Business-Development/City-Planning/About-DCP/Key-Contacts
 HRC Agendas: https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Meetings/HRC-Agendas
 PACD Agendas: https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Meetings/PACD-Agendas
 PC Agendas: https://www.pittsburghpa.gov/Business-Development/City-Planning/City-Planning-Meetings/PC-Agendas
@@ -315,106 +207,34 @@ Historic Designations and Districts: https://www.pittsburghpa.gov/Business-Devel
 Apply for Historic Designation: https://www.pittsburghpa.gov/Business-Development/City-Planning/Historic-Preservation/Apply-for-Historic-Designation
 Architecture Inventory: https://www.pittsburghpa.gov/Business-Development/City-Planning/Historic-Preservation/Architecture-Inventory
 Historic Preservation Resources: https://www.pittsburghpa.gov/Business-Development/City-Planning/Historic-Preservation/Historic-Preservation-Resources
-Who's My Neighborhood Planner?: https://www.pittsburghpa.gov/Business-Development/City-Planning/Neighborhood-Planning/Whos-My-Neighborhood-Planner
-Neighborhood Plan Guide: https://www.pittsburghpa.gov/Business-Development/City-Planning/Neighborhood-Planning/Neighborhood-Plan-Guide
-Public Engagement Guide: https://www.pittsburghpa.gov/Business-Development/City-Planning/Neighborhood-Planning/Public-Engagement-Guide
-Comprehensive Planning Process: https://www.pittsburghpa.gov/Business-Development/City-Planning/Neighborhood-Planning/Comprehensive-Planning-Process
-Riverbank Conditions Assessment and Best Practices Study: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Riverbank-Conditions-Assessment-and-Best-Practices-Study
-Broadway Avenue Public Realm Project: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Broadway-Avenue-Public-Realm-Project
-Carrick Artistic Intersection: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Carrick-Artistic-Intersection
-Hays Woods: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Hays-Woods
-Pittsburgh’s Riverfront Zoning: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Pittsburgh’s-Riverfront-Zoning
-Sheraden Park Master Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Sheraden-Park-Master-Plan
-South Side Park Master Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/South-Side-Park-Master-Plan
-Ecoinnovation District: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Ecoinnovation-District
-Greater Hazelwood Neighborhood Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Greater-Hazelwood-Neighborhood-Plan
-Greater Hill District Master Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Greater-Hill-District-Master-Plan
-Homewood Community Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Homewood-Community-Plan
-Manchester Chateau Neighborhood Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/Manchester-Chateau-Neighborhood-Plan
-The Oakland Plan: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Projects/The-Oakland-Plan
-Adopt-A-Lot: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Programs/Adopt-A-Lot
-Greenways: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Programs/Greenways
-Building Benchmarking Compliance: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Programs/Building-Benchmarking-Compliance
-Registered Community Organizations: https://www.pittsburghpa.gov/Business-Development/City-Planning/Planning-Programs/Registered-Community-Organizations
 Performance Point Process Guide: https://www.pittsburghpa.gov/Business-Development/City-Planning/Process-Guides/Performance-Point-Process-Guide
 COVID-19 Response: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/About-Mobility-and-Infrastructure/COVID-19-Response
 Policies and Standards: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/About-Mobility-and-Infrastructure/Policies-and-Standards
-Achieved Projects: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Current-DOMI-Projects/Achieved-Projects
+Traffic Alerts and Advisories: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Traffic-Alerts-and-Advisories
+City Bridges: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/City-Bridges
+Bike(+) Plan: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Bike-Plan
+Mobility: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Mobility
+Neighborways: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Neighborways
+Pedestrian Safety Action Plan: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Pedestrian-Safety-Action-Plan
+Pedestrian Wayfinding Kiosk Project: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Pedestrian-Wayfinding-Kiosk-Project
+2070 Mobility Vision Plan: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/2070-Mobility-Vision-Plan
+Strip District Mobility Plan: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Strip-District-Mobility-Plan
+The Homewood Mobility Plan: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/The-Homewood-Mobility-Plan
 Curb Cuts: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Transportation-Development-Review/Curb-Cuts
-Right-of-Way Procedures Manual: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/Right-of-Way-Procedures-Manual
-ROW 311 and Code Enforcement: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/ROW-311-and-Code-Enforcement
-Applicant Guidance: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/Applicant-Guidance
-Telecommunications: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/Telecommunications
-Small Cell Facilities: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/Small-Cell-Facilities
-Encroachment Permit: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/Encroachment-Permit
-Outdoor Dining & Operations Program: https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Right-of-Way-Management/Outdoor-Dining-Operations-Program
-Permit Applications: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Permit-Applications
-License Applications: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/License-Applications
-Checklists: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Checklists
-Record Requests: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Record-Requests
-Other Applications & Forms: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Applications-Forms/Other-Applications-Forms
-Reference: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Reference
-OneStopPGH Video Tutorials: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/OneStopPGH-Tutorials
-Building & Development Application: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Building-Development-Application
-Bridge Asset Management Program: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Bridge-Asset-Management-Program
-Commission on Infrastructure Asset Reporting and Investment: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Commission-on-Infrastructure-Asset-Reporting-and-Investment
-Commission Meetings and Minutes: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Commission-Meetings-and-Minutes
-OneStopPGH Contacts: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/OneStopPGH-Contacts
-Permit Amendments: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Permit-Amendments
-Plan Review Meeting: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Plan-Review-Meeting
-Structure Types: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/One-Stop-PGH/Structure-Types
 About PLI: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/About-PLI
-Residential Permits: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/Residential-Permits
-Commercial Permits: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/Commercial-Permits
 Permit Process: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/Permit-Process
 Work Not Requiring a Permit: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Permits/Work-Not-Requiring-a-Permit
-Business Licenses: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Business-Licenses
-Contractor Licenses: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Contractor-Licenses
-Trade Licenses: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Licenses/Trade-Licenses
 Newsletter Editions: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Community-Resources/PLI-Newsletter
 Monthly Community Forum: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Community-Resources/Monthly-Community-Forum
-Clean and Lien: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Code-Enforcement/Clean-and-Lien
-Top 10 Code Violations: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Code-Enforcement/Top-10-Code-Violations
-Facade Inspections: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Code-Enforcement/Facade-Inspections
-Fire Prevention: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Code-Enforcement/Fire-Prevention
 City Funded Demolition: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Condemned-Buildings/City-Funded-Demolition
 Condemned, Under Contract and Razed Properties: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Condemned-Buildings/Condemned-Under-Contract-and-Razed-Properties
 Fee Calculator: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Fees/Fee-Calculator
-Board of Appeals: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Appeals/Board-of-Appeals
-Board of License and Inspection Review: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Appeals/Board-of-License-and-Inspection-Review
 Other Agency Coordination: https://www.pittsburghpa.gov/Business-Development/Permits-Licenses-and-Inspections/Contacts/Other-Agency-Coordination
 PDEC Members & Acknowledgements: https://www.pittsburghpa.gov/Business-Development/Innovation-Performance/Pittsburgh-Digital-Equity-Coalition/PDEC-Members-Acknowledgements
 Media and Information Resources: https://www.pittsburghpa.gov/Business-Development/Innovation-Performance/Pittsburgh-Digital-Equity-Coalition/Media-and-Information-Resources
-Pittsburgh Urban Forest: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Pittsburgh-Urban-Forest
-Special Initiatives: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Special-Initiatives
-Forestry Partnerships: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-Partnerships
-Forestry Events: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-Events
-Tree Planting: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Tree-Planting
-Request Tree Work: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Request-Tree-Work
-Appealing Street Tree Removal: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Appealing-Street-Tree-Removal
-Forestry Resource Links: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-Resource-Links
-Forestry FAQ: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Forestry-FAQ
-Vacant Lot Greening: https://www.pittsburghpa.gov/Business-Development/Public-Works/Forestry-Division/Vacant-Lot-Greening
-Fee Schedule: https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/Fee-Schedule
 Property Certification: https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/Property-Certification
 Consolidations/Subdivisions: https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/ConsolidationsSubdivisions
 Institutional Master Plan: https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/Institutional-Master-Plan
 Specially Planned Districts: https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/Specially-Planned-Districts
 Pre-Application Meeting: https://www.pittsburghpa.gov/Business-Development/Zoning/Planning-Application-and-Process/Pre-Application-Meeting
-Site Plan Review: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Site-Plan-Review
-Site Plan Requirements: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Site-Plan-Requirements
-Certificate of Occupancy: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Certificate-of-Occupancy
-Administrator Exception: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Administrator-Exception
-Design Review: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Design-Review
-Environmental Review: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Environmental-Review
-Construction Management Plans: https://www.pittsburghpa.gov/Business-Development/Zoning/Plan-Reviews-and-Notices/Construction-Management-Plans
-Local Food Is More Sustainable: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Local-Food-Is-More-Sustainable
-Community Supported Agriculture: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Community-Supported-Agriculture
-Urban Agriculture: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Urban-Agriculture
-Food Access Programs: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Food-Access-Programs
-Food Waste: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Food-Waste
-Children, Gardens, and Healthy Food: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Children-Gardens-and-Healthy-Food
-Food Related Events: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Food-Related-Events
-Internships and Career Opportunities: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Internships-and-Career-Opportunities
-Food Systems Resources: https://www.pittsburghpa.gov/Business-Development/Sustainability/Food-Systems/Food-Systems-Resources
-City of Pittsburgh414 Grant St.Pittsburgh, PA 15219(Accessibility entrance on Ross St.)View on Map412-255-2621
+City of Pittsburgh 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.) View on Map 412-255-2621

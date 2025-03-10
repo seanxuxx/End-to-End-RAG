@@ -68,7 +68,7 @@ def get_taxlinkinfo(url):
     elements = soup.find_all("a",class_ = "document ext-pdf")
     content = []
     for elem in elements:
-        text = elem.get_text(strip=True)
+        text = elem.get_text(' ',strip=True)
         href = elem.get("href")
         content.append(f"{text}: https://www.pittsburghpa.gov/{href}")
     return "\n".join(content)
@@ -98,11 +98,11 @@ def deep_website(start_url, base_url, folder, name_index):
         content_blocks = []
         for elem in soup.find_all(["p","a"]):
             if elem.name == "p":
-                text = elem.get_text(strip=True)
+                text = elem.get_text(' ',strip=True)
                 if text:
                     content_blocks.append(f"{text}")
             elif elem.name == "a" and colleted_link == True:
-                link_text = elem.get_text(strip=True)
+                link_text = elem.get_text(' ',strip=True)
                 href = elem.get("href")
                 if href and link_text and href not in cached_links:
                     cached_links.add(href)

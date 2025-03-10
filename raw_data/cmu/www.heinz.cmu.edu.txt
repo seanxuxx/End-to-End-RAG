@@ -1,0 +1,60 @@
+Jump to Header: #global-header
+Jump to Main Content: #main
+Jump to Footer: #global-footer
+About: /about/
+School of Information Systems & Management: /about/information-systems-management
+School of Public Policy & Management: /about/public-policy-management
+College of Fine Arts Joint Degree Programs: /about/fine-arts
+Diversity & Inclusion: /about/diversity-inclusion-climate-equity
+Heinz College Policy Impact: /about/heinz-college-policy-impact
+Heinz College in Washington D.C.: /about/policy-in-dc
+Artificial Intelligence Leadership: /about/artificial-intelligence-leadership
+Trillion Dollar Questions: /about/trillion-dollar-questions
+Public Interest Technology: /about/public-interest-technology/
+History: /about/history
+Rankings: /about/rankings
+Contact Us: /contact/
+Programs: /programs/index
+Admissions: /admissions/index
+Faculty & Research: /faculty-research/index
+Faculty Experts: /faculty-research/profiles/index
+Our Faculty In The News: /faculty-research/our-faculty-in-the-news
+Research Centers: /faculty-research/research-centers
+Life at Heinz College: /life-at-heinz/index
+Employers & Corporate Partners: /employers-partners/index
+Alumni: /alumni/index
+Current Students: /current-students/index
+GIVE: https://www.heinz.cmu.edu/give/
+APPLY: https://apply.heinz.cmu.edu/apply/
+Empowered Public Sector Leaders Leverage Evidence-Based Policy
+Featured: ?cat=Featured
+In the Public Interest: ?cat=In the Public Interest
+EMPOWERING STUDENTS: ?cat=EMPOWERING STUDENTS
+SOCIETAL IMPACT OF AI: ?cat=SOCIETAL IMPACT OF AI
+Recent News: ?cat=Recent News
+Read More: ../../media/2025/February/data-for-a-difference-how-alumna-sarah-ali-helps-states-expand-high-speed-internet-access.php
+Read More: ../../media/2025/January/heinz-alumna-sara-cortez-advises-state-lawmakers-on-education-policy.php
+Read More: ../../media/2025/January/study-of-16-years-of-u-s-canada-free-trade-agreement-finds-that-workers-were-not-hurt-by-freer-trade.php
+Read More: ../../media/2025/January/two-heinz-alumni-are-working-to-spur-regional-economic-development-through-federal-tech-hubs-program.php
+Read More: ../../media/2024/December/caulkins-heres-what-policymakers-need-to-know-about-drugs-in-2025.php
+Read More: ../../media/2024/November/advocacy-in-action-how-heinz-college-alumna-emily-reece-helped-save-a-lifeline-for-foster-families.php
+View All News: /media/
+Many institutions have jumped on the data analytics bandwagon in recent years. But we've been here for decades. The Heinz College of Information Systems and Public Policy at Carnegie Mellon University is a graduate school without boundaries, using the latest in analytical methods to solve problems at the critical nexus of technology and society.
+Learn More About Our Programs: /programs/
+Join us for this university-wide initiative to promote the power of civil discourse; this year's events are designed to explore critical topics related to democracy and the election.
+Find out more: about/deeper-conversations.php
+View Rankings: about/rankings.php
+Civil discourse promotes mutual understanding. "Deliberative Discourse" takes the conversation one step further, into action.
+Learn more: about/deliberative-discourse.php
+See All Events: about/events.php
+Visit: https://www.heinz.cmu.edu/admissions/connect-with-us/visit-campus
+Info: https://www.heinz.cmu.edu/admissions/admissions_embedded_form
+Give: https://www.heinz.cmu.edu/give/index
+Media: https://www.heinz.cmu.edu/contact/media-relations
+Legal Info: https://www.cmu.edu/legal/
+Contact Us: https://www.heinz.cmu.edu/contact/index
+Accessibility: https://www.cmu.edu/disability-resources/
+Directory: https://www.heinz.cmu.edu/directory/index
+5000 Forbes Ave, Hamburg Hall, Pittsburgh, PA 15213-3890 ·412.268.2159
+412.268.2159: tel:4122682159
+©2020 Carnegie Mellon University. All Rights Reserved.

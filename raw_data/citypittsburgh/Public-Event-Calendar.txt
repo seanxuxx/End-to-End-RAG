@@ -1,0 +1,8 @@
+Login: javascript:__doPostBack('ctl00$HeaderPlaceHolder$lbLogin','')
+Create Account: javascript:__doPostBack('ctl00$HeaderPlaceHolder$lbCreateAccount','')
+Eproval: https://www.eproval.com/
+https://pittsburghpa.gov/publicsafety/ofem: https://pittsburghpa.gov/publicsafety/ofem
+412-255-2641: tel:4122552641
+Getting Started Eproval: Information for Applicants: https://apps.pittsburghpa.gov/redtail/images/24969_2024_Getting_Started_eproval_Document.pdf
+Event Permit Calendar: https://eproval.pittsburghpa.gov/pages/ros-public-calendar/
+Eproval permit management software: https://www.eproval.com/multiple-application-types/

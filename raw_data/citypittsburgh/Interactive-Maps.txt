@@ -1,0 +1,56 @@
+Beginning at 6pm tonight (3/7), the 311 system will be undergoing maintenance and enhancements and will have limited functionality until 3/10. Please call 311 to leave a message, or try submitting again on Monday
+Close this announcement: /Business-Development/GIS/Interactive-Maps?OC_EA_EmergencyAnnouncementList_Dismiss=ebbd3924-41f4-4bb6-9b5d-d16007c71c77
+EnglishSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=en-US
+Chinese (Simplified) - 中文Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=zh-CN
+Spanish - españolSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=es
+Arabic - العربيةSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=ar
+French - françaisSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=fr
+Nepali -  नेपालीSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=ne
+Portuguese - portuguêsSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=pt
+Pashto - پښتوSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=ps
+Russian - Русский языкSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=ru
+Uzbek - أۇزبېك ﺗﻴﻠیSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=uz
+SwahiliSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=sw
+Hebrew - עִברִיתSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=iw
+Hindi - बहाना करनाSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=hi
+Ukrainian - українськаSelect this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=uk
+Korean - 한국인Select this as your preferred language: https://www.pittsburghpa.gov/Business-Development/GIS/Interactive-Maps?oc_lang=ko
+Select the Escape key to close the menu. Focus will then be set to the first menu item.
+In This Section
+The GIS Team of the Department of Innovation & Performance created mapping tools to better serve the residents of Pittsburgh. These maps include the following.
+Be advised that our interactive map URLs have all been upgraded to a new server and have changed. Please update your bookmarks accordingly. Thank you.
+City of Pittsburgh: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=0b82e78539464c3da121dcab22e444d4
+Pittsburgh Index Map: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=5311f38816744b03a7d3dc879b4000d9
+Zoning & Parcel: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=1fd0e7b1add245558f236db7ad1290dd
+Neighborhoods: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=ba190d8a0d80444f899db1cf93220ec4
+Wards & Voting Districts: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=67ad1f84b1644e379eaea1cde6e215d1
+City Council Districts: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=761ed4a17e5c4316ba8705a08cf8a15c
+Pittsburgh Public School Board Districts: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=b47a48fec7bf411c85af334492a8ea4d
+DOMI Road Obstructions: https://pittsburghpa.maps.arcgis.com/apps/instant/slider/index.html?appid=c0928b12c1054874b308b4992bbd43bd
+Residential Permit Parking: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=7fe146cc03d0484a89f3fc812f3e517d
+Parking Meters: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=6215b045b6db4ad29f8d3bea0b6f25ec
+Street Ownership: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=ca33322ae91b4945af942ef01290180b
+Pittsburgh Historic Maps: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=25ed595c7bde40cdae7165261a9a3ad6
+Who's Your Neighborhood Planner: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=adccfa940fb94157b799b0bdb116e6c9
+Community Development Block Grant Eligible Areas: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=f330184a77534d529d69ee5b418d60bf
+Public Art, Monuments and Memorials: https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=0da7fb806ad84570a6df6d71a9c9b3eb
+PGH Environmental Map: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=607ffb6ad6ec4dc18cfc04dce1316eae
+Riverbank Assessment: https://pittsburghpa.maps.arcgis.com/apps/webappviewer/index.html?id=6969b2289c1f44e985ebe802c891e93b
+PGH Stormwater Map: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=2c5dc87d09234d049b33d3471dfb4f00
+Pittsburgh RAD Parks: https://pittsburghpa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=ce9bf001fd4d4431804ba8f77ca06324
+Pittsburgh Trails Map: https://experience.arcgis.com/experience/730c2e0f62ba40b1937eda9d1b983235
+Pittsburgh Neighborhood Renter Housing Burden Map: https://storymaps.arcgis.com/stories/55e79caf34234412942d72defed0bfae
+Community Profile: https://storymaps.arcgis.com/collections/bc852955b9d54ffcb50a853c03018441
+Pittsburgh Demographics: https://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=d62bd11fce6c40bb824d03ef9c076708
+2010/2020 Census Comparison: https://pittsburghpa.maps.arcgis.com/apps/dashboards/6167b183dde14093b4bb17fbf279b842
+Healthy Food Priority Areas: https://pittsburghpa.maps.arcgis.com/apps/dashboards/258efdabee52426f8335890733e8ef49
+SNAP: https://pittsburghpa.maps.arcgis.com/apps/dashboards/addd8498478b4b11b9212a37f31f0cf0
+OurFuture PGH: https://ourfuture-pittsburghpa.hub.arcgis.com/
+Opioid Overdose Prevention: https://opioids-pgh-pittsburghpa.hub.arcgis.com/
+Need help finding information? Check out ourUser Guide(PDF, 2MB)for assistance.
+User Guide(PDF, 2MB): /files/assets/city/v/1/ip/images/userguide.pdf
+Your browser does not support inline frames.Please visithttps://pittsburghpa.maps.arcgis.com/apps/instant/basic/index.html?appid=0b82e78539464c3da121dcab22e444d4
+Open Full View Map
+While the data has been tested for accuracy and are properly functioning, The City of Pittsburgh disclaims any responsibility for the accuracy or correctness of the data.
+The foregoing warranty is exclusive and in lieu of all other warranties or merchantability, fitness for particular purpose and/or any other type whether expressed or implied. In no event shall The City of Pittsburgh become liable to users of these data, or any other party, for any loss or damages, consequential or otherwise, including but not limited to time, money, or goodwill, arising from the use, operation or modification of the data. In using these data, users further agree to indemnify, defend, and hold harmless The City of Pittsburgh for any and all liability of any nature arising out of or resulting from the lack of accuracy or correctness of the data, or the use of the data.
+City of Pittsburgh414 Grant St.Pittsburgh, PA 15219(Accessibility entrance on Ross St.)View on Map412-255-2621

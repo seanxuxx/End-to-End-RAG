@@ -1,5 +1,5 @@
 import os
-
+from dotenv import load_dotenv
 import torch
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_experimental.text_splitter import SemanticChunker
@@ -13,8 +13,10 @@ from pinecone.data.index import Index
 DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
 
-
-PINECONE_API_KEY = 'pcsk_2MCC68_AvSqG8sxyNHrLGHnBkWwSWSSZcCg3EvHYMh2Zq2t2QRecuvfHxscEY1LEeKsWSa'
+load_dotenv()
+PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
+if not PINECONE_API_KEY:
+    raise ValueError("PINECONE_API_KEY is missing. Set it as an environment variable.")
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
 

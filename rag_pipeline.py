@@ -1,5 +1,6 @@
 import os
 import re
+from typing import List
 
 import torch
 from dotenv import load_dotenv
@@ -28,7 +29,7 @@ DEVICE = ('cuda' if torch.cuda.is_available() else
 
 class RetrieverModel():
     def __init__(self, model_name: str, chunker_name: str,
-                 data_dir_to_chunk: str, data_dir_preformatted='',
+                 dir_to_chunk: str, dir_preformatted='',
                  filename_pattern='**/*.txt', similarity_score='cosine',
                  is_upsert_data=True, **kwargs):
         """
@@ -38,19 +39,19 @@ class RetrieverModel():
                 'semantic_chunker' for SemanticChunker;
                 'character_chunker' for RecursiveCharacterTextSplitter;
                 other string will raise an error.
-            data_dir_to_chunk (str): Directory storing raw data files
-            data_dir_preformatted (str, optional): Directory storing pre-formatted data files. Defaults to ''.
-            filename_pattern (str, optional): "glob" for DirectoryLoader. Defaults to '**/*.txt'.
-            similarity_score (str, optional): "metric" for Pinecone Index. Defaults to 'cosine'.
+            dir_to_chunk (str): Directory storing raw data files
+            dir_preformatted (str, optional): Directory storing pre-formatted data files. Defaults to ''.
+            filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
+            similarity_score (str, optional): "metric" parameter for Pinecone Index. Defaults to 'cosine'.
             is_upsert_data (bool, optional): Whether to upsert documents to vector store. Defaults to True.
         """
 
         # Data config
-        assert os.path.exists(data_dir_to_chunk), f'{data_dir_to_chunk} does not exist'
-        if data_dir_preformatted:
-            assert os.path.exists(data_dir_preformatted), f'{data_dir_preformatted} does not exist'
-        self.data_dir_to_chunk = data_dir_to_chunk
-        self.data_dir_preformatted = data_dir_preformatted
+        assert os.path.exists(dir_to_chunk), f'{dir_to_chunk} does not exist'
+        if dir_preformatted:
+            assert os.path.exists(dir_preformatted), f'{dir_preformatted} does not exist'
+        self.dir_to_chunk = dir_to_chunk
+        self.dir_preformatted = dir_preformatted
         self.filename_pattern = filename_pattern
 
         # Chunking config
@@ -122,7 +123,7 @@ class RetrieverModel():
             list[Document]
         """
         # Load raw documents and split them into chunks
-        loader = DirectoryLoader(self.data_dir_to_chunk,
+        loader = DirectoryLoader(self.dir_to_chunk,
                                  glob=self.filename_pattern,
                                  show_progress=True,
                                  use_multithreading=True)
@@ -136,8 +137,8 @@ class RetrieverModel():
                   for chunk in text_splitter.split_documents([doc])]
 
         # Load pre-formatted documents and add to chunks
-        if self.data_dir_preformatted:
-            loader = DirectoryLoader(self.data_dir_preformatted,
+        if self.dir_preformatted:
+            loader = DirectoryLoader(self.dir_preformatted,
                                      glob=self.filename_pattern,
                                      show_progress=True,
                                      use_multithreading=True)
@@ -161,5 +162,5 @@ if __name__ == '__main__':
     logger = get_logger('rag_pipeline')
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
                               chunker_name='semantic_chunker',
-                              data_dir_to_chunk='formatted_data',
-                              data_dir_preformatted='formatted_data')
+                              dir_to_chunk='formatted_data',
+                              dir_preformatted='formatted_data')

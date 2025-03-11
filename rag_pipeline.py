@@ -64,24 +64,51 @@ class RetrieverModel():
                                  index_name)  # Rename for Pinecone index name requirement
         self.similarity_score = similarity_score
 
-        print('Loading embeddings model...')
+        print('Loading embedding model...')
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
-        self.vector_store = self.create_vector_store()
+        self.pc_index = self.get_pinecone_index()
+        self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
+        print('Initialized Retriver model\n')
 
-    def create_vector_store(self) -> PineconeVectorStore:
-        chunks = self.chunk_documents()
-        pc_index = self.get_pinecone_index()
-        vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
-        print(f'Storing {len(chunks)} chunks into "{self.index_name}" index...')
-        _ = vector_store.add_documents(chunks)
-        print('Done\n')
-        return vector_store
-
-    def chunk_documents(self) -> list[Document]:
+    def get_pinecone_index(self) -> Index:
         """
-        Load documents and split them into chunks.
+        Set up Pinecone Index with mathing dimension and similarity score.
+
+        Returns:
+            Index
+        """
+        if self.index_name not in pc.list_indexes().names():
+            print(f'Creating new Pinecone Index')
+            self.create_new_index()
+        else:
+            if pc.Index(self.index_name).describe_index_stats().dimension != self.dimension:
+                print(f'Recreating Pinecone Index due to mismatch in model dimension')
+                pc.delete_index(self.index_name)
+                self.create_new_index()
+            elif pc.describe_index(self.index_name)['metric'] != self.similarity_score:
+                print(f'Recreating Pinecone Index due to mismatch in metric')
+                pc.delete_index(self.index_name)
+                self.create_new_index()
+
+        pc_index = pc.Index(self.index_name)
+        print(f'Index "{self.index_name}"')
+        print(pc.describe_index(self.index_name))
+        print(pc_index.describe_index_stats())
+        return pc_index
+
+    def create_new_index(self):
+        pc.create_index(
+            name=self.index_name,
+            dimension=self.dimension,
+            metric=self.similarity_score,
+            spec=ServerlessSpec(cloud="aws", region="us-east-1")
+        )
+
+    def upsert_vector_store(self):
+        """
+        Update and insert chunked documents to vector store.
 
         Returns:
             list[Document]
@@ -110,42 +137,15 @@ class RetrieverModel():
             chunks.extend(docs)
 
         # Add IDs for the documents
-        for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Add doc id'):
+        for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Adding doc id'):
             id_text = f"{self.chunker_name}_{i}_{doc.metadata['source']}"
             id_text = re.sub(r'[^\w]', '_', id_text).lower()
             doc.id = id_text
-        return chunks
 
-    def get_pinecone_index(self) -> Index:
-        """
-        Set up Pinecone Index with mathing dimension and similarity score.
-
-        Returns:
-            Index
-        """
-        if self.index_name not in pc.list_indexes().names():
-            print(f'Create new Pinecone Index')
-            self.create_new_index()
-        else:
-            if pc.Index(self.index_name).describe_index_stats().dimension != self.dimension:
-                print(f'Recreate Pinecone Index due to mismatch in model dimension')
-                pc.delete_index(self.index_name)
-                self.create_new_index()
-            elif pc.describe_index(self.index_name)['metric'] != self.similarity_score:
-                print(f'Recreate Pinecone Index due to mismatch in metric')
-                pc.delete_index(self.index_name)
-                self.create_new_index()
-        print(f'Index "{self.index_name}"')
-        print(pc.describe_index(self.index_name))
-        return pc.Index(self.index_name)
-
-    def create_new_index(self):
-        pc.create_index(
-            name=self.index_name,
-            dimension=self.dimension,
-            metric=self.similarity_score,
-            spec=ServerlessSpec(cloud="aws", region="us-east-1")
-        )
+        # Index documents
+        print(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
+        self.vector_store.add_documents(chunks)
+        print('Done\n')
 
 
 if __name__ == '__main__':
@@ -153,3 +153,4 @@ if __name__ == '__main__':
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
                               chunker_name='semantic_chunker',
                               data_dir_to_chunk='formatted_data')
+    retriver.upsert_vector_store()

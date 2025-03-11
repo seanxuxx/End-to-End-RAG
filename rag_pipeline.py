@@ -123,13 +123,13 @@ class RetrieverModel():
                                  show_progress=True,
                                  use_multithreading=True)
         docs = loader.load()
-        print('Chunking documents...')
         if self.chunker_name == 'semantic_chunker':
             text_splitter = SemanticChunker(self.embeddings)
         else:
             text_splitter = RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
                                                            chunk_overlap=self.chunk_overlap)
-        chunks = text_splitter.split_documents(docs)
+        chunks = [chunk for doc in tqdm(docs, desc='Chunk docs')
+                  for chunk in text_splitter.split_documents([doc])]
 
         # Load pre-formatted documents and add to chunks
         if self.data_dir_preformatted:
@@ -141,7 +141,7 @@ class RetrieverModel():
             chunks.extend(docs)
 
         # Add IDs for the documents
-        for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Adding doc id'):
+        for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Add doc id'):
             id_text = f"{self.chunker_name}_{i}_{doc.metadata['source']}"
             id_text = re.sub(r'[^\w]', '_', id_text).lower()
             doc.id = id_text

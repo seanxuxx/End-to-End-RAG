@@ -4,7 +4,6 @@ import re
 import torch
 from dotenv import load_dotenv
 from langchain_community.document_loaders import DirectoryLoader
-from langchain_core.documents.base import Document
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain_openai.embeddings import OpenAIEmbeddings

@@ -1,4 +1,7 @@
 import logging
+from typing import List
+
+from langchain.text_splitter import TextSplitter
 
 
 def get_logger(log_name: str, file_mode='a') -> logging.Logger:
@@ -16,3 +19,10 @@ def get_logger(log_name: str, file_mode='a') -> logging.Logger:
     logger.addHandler(console_handler)
 
     return logger
+
+
+class ParagraphTextSplitter(TextSplitter):
+    """Custom text splitter to strictly split by paragraphs (\n) without merging."""
+
+    def split_text(self, text: str) -> List[str]:
+        return [chunk.strip() for chunk in text.split("\n") if chunk.strip()]

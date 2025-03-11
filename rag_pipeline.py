@@ -13,7 +13,7 @@ from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
 
-from utils import get_logger
+from utils import ParagraphTextSplitter, get_logger
 
 load_dotenv()
 pinecone_api_key = os.getenv('PINECONE_API_KEY')
@@ -142,7 +142,8 @@ class RetrieverModel():
                                      show_progress=True,
                                      use_multithreading=True)
             docs = loader.load()
-            chunks.extend(docs)
+            text_splitter = ParagraphTextSplitter()
+            chunks.extend(text_splitter.split_documents(docs))
 
         # Add IDs for the documents
         for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Add doc id'):
@@ -161,4 +162,4 @@ if __name__ == '__main__':
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
                               chunker_name='semantic_chunker',
                               data_dir_to_chunk='formatted_data',
-                              is_upsert_data=False)
+                              data_dir_preformatted='formatted_data')

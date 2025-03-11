@@ -26,7 +26,7 @@ pc = Pinecone(api_key=PINECONE_API_KEY)
 TEXT_SPLITTERS_OPTIONS = ['character_chunker', 'semantic_chunker']
 
 
-def chunk_documents(embeddings: HuggingFaceEmbeddings, chunker: str,
+def chunk_documents(embeddings: HuggingFaceEmbeddings, chunker_name: str,
                     raw_data_dir: str, formatted_data_dir='',
                     filename_pattern='**/*.txt', **kwargs) -> list:
     """
@@ -41,11 +41,12 @@ def chunk_documents(embeddings: HuggingFaceEmbeddings, chunker: str,
         raw_data_dir (str): Directory storing raw data files.
         formatted_data_dir (str, optional): Directory storing pre-formatted data files. Defaults to ''.
         filename_pattern (str, optional): "glob" for DirectoryLoader. Defaults to '**/*.txt'.
+        **kwargs: Additional arguments for RecursiveCharacterTextSplitter.
 
     Returns:
         list[langchain_core.documents.base.Document]
     """
-    assert chunker in TEXT_SPLITTERS_OPTIONS, f'{chunker} is invalid chunker'
+    assert chunker_name in TEXT_SPLITTERS_OPTIONS, f'{chunker_name} is invalid chunker'
 
     # Load raw documents and split them into chunks
     loader = DirectoryLoader(raw_data_dir, glob=filename_pattern,
@@ -53,7 +54,7 @@ def chunk_documents(embeddings: HuggingFaceEmbeddings, chunker: str,
     docs = loader.load()
 
     print('Chunking documents...')
-    if chunker == 'semantic_chunker':
+    if chunker_name == 'semantic_chunker':
         text_splitter = SemanticChunker(embeddings)
     else:
         text_splitter = RecursiveCharacterTextSplitter(**kwargs)
@@ -107,15 +108,13 @@ def create_new_index(index_name: str, dimension: int, similarity_score='cosine')
     return pc.Index(index_name)
 
 
-def build_datastore(model_name: str, index_name: str,
-                    chunker: str, raw_data_dir: str,
-                    formatted_data_dir='', filename_pattern='**/*.txt',
-                    similarity_score='cosine') -> PineconeVectorStore:
+def build_datastore(model_name: str, chunker_name: str,
+                    raw_data_dir: str, formatted_data_dir='', filename_pattern='**/*.txt',
+                    similarity_score='cosine', **kwargs) -> PineconeVectorStore:
     """
     Args:
         model_name (str): Name of HuggingFaceEmbeddings model.
-        index_name (str): Name of Pinecone Index.
-        chunker (str):
+        chunker_name (str):
             'semantic_chunker' for SemanticChunker;
             'character_chunker' for RecursiveCharacterTextSplitter;
             other string will raise an error.
@@ -123,6 +122,7 @@ def build_datastore(model_name: str, index_name: str,
         formatted_data_dir (str, optional): Directory storing pre-formatted data files. Defaults to ''.
         filename_pattern (str, optional): "glob" for DirectoryLoader. Defaults to '**/*.txt'.
         similarity_score (str, optional): "metric" for Pinecone Index. Defaults to 'cosine'.
+        **kwargs: Additional arguments for RecursiveCharacterTextSplitter.
 
     Returns:
         PineconeVectorStore
@@ -131,13 +131,18 @@ def build_datastore(model_name: str, index_name: str,
     embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                        model_kwargs={'device': DEVICE})
     dimension = len(embeddings.embed_documents(['test'])[0])
-    chunks = chunk_documents(embeddings, chunker,
-                             raw_data_dir, formatted_data_dir, filename_pattern)
+    chunks = chunk_documents(embeddings, chunker_name,
+                             raw_data_dir, formatted_data_dir,
+                             filename_pattern, **kwargs)
+
     # Set up index vector store
+    index_name = f'{model_name}_{chunker_name}'.lower()
+    index_name = re.sub(r'[^a-zA-Z0-9]', '-', index_name)  # For Pinecone index name requirement
     index = get_pinecone_index(index_name, dimension, similarity_score)
     vector_store = PineconeVectorStore(index=index, embedding=embeddings)
-    # Add IDs for the documents
-    ids = [re.sub(r'[^\w]', '_', f"{chunker}_{i}_{doc.metadata['source']}").lower()
+
+    # Add IDs for the documents before indexing
+    ids = [re.sub(r'[^\w]', '_', f"{chunker_name}_{i}_{doc.metadata['source']}").lower()
            for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Adding id')]
     assert len(ids) == len(set(ids)), 'Duplicated IDs'
     print(f'Storing {len(chunks)} chunks into "{index_name}" index...')
@@ -147,6 +152,5 @@ def build_datastore(model_name: str, index_name: str,
 
 if __name__ == '__main__':
     build_datastore(model_name='all-mpnet-base-v2',
-                    index_name='11711-hw2',
-                    chunker='semantic_chunker',
+                    chunker_name='semantic_chunker',
                     raw_data_dir='formatted_data')

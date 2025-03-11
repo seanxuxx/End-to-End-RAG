@@ -64,6 +64,7 @@ class RetrieverModel():
         self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
                                  index_name)  # Rename for Pinecone index name requirement
         self.similarity_score = similarity_score
+        self.is_upsert_data = is_upsert_data
 
         print('Loading embedding model...')
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
@@ -73,7 +74,7 @@ class RetrieverModel():
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
         print('Initialized Retriver model\n')
 
-        if is_upsert_data:
+        if self.is_upsert_data:
             self.upsert_vector_store()
 
     def get_pinecone_index(self) -> Index:
@@ -109,6 +110,7 @@ class RetrieverModel():
             metric=self.similarity_score,
             spec=ServerlessSpec(cloud="aws", region="us-east-1")
         )
+        self.is_upsert_data = True  # Upsert data as long as creating new index
 
     def upsert_vector_store(self):
         """

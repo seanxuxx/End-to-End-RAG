@@ -1,4 +1,5 @@
 import os
+import re
 
 import torch
 from dotenv import load_dotenv
@@ -10,6 +11,7 @@ from langchain_pinecone import PineconeVectorStore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
+from tqdm import tqdm
 
 DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
@@ -90,9 +92,6 @@ def get_pinecone_index(index_name: str, dimension: int,
             print(f'Recreate Pinecone Index due to mismatch in model dimension or similarity score')
             pc.delete_index(index_name)
             index = create_new_index(index_name, dimension, similarity_score)
-    if index.describe_index_stats().total_vector_count > 0:
-        index.delete(delete_all=True)
-        print(f'Empty "{index_name}" index')
     print(f'Describe "{index_name}" index')
     print(pc.describe_index(index_name))
     return index
@@ -134,10 +133,15 @@ def build_datastore(model_name: str, index_name: str,
     dimension = len(embeddings.embed_documents(['test'])[0])
     chunks = chunk_documents(embeddings, chunker,
                              raw_data_dir, formatted_data_dir, filename_pattern)
+    # Set up index vector store
     index = get_pinecone_index(index_name, dimension, similarity_score)
     vector_store = PineconeVectorStore(index=index, embedding=embeddings)
+    # Add IDs for the documents
+    ids = [re.sub(r'[^\w]', '_', f"{chunker}_{i}_{doc.metadata['source']}").lower()
+           for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Adding id')]
+    assert len(ids) == len(set(ids)), 'Duplicated IDs'
     print(f'Storing {len(chunks)} chunks into "{index_name}" index...')
-    _ = vector_store.add_documents(chunks)  # Index chunks
+    _ = vector_store.add_documents(chunks, ids=ids)  # Index chunks
     return vector_store
 
 

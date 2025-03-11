@@ -13,6 +13,8 @@ from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
 
+from utils import get_logger
+
 load_dotenv()
 pinecone_api_key = os.getenv('PINECONE_API_KEY')
 if not pinecone_api_key:
@@ -66,13 +68,13 @@ class RetrieverModel():
         self.similarity_score = similarity_score
         self.is_upsert_data = is_upsert_data
 
-        print('Loading embedding model...')
+        logger.info('Loading embedding model...')
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
-        print('Initialized Retriver model\n')
+        logger.info('Initialized Retriver model\n')
 
         if self.is_upsert_data:
             self.upsert_vector_store()
@@ -85,22 +87,22 @@ class RetrieverModel():
             Index
         """
         if self.index_name not in pc.list_indexes().names():
-            print(f'Creating new Pinecone Index')
+            logger.info(f'Creating new Pinecone Index')
             self.create_new_index()
         else:
             if pc.Index(self.index_name).describe_index_stats().dimension != self.dimension:
-                print(f'Recreating Pinecone Index due to mismatch in model dimension')
+                logger.info(f'Recreating Pinecone Index due to mismatch in model dimension')
                 pc.delete_index(self.index_name)
                 self.create_new_index()
             elif pc.describe_index(self.index_name)['metric'] != self.similarity_score:
-                print(f'Recreating Pinecone Index due to mismatch in metric')
+                logger.info(f'Recreating Pinecone Index due to mismatch in metric')
                 pc.delete_index(self.index_name)
                 self.create_new_index()
 
         pc_index = pc.Index(self.index_name)
-        print(f'Index "{self.index_name}"')
-        print(pc.describe_index(self.index_name))
-        print(pc_index.describe_index_stats())
+        logger.info(f'Index "{self.index_name}"')
+        logger.info(pc.describe_index(self.index_name))
+        logger.info(pc_index.describe_index_stats())
         return pc_index
 
     def create_new_index(self):
@@ -149,13 +151,14 @@ class RetrieverModel():
             doc.id = id_text
 
         # Index documents
-        print(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
+        logger.info(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
         self.vector_store.add_documents(chunks)
-        print('Done\n')
+        logger.info('Done\n')
 
 
 if __name__ == '__main__':
-
+    logger = get_logger('rag_pipeline')
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
                               chunker_name='semantic_chunker',
-                              data_dir_to_chunk='formatted_data')
+                              data_dir_to_chunk='formatted_data',
+                              is_upsert_data=False)

@@ -28,7 +28,8 @@ DEVICE = ('cuda' if torch.cuda.is_available() else
 class RetrieverModel():
     def __init__(self, model_name: str, chunker_name: str,
                  data_dir_to_chunk: str, data_dir_preformatted='',
-                 filename_pattern='**/*.txt', similarity_score='cosine', **kwargs):
+                 filename_pattern='**/*.txt', similarity_score='cosine',
+                 is_upsert_data=True, **kwargs):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model
@@ -40,6 +41,7 @@ class RetrieverModel():
             data_dir_preformatted (str, optional): Directory storing pre-formatted data files. Defaults to ''.
             filename_pattern (str, optional): "glob" for DirectoryLoader. Defaults to '**/*.txt'.
             similarity_score (str, optional): "metric" for Pinecone Index. Defaults to 'cosine'.
+            is_upsert_data (bool, optional): Whether to upsert documents to vector store. Defaults to True.
         """
 
         # Data config
@@ -71,6 +73,9 @@ class RetrieverModel():
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
         print('Initialized Retriver model\n')
+
+        if is_upsert_data:
+            self.upsert_vector_store()
 
     def get_pinecone_index(self) -> Index:
         """
@@ -153,4 +158,3 @@ if __name__ == '__main__':
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
                               chunker_name='semantic_chunker',
                               data_dir_to_chunk='formatted_data')
-    retriver.upsert_vector_store()

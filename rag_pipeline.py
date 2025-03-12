@@ -1,3 +1,4 @@
+import logging
 import os
 import re
 from typing import List
@@ -14,7 +15,7 @@ from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
 
-from utils import ParagraphTextSplitter, get_logger
+from utils import ParagraphTextSplitter, set_logger
 
 load_dotenv()
 pinecone_api_key = os.getenv('PINECONE_API_KEY')
@@ -69,13 +70,12 @@ class RetrieverModel():
         self.similarity_score = similarity_score
         self.is_upsert_data = is_upsert_data
 
-        logger.info('Loading embedding model...')
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
-        logger.info('Initialized Retriver model\n')
+        logging.info('Initialized Retriver model\n')
 
         if self.is_upsert_data:
             self.upsert_vector_store()
@@ -88,22 +88,19 @@ class RetrieverModel():
             Index
         """
         if self.index_name not in pc.list_indexes().names():
-            logger.info(f'Creating new Pinecone Index')
+            logging.info(f'Create new Pinecone Index')
             self.create_new_index()
         else:
-            if pc.Index(self.index_name).describe_index_stats().dimension != self.dimension:
-                logger.info(f'Recreating Pinecone Index due to mismatch in model dimension')
+            index_dict = pc.describe_index(self.index_name)
+            if index_dict['dimension'] != self.dimension:
+                logging.info(f'Recreate Pinecone Index due to mismatch in model dimension')
                 pc.delete_index(self.index_name)
                 self.create_new_index()
-            elif pc.describe_index(self.index_name)['metric'] != self.similarity_score:
-                logger.info(f'Recreating Pinecone Index due to mismatch in metric')
+            elif index_dict['metric'] != self.similarity_score:
+                logging.info(f'Recreate Pinecone Index due to mismatch in metric')
                 pc.delete_index(self.index_name)
                 self.create_new_index()
-
         pc_index = pc.Index(self.index_name)
-        logger.info(f'Index "{self.index_name}"')
-        logger.info(pc.describe_index(self.index_name))
-        logger.info(pc_index.describe_index_stats())
         return pc_index
 
     def create_new_index(self):
@@ -153,14 +150,16 @@ class RetrieverModel():
             doc.id = id_text
 
         # Index documents
-        logger.info(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
+        logging.info(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
         self.vector_store.add_documents(chunks)
-        logger.info('Done\n')
+        logging.info('Done\n')
 
 
 if __name__ == '__main__':
-    logger = get_logger('rag_pipeline')
-    logger.info(f'Device: {DEVICE}')
+
+    set_logger('rag_pipeline')
+    logging.info(f'Device: {DEVICE}')
+
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
                               chunker_name='character_chunker',
                               dir_to_chunk='raw_data',

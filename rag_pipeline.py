@@ -162,6 +162,7 @@ if __name__ == '__main__':
     logger = get_logger('rag_pipeline')
     logger.info(f'Device: {DEVICE}')
     retriver = RetrieverModel(model_name='all-mpnet-base-v2',
-                              chunker_name='semantic_chunker',
+                              chunker_name='character_chunker',
                               dir_to_chunk='raw_data',
-                              dir_preformatted='formatted_data')
+                              dir_preformatted='formatted_data',
+                              chunk_size=400, chunk_overlap=100)

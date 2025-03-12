@@ -1,6 +1,7 @@
 import logging
 import os
 import re
+from operator import is_
 from typing import List
 
 import torch
@@ -75,7 +76,7 @@ class RetrieverModel():
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
-        logging.info('Initialized Retriver model\n')
+        logging.info(f'Initialized Retriver model:\n{self.__dict__}\n')
 
         if self.is_upsert_data:
             self.upsert_vector_store()

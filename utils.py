@@ -4,21 +4,21 @@ from typing import List
 from langchain.text_splitter import TextSplitter
 
 
-def get_logger(log_name: str, file_mode='a') -> logging.Logger:
-    logger = logging.getLogger('logging')
-    logger.setLevel(logging.DEBUG)
+def set_logger(log_name: str, file_mode='a'):
 
-    file_handler = logging.FileHandler(f'{log_name}.log',
-                                       mode=file_mode)
-    datefmt = '%Y-%m-%d %H:%M:%S'
-    formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s', datefmt=datefmt)
-    file_handler.setFormatter(formatter)
-    logger.addHandler(file_handler)
+    file_handler = logging.FileHandler(f'{log_name}.log', mode=file_mode)  # Log to file
+    file_fmt = '%(asctime)s [%(levelname)s] %(message)s'
+    file_datefmt = '%Y-%m-%d %H:%M:%S'
+    file_formatter = logging.Formatter(fmt=file_fmt, datefmt=file_datefmt)
+    file_handler.setFormatter(file_formatter)
 
-    console_handler = logging.StreamHandler()
-    logger.addHandler(console_handler)
+    console_handler = logging.StreamHandler()  # Log to console
+    console_fmt = '%(message)s'
+    console_formatter = logging.Formatter(fmt=console_fmt)
+    console_handler.setFormatter(console_formatter)
 
-    return logger
+    logging.basicConfig(level=logging.INFO,
+                        handlers=[file_handler, console_handler])
 
 
 class ParagraphTextSplitter(TextSplitter):

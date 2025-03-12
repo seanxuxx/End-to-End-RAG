@@ -33,7 +33,7 @@ class RetrieverModel():
     def __init__(self, model_name: str, chunker_name: str,
                  dir_to_chunk: str, dir_preformatted='',
                  filename_pattern='**/*.txt', similarity_score='cosine',
-                 is_upsert_data=True, **kwargs):
+                 is_upsert_data=False):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model
@@ -45,7 +45,7 @@ class RetrieverModel():
             dir_preformatted (str, optional): Directory storing pre-formatted data files. Defaults to ''.
             filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
             similarity_score (str, optional): "metric" parameter for Pinecone Index. Defaults to 'cosine'.
-            is_upsert_data (bool, optional): Whether to upsert documents to vector store. Defaults to True.
+            is_upsert_data (bool, optional): Whether to upsert documents to vector store. Defaults to False.
         """
 
         # Data config

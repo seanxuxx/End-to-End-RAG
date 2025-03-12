@@ -1,0 +1,1206 @@
+
+=== 01/2025 ===
+No events found for 2025-01
+
+=== 02/2025 ===
+Date: Feb 12 (Wed)
+Opponent:  ()
+Type: vs vs.
+Event: Pitchers' and Catchers' First Workout
+
+Date: Feb 17 (Mon)
+Opponent:  ()
+Type: vs vs.
+Event: First Full Squad Workout
+
+Date: Feb 22 (Sat)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Feb 23 (Sun)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Feb 24 (Mon) Canceled: Inclement Weather
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Outcome: T,
+
+Date: Feb 25 (Tue)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+Date: Feb 26 (Wed)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+Date: Feb 26 (Wed)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Feb 27 (Thu)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Feb 28 (Fri)
+Opponent: Rays (TB)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+=== 03/2025 ===
+Date: Mar 10 (Mon)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Time: 6:05 pm EDT
+
+Date: Mar 11 (Tue)
+Opponent: Yankees (NYY)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 13 (Thu)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 14 (Fri) Spring Breakout
+Opponent: Phillies Prospects (PHP)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 14 (Fri)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 6:05 pm EDT
+
+Date: Mar 15 (Sat)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 16 (Sun)
+Opponent: Yankees (NYY)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 17 (Mon)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 17 (Mon)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 18 (Tue)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 19 (Wed)
+Opponent: Rays (TB)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 21 (Fri)
+Opponent: Red Sox (BOS)
+Type: vs vs.
+Event: 
+Time: 6:05 pm EDT
+
+Date: Mar 22 (Sat)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 23 (Sun)
+Opponent: Blue Jays (TOR)
+Type: vs vs.
+Event: 
+Time: 1:07 pm EDT
+
+Date: Mar 24 (Mon)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Mar 27 (Thu) Marlins home opener
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 4:10 pm EDT
+
+Date: Mar 28 (Fri)
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 7:10 pm EDT
+
+Date: Mar 29 (Sat)
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 4:10 pm EDT
+
+Date: Mar 30 (Sun)
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 1:40 pm EDT
+
+Date: Mar 31 (Mon)
+Opponent: Rays (TB)
+Type: vs vs.
+Event: 
+Time: 7:05 pm EDT
+
+Date: Mar 1 (Sat)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Mar 2 (Sun)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+Date: Mar 3 (Mon)
+Opponent: Yankees (NYY)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+Date: Mar 4 (Tue)
+Opponent: Red Sox (BOS)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+Date: Mar 5 (Wed)
+Opponent: Blue Jays (TOR)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Mar 6 (Thu)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Mar 7 (Fri)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Outcome: W,
+
+Date: Mar 8 (Sat)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+Date: Mar 9 (Sun)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Outcome: L,
+
+=== 04/2025 ===
+Date: Apr 1 (Tue)
+Opponent: Rays (TB)
+Type: vs vs.
+Event: 
+Time: 7:05 pm EDT
+
+Date: Apr 2 (Wed)
+Opponent: Rays (TB)
+Type: vs vs.
+Event: 
+Time: 1:10 pm EDT
+
+Date: Apr 4 (Fri) Pirates home opener
+Opponent: Yankees (NYY)
+Type: vs vs.
+Event: 
+Time: 4:12 pm EDT
+
+Date: Apr 5 (Sat)
+Opponent: Yankees (NYY)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: Apr 6 (Sun)
+Opponent: Yankees (NYY)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Apr 7 (Mon)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 8 (Tue)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 9 (Wed)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Apr 11 (Fri)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 12 (Sat)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 13 (Sun)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 1:40 pm EDT
+
+Date: Apr 14 (Mon)
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 15 (Tue) Jackie Robinson Day
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 16 (Wed)
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 17 (Thu)
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Apr 18 (Fri)
+Opponent: Guardians (CLE)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 19 (Sat)
+Opponent: Guardians (CLE)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: Apr 20 (Sun)
+Opponent: Guardians (CLE)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Apr 22 (Tue)
+Opponent: Angels (LAA)
+Type: vs vs.
+Event: 
+Time: 9:38 pm EDT
+
+Date: Apr 23 (Wed)
+Opponent: Angels (LAA)
+Type: vs vs.
+Event: 
+Time: 9:38 pm EDT
+
+Date: Apr 24 (Thu)
+Opponent: Angels (LAA)
+Type: vs vs.
+Event: 
+Time: 9:29 pm EDT
+
+Date: Apr 25 (Fri)
+Opponent: Dodgers (LAD)
+Type: vs vs.
+Event: 
+Time: 10:10 pm EDT
+
+Date: Apr 26 (Sat)
+Opponent: Dodgers (LAD)
+Type: vs vs.
+Event: 
+Time: 9:10 pm EDT
+
+Date: Apr 27 (Sun)
+Opponent: Dodgers (LAD)
+Type: vs vs.
+Event: 
+Time: 4:10 pm EDT
+
+Date: Apr 29 (Tue)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Apr 30 (Wed)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+=== 05/2025 ===
+Date: May 1 (Thu)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: May 2 (Fri)
+Opponent: Padres (SD)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: May 3 (Sat)
+Opponent: Padres (SD)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: May 4 (Sun)
+Opponent: Padres (SD)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: May 5 (Mon)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 7:45 pm EDT
+
+Date: May 6 (Tue)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 7:45 pm EDT
+
+Date: May 7 (Wed)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 1:15 pm EDT
+
+Date: May 9 (Fri)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: May 10 (Sat)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: May 11 (Sun)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: May 12 (Mon)
+Opponent: Mets (NYM)
+Type: vs vs.
+Event: 
+Time: 7:10 pm EDT
+
+Date: May 13 (Tue)
+Opponent: Mets (NYM)
+Type: vs vs.
+Event: 
+Time: 7:10 pm EDT
+
+Date: May 14 (Wed)
+Opponent: Mets (NYM)
+Type: vs vs.
+Event: 
+Time: 7:10 pm EDT
+
+Date: May 16 (Fri)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 6:45 pm EDT
+
+Date: May 17 (Sat)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 6:05 pm EDT
+
+Date: May 18 (Sun)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: May 19 (Mon)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: May 20 (Tue)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: May 21 (Wed)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: May 22 (Thu)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: May 23 (Fri)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: May 24 (Sat)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: May 25 (Sun)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: May 26 (Mon)
+Opponent: D-backs (AZ)
+Type: vs vs.
+Event: 
+Time: 8:10 pm EDT
+
+Date: May 27 (Tue)
+Opponent: D-backs (AZ)
+Type: vs vs.
+Event: 
+Time: 9:40 pm EDT
+
+Date: May 28 (Wed)
+Opponent: D-backs (AZ)
+Type: vs vs.
+Event: 
+Time: 3:40 pm EDT
+
+Date: May 30 (Fri)
+Opponent: Padres (SD)
+Type: vs vs.
+Event: 
+Time: 9:40 pm EDT
+
+Date: May 31 (Sat)
+Opponent: Padres (SD)
+Type: vs vs.
+Event: 
+Time: 9:40 pm EDT
+
+=== 06/2025 ===
+Date: Jun 1 (Sun)
+Opponent: Padres (SD)
+Type: vs vs.
+Event: 
+Time: 5:10 pm EDT
+
+Date: Jun 3 (Tue)
+Opponent: Astros (HOU)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 4 (Wed)
+Opponent: Astros (HOU)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 5 (Thu)
+Opponent: Astros (HOU)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 6 (Fri)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 7 (Sat)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: Jun 8 (Sun)
+Opponent: Phillies (PHI)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Jun 9 (Mon)
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 10 (Tue)
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 11 (Wed)
+Opponent: Marlins (MIA)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Jun 12 (Thu)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 8:05 pm EDT
+
+Date: Jun 13 (Fri)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 2:20 pm EDT
+
+Date: Jun 14 (Sat)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 2:20 pm EDT
+
+Date: Jun 15 (Sun)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 2:20 pm EDT
+
+Date: Jun 17 (Tue)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 18 (Wed)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 19 (Thu)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 1:10 pm EDT
+
+Date: Jun 20 (Fri)
+Opponent: Rangers (TEX)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 21 (Sat)
+Opponent: Rangers (TEX)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: Jun 22 (Sun)
+Opponent: Rangers (TEX)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Jun 23 (Mon)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Jun 24 (Tue)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Jun 25 (Wed)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 2:10 pm EDT
+
+Date: Jun 27 (Fri)
+Opponent: Mets (NYM)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jun 28 (Sat)
+Opponent: Mets (NYM)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: Jun 29 (Sun)
+Opponent: Mets (NYM)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Jun 30 (Mon)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+=== 07/2025 ===
+Date: Jul 1 (Tue)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 2 (Wed)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Jul 4 (Fri)
+Opponent: Mariners (SEA)
+Type: vs vs.
+Event: 
+Time: 4:10 pm EDT
+
+Date: Jul 5 (Sat)
+Opponent: Mariners (SEA)
+Type: vs vs.
+Event: 
+Time: 10:10 pm EDT
+
+Date: Jul 6 (Sun)
+Opponent: Mariners (SEA)
+Type: vs vs.
+Event: 
+Time: 4:10 pm EDT
+
+Date: Jul 7 (Mon)
+Opponent: Royals (KC)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Jul 8 (Tue)
+Opponent: Royals (KC)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Jul 9 (Wed)
+Opponent: Royals (KC)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Jul 11 (Fri)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Time: 8:10 pm EDT
+
+Date: Jul 12 (Sat)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Time: 2:10 pm EDT
+
+Date: Jul 13 (Sun)
+Opponent: Twins (MIN)
+Type: vs vs.
+Event: 
+Time: 2:10 pm EDT
+
+Date: Jul 14 (Mon)
+Opponent:  ()
+Type: vs vs.
+Event: 
+Time: 8:00 pm EDT
+
+Date: Jul 15 (Tue) 95th All-Star Game, in Atlanta, GA
+Opponent: NL All-Stars (NL)
+Type: vs vs.
+Event: 
+Time: 8:00 pm EDT
+
+Date: Jul 18 (Fri)
+Opponent: White Sox (CWS)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 19 (Sat)
+Opponent: White Sox (CWS)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 20 (Sun)
+Opponent: White Sox (CWS)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Jul 21 (Mon)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 22 (Tue)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 23 (Wed)
+Opponent: Tigers (DET)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Jul 25 (Fri)
+Opponent: D-backs (AZ)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 26 (Sat)
+Opponent: D-backs (AZ)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Jul 27 (Sun)
+Opponent: D-backs (AZ)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Jul 28 (Mon)
+Opponent: Giants (SF)
+Type: vs vs.
+Event: 
+Time: 9:45 pm EDT
+
+Date: Jul 29 (Tue)
+Opponent: Giants (SF)
+Type: vs vs.
+Event: 
+Time: 9:45 pm EDT
+
+Date: Jul 30 (Wed)
+Opponent: Giants (SF)
+Type: vs vs.
+Event: 
+Time: 3:45 pm EDT
+
+=== 08/2025 ===
+Date: Aug 1 (Fri)
+Opponent: Rockies (COL)
+Type: vs vs.
+Event: 
+Time: 8:10 pm EDT
+
+Date: Aug 2 (Sat)
+Opponent: Rockies (COL)
+Type: vs vs.
+Event: 
+Time: 3:10 pm EDT
+
+Date: Aug 3 (Sun)
+Opponent: Rockies (COL)
+Type: vs vs.
+Event: 
+Time: 3:10 pm EDT
+
+Date: Aug 4 (Mon)
+Opponent: Giants (SF)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 5 (Tue)
+Opponent: Giants (SF)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 6 (Wed)
+Opponent: Giants (SF)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Aug 7 (Thu)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 8 (Fri)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 9 (Sat)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 10 (Sun)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Aug 11 (Mon)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Aug 12 (Tue)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 7:40 pm EDT
+
+Date: Aug 13 (Wed)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 2:10 pm EDT
+
+Date: Aug 15 (Fri)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 2:20 pm EDT
+
+Date: Aug 16 (Sat)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 2:20 pm EDT
+
+Date: Aug 17 (Sun)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 2:20 pm EDT
+
+Date: Aug 18 (Mon)
+Opponent: Blue Jays (TOR)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 19 (Tue)
+Opponent: Blue Jays (TOR)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 20 (Wed)
+Opponent: Blue Jays (TOR)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Aug 22 (Fri)
+Opponent: Rockies (COL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 23 (Sat)
+Opponent: Rockies (COL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Aug 24 (Sun)
+Opponent: Rockies (COL)
+Type: vs vs.
+Event: 
+Time: 12:05 pm EDT
+
+Date: Aug 25 (Mon)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 7:45 pm EDT
+
+Date: Aug 26 (Tue)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 7:45 pm EDT
+
+Date: Aug 27 (Wed)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 7:45 pm EDT
+
+Date: Aug 28 (Thu)
+Opponent: Cardinals (STL)
+Type: vs vs.
+Event: 
+Time: 2:15 pm EDT
+
+Date: Aug 29 (Fri)
+Opponent: Red Sox (BOS)
+Type: vs vs.
+Event: 
+Time: 7:10 pm EDT
+
+Date: Aug 30 (Sat)
+Opponent: Red Sox (BOS)
+Type: vs vs.
+Event: 
+Time: 4:10 pm EDT
+
+Date: Aug 31 (Sun)
+Opponent: Red Sox (BOS)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+=== 09/2025 ===
+Date: Sep 2 (Tue)
+Opponent: Dodgers (LAD)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 3 (Wed)
+Opponent: Dodgers (LAD)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 4 (Thu)
+Opponent: Dodgers (LAD)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 5 (Fri)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 6 (Sat)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 7 (Sun)
+Opponent: Brewers (MIL)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Sep 9 (Tue)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Time: 6:35 pm EDT
+
+Date: Sep 10 (Wed)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Time: 6:35 pm EDT
+
+Date: Sep 11 (Thu)
+Opponent: Orioles (BAL)
+Type: vs vs.
+Event: 
+Time: 1:05 pm EDT
+
+Date: Sep 12 (Fri)
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 6:45 pm EDT
+
+Date: Sep 13 (Sat)
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 4:05 pm EDT
+
+Date: Sep 14 (Sun)
+Opponent: Nationals (WSH)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Sep 15 (Mon)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 16 (Tue)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 17 (Wed)
+Opponent: Cubs (CHC)
+Type: vs vs.
+Event: 
+Time: 12:35 pm EDT
+
+Date: Sep 19 (Fri)
+Opponent: Athletics (ATH)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 20 (Sat)
+Opponent: Athletics (ATH)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 21 (Sun)
+Opponent: Athletics (ATH)
+Type: vs vs.
+Event: 
+Time: 1:35 pm EDT
+
+Date: Sep 23 (Tue)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 24 (Wed)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 6:40 pm EDT
+
+Date: Sep 25 (Thu)
+Opponent: Reds (CIN)
+Type: vs vs.
+Event: 
+Time: 12:40 pm EDT
+
+Date: Sep 26 (Fri)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Time: 7:15 pm EDT
+
+Date: Sep 27 (Sat)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Time: 7:15 pm EDT
+
+Date: Sep 28 (Sun)
+Opponent: Braves (ATL)
+Type: vs vs.
+Event: 
+Time: 3:15 pm EDT
+
+=== 10/2025 ===
+No events found for 2025-10
+
+=== 11/2025 ===
+No events found for 2025-11
+
+=== 12/2025 ===
+No events found for 2025-12

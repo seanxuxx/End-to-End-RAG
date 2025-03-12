@@ -1,0 +1,300 @@
+<Generated>Question: Which neighborhoods surround McKinley Park?
+Answer: McKinley Park is nestled between Pittsburgh’s Beltzhoover, Bon Air, and Knoxville neighborhoods.
+
+<Generated>Question: Who are the key personnel at the Disability Resources office at Carnegie Mellon University?
+Answer: Ethan Obstarczyk is the Senior Disability Resources Program Administrator, Patrick McCue is the Accessibility Specialist, and Jill Ramsey is the Testing Center Proctor.
+
+<Generated>Question: What type of data should not be accessed using the Services without NEOGOV's prior written agreement?
+Answer: Protected health information as defined in 45 C.F.R. §160.103 under United States federal regulations.
+
+<Generated>Question: What was found inside the suspicious vehicle?
+Answer: Approximately 250 stamped bags of heroin, sandwich bags stuffed with crack cocaine, and approximately $1,495.00 in cash were found inside the suspicious vehicle.
+
+<Generated>Question: Who damaged the vehicles along S.15th Street?
+Answer: The individuals who damaged the vehicles along S.15th Street were the same individuals who were involved in the burglary and altercation on Sarah Street.
+
+<Generated>Question: Which organization provides a map of free food distribution sites in Allegheny County?
+Answer: The Allegheny County government provides a map of free food distribution sites in Allegheny County.
+
+<Generated>Question: Who were the first emergency management planners hired for the City of Pittsburgh?
+Answer: The first emergency management planners for the City of Pittsburgh were hired with the Region 13 Task Force funding in 1998.
+
+<Generated>Question: Who discovered the Pittsburgh area before European settlers?
+Answer: The Pittsburgh area was first inhabited by various Native American tribes, including the Seneca, Shawnee, and Mingo, before European settlers arrived.
+
+<Generated>Question: Who is the Assistant Director of the Office of Community Health & Safety in the City of Pittsburgh?
+Answer: Camila Alarcon-Chelecki
+
+<Generated>Question: In which location is the City of Pittsburgh's main office located?
+Answer: The City of Pittsburgh's main office is located at 414 Grant St., Pittsburgh, PA 15219. (Accessibility entrance on Ross St.)
+
+<Generated>Question: When was the first large-scale production of liquid steel achieved?
+Answer: The first large-scale production of liquid steel was achieved with the introduction of the Bessemer process.
+
+<Generated>Question: What funding was announced by Mayor Peduto for residents and small businesses during the COVID-19 pandemic?
+Answer: Mayor Peduto announced COVID-19 funding for residents and small businesses.
+
+<Generated>Question: When was the National Negro Opera Company founded?
+Answer: The National Negro Opera Company was founded by Miriam White and Jonnet Solomon.
+
+<Generated>Question: What are some examples of property violations on campus?
+Answer: Some examples of property violations on campus include damage to or destruction of property, improper placement of posters/banners, improper possession of property, irresponsible use of university property or services, operation of vehicles in restricted areas, propping open doors that are kept locked for security purposes, repairing and storing vehicles in unauthorized university spaces, and trespassing on a roof, parapet, and/or other non-public areas.
+
+<Generated>Question: What are the current ROOTS sites located in?
+Answer: The current ROOTS sites are located in the Northside, Downtown, and East Liberty, respectively in Police Zones 1, 2, and 5.
+
+<Generated>Question: Which policies are mentioned in the context?
+Answer: Nine policies are mentioned in the context.
+
+<Generated>Question: Who was the driver of the car that collided at the intersection of Frankstown Road and Washington Boulevard?
+Answer: The driver of the car that collided at the intersection of Frankstown Road and Washington Boulevard was the victim.
+
+<Generated>Question: When should students anticipate the demands of the exam schedule?
+Answer: Students should anticipate the demands of the exam schedule preferably as part of the course syllabus, well in advance of the final examination period.
+
+<Generated>Question: Who is contacting people pretending to be from Duquesne Light?
+Answer: Someone is pretending to be from Duquesne Light and contacting people.
+
+<Generated>Question: When was the first coke-fire smelting introduced in Pittsburgh?
+Answer: The first coke-fire smelting was introduced in Pittsburgh in 1859.
+
+<Generated>Question: Who discovered the Pittsburgh area for Europeans?
+Answer: The first European to discover the Pittsburgh area was the French explorer Robert de La Salle.
+
+<Generated>Question: What time did the shooting occur at the initial reported location?
+Answer: The shooting was reported to have occurred at approximately 6:20 p.m.
+
+<Generated>Question: What is the definition of a minor according to the given context?
+Answer: A minor is any individual less than eighteen (18) years of age.
+
+<Generated>Question: Which officer passed away at St. Clair Hospital following a brief illness?
+Answer: Officer Brian Rowland
+
+<Generated>Question: Who was the first person to explore the Pittsburgh area?
+Answer: The first person to explore the Pittsburgh area was the French explorer Robert de La Salle.
+
+<Generated>Question: Who was the first person to propose the construction of a new stadium for the Pittsburgh Penguins?
+Answer: The context does not provide information on who was the first person to propose the construction of a new stadium for the Pittsburgh Penguins.
+
+<Generated>Question: Who was the first person to explore Pittsburgh?
+Answer: The context does not provide information on who was the first person to explore Pittsburgh.
+
+<Generated>Question: What organization is accepting donations for Public Safety personnel and equipment?
+Answer: The Public Safety Support Trust Fund is accepting donations.
+
+<Generated>Question: What is the total number of uniformed personnel in the Department of Public Safety?
+Answer: The total number of uniformed personnel in the Department of Public Safety is 1155. (850 police officers and 678 firefighters + 217 EMS employees)
+
+<Generated>Question: When was the Report of Claim Form first introduced in the City of Pittsburgh?
+Answer: The exact date of the introduction of the Report of Claim Form in the City of Pittsburgh is not mentioned in the context. However, it can be inferred that the form is available for download on the City of Pittsburgh's website.
+
+<Generated>Question: What type of businesses are required to register with the City of Pittsburgh according to the City Code?
+Answer: Businesses that have an office, factory, workshop, branch, warehouse, or other place of business, including banks, schools, hospitals, non-profit, and trade associations, located in the City or outside the City, and perform work or render services in whole or in part in the City are required to register with the City of Pittsburgh according to the City Code.
+
+<Generated>Question: When is it important for faculty to ensure fair and accurate grading?
+Answer: Faculty should ensure fair and accurate grading at all times, especially since grades are seen by students as determining their job prospects.
+
+<Generated>Question: When was the Civil Service Commission established in Pittsburgh?
+Answer: The Civil Service Commission was established in Pittsburgh to insure the maintenance of a merit personnel system.
+
+<Generated>Question: What organization is responsible for reviewing and approving new indoor flight spaces?
+Answer: The UAS Committee is responsible for reviewing and approving new indoor flight spaces.
+
+<Generated>Question: What new vehicles and equipment were acquired by which teams in the Region 13 Task Force?
+Answer: The K-9 team received a first-of-its-kind vehicle, River Rescue took delivery of a second SeaArk rescue craft, a new Hazmat response vehicle, and a Mass Casualty unit were also placed in service.
+
+<Generated>Question: Who was arrested in connection with the aggravated assault incident?
+Answer: Virginia Beck was arrested in connection with the aggravated assault incident.
+
+<Generated>Question: Who is the missing person that the police are looking for?
+Answer: An 84-year-old man with dementia.
+
+<Generated>Question: What time did King get taken into custody?
+Answer: King was taken into custody at approximately 12:10 a.m.
+
+<Generated>Question: When did the speaker become the Chief of Police?
+Answer: The speaker became the Chief of Police in 2017.
+
+<Generated>Question: What was reported at the scene of the burglary on Josephine Street?
+Answer: A burglary in progress and a sexual assault were reported at the scene of the burglary on Josephine Street.
+
+<Generated>Question: When did MBK Pittsburgh host its Health and Wellness Summit?
+Answer: MBK Pittsburgh hosted its Health and Wellness Summit on June 20, 2024.
+
+<Generated>Question: What resources can someone turn to for drug treatment in Pittsburgh?
+Answer: PA Get Help Now (1-800-662-HELP), UPMC Recovery Engagement Program (412-232-6275), and AHN Addiction Medicine Center of Excellence (412-359-4644) are some resources for drug treatment in Pittsburgh.
+
+<Generated>Question: When was the first Finance webpage created in Pittsburgh?
+Answer: The exact date of the first Finance webpage creation in Pittsburgh is not provided in the context.
+
+<Generated>Question: Who is the new acting EMS Chief of Pittsburgh?
+Answer: Ronald Romano
+
+<Generated>Question: Which officers organized a kickball game at Magee Rec Center?
+Answer: Officer Vicky Butch and other sports enthusiast police officers.
+
+<Generated>Question: Which of the three suspects was not arrested at the Tacoma Street house?
+Answer: Timothy Bazemore was not arrested at the Tacoma Street house.
+
+<Generated>Question: Who was responsible for the response to the RSA City issue?
+Answer: The response to the RSA City issue was handled by the city.
+
+<Generated>Question: Where can I find the registration form for the Pittsburgh COPS Kids program?
+Answer: The registration form for the Pittsburgh COPS Kids program can be found online at http://pittsburghpa.gov/police/community-policing/cops-kids.html or picked up in person at Police Headquarters at 1203 Western Avenue, Pittsburgh, Pa 15233.
+
+<Generated>Question: When is the best time of year to remove invasive plants in Pittsburgh's parks?
+Answer: The best time of year to remove invasive plants in Pittsburgh's parks is during the fall season.
+
+<Generated>Question: When did Mayor Peduto issue the executive orders on affordable housing?
+Answer: Mayor Peduto issued the executive orders on affordable housing on February 14, 2017.
+
+<Generated>Question: Who was the victim of the shooting on Shemp Way?
+Answer: The victim of the shooting on Shemp Way was an adult male.
+
+<Generated>Question: When was the first shooting incident reported in the context?
+Answer: The first shooting incident was reported on August 06, 2024.
+
+<Generated>Question: Which officer was visiting friends in Homewood when the shooting occurred?
+Answer: Officer Hall
+
+<Generated>Question: What is the total net salary for all full-time permanent positions in DPR?
+Answer: The total net salary for all full-time permanent positions in DPR is $3,772,803.
+
+<Generated>Question: When was the Longtime Owner Occupant Tax Exemption Program (LOOP) proposed in Pittsburgh?
+Answer: The Longtime Owner Occupant Tax Exemption Program (LOOP) was proposed in Pittsburgh in 2023 (implied by the text that Mayor Ed Gainey has submitted legislation to City Council).
+
+<Generated>Question: Which intersection was the blue Chrysler mini van involved in a crash near?
+Answer: The blue Chrysler mini van crashed near the intersection of Behan Street and Galveston Avenue.
+
+<Generated>Question: What improvements has Mayor Peduto's administration advanced for city employees and residents?
+Answer: Mayor Peduto's administration has advanced 17 workforce improvements for city employees and residents.
+
+<Generated>Question: What organization in Pennsylvania promotes the human rights of people with intellectual and developmental disabilities?
+Answer: The Arc of Pennsylvania
+
+<Generated>Question: Which organizations are part of the Pittsburgh Digital Equity Coalition?
+Answer: The Pittsburgh Digital Equity Coalition is a working group of anchor organizations and smaller community groups.
+
+<Generated>Question: Which district's contact information includes the phone number 412-255-2131?
+Answer: District 5
+
+<Generated>Question: What organization manages the 2% local share of slots revenue?
+Answer: The Urban Redevelopment Authority manages the 2% local share of slots revenue.
+
+<Generated>Question: Who was imploring and challenging the newly-promoted personnel to be excellent?
+Answer: Mayor Ed Gainey
+
+<Generated>Question: When did the controller start managing personal data according to this policy?
+Answer: According to the provided context, the controller started managing personal data according to this policy. No specific date was mentioned.
+
+<Generated>Question: Which Pittsburgh organization provides opportunities for seniors to engage in various activities and community events?
+Answer: The Pittsburgh Parks and Recreation Department's Senior Community Centers program offers opportunities for seniors to engage in various activities and community events.
+
+<Generated>Question: When was the last update to the NEOGOV Services announced?
+Answer: The context does not provide information on the last update to the NEOGOV Services.
+
+<Generated>Question: How many years of service were recognized during the ceremony?
+Answer: 2,562 years were recognized during the ceremony.
+
+<Generated>Question: When does the Day 1 Online Qualifiers for the E-Arena event start?
+Answer: The Day 1 Online Qualifiers for the E-Arena event start at 12:00 PM.
+
+<Generated>Question: What is the role of the Naming Commission in Pittsburgh?
+Answer: The Naming Commission in Pittsburgh is responsible for creating guidelines and specifications for naming or changing the name of public property or facilities. They complete a report on the property or facility being named or renamed, which includes its historic, artistic, and cultural background. The Commission meets quarterly and can be contacted for more information by emailing City Planning at cityplanning@pittsburghpa.gov.
+
+<Generated>Question: Who were the two males involved in the shooting in Katz Plaza?
+Answer: The two males involved in the shooting in Katz Plaza were not identified in the context.
+
+<Generated>Question: What led to the dispatch of officers to the scene of a shooting on Brushton Avenue?
+Answer: Gunshots being fired and ShotSpotter notifications.
+
+<Generated>Question: What is being asked of campers to help those in need in Pittsburgh?
+Answer: Campers are being asked to bring a non-perishable food item or personal hygiene product on their first day of camp to help those in need in Pittsburgh.
+
+<Generated>Question: When was the Accelerated Plan Review Policy last updated?
+Answer: The Accelerated Plan Review Policy was last updated on 2023-02-17.
+
+<Generated>Question: Which demographic groups are disproportionately disconnected from broadband in Southwestern Pennsylvania?
+Answer: According to a 2022 Southwestern Pennsylvania Commission report on Equitable Broadband Access, Seniors, Families with K-12 students, and Black citizens are disproportionately disconnected.
+
+<Generated>Question: When was the City of Pittsburgh's Institution and Service Privilege Tax Ordinance enacted?
+Answer: The City of Pittsburgh's Institution and Service Privilege Tax Ordinance was enacted in 1968.
+
+<Generated>Question: What are some possible remedies for a violation of this Policy?
+Answer: Some possible remedies for a violation of this Policy include a no contact order, academic adjustments or accommodations, and workplace adjustments or accommodations.
+
+<Generated>Question: What is the contact information for the City of Pittsburgh?
+Answer: The City of Pittsburgh can be reached at 412-255-2621 and their address is 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.).
+
+<Generated>Question: What time did police respond to the gunshot wound incident in East Hills?
+Answer: Police responded to the gunshot wound incident in East Hills at approximately 8:30 a.m.
+
+<Generated>Question: Who was the first person to propose the construction of a stadium in Pittsburgh for a professional ice hockey team?
+Answer: The context does not provide information on who was the first person to propose the construction of a stadium in Pittsburgh for a professional ice hockey team.
+
+<Generated>Question: Who was the first person to explore the Pittsburgh area?
+Answer: The first person to explore the Pittsburgh area was the French explorer Robert de La Salle.
+
+<Generated>Question: Who was the first person to propose the construction of a new stadium for the Pittsburgh Penguins?
+Answer: The context does not provide information on who was the first person to propose the construction of a new stadium for the Pittsburgh Penguins.
+
+<Generated>Question: When is the Juneteenth Freedom Day fireworks in Point State Park?
+Answer: June 19, 2023
+
+<Generated>Question: Which individual was injured in the shooting incident and was saved by his ballistic vest?
+Answer: Our officer was injured in the shooting incident and was saved by his ballistic vest.
+
+<Generated>Question: What types of contributions and deductions are not considered part of the Payroll Expense Tax?
+Answer: Employer's portions of federal and state payroll taxes, health insurance premiums, retirement plan contributions, etc., are not considered part of the Payroll Expense Tax.
+
+<Generated>Question: Who is responsible for the development of the land between Heinz Field and PNC Park?
+Answer: The Stadium Authority is responsible for the development of the land between Heinz Field and PNC Park.
+
+<Generated>Question: What color is the car that did not use a turn signal before making a right turn?
+Answer: The car that did not use a turn signal before making a right turn is red.
+
+<Generated>Question: What is the total amount of grants in the city of Pittsburgh's operating budget?
+Answer: The total amount of grants in the city of Pittsburgh's operating budget is 1,150,000 dollars.
+
+<Generated>Question: Which approach was implemented to repair the bridges in Pittsburgh?
+Answer: A faster, smarter approach was implemented to repair the bridges in Pittsburgh.
+
+<Generated>Question: What was the reason for the police response to the 500 block of Penn Avenue?
+Answer: The police responded to the 500 block of Penn Avenue for a parking complaint.
+
+<Generated>Question: Who was the fugitive wanted for the murder in Pittsburgh?
+Answer: Keith Thompson
+
+<Generated>Question: What was the total budgeted amount for debt service in 2028?
+Answer: The total budgeted amount for debt service in 2028 was $800,000,000.
+
+<Generated>Question: When was the last update on a shooting incident in Pittsburgh?
+Answer: The last update on a shooting incident in Pittsburgh was on May 18, 2024.
+
+<Generated>Question: When was the first recreation center built in Pittsburgh?
+Answer: The first recreation center in Pittsburgh was built in 1895, according to the Moore Park Building document.
+
+<Generated>Question: Who discovered the Pittsburgh area for Europeans?
+Answer: Robert de La Salle was the European explorer who discovered the Pittsburgh area.
+
+<Generated>Question: What is the commitment of the organization towards dealing with students in face-to-face situations?
+Answer: The organization commits to dealing with students immediately, openly, and honestly in face-to-face situations.
+
+<Generated>Question: What incident occurred near Mellon Park at 12:45 a.m.?
+Answer: A stabbing incident occurred near Mellon Park at 12:45 a.m.
+
+<Generated>Question: What caused the injuries to the victim at UPMC Mercy?
+Answer: The injuries to the victim were not caused by a gunshot but instead were the result of a physical assault.
+
+<Generated>Question: What measures have been implemented in Public Safety to prevent the spread of COVID-19?
+Answer: Measures implemented in Public Safety to prevent the spread of COVID-19 include mandatory masks and social distancing, daily screenings upon entry to any Public Safety facility, and strict quarantine/isolation procedures.
+
+<Generated>Question: Who were some of the past leaders of Pittsburgh EMS that attended the ceremony?
+Answer: Chief Romano mentioned five past EMS chiefs who attended the ceremony.
+
+<Generated>Question: What improvements has Mayor Peduto's administration advanced for city employees and residents?
+Answer: Mayor Peduto's administration has advanced 17 workforce improvements for city employees and residents.
+
+<Generated>Question: Which document provides the list of approved street trees in Pittsburgh?
+Answer: The document titled "Approved Street Trees (PDF, 162KB)" provides the list of approved street trees in Pittsburgh.
+

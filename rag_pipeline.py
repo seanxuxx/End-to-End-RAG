@@ -1,7 +1,6 @@
 import logging
 import os
 import re
-from operator import is_
 from typing import List
 
 import torch
@@ -30,24 +29,31 @@ DEVICE = ('cuda' if torch.cuda.is_available() else
 
 
 class RetrieverModel():
-    def __init__(self, model_name: str, chunker_name: str,
-                 dir_to_chunk: str, dir_preformatted='',
+    def __init__(self, model_name: str,
+                 chunker_name: str, chunk_size=500, chunk_overlap=100,
+                 dir_to_chunk='raw_data', dir_preformatted='',
                  filename_pattern='**/*.txt', similarity_score='cosine',
                  is_upsert_data=False):
         """
         Args:
-            model_name (str): Name of HuggingFaceEmbeddings model
-            chunker_name (str): _description_
-                'semantic_chunker' for SemanticChunker;
+            model_name (str): Name of HuggingFaceEmbeddings model.
+            chunker_name (str): Chunking method.
                 'character_chunker' for RecursiveCharacterTextSplitter;
+                'semantic_chunker' for SemanticChunker;
                 other string will raise an error.
-            dir_to_chunk (str): Directory storing raw data files
-            dir_preformatted (str, optional): Directory storing pre-formatted data files. Defaults to ''.
-            filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
-            similarity_score (str, optional): "metric" parameter for Pinecone Index. Defaults to 'cosine'.
-            is_upsert_data (bool, optional): Whether to upsert documents to vector store. Defaults to False.
+            chunk_size (int, optional): Defaults to 500.
+            chunk_overlap (int, optional): Defaults to 100.
+            dir_to_chunk (str, optional):
+                Directory storing raw data files. Defaults to 'raw_data'.
+            dir_preformatted (str, optional):
+                Directory storing pre-formatted data files. Defaults to ''.
+            filename_pattern (str, optional):
+                "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
+            similarity_score (str, optional):
+                "metric" parameter for Pinecone Index. Defaults to 'cosine'.
+            is_upsert_data (bool, optional):
+                Whether to upsert documents to vector store. Defaults to False.
         """
-
         # Data config
         assert os.path.exists(dir_to_chunk), f'{dir_to_chunk} does not exist'
         if dir_preformatted:
@@ -59,21 +65,23 @@ class RetrieverModel():
         # Chunking config
         chunker_options = ['character_chunker', 'semantic_chunker']
         assert chunker_name in chunker_options, f'{chunker_name} is invalid chunker'
-        self.model_name = model_name
         self.chunker_name = chunker_name
-        self.chunk_size = kwargs['chunk_size'] if 'chunk_size' in kwargs else 1000
-        self.chunk_overlap = kwargs['chunk_overlap'] if 'chunk_overlap' in kwargs else 100
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
 
         # Index config
-        index_name = f'{model_name}_{chunker_name}'.lower()
+        index_name = f'{model_name}-{chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
         self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
                                  index_name)  # Rename for Pinecone index name requirement
         self.similarity_score = similarity_score
         self.is_upsert_data = is_upsert_data
 
+        # Embedding model config
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
+
+        # Initialize Pinecone Index and Vector Store
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
         logging.info(f'Initialized Retriver model:\n{self.__dict__}\n')
@@ -161,8 +169,9 @@ if __name__ == '__main__':
     set_logger('rag_pipeline')
     logging.info(f'Device: {DEVICE}')
 
-    retriver = RetrieverModel(model_name='all-mpnet-base-v2',
-                              chunker_name='character_chunker',
-                              dir_to_chunk='raw_data',
-                              dir_preformatted='formatted_data',
-                              chunk_size=400, chunk_overlap=100)
+    retriver = RetrieverModel(
+        model_name='all-mpnet-base-v2',
+        chunker_name='character_chunker',
+        dir_to_chunk='raw_data',
+        dir_preformatted='formatted_data'
+    )

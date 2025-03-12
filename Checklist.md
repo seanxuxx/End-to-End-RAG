@@ -3,7 +3,7 @@
 ### Data
 
 * [X]  Scrape raw text
-* [ ]  **Auotomatic data annotation** @Xiaotong
+* [X]  **Auotomatic data annotation** @Xiaotong
 * [ ]  Determine data size @Lexa
 * [ ]  Mannual data annotation @Lexa
 * [ ]  *Split trian/test data (TBD)*

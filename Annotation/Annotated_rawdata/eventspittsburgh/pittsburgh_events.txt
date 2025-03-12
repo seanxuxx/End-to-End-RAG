@@ -1,0 +1,1116 @@
+'url': 'https://pittsburgh.events/tickets/avery-sunshine/', 'title': 'Avery Sunshine', 'date': 'MAR 10 2025', 'time': '7:30 PM MON', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $87', 'datetime': 'MAR 10 2025, 7:30 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/willis/', 'title': 'WILLIS', 'date': 'MAR 10 2025', 'time': '8:00 PM MON', 'datedesc': 'Bottlerocket Social Hall', 'location': '15210, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $798', 'datetime': 'MAR 10 2025, 8:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/vegas-golden-knights/', 'title': 'Vegas Golden Knights', 'date': 'MAR 11 2025', 'time': '7:00 PM TUE', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'MAR 11 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/jenna-nicholls/', 'title': 'Jenna Nicholls', 'date': 'MAR 11 2025', 'time': '7:00 PM TUE', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'MAR 11 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/corook/', 'title': 'Corook', 'date': 'MAR 11 2025', 'time': '8:00 PM TUE', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $32', 'datetime': 'MAR 11 2025, 8:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/lachy-doley/', 'title': 'Lachy Doley', 'date': 'MAR 12 2025', 'time': '7:00 PM WED', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $81', 'datetime': 'MAR 12 2025, 7:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/pretty-guardian-sailor-moon/', 'title': 'Pretty Guardian Sailor Moon', 'date': 'MAR 12 2025', 'time': '7:30 PM WED', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $122', 'datetime': 'MAR 12 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/boyzlife/', 'title': 'Boyzlife', 'date': 'MAR 12 2025', 'time': '8:00 PM WED', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $771', 'datetime': 'MAR 12 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/don-mcmillan/', 'title': 'Don McMillan', 'date': 'MAR 12 2025', 'time': '8:00 PM WED', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $98', 'datetime': 'MAR 12 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/boyzlife/', 'title': 'Boyzlife', 'date': 'MAR 12 2025', 'time': '8:00 PM WED', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $771', 'datetime': 'MAR 12 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/agnostic-front/', 'title': 'Agnostic Front', 'date': 'MAR 13 2025', 'time': '6:30 PM THU', 'datedesc': 'Crafthouse Stage & Grill', 'location': '15236, Pittsburgh, PA, US', 'price': 'Prices from $41', 'datetime': 'MAR 13 2025, 6:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-blues/', 'title': 'St. Louis Blues', 'date': 'MAR 13 2025', 'time': '7:00 PM THU', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $23', 'datetime': 'MAR 13 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/anthony-devito/', 'title': 'Anthony DeVito', 'date': 'MAR 13 2025', 'time': '7:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $72', 'datetime': 'MAR 13 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/marc-roberge/', 'title': 'Marc Roberge', 'date': 'MAR 14 2025', 'time': '6:00 PM FRI', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $299', 'datetime': 'MAR 14 2025, 6:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/rosebud-baker/', 'title': 'Rosebud Baker', 'date': 'MAR 14 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 14 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/sharpe-family-singers/', 'title': 'Sharpe Family Singers', 'date': 'MAR 14 2025', 'time': '7:30 PM FRI', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $798', 'datetime': 'MAR 14 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/annie/', 'title': 'Annie', 'date': 'MAR 14 2025', 'time': '7:30 PM FRI', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $150', 'datetime': 'MAR 14 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/rosebud-baker/', 'title': 'Rosebud Baker', 'date': 'MAR 14 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 14 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/annie/', 'title': 'Annie', 'date': 'MAR 15 2025', 'time': '2:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $87', 'datetime': 'MAR 15 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/new-jersey-devils/', 'title': 'New Jersey Devils', 'date': 'MAR 15 2025', 'time': '3:00 PM SAT', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $49', 'datetime': 'MAR 15 2025, 3:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/rosebud-baker/', 'title': 'Rosebud Baker', 'date': 'MAR 15 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 15 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 15 2025', 'time': '7:00 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $10', 'datetime': 'MAR 15 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/annie/', 'title': 'Annie', 'date': 'MAR 15 2025', 'time': '7:30 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $130', 'datetime': 'MAR 15 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/rosebud-baker/', 'title': 'Rosebud Baker', 'date': 'MAR 15 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 15 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/marc-roberge/', 'title': 'Marc Roberge', 'date': 'MAR 15 2025', 'time': '9:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $358', 'datetime': 'MAR 15 2025, 9:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/rosebud-baker/', 'title': 'Rosebud Baker', 'date': 'MAR 16 2025', 'time': '6:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 16 2025, 6:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/marshall-crenshaw/', 'title': 'Marshall Crenshaw', 'date': 'MAR 16 2025', 'time': '7:00 PM SUN', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $87', 'datetime': 'MAR 16 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/alton-brown/', 'title': 'Alton Brown', 'date': 'MAR 16 2025', 'time': '7:30 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $116', 'datetime': 'MAR 16 2025, 7:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/quicksand/', 'title': 'Quicksand', 'date': 'MAR 16 2025', 'time': '8:00 PM SUN', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $57', 'datetime': 'MAR 16 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/foil-arms-and-hog/', 'title': 'Foil Arms and Hog', 'date': 'MAR 16 2025', 'time': '8:00 PM SUN', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $526', 'datetime': 'MAR 16 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/foil-arms-and-hog/', 'title': 'Foil Arms and Hog', 'date': 'MAR 16 2025', 'time': '8:00 PM SUN', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $526', 'datetime': 'MAR 16 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/quicksand/', 'title': 'Quicksand', 'date': 'MAR 16 2025', 'time': '8:00 PM SUN', 'datedesc': 'Music Hall at Thunderbird Café & Music Hall', 'location': '15201, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $81', 'datetime': 'MAR 16 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/abbots-cross/', 'title': 'Abbots Cross', 'date': 'MAR 17 2025', 'time': '7:30 PM MON', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'MAR 17 2025, 7:30 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/new-york-islanders/', 'title': 'New York Islanders', 'date': 'MAR 18 2025', 'time': '7:00 PM TUE', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $23', 'datetime': 'MAR 18 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/jack-the-whipper/', 'title': 'Jack the Whipper', 'date': 'MAR 18 2025', 'time': '7:30 PM TUE', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $96', 'datetime': 'MAR 18 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/the-altons/', 'title': 'The Altons', 'date': 'MAR 18 2025', 'time': '8:00 PM TUE', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $851', 'datetime': 'MAR 18 2025, 8:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/nathaniel-rateliff-the-night-sweats/', 'title': 'Nathaniel Rateliff &', 'date': 'MAR 19 2025', 'time': '7:30 PM WED', 'datedesc': 'Petersen Events Center', 'location': '15261, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $52', 'datetime': 'MAR 19 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/lang-lang/', 'title': 'Lang Lang', 'date': 'MAR 19 2025', 'time': '7:30 PM WED', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $65', 'datetime': 'MAR 19 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/mercyme/', 'title': 'MercyMe', 'date': 'MAR 20 2025', 'time': '7:00 PM THU', 'datedesc': 'Petersen Events Center', 'location': '15261, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $48', 'datetime': 'MAR 20 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/ally-the-piper/', 'title': 'Ally the Piper', 'date': 'MAR 20 2025', 'time': '7:30 PM THU', 'datedesc': 'Crafthouse Stage & Grill', 'location': '15236, Pittsburgh, PA, US', 'price': 'Prices from $50', 'datetime': 'MAR 20 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/jigjam/', 'title': 'JigJam', 'date': 'MAR 20 2025', 'time': '7:30 PM THU', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $67', 'datetime': 'MAR 20 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/kellen-erskine/', 'title': 'Kellen Erskine', 'date': 'MAR 20 2025', 'time': '7:30 PM THU', 'datedesc': 'Sunken Bus Studios', 'location': '15237, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'MAR 20 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/columbus-blue-jackets/', 'title': 'Columbus Blue Jackets', 'date': 'MAR 21 2025', 'time': '7:00 PM FRI', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $47', 'datetime': 'MAR 21 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 21 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAR 21 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/whitcomb/', 'title': 'Whitcomb', 'date': 'MAR 21 2025', 'time': '7:00 PM FRI', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $39', 'datetime': 'MAR 21 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 21 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'MAR 21 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/jeremy-piven/', 'title': 'Jeremy Piven', 'date': 'MAR 21 2025', 'time': '7:30 PM FRI', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $79', 'datetime': 'MAR 21 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/joe-pug/', 'title': 'Joe Pug', 'date': 'MAR 21 2025', 'time': '7:30 PM FRI', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $40', 'datetime': 'MAR 21 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/carnegie-of-homestead-music-hall/', 'title': 'Carnegie of Homestead Music Hall', 'date': 'MAR 21 2025', 'time': '8:00 PM FRI', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $65', 'datetime': 'MAR 21 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 21 2025', 'time': '9:15 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $136', 'datetime': 'MAR 21 2025, 9:15 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 21 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAR 21 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/rufus-wainwright/', 'title': 'Rufus Wainwright', 'date': 'MAR 22 2025', 'time': '6:00 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $180', 'datetime': 'MAR 22 2025, 6:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 22 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAR 22 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 22 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $665', 'datetime': 'MAR 22 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/hartford-athletic/', 'title': 'Hartford Athletic', 'date': 'MAR 22 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $22', 'datetime': 'MAR 22 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/crankdat/', 'title': 'Crankdat', 'date': 'MAR 22 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $50', 'datetime': 'MAR 22 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/madama-butterfly/', 'title': 'Madama Butterfly', 'date': 'MAR 22 2025', 'time': '8:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $149', 'datetime': 'MAR 22 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/matt-rife/', 'title': 'Matt Rife', 'date': 'MAR 22 2025', 'time': '8:00 PM SAT', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $35', 'datetime': 'MAR 22 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/the-vindys/', 'title': 'The Vindys', 'date': 'MAR 22 2025', 'time': '8:00 PM SAT', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $36', 'datetime': 'MAR 22 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 22 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAR 22 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 23 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'MAR 23 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 23 2025', 'time': '6:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAR 23 2025, 6:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/tony-rock/', 'title': 'Tony Rock', 'date': 'MAR 23 2025', 'time': '7:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $136', 'datetime': 'MAR 23 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/paul-thorn/', 'title': 'Paul Thorn', 'date': 'MAR 23 2025', 'time': '7:00 PM SUN', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $87', 'datetime': 'MAR 23 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/cafe-at-thunderbird-cafe-music-hall/', 'title': 'Cafe at Thunderbird Cafe & Music Hall', 'date': 'MAR 23 2025', 'time': '8:00 PM SUN', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $39', 'datetime': 'MAR 23 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/madama-butterfly/', 'title': 'Madama Butterfly', 'date': 'MAR 25 2025', 'time': '7:00 PM TUE', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $149', 'datetime': 'MAR 25 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/tom-green/', 'title': 'Tom Green', 'date': 'MAR 25 2025', 'time': '7:30 PM TUE', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $158', 'datetime': 'MAR 25 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/modi-rosenfeld/', 'title': 'Modi Rosenfeld', 'date': 'MAR 26 2025', 'time': '7:00 PM WED', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $126', 'datetime': 'MAR 26 2025, 7:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/tom-green/', 'title': 'Tom Green', 'date': 'MAR 26 2025', 'time': '7:30 PM WED', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $110', 'datetime': 'MAR 26 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/gregory-alan-isakov/', 'title': 'Gregory Alan Isakov', 'date': 'MAR 26 2025', 'time': '8:00 PM WED', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $88', 'datetime': 'MAR 26 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/will-hoge/', 'title': 'Will Hoge', 'date': 'MAR 26 2025', 'time': '8:00 PM WED', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $37', 'datetime': 'MAR 26 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/piano-comedy-wars/', 'title': 'Piano Comedy Wars', 'date': 'MAR 27 2025', 'time': '7:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $78', 'datetime': 'MAR 27 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/fraggle-rock-live/', 'title': 'Fraggle Rock Live', 'date': 'MAR 27 2025', 'time': '7:00 PM THU', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $89', 'datetime': 'MAR 27 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 28 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 28 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/chase-matthew/', 'title': 'Chase Matthew', 'date': 'MAR 28 2025', 'time': '7:00 PM FRI', 'datedesc': 'Event Center at Rivers Casino Pittsburgh', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $79', 'datetime': 'MAR 28 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 28 2025', 'time': '7:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $58', 'datetime': 'MAR 28 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/tyler-the-creator/', 'title': 'Tyler, The Creator', 'date': 'MAR 28 2025', 'time': '7:30 PM FRI', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $175', 'datetime': 'MAR 28 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 28 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'MAR 28 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/madama-butterfly/', 'title': 'Madama Butterfly', 'date': 'MAR 28 2025', 'time': '7:30 PM FRI', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $149', 'datetime': 'MAR 28 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/henry-cho/', 'title': 'Henry Cho', 'date': 'MAR 28 2025', 'time': '8:00 PM FRI', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'MAR 28 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/henry-cho/', 'title': 'Henry Cho', 'date': 'MAR 28 2025', 'time': '8:00 PM FRI', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $798', 'datetime': 'MAR 28 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/danae-hays/', 'title': 'Danae Hays', 'date': 'MAR 28 2025', 'time': '8:00 PM FRI', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $93', 'datetime': 'MAR 28 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 28 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 28 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 28 2025', 'time': '9:45 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $42', 'datetime': 'MAR 28 2025, 9:45 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 29 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 29 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 29 2025', 'time': '7:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $58', 'datetime': 'MAR 29 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 29 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'MAR 29 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/luke-kidgell/', 'title': 'Luke Kidgell', 'date': 'MAR 29 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $74', 'datetime': 'MAR 29 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/birmingham-legion-fc/', 'title': 'Birmingham Legion FC', 'date': 'MAR 29 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'MAR 29 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'MAR 29 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $25', 'datetime': 'MAR 29 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/magnetic-fields/', 'title': 'Magnetic Fields', 'date': 'MAR 29 2025', 'time': '8:00 PM SAT', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $135', 'datetime': 'MAR 29 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'MAR 29 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $25', 'datetime': 'MAR 29 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/bottlerocket-social-hall/', 'title': 'Bottlerocket Social Hall', 'date': 'MAR 29 2025', 'time': '8:00 PM SAT', 'datedesc': 'Bottlerocket Social Hall', 'location': '15210, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'MAR 29 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/the-birthday-massacre/', 'title': 'The Birthday Massacre', 'date': 'MAR 29 2025', 'time': '8:30 PM SAT', 'datedesc': 'Crafthouse Stage & Grill', 'location': '15236, Pittsburgh, PA, US', 'price': 'Prices from $54', 'datetime': 'MAR 29 2025, 8:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 29 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $77', 'datetime': 'MAR 29 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 29 2025', 'time': '9:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $57', 'datetime': 'MAR 29 2025, 9:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/madama-butterfly/', 'title': 'Madama Butterfly', 'date': 'MAR 30 2025', 'time': '2:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $83', 'datetime': 'MAR 30 2025, 2:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAR 30 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $103', 'datetime': 'MAR 30 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/ottawa-senators/', 'title': 'Ottawa Senators', 'date': 'MAR 30 2025', 'time': '5:00 PM SUN', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'MAR 30 2025, 5:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 30 2025', 'time': '6:30 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAR 30 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/greg-fitzsimmons/', 'title': 'Greg Fitzsimmons', 'date': 'MAR 30 2025', 'time': '7:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $42', 'datetime': 'MAR 30 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/magnetic-fields/', 'title': 'Magnetic Fields', 'date': 'MAR 30 2025', 'time': '8:00 PM SUN', 'datedesc': 'Carnegie Lecture Hall of Oakland', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $55', 'datetime': 'MAR 30 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/magnetic-fields/', 'title': 'Magnetic Fields', 'date': 'MAR 30 2025', 'time': '8:00 PM SUN', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $69', 'datetime': 'MAR 30 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/whitcomb/', 'title': 'Whitcomb', 'date': 'MAR 31 2025', 'time': '7:00 PM MON', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $36', 'datetime': 'MAR 31 2025, 7:00 PM MON'
+
+'url': 'https://pittsburgh.events/venue/cafe-at-thunderbird-cafe-music-hall/', 'title': 'Cafe at Thunderbird Cafe & Music Hall', 'date': 'MAR 31 2025', 'time': '8:00 PM MON', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $115', 'datetime': 'MAR 31 2025, 8:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/intervals/', 'title': 'Intervals', 'date': 'APR 01 2025', 'time': '6:30 PM TUE', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $45', 'datetime': 'APR 01 2025, 6:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/kimberly-akimbo/', 'title': 'Kimberly Akimbo', 'date': 'APR 01 2025', 'time': '7:00 PM TUE', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 01 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/intervals/', 'title': 'Intervals', 'date': 'APR 01 2025', 'time': '7:30 PM TUE', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $49', 'datetime': 'APR 01 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/peter-pan/', 'title': 'Peter Pan', 'date': 'APR 01 2025', 'time': '7:30 PM TUE', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $100', 'datetime': 'APR 01 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/livingston-taylor/', 'title': 'Livingston Taylor', 'date': 'APR 02 2025', 'time': '7:30 PM WED', 'datedesc': 'Pittsburgh Winery', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $129', 'datetime': 'APR 02 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/al-stewart/', 'title': 'Al Stewart', 'date': 'APR 02 2025', 'time': '7:30 PM WED', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $127', 'datetime': 'APR 02 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/peter-pan/', 'title': 'Peter Pan', 'date': 'APR 02 2025', 'time': '7:30 PM WED', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 02 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/a-j-croce/', 'title': 'A.J. Croce', 'date': 'APR 03 2025', 'time': '5:30 PM THU', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $206', 'datetime': 'APR 03 2025, 5:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 03 2025', 'time': '7:30 PM THU', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $56', 'datetime': 'APR 03 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/al-stewart/', 'title': 'Al Stewart', 'date': 'APR 03 2025', 'time': '7:30 PM THU', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $127', 'datetime': 'APR 03 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/peter-pan/', 'title': 'Peter Pan', 'date': 'APR 03 2025', 'time': '7:30 PM THU', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 03 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/a-j-croce/', 'title': 'A.J. Croce', 'date': 'APR 03 2025', 'time': '7:30 PM THU', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $89', 'datetime': 'APR 03 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/jojo/', 'title': 'JoJo', 'date': 'APR 03 2025', 'time': '8:00 PM THU', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $52', 'datetime': 'APR 03 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/new-york-yankees/', 'title': 'New York Yankees', 'date': 'APR 04 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $89', 'datetime': 'APR 04 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/new-york-yankees/', 'title': 'New York Yankees', 'date': 'APR 04 2025', 'time': '4:12 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $84', 'datetime': 'APR 04 2025, 4:12 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/killswitch-engage/', 'title': 'Killswitch Engage', 'date': 'APR 04 2025', 'time': '6:30 PM FRI', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $65', 'datetime': 'APR 04 2025, 6:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/sheryl-underwood/', 'title': 'Sheryl Underwood', 'date': 'APR 04 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 04 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 04 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $101', 'datetime': 'APR 04 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 04 2025', 'time': '7:30 PM FRI', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $69', 'datetime': 'APR 04 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/emery/', 'title': 'Emery', 'date': 'APR 04 2025', 'time': '7:30 PM FRI', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $74', 'datetime': 'APR 04 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 04 2025', 'time': '7:30 PM FRI', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 04 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/hard-rock-cafe-pittsburgh/', 'title': 'Hard Rock Cafe Pittsburgh', 'date': 'APR 04 2025', 'time': '8:00 PM FRI', 'datedesc': 'Hard Rock Cafe Pittsburgh', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $28', 'datetime': 'APR 04 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/sheryl-underwood/', 'title': 'Sheryl Underwood', 'date': 'APR 04 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 04 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 05 2025', 'time': '11:15 AM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $56', 'datetime': 'APR 05 2025, 11:15 AM SAT'
+
+'url': 'https://pittsburgh.events/tickets/new-york-yankees/', 'title': 'New York Yankees', 'date': 'APR 05 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $39', 'datetime': 'APR 05 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/peter-pan/', 'title': 'Peter Pan', 'date': 'APR 05 2025', 'time': '2:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $150', 'datetime': 'APR 05 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-ballet-theatre/', 'title': 'Pittsburgh Ballet Theatre', 'date': 'APR 05 2025', 'time': '2:00 PM SAT', 'datedesc': 'August Wilson Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $164', 'datetime': 'APR 05 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/new-york-yankees/', 'title': 'New York Yankees', 'date': 'APR 05 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $37', 'datetime': 'APR 05 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/josh-blue/', 'title': 'Josh Blue', 'date': 'APR 05 2025', 'time': '6:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $112', 'datetime': 'APR 05 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/disturbed/', 'title': 'Disturbed', 'date': 'APR 05 2025', 'time': '6:30 PM SAT', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $50', 'datetime': 'APR 05 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/sheryl-underwood/', 'title': 'Sheryl Underwood', 'date': 'APR 05 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $86', 'datetime': 'APR 05 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/forrest-frank/', 'title': 'Forrest Frank', 'date': 'APR 05 2025', 'time': '7:00 PM SAT', 'datedesc': 'Petersen Events Center', 'location': '15261, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $63', 'datetime': 'APR 05 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'APR 05 2025', 'time': '7:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $45', 'datetime': 'APR 05 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/reggie-watts/', 'title': 'Reggie Watts', 'date': 'APR 05 2025', 'time': '7:30 PM SAT', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $53', 'datetime': 'APR 05 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 05 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $105', 'datetime': 'APR 05 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 05 2025', 'time': '7:30 PM SAT', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $51', 'datetime': 'APR 05 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/peter-pan/', 'title': 'Peter Pan', 'date': 'APR 05 2025', 'time': '7:30 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $65', 'datetime': 'APR 05 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/robert-cray-band/', 'title': 'Robert Cray Band', 'date': 'APR 05 2025', 'time': '8:00 PM SAT', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 05 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/robert-cray-band/', 'title': 'Robert Cray Band', 'date': 'APR 05 2025', 'time': '8:00 PM SAT', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $256', 'datetime': 'APR 05 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/sheryl-underwood/', 'title': 'Sheryl Underwood', 'date': 'APR 05 2025', 'time': '9:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $109', 'datetime': 'APR 05 2025, 9:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/josh-blue/', 'title': 'Josh Blue', 'date': 'APR 05 2025', 'time': '9:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $104', 'datetime': 'APR 05 2025, 9:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/peter-pan/', 'title': 'Peter Pan', 'date': 'APR 06 2025', 'time': '1:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 06 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/new-york-yankees/', 'title': 'New York Yankees', 'date': 'APR 06 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $42', 'datetime': 'APR 06 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 06 2025', 'time': '1:30 PM SUN', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $56', 'datetime': 'APR 06 2025, 1:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/new-york-yankees/', 'title': 'New York Yankees', 'date': 'APR 06 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $36', 'datetime': 'APR 06 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 06 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $101', 'datetime': 'APR 06 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 06 2025', 'time': '6:30 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $144', 'datetime': 'APR 06 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'APR 07 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 07 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'APR 07 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'APR 07 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/boy-band-symphony/', 'title': 'Boy Band Symphony', 'date': 'APR 07 2025', 'time': '7:30 PM MON', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $54', 'datetime': 'APR 07 2025, 7:30 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'APR 08 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 08 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'APR 08 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'APR 08 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/vundabar/', 'title': 'Vundabar', 'date': 'APR 08 2025', 'time': '7:00 PM TUE', 'datedesc': 'Thunderbird Cafe & Music Hall - Complex', 'location': '15201, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $94', 'datetime': 'APR 08 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/the-thorn/', 'title': 'The Thorn', 'date': 'APR 08 2025', 'time': '7:00 PM TUE', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $312', 'datetime': 'APR 08 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/chicago-blackhawks/', 'title': 'Chicago Blackhawks', 'date': 'APR 08 2025', 'time': '7:00 PM TUE', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'APR 08 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/chicago-blackhawks/', 'title': 'Chicago Blackhawks', 'date': 'APR 08 2025', 'time': '7:30 PM TUE', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $59', 'datetime': 'APR 08 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'APR 08 2025', 'time': '8:00 PM TUE', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $42', 'datetime': 'APR 08 2025, 8:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'APR 09 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'APR 09 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'APR 09 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 09 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/venue/byham-theater/', 'title': 'Byham Theater', 'date': 'APR 09 2025', 'time': '1:30 PM WED', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $69', 'datetime': 'APR 09 2025, 1:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/the-thorn/', 'title': 'The Thorn', 'date': 'APR 09 2025', 'time': '7:00 PM WED', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $771', 'datetime': 'APR 09 2025, 7:00 PM WED'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-playhouse-of-point-park-university/', 'title': 'Pittsburgh Playhouse of Point Park University', 'date': 'APR 09 2025', 'time': '7:30 PM WED', 'datedesc': 'Pittsburgh Playhouse of Point Park University', 'location': '15213, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $69', 'datetime': 'APR 09 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/connor-price/', 'title': 'Connor Price', 'date': 'APR 09 2025', 'time': '8:00 PM WED', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $48', 'datetime': 'APR 09 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/kevin-james-thornton/', 'title': 'Kevin James Thornton', 'date': 'APR 10 2025', 'time': '7:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 10 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/jerry-seinfeld/', 'title': 'Jerry Seinfeld', 'date': 'APR 10 2025', 'time': '7:00 PM THU', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $368', 'datetime': 'APR 10 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/venue/byham-theater/', 'title': 'Byham Theater', 'date': 'APR 10 2025', 'time': '7:30 PM THU', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $69', 'datetime': 'APR 10 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/flipturn/', 'title': 'Flipturn', 'date': 'APR 10 2025', 'time': '8:00 PM THU', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $53', 'datetime': 'APR 10 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/nolan-taylor/', 'title': 'Nolan Taylor', 'date': 'APR 10 2025', 'time': '8:00 PM THU', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $56', 'datetime': 'APR 10 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/jerry-seinfeld/', 'title': 'Jerry Seinfeld', 'date': 'APR 10 2025', 'time': '9:30 PM THU', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $239', 'datetime': 'APR 10 2025, 9:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/ginger-billy/', 'title': 'Ginger Billy', 'date': 'APR 11 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 11 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/kevin-ross/', 'title': 'Kevin Ross', 'date': 'APR 11 2025', 'time': '7:30 PM FRI', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $120', 'datetime': 'APR 11 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 11 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'APR 11 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 11 2025', 'time': '7:30 PM FRI', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $69', 'datetime': 'APR 11 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/kool-keith/', 'title': 'Kool Keith', 'date': 'APR 11 2025', 'time': '8:00 PM FRI', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $350', 'datetime': 'APR 11 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/justin-furstenfeld/', 'title': 'Justin Furstenfeld', 'date': 'APR 11 2025', 'time': '8:00 PM FRI', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $478', 'datetime': 'APR 11 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/brit-floyd/', 'title': 'Brit Floyd', 'date': 'APR 11 2025', 'time': '8:00 PM FRI', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $74', 'datetime': 'APR 11 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/justin-furstenfeld/', 'title': 'Justin Furstenfeld', 'date': 'APR 11 2025', 'time': '8:00 PM FRI', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $60', 'datetime': 'APR 11 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/ginger-billy/', 'title': 'Ginger Billy', 'date': 'APR 11 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 11 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 12 2025', 'time': '1:30 PM SAT', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $67', 'datetime': 'APR 12 2025, 1:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/ginger-billy/', 'title': 'Ginger Billy', 'date': 'APR 12 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 12 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 12 2025', 'time': '7:00 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'APR 12 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 12 2025', 'time': '7:30 PM SAT', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'APR 12 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/brit-floyd/', 'title': 'Brit Floyd', 'date': 'APR 12 2025', 'time': '8:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $111', 'datetime': 'APR 12 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/ginger-billy/', 'title': 'Ginger Billy', 'date': 'APR 12 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'APR 12 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 13 2025', 'time': '1:30 PM SUN', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'APR 13 2025, 1:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 13 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'APR 13 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/boston-bruins/', 'title': 'Boston Bruins', 'date': 'APR 13 2025', 'time': '3:30 PM SUN', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $45', 'datetime': 'APR 13 2025, 3:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/jesus-christ-superstar/', 'title': 'Jesus Christ Superstar', 'date': 'APR 13 2025', 'time': '6:00 PM SUN', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'APR 13 2025, 6:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/zoltan-kaszas/', 'title': 'Zoltan Kaszas', 'date': 'APR 13 2025', 'time': '6:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'APR 13 2025, 6:00 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'APR 13 2025', 'time': '7:00 PM SUN', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $60', 'datetime': 'APR 13 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 14 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 14 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 14 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'APR 14 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 15 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 15 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 15 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'APR 15 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-improv/', 'title': 'Pittsburgh Improv', 'date': 'APR 15 2025', 'time': '7:00 PM TUE', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $40', 'datetime': 'APR 15 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 15 2025', 'time': '7:30 PM TUE', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 15 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/rick-wakeman/', 'title': 'Rick Wakeman', 'date': 'APR 15 2025', 'time': '8:00 PM TUE', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $83', 'datetime': 'APR 15 2025, 8:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/rick-wakeman/', 'title': 'Rick Wakeman', 'date': 'APR 15 2025', 'time': '8:00 PM TUE', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $422', 'datetime': 'APR 15 2025, 8:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 16 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 16 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 16 2025', 'time': '6:40 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'APR 16 2025, 6:40 PM WED'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 16 2025', 'time': '7:30 PM WED', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 16 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/corb-lund/', 'title': 'Corb Lund', 'date': 'APR 16 2025', 'time': '7:30 PM WED', 'datedesc': 'Pittsburgh Winery', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $824', 'datetime': 'APR 16 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/corb-lund/', 'title': 'Corb Lund', 'date': 'APR 16 2025', 'time': '7:30 PM WED', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $299', 'datetime': 'APR 16 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/choreolab/', 'title': 'ChoreoLab', 'date': 'APR 16 2025', 'time': '7:30 PM WED', 'datedesc': 'PPU Pittsburgh Playhouse - Complex', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $82', 'datetime': 'APR 16 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 17 2025', 'time': '12:35 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 17 2025, 12:35 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/washington-nationals/', 'title': 'Washington Nationals', 'date': 'APR 17 2025', 'time': '1:00 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 17 2025, 1:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/the-cult/', 'title': 'The Cult', 'date': 'APR 17 2025', 'time': '6:30 PM THU', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $30', 'datetime': 'APR 17 2025, 6:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/washington-capitals/', 'title': 'Washington Capitals', 'date': 'APR 17 2025', 'time': '7:00 PM THU', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $111', 'datetime': 'APR 17 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/steve-forbert/', 'title': 'Steve Forbert', 'date': 'APR 17 2025', 'time': '7:00 PM THU', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $64', 'datetime': 'APR 17 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-improv/', 'title': 'Pittsburgh Improv', 'date': 'APR 17 2025', 'time': '7:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $97', 'datetime': 'APR 17 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 17 2025', 'time': '7:30 PM THU', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 17 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/choreolab/', 'title': 'ChoreoLab', 'date': 'APR 17 2025', 'time': '7:30 PM THU', 'datedesc': 'George Rowland White Performance Center at PPU Pittsburgh Playhouse - Complex', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $82', 'datetime': 'APR 17 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/cleveland-guardians/', 'title': 'Cleveland Guardians', 'date': 'APR 18 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'APR 18 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/cleveland-guardians/', 'title': 'Cleveland Guardians', 'date': 'APR 18 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'APR 18 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-improv/', 'title': 'Pittsburgh Improv', 'date': 'APR 18 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $97', 'datetime': 'APR 18 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/thunder-from-down-under/', 'title': 'Thunder From Down Under', 'date': 'APR 18 2025', 'time': '7:00 PM FRI', 'datedesc': 'Event Center at Rivers Casino Pittsburgh', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $42', 'datetime': 'APR 18 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/choreolab/', 'title': 'ChoreoLab', 'date': 'APR 18 2025', 'time': '7:30 PM FRI', 'datedesc': 'George Rowland White Performance Center at PPU Pittsburgh Playhouse - Complex', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $82', 'datetime': 'APR 18 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 18 2025', 'time': '7:30 PM FRI', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'APR 18 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-improv/', 'title': 'Pittsburgh Improv', 'date': 'APR 18 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $97', 'datetime': 'APR 18 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/cleveland-guardians/', 'title': 'Cleveland Guardians', 'date': 'APR 19 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'APR 19 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 19 2025', 'time': '2:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $65', 'datetime': 'APR 19 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/choreolab/', 'title': 'ChoreoLab', 'date': 'APR 19 2025', 'time': '2:00 PM SAT', 'datedesc': 'George Rowland White Performance Center at PPU Pittsburgh Playhouse - Complex', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $82', 'datetime': 'APR 19 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/cleveland-guardians/', 'title': 'Cleveland Guardians', 'date': 'APR 19 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'APR 19 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-improv/', 'title': 'Pittsburgh Improv', 'date': 'APR 19 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $96', 'datetime': 'APR 19 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/the-linda-lindas/', 'title': 'The Linda Lindas', 'date': 'APR 19 2025', 'time': '7:00 PM SAT', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $55', 'datetime': 'APR 19 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 19 2025', 'time': '7:30 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $50', 'datetime': 'APR 19 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/choreolab/', 'title': 'ChoreoLab', 'date': 'APR 19 2025', 'time': '7:30 PM SAT', 'datedesc': 'PPU Pittsburgh Playhouse - Complex', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $82', 'datetime': 'APR 19 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-improv/', 'title': 'Pittsburgh Improv', 'date': 'APR 19 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $97', 'datetime': 'APR 19 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/cleveland-guardians/', 'title': 'Cleveland Guardians', 'date': 'APR 20 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $31', 'datetime': 'APR 20 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/some-like-it-hot/', 'title': 'Some Like It Hot', 'date': 'APR 20 2025', 'time': '1:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $100', 'datetime': 'APR 20 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/cleveland-guardians/', 'title': 'Cleveland Guardians', 'date': 'APR 20 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'APR 20 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/choreolab/', 'title': 'ChoreoLab', 'date': 'APR 20 2025', 'time': '2:00 PM SUN', 'datedesc': 'PPU Pittsburgh Playhouse - Complex', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $82', 'datetime': 'APR 20 2025, 2:00 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'APR 20 2025', 'time': '6:30 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $159', 'datetime': 'APR 20 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/denzel-curry/', 'title': 'Denzel Curry', 'date': 'APR 21 2025', 'time': '8:00 PM MON', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $58', 'datetime': 'APR 21 2025, 8:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/bob-dylan/', 'title': 'Bob Dylan', 'date': 'APR 21 2025', 'time': '8:00 PM MON', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $279', 'datetime': 'APR 21 2025, 8:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/wednesday-13/', 'title': 'Wednesday 13', 'date': 'APR 22 2025', 'time': '7:00 PM TUE', 'datedesc': 'Crafthouse Stage & Grill', 'location': '15236, Pittsburgh, PA, US', 'price': 'Prices from $45', 'datetime': 'APR 22 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/meshuggah/', 'title': 'Meshuggah', 'date': 'APR 22 2025', 'time': '7:00 PM TUE', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $65', 'datetime': 'APR 22 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/extc/', 'title': 'EXTC', 'date': 'APR 23 2025', 'time': '7:30 PM WED', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $74', 'datetime': 'APR 23 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/korine/', 'title': 'Korine', 'date': 'APR 23 2025', 'time': '8:00 PM WED', 'datedesc': 'Bottlerocket Social Hall', 'location': '15210, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'APR 23 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/venue/cafe-at-thunderbird-cafe-music-hall/', 'title': 'Cafe at Thunderbird Cafe & Music Hall', 'date': 'APR 23 2025', 'time': '8:00 PM WED', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $34', 'datetime': 'APR 23 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/john-waters/', 'title': 'John Waters', 'date': 'APR 24 2025', 'time': '7:30 PM THU', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $299', 'datetime': 'APR 24 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/anjelah-johnson/', 'title': 'Anjelah Johnson', 'date': 'APR 25 2025', 'time': '7:00 PM FRI', 'datedesc': 'Event Center at Rivers Casino Pittsburgh', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $62', 'datetime': 'APR 25 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/steph-tolev/', 'title': 'Steph Tolev', 'date': 'APR 25 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'APR 25 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 25 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'APR 25 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/nightly/', 'title': 'Nightly', 'date': 'APR 25 2025', 'time': '8:00 PM FRI', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $42', 'datetime': 'APR 25 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/steph-tolev/', 'title': 'Steph Tolev', 'date': 'APR 25 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'APR 25 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/shen-yun/', 'title': 'Shen Yun', 'date': 'APR 26 2025', 'time': '2:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $215', 'datetime': 'APR 26 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/acrisure-stadium-formerly-heinz-field/', 'title': 'Acrisure Stadium (formerly Heinz Field)', 'date': 'APR 26 2025', 'time': '6:30 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $56', 'datetime': 'APR 26 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/steph-tolev/', 'title': 'Steph Tolev', 'date': 'APR 26 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'APR 26 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/shen-yun/', 'title': 'Shen Yun', 'date': 'APR 26 2025', 'time': '7:30 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $233', 'datetime': 'APR 26 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/shen-yun/', 'title': 'Shen Yun', 'date': 'APR 26 2025', 'time': '7:30 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $233', 'datetime': 'APR 26 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/john-waite/', 'title': 'John Waite', 'date': 'APR 26 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $121', 'datetime': 'APR 26 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/steph-tolev/', 'title': 'Steph Tolev', 'date': 'APR 26 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'APR 26 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/shen-yun/', 'title': 'Shen Yun', 'date': 'APR 27 2025', 'time': '1:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $217', 'datetime': 'APR 27 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'APR 27 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'APR 27 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/steph-tolev/', 'title': 'Steph Tolev', 'date': 'APR 27 2025', 'time': '6:30 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $61', 'datetime': 'APR 27 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/sofia-isella/', 'title': 'Sofia Isella', 'date': 'APR 27 2025', 'time': '7:00 PM SUN', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $35', 'datetime': 'APR 27 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'APR 29 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 29 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/bullet-for-my-valentine/', 'title': 'Bullet for My Valentine', 'date': 'APR 29 2025', 'time': '5:30 PM TUE', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $81', 'datetime': 'APR 29 2025, 5:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/trivium/', 'title': 'Trivium', 'date': 'APR 29 2025', 'time': '6:30 PM TUE', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $74', 'datetime': 'APR 29 2025, 6:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'APR 29 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 29 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/venue/crafthouse-stage-grill/', 'title': 'Crafthouse Stage & Grill', 'date': 'APR 29 2025', 'time': '7:30 PM TUE', 'datedesc': 'Crafthouse Stage & Grill', 'location': '15236, Pittsburgh, PA, US', 'price': 'Prices from $42', 'datetime': 'APR 29 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'APR 30 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 30 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'APR 30 2025', 'time': '6:40 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'APR 30 2025, 6:40 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'MAY 01 2025', 'time': '12:35 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'MAY 01 2025, 12:35 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'MAY 01 2025', 'time': '1:00 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $31', 'datetime': 'MAY 01 2025, 1:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/howie-day/', 'title': 'Howie Day', 'date': 'MAY 01 2025', 'time': '7:30 PM THU', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $56', 'datetime': 'MAY 01 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/stavros-halkias/', 'title': 'Stavros Halkias', 'date': 'MAY 01 2025', 'time': '7:30 PM THU', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $71', 'datetime': 'MAY 01 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/san-diego-padres/', 'title': 'San Diego Padres', 'date': 'MAY 02 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 02 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/san-diego-padres/', 'title': 'San Diego Padres', 'date': 'MAY 02 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 02 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'MAY 02 2025', 'time': '7:30 PM FRI', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $168', 'datetime': 'MAY 02 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/san-diego-padres/', 'title': 'San Diego Padres', 'date': 'MAY 03 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 03 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'MAY 03 2025', 'time': '2:00 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $117', 'datetime': 'MAY 03 2025, 2:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/san-diego-padres/', 'title': 'San Diego Padres', 'date': 'MAY 03 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $33', 'datetime': 'MAY 03 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'MAY 03 2025', 'time': '7:30 PM SAT', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $120', 'datetime': 'MAY 03 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/california-guitar-trio/', 'title': 'California', 'date': 'MAY 03 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $74', 'datetime': 'MAY 03 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/california-guitar-trio/', 'title': 'California Guitar Trio', 'date': 'MAY 03 2025', 'time': '7:30 PM SAT', 'datedesc': 'Pittsburgh Winery', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $107', 'datetime': 'MAY 03 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/north-carolina-fc/', 'title': 'North Carolina FC', 'date': 'MAY 03 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $24', 'datetime': 'MAY 03 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'MAY 03 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $69', 'datetime': 'MAY 03 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/san-diego-padres/', 'title': 'San Diego Padres', 'date': 'MAY 04 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 04 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/come-from-away/', 'title': 'Come from Away', 'date': 'MAY 04 2025', 'time': '1:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $135', 'datetime': 'MAY 04 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/san-diego-padres/', 'title': 'San Diego Padres', 'date': 'MAY 04 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'MAY 04 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/fortune-feimster/', 'title': 'Fortune Feimster', 'date': 'MAY 04 2025', 'time': '5:00 PM SUN', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $529', 'datetime': 'MAY 04 2025, 5:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/micky-dolenz/', 'title': 'Micky Dolenz', 'date': 'MAY 04 2025', 'time': '5:00 PM SUN', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $230', 'datetime': 'MAY 04 2025, 5:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/fortune-feimster/', 'title': 'Fortune Feimster', 'date': 'MAY 04 2025', 'time': '5:00 PM SUN', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $106', 'datetime': 'MAY 04 2025, 5:00 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'MAY 04 2025', 'time': '6:30 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $160', 'datetime': 'MAY 04 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/nada-surf/', 'title': 'Nada Surf', 'date': 'MAY 04 2025', 'time': '7:00 PM SUN', 'datedesc': 'Spirit Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $38', 'datetime': 'MAY 04 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/bruce-hornsby/', 'title': 'Bruce Hornsby', 'date': 'MAY 04 2025', 'time': '7:30 PM SUN', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $117', 'datetime': 'MAY 04 2025, 7:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/deep-sea-diver/', 'title': 'Deep Sea Diver', 'date': 'MAY 04 2025', 'time': '8:00 PM SUN', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $60', 'datetime': 'MAY 04 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/fortune-feimster/', 'title': 'Fortune Feimster', 'date': 'MAY 04 2025', 'time': '8:00 PM SUN', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $416', 'datetime': 'MAY 04 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/micky-dolenz/', 'title': 'Micky Dolenz', 'date': 'MAY 04 2025', 'time': '8:30 PM SUN', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $190', 'datetime': 'MAY 04 2025, 8:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/tommyinnit/', 'title': 'TommyInnit', 'date': 'MAY 05 2025', 'time': '8:00 PM MON', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $73', 'datetime': 'MAY 05 2025, 8:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/malandain-ballet-biarritz/', 'title': 'Malandain Ballet Biarritz', 'date': 'MAY 07 2025', 'time': '7:30 PM WED', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $86', 'datetime': 'MAY 07 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/ac-dc/', 'title': 'AC/DC', 'date': 'MAY 08 2025', 'time': '7:00 PM THU', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $48', 'datetime': 'MAY 08 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/adrienne-iapalucci/', 'title': 'Adrienne Iapalucci', 'date': 'MAY 08 2025', 'time': '7:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $127', 'datetime': 'MAY 08 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/atlanta-braves/', 'title': 'Atlanta Braves', 'date': 'MAY 09 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'MAY 09 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/atlanta-braves/', 'title': 'Atlanta Braves', 'date': 'MAY 09 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $35', 'datetime': 'MAY 09 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/larry-fleet/', 'title': 'Larry Fleet', 'date': 'MAY 09 2025', 'time': '7:00 PM FRI', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $37', 'datetime': 'MAY 09 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/trevor-wallace/', 'title': 'Trevor Wallace', 'date': 'MAY 09 2025', 'time': '7:00 PM FRI', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $60', 'datetime': 'MAY 09 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/casey-rocket/', 'title': 'Casey Rocket', 'date': 'MAY 09 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $76', 'datetime': 'MAY 09 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 09 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'MAY 09 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/sammy-rash/', 'title': 'sammy rash', 'date': 'MAY 09 2025', 'time': '8:00 PM FRI', 'datedesc': 'Sunken Bus Studios', 'location': '15237, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $31', 'datetime': 'MAY 09 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/cheekface/', 'title': 'Cheekface', 'date': 'MAY 09 2025', 'time': '8:00 PM FRI', 'datedesc': 'Bottlerocket Social Hall', 'location': '15210, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $771', 'datetime': 'MAY 09 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/casey-rocket/', 'title': 'Casey Rocket', 'date': 'MAY 09 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $76', 'datetime': 'MAY 09 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/atlanta-braves/', 'title': 'Atlanta Braves', 'date': 'MAY 10 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $45', 'datetime': 'MAY 10 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/atlanta-braves/', 'title': 'Atlanta Braves', 'date': 'MAY 10 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $44', 'datetime': 'MAY 10 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/casey-rocket/', 'title': 'Casey Rocket', 'date': 'MAY 10 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $76', 'datetime': 'MAY 10 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 10 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'MAY 10 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/casey-rocket/', 'title': 'Casey Rocket', 'date': 'MAY 10 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $76', 'datetime': 'MAY 10 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/atlanta-braves/', 'title': 'Atlanta Braves', 'date': 'MAY 11 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'MAY 11 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/atlanta-braves/', 'title': 'Atlanta Braves', 'date': 'MAY 11 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'MAY 11 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 11 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'MAY 11 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/casey-rocket/', 'title': 'Casey Rocket', 'date': 'MAY 11 2025', 'time': '6:30 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $76', 'datetime': 'MAY 11 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/360-allstars/', 'title': '360 Allstars', 'date': 'MAY 14 2025', 'time': '7:30 PM WED', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $47', 'datetime': 'MAY 14 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/warren-zeiders/', 'title': 'Warren Zeiders', 'date': 'MAY 15 2025', 'time': '6:30 PM THU', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $61', 'datetime': 'MAY 15 2025, 6:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/chad-daniels/', 'title': 'Chad Daniels', 'date': 'MAY 16 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $139', 'datetime': 'MAY 16 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/bruce-cockburn/', 'title': 'Bruce Cockburn', 'date': 'MAY 16 2025', 'time': '7:30 PM FRI', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $175', 'datetime': 'MAY 16 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 16 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'MAY 16 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pearl-jam/', 'title': 'Pearl Jam', 'date': 'MAY 16 2025', 'time': '7:30 PM FRI', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $392', 'datetime': 'MAY 16 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/chad-daniels/', 'title': 'Chad Daniels', 'date': 'MAY 16 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'MAY 16 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/chad-daniels/', 'title': 'Chad Daniels', 'date': 'MAY 17 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $107', 'datetime': 'MAY 17 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/five-for-fighting/', 'title': 'Five For Fighting', 'date': 'MAY 17 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $798', 'datetime': 'MAY 17 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/chad-daniels/', 'title': 'Chad Daniels', 'date': 'MAY 17 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $107', 'datetime': 'MAY 17 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 18 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $97', 'datetime': 'MAY 18 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pearl-jam/', 'title': 'Pearl Jam', 'date': 'MAY 18 2025', 'time': '7:30 PM SUN', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $321', 'datetime': 'MAY 18 2025, 7:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'MAY 19 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'MAY 19 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'MAY 19 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'MAY 19 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'MAY 20 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 20 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'MAY 20 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'MAY 20 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/mayday-parade/', 'title': 'Mayday Parade', 'date': 'MAY 20 2025', 'time': '7:00 PM TUE', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $54', 'datetime': 'MAY 20 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/primus/', 'title': 'Primus', 'date': 'MAY 20 2025', 'time': '7:30 PM TUE', 'datedesc': 'Petersen Events Center', 'location': '15261, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $81', 'datetime': 'MAY 20 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'MAY 21 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'MAY 21 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'MAY 21 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 21 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 22 2025', 'time': '1:00 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 22 2025, 1:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 22 2025', 'time': '6:40 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $24', 'datetime': 'MAY 22 2025, 6:40 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 23 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 23 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 23 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 23 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/barry-manilow/', 'title': 'Barry Manilow', 'date': 'MAY 23 2025', 'time': '7:00 PM FRI', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $35', 'datetime': 'MAY 23 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 24 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 24 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 24 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 24 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/the-magical-music-of-harry-potter/', 'title': 'The Magical Music Of Harry Potter', 'date': 'MAY 25 2025', 'time': '12:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $125', 'datetime': 'MAY 25 2025, 12:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 25 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 25 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'MAY 25 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'MAY 25 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/benedum-center/', 'title': 'Benedum Center', 'date': 'MAY 25 2025', 'time': '4:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $130', 'datetime': 'MAY 25 2025, 4:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/avatar-the-last-airbender-in-concert/', 'title': 'Avatar the Last Airbender in Concert', 'date': 'MAY 25 2025', 'time': '8:00 PM SUN', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $332', 'datetime': 'MAY 25 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/nasser/', 'title': 'Nasser', 'date': 'MAY 28 2025', 'time': '8:00 PM WED', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $109', 'datetime': 'MAY 28 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/post-malone/', 'title': 'Post Malone', 'date': 'MAY 29 2025', 'time': '7:30 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $70', 'datetime': 'MAY 29 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 30 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'MAY 30 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'MAY 31 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $100', 'datetime': 'MAY 31 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-riverhounds/', 'title': 'Pittsburgh Riverhounds', 'date': 'MAY 31 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'MAY 31 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 01 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $104', 'datetime': 'JUN 01 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/gabriel-rutledge/', 'title': 'Gabriel Rutledge', 'date': 'JUN 01 2025', 'time': '7:00 PM SUN', 'datedesc': 'Sunken Bus Studios', 'location': '15237, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUN 01 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/houston-astros/', 'title': 'Houston Astros', 'date': 'JUN 03 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 03 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/houston-astros/', 'title': 'Houston Astros', 'date': 'JUN 03 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 03 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/houston-astros/', 'title': 'Houston Astros', 'date': 'JUN 04 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 04 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/houston-astros/', 'title': 'Houston Astros', 'date': 'JUN 04 2025', 'time': '6:40 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 04 2025, 6:40 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 04 2025', 'time': '7:30 PM WED', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $300', 'datetime': 'JUN 04 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/houston-astros/', 'title': 'Houston Astros', 'date': 'JUN 05 2025', 'time': '1:00 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 05 2025, 1:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/houston-astros/', 'title': 'Houston Astros', 'date': 'JUN 05 2025', 'time': '6:40 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 05 2025, 6:40 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/trisha-paytas/', 'title': 'Trisha Paytas', 'date': 'JUN 05 2025', 'time': '7:30 PM THU', 'datedesc': 'Benedum Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $100', 'datetime': 'JUN 05 2025, 7:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'JUN 05 2025', 'time': '11:59 PM THU', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $699', 'datetime': 'JUN 05 2025, 11:59 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/philadelphia-phillies/', 'title': 'Philadelphia Phillies', 'date': 'JUN 06 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $45', 'datetime': 'JUN 06 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/philadelphia-phillies/', 'title': 'Philadelphia Phillies', 'date': 'JUN 06 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $41', 'datetime': 'JUN 06 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/jon-pardi/', 'title': 'Jon Pardi', 'date': 'JUN 06 2025', 'time': '7:00 PM FRI', 'datedesc': 'Petersen Events Center', 'location': '15261, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $39', 'datetime': 'JUN 06 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 06 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $160', 'datetime': 'JUN 06 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/teddy-swims/', 'title': 'Teddy Swims', 'date': 'JUN 06 2025', 'time': '8:00 PM FRI', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $115', 'datetime': 'JUN 06 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/philadelphia-phillies/', 'title': 'Philadelphia Phillies', 'date': 'JUN 07 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $44', 'datetime': 'JUN 07 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/philadelphia-phillies/', 'title': 'Philadelphia Phillies', 'date': 'JUN 07 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $43', 'datetime': 'JUN 07 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/jorma-kaukonen/', 'title': 'Jorma Kaukonen', 'date': 'JUN 07 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $127', 'datetime': 'JUN 07 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/detroit-city-fc/', 'title': 'Detroit City FC', 'date': 'JUN 07 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'JUN 07 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/mt-joy/', 'title': 'Mt. Joy', 'date': 'JUN 07 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $84', 'datetime': 'JUN 07 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/philadelphia-phillies/', 'title': 'Philadelphia Phillies', 'date': 'JUN 08 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUN 08 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/philadelphia-phillies/', 'title': 'Philadelphia Phillies', 'date': 'JUN 08 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $39', 'datetime': 'JUN 08 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 08 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $170', 'datetime': 'JUN 08 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/miami-marlins/', 'title': 'Miami Marlins', 'date': 'JUN 09 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 09 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/miami-marlins/', 'title': 'Miami Marlins', 'date': 'JUN 09 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 09 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/miami-marlins/', 'title': 'Miami Marlins', 'date': 'JUN 10 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 10 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/miami-marlins/', 'title': 'Miami Marlins', 'date': 'JUN 10 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 10 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/miami-marlins/', 'title': 'Miami Marlins', 'date': 'JUN 11 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 11 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/miami-marlins/', 'title': 'Miami Marlins', 'date': 'JUN 11 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 11 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/sarah-millican/', 'title': 'Sarah Millican', 'date': 'JUN 11 2025', 'time': '8:00 PM WED', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $269', 'datetime': 'JUN 11 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/slightly-stoopid/', 'title': 'Slightly Stoopid', 'date': 'JUN 12 2025', 'time': '6:30 PM THU', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $113', 'datetime': 'JUN 12 2025, 6:30 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/honey-revenge/', 'title': 'Honey Revenge', 'date': 'JUN 13 2025', 'time': '7:00 PM FRI', 'datedesc': 'Cafe at Thunderbird Cafe & Music Hall', 'location': '15201, Pittsburgh, PA, US', 'price': 'Prices from $55', 'datetime': 'JUN 13 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 13 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $115', 'datetime': 'JUN 13 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/venue/stage-ae/', 'title': 'Stage AE', 'date': 'JUN 13 2025', 'time': '8:00 PM FRI', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $71', 'datetime': 'JUN 13 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 14 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $170', 'datetime': 'JUN 14 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/bob-schneider/', 'title': 'Bob Schneider', 'date': 'JUN 14 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $81', 'datetime': 'JUN 14 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 15 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $170', 'datetime': 'JUN 15 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/hells-belles/', 'title': 'Hells Belles', 'date': 'JUN 15 2025', 'time': '7:30 PM SUN', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $83', 'datetime': 'JUN 15 2025, 7:30 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/heinz-hall/', 'title': 'Heinz Hall', 'date': 'JUN 18 2025', 'time': '7:30 PM WED', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $59', 'datetime': 'JUN 18 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/adam-ray/', 'title': 'Adam Ray', 'date': 'JUN 19 2025', 'time': '8:00 PM THU', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $76', 'datetime': 'JUN 19 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/texas-rangers/', 'title': 'Texas Rangers', 'date': 'JUN 20 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 20 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/texas-rangers/', 'title': 'Texas Rangers', 'date': 'JUN 20 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 20 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 20 2025', 'time': '7:30 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $159', 'datetime': 'JUN 20 2025, 7:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/megan-moroney/', 'title': 'Megan Moroney', 'date': 'JUN 20 2025', 'time': '8:00 PM FRI', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $324', 'datetime': 'JUN 20 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/texas-rangers/', 'title': 'Texas Rangers', 'date': 'JUN 21 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $40', 'datetime': 'JUN 21 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/texas-rangers/', 'title': 'Texas Rangers', 'date': 'JUN 21 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $41', 'datetime': 'JUN 21 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/tampa-bay-rowdies/', 'title': 'Tampa Bay Rowdies', 'date': 'JUN 21 2025', 'time': '7:00 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'JUN 21 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 21 2025', 'time': '7:30 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $159', 'datetime': 'JUN 21 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/tampa-bay-rowdies/', 'title': 'Tampa Bay Rowdies', 'date': 'JUN 21 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $30', 'datetime': 'JUN 21 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/khruangbin/', 'title': 'Khruangbin', 'date': 'JUN 21 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $90', 'datetime': 'JUN 21 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/texas-rangers/', 'title': 'Texas Rangers', 'date': 'JUN 22 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'JUN 22 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/texas-rangers/', 'title': 'Texas Rangers', 'date': 'JUN 22 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'JUN 22 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 22 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $159', 'datetime': 'JUN 22 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/jimmy-carr/', 'title': 'Jimmy Carr', 'date': 'JUN 22 2025', 'time': '7:00 PM SUN', 'datedesc': 'Byham Theater', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $83', 'datetime': 'JUN 22 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/ryan-adams/', 'title': 'Ryan Adams', 'date': 'JUN 26 2025', 'time': '8:00 PM THU', 'datedesc': 'Carnegie Music Hall', 'location': '15213, Pittsburgh, PA, US', 'price': 'Prices from $70', 'datetime': 'JUN 26 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/new-york-mets/', 'title': 'New York Mets', 'date': 'JUN 27 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUN 27 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/new-york-mets/', 'title': 'New York Mets', 'date': 'JUN 27 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUN 27 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 27 2025', 'time': '7:00 PM FRI', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $199', 'datetime': 'JUN 27 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/new-york-mets/', 'title': 'New York Mets', 'date': 'JUN 28 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $45', 'datetime': 'JUN 28 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/new-york-mets/', 'title': 'New York Mets', 'date': 'JUN 28 2025', 'time': '4:05 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $40', 'datetime': 'JUN 28 2025, 4:05 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 28 2025', 'time': '7:00 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $204', 'datetime': 'JUN 28 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/westchester-sc/', 'title': 'Westchester SC', 'date': 'JUN 28 2025', 'time': '11:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'JUN 28 2025, 11:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/new-york-mets/', 'title': 'New York Mets', 'date': 'JUN 29 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'JUN 29 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/new-york-mets/', 'title': 'New York Mets', 'date': 'JUN 29 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'JUN 29 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/', 'title': 'Pittsburgh Symphony Orchestra', 'date': 'JUN 29 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $248', 'datetime': 'JUN 29 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'JUN 30 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 30 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'JUN 30 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUN 30 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'JUL 01 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 01 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'JUL 01 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 01 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'JUL 02 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 02 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/st-louis-cardinals/', 'title': 'St. Louis Cardinals', 'date': 'JUL 02 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 02 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/diana-krall/', 'title': 'Diana Krall', 'date': 'JUL 02 2025', 'time': '7:30 PM WED', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $87', 'datetime': 'JUL 02 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/new-mexico-united/', 'title': 'New Mexico United', 'date': 'JUL 04 2025', 'time': '7:59 PM FRI', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'JUL 04 2025, 7:59 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/billy-joel/', 'title': 'Billy Joel', 'date': 'JUL 05 2025', 'time': '7:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $100', 'datetime': 'JUL 05 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/teddy-swims/', 'title': 'Teddy Swims', 'date': 'JUL 12 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $195', 'datetime': 'JUL 12 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/teddy-swims/', 'title': 'Teddy Swims', 'date': 'JUL 12 2025', 'time': '8:00 PM SAT', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $154', 'datetime': 'JUL 12 2025, 8:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/loudoun-united-fc/', 'title': 'Loudoun United FC', 'date': 'JUL 13 2025', 'time': '5:00 PM SUN', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'JUL 13 2025, 5:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/loudoun-united-fc/', 'title': 'Loudoun United FC', 'date': 'JUL 13 2025', 'time': '7:59 PM SUN', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $30', 'datetime': 'JUL 13 2025, 7:59 PM SUN'
+
+'url': 'https://pittsburgh.events/venue/city-winery-pittsburgh/', 'title': 'City Winery Pittsburgh', 'date': 'JUL 14 2025', 'time': '7:30 PM MON', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $87', 'datetime': 'JUL 14 2025, 7:30 PM MON'
+
+'url': 'https://pittsburgh.events/venue/pittsburgh-winery/', 'title': 'Pittsburgh Winery', 'date': 'JUL 14 2025', 'time': '7:30 PM MON', 'datedesc': 'Pittsburgh Winery', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $135', 'datetime': 'JUL 14 2025, 7:30 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/chicago-white-sox/', 'title': 'Chicago White Sox', 'date': 'JUL 18 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUL 18 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/chicago-white-sox/', 'title': 'Chicago White Sox', 'date': 'JUL 18 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUL 18 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/ghost-band/', 'title': 'Ghost (Band)', 'date': 'JUL 18 2025', 'time': '8:00 PM FRI', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $76', 'datetime': 'JUL 18 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/chicago-white-sox/', 'title': 'Chicago White Sox', 'date': 'JUL 19 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 19 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/chicago-white-sox/', 'title': 'Chicago White Sox', 'date': 'JUL 19 2025', 'time': '6:40 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 19 2025, 6:40 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/a-j-ghent/', 'title': 'A. J. Ghent', 'date': 'JUL 19 2025', 'time': '7:30 PM SAT', 'datedesc': 'Pittsburgh Winery', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $121', 'datetime': 'JUL 19 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/a-j-ghent/', 'title': 'A. J. Ghent', 'date': 'JUL 19 2025', 'time': '7:30 PM SAT', 'datedesc': 'City Winery Pittsburgh', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $74', 'datetime': 'JUL 19 2025, 7:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/chicago-white-sox/', 'title': 'Chicago White Sox', 'date': 'JUL 20 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 20 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/chicago-white-sox/', 'title': 'Chicago White Sox', 'date': 'JUL 20 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 20 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/detroit-tigers/', 'title': 'Detroit Tigers', 'date': 'JUL 21 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 21 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/detroit-tigers/', 'title': 'Detroit Tigers', 'date': 'JUL 21 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 21 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/detroit-tigers/', 'title': 'Detroit Tigers', 'date': 'JUL 22 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 22 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/detroit-tigers/', 'title': 'Detroit Tigers', 'date': 'JUL 22 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 22 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/shinedown/', 'title': 'Shinedown', 'date': 'JUL 22 2025', 'time': '7:00 PM TUE', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $81', 'datetime': 'JUL 22 2025, 7:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/detroit-tigers/', 'title': 'Detroit Tigers', 'date': 'JUL 23 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 23 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/detroit-tigers/', 'title': 'Detroit Tigers', 'date': 'JUL 23 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 23 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/keshi/', 'title': 'Keshi', 'date': 'JUL 23 2025', 'time': '7:30 PM WED', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $75', 'datetime': 'JUL 23 2025, 7:30 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/dude-perfect/', 'title': 'Dude Perfect', 'date': 'JUL 24 2025', 'time': '7:00 PM THU', 'datedesc': 'Petersen Events Center', 'location': '15261, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $53', 'datetime': 'JUL 24 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/arizona-diamondbacks/', 'title': 'Arizona Diamondbacks', 'date': 'JUL 25 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 25 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/arizona-diamondbacks/', 'title': 'Arizona Diamondbacks', 'date': 'JUL 25 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 25 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/arizona-diamondbacks/', 'title': 'Arizona Diamondbacks', 'date': 'JUL 26 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUL 26 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/arizona-diamondbacks/', 'title': 'Arizona Diamondbacks', 'date': 'JUL 26 2025', 'time': '6:40 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $38', 'datetime': 'JUL 26 2025, 6:40 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/arizona-diamondbacks/', 'title': 'Arizona Diamondbacks', 'date': 'JUL 27 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 27 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/arizona-diamondbacks/', 'title': 'Arizona Diamondbacks', 'date': 'JUL 27 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'JUL 27 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/miami-fc/', 'title': 'Miami FC', 'date': 'JUL 29 2025', 'time': '7:59 PM TUE', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'JUL 29 2025, 7:59 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/eric-eaton/', 'title': 'Eric Eaton', 'date': 'JUL 30 2025', 'time': '7:00 PM WED', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $78', 'datetime': 'JUL 30 2025, 7:00 PM WED'
+
+'url': 'https://pittsburgh.events/venue/heinz-hall/', 'title': 'Heinz Hall', 'date': 'AUG 02 2025', 'time': '7:00 PM SAT', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $129', 'datetime': 'AUG 02 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-riverhounds/', 'title': 'Pittsburgh Riverhounds', 'date': 'AUG 02 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'AUG 02 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/heinz-hall/', 'title': 'Heinz Hall', 'date': 'AUG 03 2025', 'time': '2:30 PM SUN', 'datedesc': 'Heinz Hall', 'location': '15222, Pittsburgh, PA, US', 'price': 'Prices from $129', 'datetime': 'AUG 03 2025, 2:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/san-francisco-giants/', 'title': 'San Francisco Giants', 'date': 'AUG 04 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 04 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/san-francisco-giants/', 'title': 'San Francisco Giants', 'date': 'AUG 04 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 04 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/san-francisco-giants/', 'title': 'San Francisco Giants', 'date': 'AUG 05 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 05 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/san-francisco-giants/', 'title': 'San Francisco Giants', 'date': 'AUG 05 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 05 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/san-francisco-giants/', 'title': 'San Francisco Giants', 'date': 'AUG 06 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 06 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/san-francisco-giants/', 'title': 'San Francisco Giants', 'date': 'AUG 06 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 06 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 07 2025', 'time': '1:00 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 07 2025, 1:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 07 2025', 'time': '6:40 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 07 2025, 6:40 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/lord-huron/', 'title': 'Lord Huron', 'date': 'AUG 07 2025', 'time': '8:00 PM THU', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $57', 'datetime': 'AUG 07 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 08 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 08 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 08 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 08 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/craig-conant/', 'title': 'Craig Conant', 'date': 'AUG 08 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'AUG 08 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/craig-conant/', 'title': 'Craig Conant', 'date': 'AUG 08 2025', 'time': '9:30 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'AUG 08 2025, 9:30 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 09 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 09 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/craig-conant/', 'title': 'Craig Conant', 'date': 'AUG 09 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'AUG 09 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 09 2025', 'time': '6:40 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 09 2025, 6:40 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/orange-county-sc/', 'title': 'Orange County SC', 'date': 'AUG 09 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'AUG 09 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/craig-conant/', 'title': 'Craig Conant', 'date': 'AUG 09 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'AUG 09 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 10 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 10 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/cincinnati-reds/', 'title': 'Cincinnati Reds', 'date': 'AUG 10 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 10 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/craig-conant/', 'title': 'Craig Conant', 'date': 'AUG 10 2025', 'time': '6:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'AUG 10 2025, 6:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/craig-conant/', 'title': 'Craig Conant', 'date': 'AUG 10 2025', 'time': '6:30 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $37', 'datetime': 'AUG 10 2025, 6:30 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/disney-descendants/', 'title': 'Disney Descendants', 'date': 'AUG 14 2025', 'time': '7:00 PM THU', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $51', 'datetime': 'AUG 14 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/charleston-battery/', 'title': 'Charleston Battery', 'date': 'AUG 16 2025', 'time': '7:00 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'AUG 16 2025, 7:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/charleston-battery/', 'title': 'Charleston Battery', 'date': 'AUG 16 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $30', 'datetime': 'AUG 16 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/toronto-blue-jays/', 'title': 'Toronto Blue Jays', 'date': 'AUG 18 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 18 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/toronto-blue-jays/', 'title': 'Toronto Blue Jays', 'date': 'AUG 18 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 18 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/toronto-blue-jays/', 'title': 'Toronto Blue Jays', 'date': 'AUG 19 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $31', 'datetime': 'AUG 19 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/toronto-blue-jays/', 'title': 'Toronto Blue Jays', 'date': 'AUG 19 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $30', 'datetime': 'AUG 19 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/linkin-park/', 'title': 'Linkin Park', 'date': 'AUG 19 2025', 'time': '7:30 PM TUE', 'datedesc': 'PPG Paints Arena', 'location': '15219, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $75', 'datetime': 'AUG 19 2025, 7:30 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/toronto-blue-jays/', 'title': 'Toronto Blue Jays', 'date': 'AUG 20 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 20 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/toronto-blue-jays/', 'title': 'Toronto Blue Jays', 'date': 'AUG 20 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 20 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'AUG 20 2025', 'time': '1:00 PM WED', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $5500', 'datetime': 'AUG 20 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/colorado-rockies/', 'title': 'Colorado Rockies', 'date': 'AUG 22 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'AUG 22 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/colorado-rockies/', 'title': 'Colorado Rockies', 'date': 'AUG 22 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'AUG 22 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/colorado-rockies/', 'title': 'Colorado Rockies', 'date': 'AUG 23 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 23 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/colorado-rockies/', 'title': 'Colorado Rockies', 'date': 'AUG 23 2025', 'time': '6:40 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 23 2025, 6:40 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/colorado-rockies/', 'title': 'Colorado Rockies', 'date': 'AUG 24 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 24 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/colorado-rockies/', 'title': 'Colorado Rockies', 'date': 'AUG 24 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'AUG 24 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/texas-tailgaters/', 'title': 'Texas Tailgaters', 'date': 'AUG 29 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $150', 'datetime': 'AUG 29 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'AUG 30 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $20', 'datetime': 'AUG 30 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/texas-tailgaters/', 'title': 'Texas Tailgaters', 'date': 'AUG 30 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $319', 'datetime': 'AUG 30 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/los-angeles-dodgers/', 'title': 'Los Angeles Dodgers', 'date': 'SEP 02 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'SEP 02 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/los-angeles-dodgers/', 'title': 'Los Angeles Dodgers', 'date': 'SEP 02 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'SEP 02 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/los-angeles-dodgers/', 'title': 'Los Angeles Dodgers', 'date': 'SEP 03 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $31', 'datetime': 'SEP 03 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/los-angeles-dodgers/', 'title': 'Los Angeles Dodgers', 'date': 'SEP 03 2025', 'time': '6:40 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $30', 'datetime': 'SEP 03 2025, 6:40 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/los-angeles-dodgers/', 'title': 'Los Angeles Dodgers', 'date': 'SEP 04 2025', 'time': '1:00 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'SEP 04 2025, 1:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/los-angeles-dodgers/', 'title': 'Los Angeles Dodgers', 'date': 'SEP 04 2025', 'time': '6:40 PM THU', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $32', 'datetime': 'SEP 04 2025, 6:40 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'SEP 05 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 05 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'SEP 05 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 05 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'SEP 05 2025', 'time': '11:59 PM FRI', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $872', 'datetime': 'SEP 05 2025, 11:59 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/toonfusion/', 'title': 'ToonFusion', 'date': 'SEP 06 2025', 'time': '9:30 AM SAT', 'datedesc': 'David L. Lawrence Convention Center', 'location': '15222, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $50', 'datetime': 'SEP 06 2025, 9:30 AM SAT'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'SEP 06 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 06 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'SEP 06 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $23', 'datetime': 'SEP 06 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'SEP 06 2025', 'time': '6:40 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 06 2025, 6:40 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'SEP 07 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 07 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/milwaukee-brewers/', 'title': 'Milwaukee Brewers', 'date': 'SEP 07 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 07 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/ashley-gavin/', 'title': 'Ashley Gavin', 'date': 'SEP 11 2025', 'time': '7:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'SEP 11 2025, 7:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/ashley-gavin/', 'title': 'Ashley Gavin', 'date': 'SEP 12 2025', 'time': '7:00 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $86', 'datetime': 'SEP 12 2025, 7:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/ashley-gavin/', 'title': 'Ashley Gavin', 'date': 'SEP 12 2025', 'time': '9:15 PM FRI', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $99', 'datetime': 'SEP 12 2025, 9:15 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'SEP 13 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $301', 'datetime': 'SEP 13 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/ashley-gavin/', 'title': 'Ashley Gavin', 'date': 'SEP 13 2025', 'time': '6:30 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'SEP 13 2025, 6:30 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/louisville-city-fc/', 'title': 'Louisville City FC', 'date': 'SEP 13 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'SEP 13 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/ashley-gavin/', 'title': 'Ashley Gavin', 'date': 'SEP 13 2025', 'time': '9:00 PM SAT', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $85', 'datetime': 'SEP 13 2025, 9:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/christian-johnson/', 'title': 'Christian Johnson', 'date': 'SEP 14 2025', 'time': '7:00 PM SUN', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $109', 'datetime': 'SEP 14 2025, 7:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'SEP 15 2025', 'time': '1:00 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'SEP 15 2025, 1:00 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'SEP 15 2025', 'time': '6:40 PM MON', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 15 2025, 6:40 PM MON'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'SEP 16 2025', 'time': '1:00 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'SEP 16 2025, 1:00 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'SEP 16 2025', 'time': '6:40 PM TUE', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 16 2025, 6:40 PM TUE'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'SEP 17 2025', 'time': '12:35 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 17 2025, 12:35 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/chicago-cubs/', 'title': 'Chicago Cubs', 'date': 'SEP 17 2025', 'time': '1:00 PM WED', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $22', 'datetime': 'SEP 17 2025, 1:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/yacht-rock-revue/', 'title': 'Yacht Rock Revue', 'date': 'SEP 18 2025', 'time': '8:00 PM THU', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $48', 'datetime': 'SEP 18 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-pirates/', 'title': 'Pittsburgh Pirates', 'date': 'SEP 19 2025', 'time': '1:00 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 19 2025, 1:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/athletics/', 'title': 'Athletics', 'date': 'SEP 19 2025', 'time': '6:40 PM FRI', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 19 2025, 6:40 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'SEP 20 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $112', 'datetime': 'SEP 20 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-pirates/', 'title': 'Pittsburgh Pirates', 'date': 'SEP 20 2025', 'time': '1:00 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 20 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/athletics/', 'title': 'Athletics', 'date': 'SEP 20 2025', 'time': '6:40 PM SAT', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 20 2025, 6:40 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-pirates/', 'title': 'Pittsburgh Pirates', 'date': 'SEP 21 2025', 'time': '1:00 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 21 2025, 1:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/athletics/', 'title': 'Athletics', 'date': 'SEP 21 2025', 'time': '1:35 PM SUN', 'datedesc': 'PNC Park', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $25', 'datetime': 'SEP 21 2025, 1:35 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/peter-antoniou/', 'title': 'Peter Antoniou', 'date': 'SEP 25 2025', 'time': '8:00 PM THU', 'datedesc': 'Pittsburgh Improv', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $80', 'datetime': 'SEP 25 2025, 8:00 PM THU'
+
+'url': 'https://pittsburgh.events/tickets/gavin-adcock/', 'title': 'Gavin Adcock', 'date': 'SEP 26 2025', 'time': '8:00 PM FRI', 'datedesc': 'Stage AE', 'location': '15212, Pittsburgh, PA, US', 'price': 'Prices from $61', 'datetime': 'SEP 26 2025, 8:00 PM FRI'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'SEP 27 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $36', 'datetime': 'SEP 27 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/las-vegas-lights-fc/', 'title': 'Las Vegas Lights FC', 'date': 'SEP 27 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $30', 'datetime': 'SEP 27 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'OCT 04 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $274', 'datetime': 'OCT 04 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'OCT 04 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $30', 'datetime': 'OCT 04 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'OCT 11 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $123', 'datetime': 'OCT 11 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/indy-eleven/', 'title': 'Indy Eleven', 'date': 'OCT 11 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $30', 'datetime': 'OCT 11 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/venue/carnegie-of-homestead-music-hall/', 'title': 'Carnegie of Homestead Music Hall', 'date': 'OCT 12 2025', 'time': '8:00 PM SUN', 'datedesc': 'Carnegie of Homestead Music Hall', 'location': '15120, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $103', 'datetime': 'OCT 12 2025, 8:00 PM SUN'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'OCT 25 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $31', 'datetime': 'OCT 25 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/phoenix-rising-fc/', 'title': 'Phoenix Rising FC', 'date': 'OCT 25 2025', 'time': '7:59 PM SAT', 'datedesc': 'Highmark Stadium (Pittsburgh)', 'location': '15219, Pittsburgh, PA, US', 'price': 'Prices from $26', 'datetime': 'OCT 25 2025, 7:59 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'NOV 15 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $203', 'datetime': 'NOV 15 2025, 1:00 PM SAT'
+
+'url': 'https://pittsburgh.events/tickets/anthony-raneri/', 'title': 'Anthony Raneri', 'date': 'NOV 19 2025', 'time': '8:00 PM WED', 'datedesc': 'Club Cafe', 'location': '15203, Pittsburgh, PA, US', 'price': 'Prices from $771', 'datetime': 'NOV 19 2025, 8:00 PM WED'
+
+'url': 'https://pittsburgh.events/tickets/pittsburgh-panthers-football/', 'title': 'Pittsburgh Panthers Football', 'date': 'NOV 29 2025', 'time': '1:00 PM SAT', 'datedesc': 'Acrisure Stadium (formerly Heinz Field)', 'location': '15212, Pittsburgh, Pennsylvania, US', 'price': 'Prices from $92', 'datetime': 'NOV 29 2025, 1:00 PM SAT'
+

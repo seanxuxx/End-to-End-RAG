@@ -97,6 +97,8 @@ class RetrieverModel():
         # Initialize Pinecone Index and Vector Store
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
+        self.retriever = self.vector_store.as_retriever()
+
         logging.info(f'Initialized Retriver model:\n{self.__dict__}\n')
 
         if self.is_upsert_data:
@@ -176,8 +178,8 @@ class RetrieverModel():
         self.vector_store.add_documents(chunks)
         logging.info('Done\n')
 
-    def query_vector_store(self, query: Query, k=10):
-        query['context'] = self.vector_store.similarity_search(query["question"], k)
+    def query_vector_store(self, query: Query):
+        query['context'] = self.retriever.invoke(query['question'])
 
 
 if __name__ == '__main__':

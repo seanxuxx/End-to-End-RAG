@@ -1,11 +1,12 @@
 import logging
 import os
 import re
-from typing import List
+from typing import List, TypedDict
 
 import torch
 from dotenv import load_dotenv
 from langchain_community.document_loaders import DirectoryLoader
+from langchain_core.documents import Document
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain_openai.embeddings import OpenAIEmbeddings
@@ -26,6 +27,18 @@ pc = Pinecone(api_key=pinecone_api_key)
 
 DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
+
+
+# Using TypedDict keeps track of input question, retrieved context, and generated answer,
+# helping maintain a structured, type-safe, and modular workflow.
+# The idea is adopted from Build a Retrieval Augmented Generation (RAG) App: Part 1 | 🦜️🔗 LangChain
+# https://python.langchain.com/docs/tutorials/rag/
+
+
+class Query(TypedDict):
+    question: str
+    context: List[Document]
+    answer: str
 
 
 class RetrieverModel():
@@ -162,6 +175,9 @@ class RetrieverModel():
         logging.info(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
         self.vector_store.add_documents(chunks)
         logging.info('Done\n')
+
+    def query_vector_store(self, query: Query, k=10):
+        query['context'] = self.vector_store.similarity_search(query["question"], k)
 
 
 if __name__ == '__main__':

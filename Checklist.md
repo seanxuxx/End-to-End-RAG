@@ -6,11 +6,21 @@
 * [X]  Automatic data annotation @Xiaotong
 * [X]  Determine data size @Lexa
 
-### Data annotation quality check 
-* [ ]  (1) **Manually check the quality of generated data annotation**  @Lexa @Xiaotong @Sean
+### Data Annotation Quality Check
+
+Manually check the quality of generated data annotation.
+
+* [X]  (1) `Annotated_dataeventscmu.txt` @Lexa
+* [ ]  (1) `Annotated_dataeventspittsburgh.txt` @Sean
+* [ ]  (1) `Annotated_datageneralinfo_cmu.txt` @Xiaotong
+* [ ]  (1) `Annotated_datageneralinfo_pittsburgh.txt`@Xiaotong
+* [X]  (1) `Annotated_datamusicculture.txt` @Lexa
+* [X]  (1) `Annotated_datasports.txt` @Lexa
+
+### Dataset
 * [ ]  (2) Split train/test data: 200-300 test samples  @Xiaotong
-* [ ]  (3) Randomly extract 50 samples from test set  @Xiaotong
-* [ ]  (4) Compute IAA @Sean @Lexa
+* [ ]  (3) Randomly extract 50 samples from the test set  @Xiaotong
+* [ ]  (4) Compute IAA  @Sean @Lexa
 
 ## Pipeline
 
@@ -18,24 +28,24 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 ### Data Store
 
-* [X]  Whether to chunk raw_data and preformatted_data separately?  @Sean
-* [ ]  (1) **Semantic chunker length issue: 33/8156 chunks exceed the limit of 40960 bytes per vector. Use `RecursiveCharacterTextSplitter` to sub-split using length outliers**  @Sean
-* [ ]  (2) Sentence-generation model options for embedding  @Lexa
+* [ ]  (2) Don't chunk raw_data and preformatted_data separately?  @Sean
+* [ ]  (2) Semantic chunker length issue: 33/8156 chunks exceed the limit of 40960 bytes per vector. Use `RecursiveCharacterTextSplitter` to sub-split using length outliers.  @Sean
+* [ ]  (2) `sentence-generation` model options for embedding. See the [leaderboard](https://sbert.net/docs/sentence_transformer/pretrained_models.html) for reference.   @Lexa
 
 ### Retriever
 
-* [ ] (2) **Hyperparameters for `PineconeVectorStore.as_retriever()`**  @Sean
+* [ ]  (2) Hyperparameters for `PineconeVectorStore.as_retriever()`  @Sean
 * [ ]  Reranking (TBD)
 
 ### QA Generator
 
 * [ ]  (2) Prompt template  @Xiaotong
-* [ ]  (2) **Hyperparameters for `pipeline()`**  @Sean
-* [ ]  (2) Text-generation model options  @Lexa
+* [ ]  (2) Hyperparameters for `pipeline()`  @Sean
+* [ ]  (2) `transformer` model options for rag generator. See [Hugging Face model page](https://huggingface.co/models) for reference. Models should support either `"text-generation"` or `"text2text-generation"` tasks.  @Lexa
 
 ## Experiments
 
-* [ ]  (3) Config experiment pipeline  @Xiaotong
+* [ ]  (3) Model variant experiment pipeline  @Xiaotong
 * [ ]  (3) Performance evaluation pipeline  @Lexa
 
 ## Submission

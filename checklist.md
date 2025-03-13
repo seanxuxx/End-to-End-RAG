@@ -41,7 +41,7 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 * [ ]  (2) Prompt template  @Xiaotong
 * [ ]  (2) Hyperparameters for `pipeline()`  @Sean
-* [ ]  (2) `transformer` model options for rag generator. See [Hugging Face model page](https://huggingface.co/models) for reference. Models should support either `"text-generation"` or `"text2text-generation"` tasks. We currently use `mistralai/Mistral-7B-Instruct-v0.2`  @Lexa
+* [ ]  (2) `transformer` model options for rag generator. See [Hugging Face model page](https://huggingface.co/models) for reference. Models should support `"text2text-generation"` tasks. We currently use `google/flan-t5-large`  @Lexa
 
 ## Experiments
 

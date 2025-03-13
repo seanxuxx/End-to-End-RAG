@@ -15,6 +15,8 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
+from transformers import (AutoModelForCausalLM, AutoTokenizer,
+                          BitsAndBytesConfig, pipeline)
 
 from utils import ParagraphTextSplitter, set_logger
 
@@ -29,13 +31,34 @@ DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
 
 
-# Using TypedDict keeps track of input question, retrieved context, and generated answer,
-# helping maintain a structured, type-safe, and modular workflow.
-# The idea is adopted from Build a Retrieval Augmented Generation (RAG) App: Part 1 | 🦜️🔗 LangChain
-# https://python.langchain.com/docs/tutorials/rag/
+PROMPT_IN_CHAT_FORMAT = [
+    {
+        "role": "system",
+        "content": """Using the information contained in the context,
+give a comprehensive answer to the question.
+Respond only to the question asked, response should be concise and relevant to the question.
+If the answer cannot be deduced from the context, do not give an answer.""",
+    },
+    {
+        "role": "user",
+        "content": """Context:
+{context}
+---
+Now here is the question you need to answer.
+
+Question: {question}""",
+    },
+]
 
 
 class Query(TypedDict):
+    """
+    _summary_
+    Using TypedDict keeps track of input question, retrieved context, and generated answer,
+    helping maintain a structured, type-safe, and modular workflow.
+    The idea is adopted from Build a Retrieval Augmented Generation (RAG) App: Part 1 | 🦜️🔗 LangChain
+    https://python.langchain.com/docs/tutorials/rag/
+    """
     question: str
     context: List[Document]
     answer: str
@@ -182,14 +205,59 @@ class DataStore():
         query['context'] = self.retriever.invoke(query['question'])
 
 
+class RetrivalLLM():
+    def __init__(self, model_name: str, data_store: DataStore):
+        # Retriver config
+        self.retriever = data_store.vector_store.as_retriever(
+            search_type="similarity",
+            search_kwargs={"k": 5},
+        )
+
+        # LLM config
+        torch.cuda.empty_cache()
+        # model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2-large")
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        if not tokenizer.pad_token:
+            tokenizer.pad_token = tokenizer.eos_token
+        self.llm = pipeline(task="text-generation",
+                            model=model_name,
+                            tokenizer=tokenizer,
+                            max_new_tokens=512,
+                            torch_dtype=torch.bfloat16,
+                            device=DEVICE)
+
+        # Prompt config
+        self.prompt_template = self.llm.tokenizer.apply_chat_template(
+            PROMPT_IN_CHAT_FORMAT, tokenize=False, add_generation_prompt=True
+        )
+
+    def query_answer(self, query: Query):
+        query['context'] = self.retriever.invoke(query['question'])
+        context = ['\n'+doc.page_content for doc in query['context']]
+        prompt = self.prompt_template.format(context=context, question=query['question'])
+        response = self.llm(prompt, return_full_text=False)
+        query['answer'] = response[0]["generated_text"].strip()  # type: ignore
+        torch.cuda.empty_cache()
+
+
 if __name__ == '__main__':
 
     set_logger('rag_pipeline')
     logging.info(f'Device: {DEVICE}')
 
-    retriver = DataStore(
+    data_store = DataStore(
         model_name='all-mpnet-base-v2',
         chunker_name='character_chunker',
         dir_to_chunk='raw_data',
-        dir_preformatted='formatted_data'
+        dir_preformatted='formatted_data',
+        is_upsert_data=False
     )
+
+    model_name = 'mistralai/Mistral-7B-Instruct-v0.2'
+    rag_model = RetrivalLLM(model_name=model_name, data_store=data_store)
+
+    question = "When is the Vintage Pittsburgh retro fair taking place?"
+    query = Query(question=question, context=[], answer="")
+    rag_model.query_answer(query)
+
+    logging.info(f"Question: {question}\nAnswer: {query['answer']}")

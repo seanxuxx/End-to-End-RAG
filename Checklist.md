@@ -3,11 +3,14 @@
 ## Data
 
 * [X]  Scrape raw text
-* [X]  **Auotomatic data annotation** @Xiaotong
-* [ ]  Determine data size @Lexa
-* [ ]  Mannual data annotation @Lexa
+* [X]  Auotomatic data annotation @Xiaotong
+* [X]  Determine data size @Lexa
+
+### Data annotation quality check @Lexa @Xiaotong @Sean
+* [ ]  Manually check the quality of generated data annotation
 * [ ]  *Split trian/test data (TBD)*
-* [ ]  *Measure IAA*
+* [ ]  Randomly extract 10 QA from **test set** (6*10), compute IAA and report findings
+
 
 ## Pipeline
 

@@ -215,9 +215,6 @@ class DataStore():
         self.vector_store.add_documents(chunks)
         logging.info("Done\n")
 
-    def query_vector_store(self, query: Query):
-        query['context'] = self.retriever.invoke(query['question'])
-
 
 class RetrivalLM():
     def __init__(self, model_name: str, data_store: DataStore, **kwargs):

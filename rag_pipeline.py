@@ -1,3 +1,4 @@
+import argparse
 import logging
 import os
 import re
@@ -49,6 +50,19 @@ Now here is the question you need to answer.
 Question: {question}""",
     },
 ]
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    # DataStore paramters
+    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
+    parser.add_argument('--chunker_name', type=str, default='character_chunker')
+    parser.add_argument('--chunk_size', type=int, default=500)
+    parser.add_argument('--chunk_overlap', type=int, default=100)
+    parser.add_argument('--similarity_score', type=str, default='cosine')
+    # Retriver parameters
+    parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
+    return parser.parse_args()
 
 
 class Query(TypedDict):
@@ -245,16 +259,12 @@ if __name__ == '__main__':
     set_logger('rag_pipeline')
     logging.info(f'Device: {DEVICE}')
 
-    data_store = DataStore(
-        model_name='all-mpnet-base-v2',
-        chunker_name='character_chunker',
-        dir_to_chunk='raw_data',
-        dir_preformatted='formatted_data',
-        is_upsert_data=False
-    )
+    args = parse_args()
 
-    model_name = 'mistralai/Mistral-7B-Instruct-v0.2'
-    rag_model = RetrivalLLM(model_name=model_name, data_store=data_store)
+    data_store = DataStore(model_name=args.embedding_model, chunker_name=args.chunker_name,
+                           chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
+                           similarity_score=args.similarity_score, is_upsert_data=False)
+    rag_model = RetrivalLLM(model_name=args.llm_model, data_store=data_store)
 
     question = "When is the Vintage Pittsburgh retro fair taking place?"
     query = Query(question=question, context=[], answer="")

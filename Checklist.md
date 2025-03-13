@@ -1,6 +1,6 @@
 # Checklist
 
-### Data
+## Data
 
 * [X]  Scrape raw text
 * [X]  **Auotomatic data annotation** @Xiaotong
@@ -9,18 +9,32 @@
 * [ ]  *Split trian/test data (TBD)*
 * [ ]  *Measure IAA*
 
-### Pipeline
+## Pipeline
 
-* [X]  Knowledge base and embedding vector store
-* [ ]  *Retriever (TBD)*
-* [ ]  **QA result generator** @Sean
+All basic pipeline is done. The following items are advanced options to be discussed.
 
-### Experiments: (Thursday)
+### Data Store
 
-* [ ]  Design model variants and run
-* [ ]  Evaluate
+* [ ]  Which chunker options to include? Hyperparameters for chunking
+* [ ]  Whether to chunk raw_data and preformatted_data separatedly?
+* [ ]  Sentence-generation model options for embedding
 
-### Submission (Friday)
+### Retriever
 
-* [ ]  Report
-* [ ]  Public repo (maybe can update after ddl)
+* [ ]  Reranking
+* [ ]  Hyperparameters for `PineconeVectorStore.as_retriever()`
+
+### QA Generator
+
+* [ ]  Prompt template
+* [ ]  Hyperparameters for `pipeline()`
+* [ ]  Text-generation model options
+
+## Experiments
+
+* [ ]  Define evaluation function
+* [ ]  Write evaluation pipeline
+
+## Submission
+
+* [ ]  TBD

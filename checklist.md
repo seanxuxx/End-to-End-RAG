@@ -30,7 +30,7 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 * [ ]  (2) Don't chunk raw_data and preformatted_data separately?  @Sean
 * [ ]  (2) Semantic chunker length issue: 33/8156 chunks exceed the limit of 40960 bytes per vector. Use `RecursiveCharacterTextSplitter` to sub-split using length outliers.  @Sean
-* [ ]  (2) `sentence-generation` model options for embedding. See the [leaderboard](https://sbert.net/docs/sentence_transformer/pretrained_models.html) for reference.   @Lexa
+* [ ]  (2) `sentence-generation` model options for embedding. See the [leaderboard](https://sbert.net/docs/sentence_transformer/pretrained_models.html) for reference. We currently use `all-mpnet-base-v2`.  @Lexa
 
 ### Retriever
 
@@ -41,7 +41,7 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 * [ ]  (2) Prompt template  @Xiaotong
 * [ ]  (2) Hyperparameters for `pipeline()`  @Sean
-* [ ]  (2) `transformer` model options for rag generator. See [Hugging Face model page](https://huggingface.co/models) for reference. Models should support either `"text-generation"` or `"text2text-generation"` tasks.  @Lexa
+* [ ]  (2) `transformer` model options for rag generator. See [Hugging Face model page](https://huggingface.co/models) for reference. Models should support either `"text-generation"` or `"text2text-generation"` tasks. We currently use `mistralai/Mistral-7B-Instruct-v0.2`  @Lexa
 
 ## Experiments
 

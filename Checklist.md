@@ -18,8 +18,10 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 ### Data Store
 
-* [ ]  Which chunker options to include? Hyperparameters for chunking
-* [ ]  Whether to chunk raw_data and preformatted_data separatedly?
+* [ ]  Semantic chunker length issue: 33/8156 chunks exceed the limit of 40960 bytes per vector. Use `RecursiveCharacterTextSplitter` to sub-split
+1. Only sub-split the chunks exceeding limits (still have long text)
+2. Sub-split length outliers
+* [X]  Whether to chunk raw_data and preformatted_data separately?
 * [ ]  Sentence-generation model options for embedding
 
 ### Retriever

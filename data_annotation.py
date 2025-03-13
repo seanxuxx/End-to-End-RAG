@@ -10,10 +10,7 @@ import json
 from tqdm import tqdm
 import argparse
 import random
-import os
-import logging
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Data Augmentation")
@@ -32,26 +29,17 @@ def load_docs(folder_path, chunk_size= 1024, chunk_overlap = 100) -> list:
     return: list of chunked content
     
     '''
-    try:
-        loader = DirectoryLoader(folder_path, glob='*.txt', show_progress=True, use_multithreading=True)
-        documents = loader.load()
-        if not documents:
-            logging.warning(f"No documents found in {folder_path}.")
-            return []
-        
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
-        chunks = []
-        for doc in documents:
-            try:
-                chunks.extend(text_splitter.split_documents([doc]))
-            except Exception as e:
-                logging.error(f"Error processing document: {doc.page_content[:100]} - {e}")
-        
-        return [chunk.page_content for chunk in chunks]
-    
-    except Exception as e:
-        logging.error(f"Failed to load documents from {folder_path}: {e}")
-        return []
+    loader = DirectoryLoader(folder_path,
+                                        glob='*.txt',
+                                        show_progress=True,
+                                        use_multithreading=True)
+    documents = loader.load()
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size, chunk_overlap)
+
+    chunks = [chunk for doc in documents
+                  for chunk in text_splitter.split_documents([doc])]
+    chunks_content = [chunk.page_content for chunk in chunks]
+    return chunks_content
 
 def prompt_generation(examples, context, num_questions) -> str:
     prompt = "You are an AI assistant trained for data annotation.\n"
@@ -77,32 +65,27 @@ def result_formated(result) -> str:
 def main():
     args = parse_args()
     if not args.huggingfacetoken:
-        logging.error("No Hugging Face token provided. Please provide a valid token.")
-        exit(1)   
+        print("No Hugging Face token provided. Please provide a valid token.")
+        exit(1)  
     login(args.huggingfacetoken)
-    try:
-        with open('Annotation/example.json', 'r') as f:
-            examples = json.load(f)
-    except Exception as e:
-        logging.error(f"Failed to load example file: {e}")
-        exit(1)
+    with open('Annotation/example.json', 'r') as f:
+        examples = json.load(f)
     chunks_content = load_docs(args.topic_folder)
     #sample context to generate qa pairs
-    sample_size = 100 if args.topic_folder.split('/')[-1] in ['generalinfo_cmu', 'generalinfo_pittsburgh', 'eventspittsburgh'] else 50
-    context_sample = random.sample(chunks_content, min(sample_size, len(chunks_content)))
+    if args.topic_folder.split('/')[-1] in ['generalinfo_cmu', 'generalinfo_pittsburgh', 'eventspittsburgh']:
+        context_sample = random.sample(chunks_content, 100)
+    else:
+        context_sample = random.sample(chunks_content,50)
     augmented_data = ''
-    torch.cuda.empty_cache()
     pipe = pipeline("text-generation", model=args.model_name, max_new_tokens=512, torch_dtype=torch.bfloat16, device_map="cuda")
-    for context in tqdm(context_sample, total=len(context_sample), desc="Generating QA pairs", mininterval=5):
+    for context in tqdm(context_sample, total = len(context_sample)):
         prompt = prompt_generation(examples, context, 1)
         results = pipe(prompt)
         answers = result_formated(results[0]['generated_text'])
         augmented_data +=  answers
         augmented_data += '\n\n'
-    output_file = f"{args.output_path}{args.topic_folder.split('/')[-1]}.txt"
-    with open(output_file, 'w') as f:
+    with open(args.output_path+args.topic_folder.split('/')[-1]+'.txt', 'w') as f:
         f.write(augmented_data)
-    logging.info(f"Augmented data saved successfully to {output_file}")
 
 if __name__ == '__main__':
     main()

@@ -24,13 +24,13 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 ### Retriever
 
-* [ ] (1) **Hyperparameters for `PineconeVectorStore.as_retriever()`**  @Sean
+* [ ] (2) **Hyperparameters for `PineconeVectorStore.as_retriever()`**  @Sean
 * [ ]  Reranking (TBD)
 
 ### QA Generator
 
 * [ ]  (2) Prompt template  @Xiaotong
-* [ ]  (1) **Hyperparameters for `pipeline()`**  @Sean
+* [ ]  (2) **Hyperparameters for `pipeline()`**  @Sean
 * [ ]  (2) Text-generation model options  @Lexa
 
 ## Experiments

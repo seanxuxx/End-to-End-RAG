@@ -219,17 +219,23 @@ class DataStore():
         query['context'] = self.retriever.invoke(query['question'])
 
 
-class RetrivalLLM():
-    def __init__(self, model_name: str, data_store: DataStore):
+class RetrivalLM():
+    def __init__(self, model_name: str, data_store: DataStore, **kwargs):
+        """
+        Args:
+            model_name (str): Model name for pipeline(). Should be available for AutoModelForCausalLM.
+            data_store (DataStore): DataStore storing chunked documents.
+        **kwargs: for as_retriever()
+        """
         # Retriver config
-        self.retriever = data_store.vector_store.as_retriever(
-            search_type="similarity",
-            search_kwargs={"k": 5},
-        )
+        if kwargs:
+            self.retriever = data_store.vector_store.as_retriever(**kwargs)
+        else:
+            self.retriever = data_store.vector_store.as_retriever(
+                search_type="similarity", search_kwargs={"k": 5})
 
         # LLM config
         torch.cuda.empty_cache()
-        # model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2-large")
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         if not tokenizer.pad_token:
             tokenizer.pad_token = tokenizer.eos_token
@@ -245,11 +251,18 @@ class RetrivalLLM():
             PROMPT_IN_CHAT_FORMAT, tokenize=False, add_generation_prompt=True
         )
 
-    def query_answer(self, query: Query):
+    def query_answer(self, query: Query, **kwargs):
+        """
+        Retrive "context", generate "answer", and update them in the Query dictionary.
+
+        Args:
+            query (Query): Query dictionary with "question", "context", and "answer".
+        **kwargs: for calling pipeline()
+        """
         query['context'] = self.retriever.invoke(query['question'])
         context = ['\n'+doc.page_content for doc in query['context']]
         prompt = self.prompt_template.format(context=context, question=query['question'])
-        response = self.llm(prompt, return_full_text=False)
+        response = self.llm(prompt, return_full_text=False, **kwargs)
         query['answer'] = response[0]["generated_text"].strip()  # type: ignore
         torch.cuda.empty_cache()
 
@@ -264,7 +277,7 @@ if __name__ == '__main__':
     data_store = DataStore(model_name=args.embedding_model, chunker_name=args.chunker_name,
                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
                            similarity_score=args.similarity_score, is_upsert_data=False)
-    rag_model = RetrivalLLM(model_name=args.llm_model, data_store=data_store)
+    rag_model = RetrivalLM(model_name=args.llm_model, data_store=data_store)
 
     question = "When is the Vintage Pittsburgh retro fair taking place?"
     query = Query(question=question, context=[], answer="")

@@ -59,7 +59,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument('--chunker_name', type=str, default='character_chunker')
     parser.add_argument('--chunk_size', type=int, default=500)
     parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--similarity_score', type=str, default='cosine')
     # Retriver parameters
     parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
     return parser.parse_args()
@@ -82,8 +81,7 @@ class DataStore():
     def __init__(self, model_name: str,
                  chunker_name: str, chunk_size=500, chunk_overlap=100,
                  dir_to_chunk='raw_data', dir_preformatted='',
-                 filename_pattern='**/*.txt', similarity_score='cosine',
-                 is_upsert_data=False):
+                 filename_pattern='**/*.txt', is_upsert_data=False):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
@@ -99,8 +97,6 @@ class DataStore():
                 Directory storing pre-formatted data files. Defaults to ''.
             filename_pattern (str, optional):
                 "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
-            similarity_score (str, optional):
-                "metric" parameter for Pinecone Index. Defaults to 'cosine'.
             is_upsert_data (bool, optional):
                 Whether to upsert documents to vector store. Defaults to False.
         """
@@ -123,7 +119,6 @@ class DataStore():
         index_name = f'{model_name}-{chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
         self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
                                  index_name)  # Rename for Pinecone index name requirement
-        self.similarity_score = similarity_score
         self.is_upsert_data = is_upsert_data
 
         # Embedding model config
@@ -157,10 +152,6 @@ class DataStore():
                 logging.info(f"Recreate Pinecone Index due to mismatch in model dimension")
                 pc.delete_index(self.index_name)
                 self.create_new_index()
-            elif index_dict['metric'] != self.similarity_score:
-                logging.info(f"Recreate Pinecone Index due to mismatch in metric")
-                pc.delete_index(self.index_name)
-                self.create_new_index()
         pc_index = pc.Index(self.index_name)
         return pc_index
 
@@ -168,7 +159,6 @@ class DataStore():
         pc.create_index(
             name=self.index_name,
             dimension=self.dimension,
-            metric=self.similarity_score,
             spec=ServerlessSpec(cloud="aws", region="us-east-1")
         )
         self.is_upsert_data = True  # Upsert data as long as creating new index
@@ -273,7 +263,7 @@ if __name__ == '__main__':
 
     data_store = DataStore(model_name=args.embedding_model, chunker_name=args.chunker_name,
                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
-                           similarity_score=args.similarity_score, is_upsert_data=False)
+                           is_upsert_data=False)
     rag_model = RetrivalLM(model_name=args.llm_model, data_store=data_store)
 
     question = "When is the Vintage Pittsburgh retro fair taking place?"

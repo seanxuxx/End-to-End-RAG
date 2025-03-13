@@ -41,7 +41,7 @@ class Query(TypedDict):
     answer: str
 
 
-class RetrieverModel():
+class DataStore():
     def __init__(self, model_name: str,
                  chunker_name: str, chunk_size=500, chunk_overlap=100,
                  dir_to_chunk='raw_data', dir_preformatted='',
@@ -68,16 +68,16 @@ class RetrieverModel():
                 Whether to upsert documents to vector store. Defaults to False.
         """
         # Data config
-        assert os.path.exists(dir_to_chunk), f'{dir_to_chunk} does not exist'
+        assert os.path.exists(dir_to_chunk), f"{dir_to_chunk} does not exist"
         if dir_preformatted:
-            assert os.path.exists(dir_preformatted), f'{dir_preformatted} does not exist'
+            assert os.path.exists(dir_preformatted), f"{dir_preformatted} does not exist"
         self.dir_to_chunk = dir_to_chunk
         self.dir_preformatted = dir_preformatted
         self.filename_pattern = filename_pattern
 
         # Chunking config
         chunker_options = ['character_chunker', 'semantic_chunker']
-        assert chunker_name in chunker_options, f'{chunker_name} is invalid chunker'
+        assert chunker_name in chunker_options, f"{chunker_name} is invalid chunker"
         self.chunker_name = chunker_name
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
@@ -99,7 +99,7 @@ class RetrieverModel():
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
         self.retriever = self.vector_store.as_retriever()
 
-        logging.info(f'Initialized Retriver model:\n{self.__dict__}\n')
+        logging.info(f"Initialized Retriver model:\n{self.__dict__}\n")
 
         if self.is_upsert_data:
             self.upsert_vector_store()
@@ -112,16 +112,16 @@ class RetrieverModel():
             Index
         """
         if self.index_name not in pc.list_indexes().names():
-            logging.info(f'Create new Pinecone Index')
+            logging.info(f"Create new Pinecone Index")
             self.create_new_index()
         else:
             index_dict = pc.describe_index(self.index_name)
             if index_dict['dimension'] != self.dimension:
-                logging.info(f'Recreate Pinecone Index due to mismatch in model dimension')
+                logging.info(f"Recreate Pinecone Index due to mismatch in model dimension")
                 pc.delete_index(self.index_name)
                 self.create_new_index()
             elif index_dict['metric'] != self.similarity_score:
-                logging.info(f'Recreate Pinecone Index due to mismatch in metric')
+                logging.info(f"Recreate Pinecone Index due to mismatch in metric")
                 pc.delete_index(self.index_name)
                 self.create_new_index()
         pc_index = pc.Index(self.index_name)
@@ -174,9 +174,9 @@ class RetrieverModel():
             doc.id = id_text
 
         # Index documents
-        logging.info(f'Upserting {len(chunks)} chunks to "{self.index_name}" index...')
+        logging.info(f"Upserting {len(chunks)} chunks to Index {self.index_name}...")
         self.vector_store.add_documents(chunks)
-        logging.info('Done\n')
+        logging.info("Done\n")
 
     def query_vector_store(self, query: Query):
         query['context'] = self.retriever.invoke(query['question'])
@@ -187,7 +187,7 @@ if __name__ == '__main__':
     set_logger('rag_pipeline')
     logging.info(f'Device: {DEVICE}')
 
-    retriver = RetrieverModel(
+    retriver = DataStore(
         model_name='all-mpnet-base-v2',
         chunker_name='character_chunker',
         dir_to_chunk='raw_data',

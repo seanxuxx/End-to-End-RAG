@@ -56,9 +56,9 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     # DataStore paramters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
-    parser.add_argument('--chunker_name', type=str, default='character_chunker')
     parser.add_argument('--chunk_size', type=int, default=500)
     parser.add_argument('--chunk_overlap', type=int, default=100)
+    parser.add_argument('--is_semantic_chunking', type=bool, default=False)
     # Retriver parameters
     parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
     return parser.parse_args()
@@ -78,45 +78,33 @@ class Query(TypedDict):
 
 
 class DataStore():
-    def __init__(self, model_name: str,
-                 chunker_name: str, chunk_size=500, chunk_overlap=100,
-                 dir_to_chunk='raw_data', dir_preformatted='',
-                 filename_pattern='**/*.txt', semantic_chunking=False, is_upsert_data=False):
+    def __init__(self, model_name: str, chunk_size=500, chunk_overlap=100,
+                 data_dir='raw_data', filename_pattern='**/*.txt',
+                 is_semantic_chunking=False, is_upsert_data=False):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
-            chunker_name (str): Chunking method.
-                'character_chunker' for RecursiveCharacterTextSplitter;
-                'semantic_chunker' for SemanticChunker;
-                other string will raise an error.
             chunk_size (int, optional): Defaults to 500.
             chunk_overlap (int, optional): Defaults to 100.
-            dir_to_chunk (str, optional):
-                Directory storing raw data files. Defaults to 'raw_data'.
-            dir_preformatted (str, optional):
-                Directory storing pre-formatted data files. Defaults to ''.
-            filename_pattern (str, optional):
-                "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
+            data_dir (str): Directory storing raw data files. Defaults to 'raw_data'.
+            filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
+            is_semantic_chunking (bool, optional):
+                True for using SemanticChunker, otherwise RecursiveCharacterTextSplitter. Defaults to False.
             is_upsert_data (bool, optional):
                 Whether to upsert documents to vector store. Defaults to False.
         """
         # Data config
-        assert os.path.exists(dir_to_chunk), f"{dir_to_chunk} does not exist"
-        if dir_preformatted:
-            assert os.path.exists(dir_preformatted), f"{dir_preformatted} does not exist"
-        self.dir_to_chunk = dir_to_chunk
-        self.dir_preformatted = dir_preformatted
+        self.data_dir = data_dir
         self.filename_pattern = filename_pattern
 
         # Chunking config
-        # chunker_options = ['character_chunker', 'semantic_chunker']
-        # assert chunker_name in chunker_options, f"{chunker_name} is invalid chunker"
-        self.semantic_chunking = semantic_chunking
+        self.chunker_name = 'semantic_chunker' if is_semantic_chunking else 'recursive_splitter'
+        self.is_semantic_chunking = is_semantic_chunking
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
         # Index config
-        index_name = f'{model_name}-{chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
+        index_name = f'{model_name}-{self.chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
         self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
                                  index_name)  # Rename for Pinecone index name requirement
         self.is_upsert_data = is_upsert_data
@@ -170,16 +158,17 @@ class DataStore():
         Returns:
             list[Document]
         """
-        # Load raw documents and split them into chunks
-        loader = DirectoryLoader(self.dir_to_chunk,
-                                 glob=self.filename_pattern,
-                                 show_progress=True,
-                                 use_multithreading=True)
+        # Load raw documents
+        assert os.path.exists(self.data_dir), f"{self.data_dir} does not exist"
+        loader = DirectoryLoader(self.data_dir, glob=self.filename_pattern,
+                                 show_progress=True, use_multithreading=True)
         docs = loader.load()
-        if self.semantic_chunking:
-            semantic_chunker = SemanticChunker(self.embeddings)
+
+        # Chunk documents
+        if self.is_semantic_chunking:  # SemanticChunker + potentail RecursiveCharacterTextSplitter
+            semantic_splitter = SemanticChunker(self.embeddings)
             semantic_chunks = [chunk for doc in tqdm(docs, desc='Semantic chunking')
-                               for chunk in semantic_chunker.split_documents([doc])]
+                               for chunk in semantic_splitter.split_documents([doc])]
             # Sub-chunk long documents where the document length falls in the upper outlier range
             max_length = min(get_chunk_max_length(semantic_chunks), 40000)
             text_splitter = RecursiveCharacterTextSplitter(chunk_size=max_length,
@@ -190,20 +179,10 @@ class DataStore():
                     chunks.append(chunk)
                 else:  # Document length outliers
                     chunks.extend(text_splitter.split_documents([chunk]))
-        else:
+        else:  # Pure RecursiveCharacterTextSplitter
             text_splitter = RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
                                                            chunk_overlap=self.chunk_overlap)
             chunks = text_splitter.split_documents(docs)
-
-        # Load pre-formatted documents and add to chunks
-        if self.dir_preformatted:
-            loader = DirectoryLoader(self.dir_preformatted,
-                                     glob=self.filename_pattern,
-                                     show_progress=True,
-                                     use_multithreading=True)
-            docs = loader.load()
-            text_splitter = ParagraphTextSplitter()
-            chunks.extend(text_splitter.split_documents(docs))
 
         # Add IDs for the documents
         for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Add doc id'):
@@ -272,8 +251,9 @@ if __name__ == '__main__':
 
     args = parse_args()
 
-    data_store = DataStore(model_name=args.embedding_model, chunker_name=args.chunker_name,
+    data_store = DataStore(model_name=args.embedding_model, data_dir='raw_data',
                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
+                           is_semantic_chunking=args.is_semantic_chunking,
                            is_upsert_data=False)
     rag_model = RetrivalLM(model_name=args.llm_model, data_store=data_store)
 

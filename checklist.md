@@ -28,8 +28,8 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 ### Data Store
 
-* [ ]  (2) Don't chunk raw_data and preformatted_data separately?  @Sean
-* [ ]  (2) Semantic chunker length issue: 33/8156 chunks exceed the limit of 40960 bytes per vector. Use `RecursiveCharacterTextSplitter` to sub-split using length outliers.  @Sean
+* [X]  (2) Don't chunk raw_data and preformatted_data separately?  @Sean
+* [X]  (2) Semantic chunker length issue: 33/8156 chunks exceed the limit of 40960 bytes per vector. Use `RecursiveCharacterTextSplitter` to sub-split using length outliers.  @Sean
 * [ ]  (2) `sentence-generation` model options for embedding. See the [leaderboard](https://sbert.net/docs/sentence_transformer/pretrained_models.html) for reference. We currently use `all-mpnet-base-v2`.  @Lexa
 
 ### Retriever

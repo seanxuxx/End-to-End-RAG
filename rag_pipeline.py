@@ -19,7 +19,7 @@ from tqdm import tqdm
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           BitsAndBytesConfig, pipeline)
 
-from utils import ParagraphTextSplitter, set_logger
+from utils import get_chunk_max_length, set_logger
 
 load_dotenv()
 pinecone_api_key = os.getenv('PINECONE_API_KEY')
@@ -81,7 +81,7 @@ class DataStore():
     def __init__(self, model_name: str,
                  chunker_name: str, chunk_size=500, chunk_overlap=100,
                  dir_to_chunk='raw_data', dir_preformatted='',
-                 filename_pattern='**/*.txt', is_upsert_data=False):
+                 filename_pattern='**/*.txt', semantic_chunking=False, is_upsert_data=False):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
@@ -109,9 +109,9 @@ class DataStore():
         self.filename_pattern = filename_pattern
 
         # Chunking config
-        chunker_options = ['character_chunker', 'semantic_chunker']
-        assert chunker_name in chunker_options, f"{chunker_name} is invalid chunker"
-        self.chunker_name = chunker_name
+        # chunker_options = ['character_chunker', 'semantic_chunker']
+        # assert chunker_name in chunker_options, f"{chunker_name} is invalid chunker"
+        self.semantic_chunking = semantic_chunking
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
@@ -176,13 +176,24 @@ class DataStore():
                                  show_progress=True,
                                  use_multithreading=True)
         docs = loader.load()
-        if self.chunker_name == 'semantic_chunker':
-            text_splitter = SemanticChunker(self.embeddings)
+        if self.semantic_chunking:
+            semantic_chunker = SemanticChunker(self.embeddings)
+            semantic_chunks = [chunk for doc in tqdm(docs, desc='Semantic chunking')
+                               for chunk in semantic_chunker.split_documents([doc])]
+            # Sub-chunk long documents where the document length falls in the upper outlier range
+            max_length = min(get_chunk_max_length(semantic_chunks), 40000)
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=max_length,
+                                                           chunk_overlap=int(max_length*0.1))
+            chunks = []
+            for chunk in semantic_chunks:
+                if len(chunk.page_content) < max_length:
+                    chunks.append(chunk)
+                else:  # Document length outliers
+                    chunks.extend(text_splitter.split_documents([chunk]))
         else:
             text_splitter = RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
                                                            chunk_overlap=self.chunk_overlap)
-        chunks = [chunk for doc in tqdm(docs, desc='Chunk docs')
-                  for chunk in text_splitter.split_documents([doc])]
+            chunks = text_splitter.split_documents(docs)
 
         # Load pre-formatted documents and add to chunks
         if self.dir_preformatted:

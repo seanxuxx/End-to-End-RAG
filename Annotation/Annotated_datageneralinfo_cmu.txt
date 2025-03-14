@@ -1,26 +1,5 @@
-<Generated>Question: In which year were the news archives for 2018 available online?
-Answer: The news archives for 2018 were available online.
-
 <Generated>Question: When is the Three Minute Thesis Championship taking place?
 Answer: The Three Minute Thesis Championship is taking place on March 12, 2025 at 3:30 PM ET.
-
-<Generated>Question: When was the Collaboration and Conflict Research Lab established?
-Answer: The Collaboration and Conflict Research Lab was established. (Based on the context, it is not explicitly stated when the lab was established, but the name of the lab is mentioned, so a reasonable assumption would be to ask when it was established.)
-
-<Generated>Question: When was the MS in Business Analytics program first introduced at Tepper School?
-Answer: The MS in Business Analytics program was first introduced at Tepper School in an unknown year. (Note: The context does not provide the exact year of introduction for the MS in Business Analytics program at Tepper School.)
-
-<Generated>Question: Which organization manages the donor recognition programs at Carnegie Mellon University?
-Answer: The organization that manages the donor recognition programs at Carnegie Mellon University is not explicitly stated in the context. However, the context does mention several specific donor recognition circles and societies.
-
-<Generated>Question: Which initiative at the University of Pittsburgh focuses on organ donation and matching?
-Answer: The Organ Donation and Matching initiative at the University of Pittsburgh focuses on organ donation and matching.
-
-<Generated>Question: When was the last extension of the exhibit "Like, Totally Transformative: CMU in the 1980s"?
-Answer: The last extension of the exhibit "Like, Totally Transformative: CMU in the 1980s" was until July 11.
-
-<Generated>Question: When was the School of Art established at Carnegie Mellon University?
-Answer: The School of Art was established at Carnegie Mellon University in an unknown year. (Note: The context does not provide the exact year of establishment for the School of Art at Carnegie Mellon University.)
 
 <Generated>Question: Who founded CMU and in which field was it known for initially?
 Answer: CMU was founded by industrialist Andrew Carnegie and was initially known for industrial research.
@@ -28,276 +7,112 @@ Answer: CMU was founded by industrialist Andrew Carnegie and was initially known
 <Generated>Question: In which college is the Statistics & Data Science major located?
 Answer: Mellon College of Science
 
-<Generated>Question: When was the Heinz College established?
-Answer: The Heinz College was established. (No exact date is mentioned in the context, but the context implies that it is an existing institution.)
-
-<Generated>Question: When was the article "Women in Science Highlight Mentorship, Outreach as Integral to Career Success" published?
-Answer: The article "Women in Science Highlight Mentorship, Outreach as Integral to Career Success" was published in March 2025.
-
-<Generated>Question: What is the average starting salary for CMU graduates in 2024?
-Answer: The average starting salary for CMU graduates in 2024 was $18,200.
-
-<Generated>Question: In which city is the Tepper School of Business located?
-Answer: Pittsburgh
-
-<Generated>Question: When was the first EDIE Makeathon held?
-Answer: The first EDIE Makeathon was held in March 2025.
-
-<Generated>Question: When was the Center for the Arts in Society established at Carnegie Mellon University?
-Answer: The Center for the Arts in Society was established at Carnegie Mellon University. (No specific year was mentioned in the context, so the answer is just acknowledging the existence of the center without providing a specific year.)
-
-<Generated>Question: When was the W.L. Mellon Speaker Series initiated?
-Answer: The W.L. Mellon Speaker Series was initiated, according to the context, but no specific date was mentioned. Therefore, I cannot generate a question-answer pair based on the context for this task.
-
 <Generated>Question: Who is the Vice President for Diversity and Inclusion at Carnegie Mellon University?
 Answer: Dr. Wanda Heading-Grant
 
-<Generated>Question: When was Carnegie Mellon University's commitment to promoting academic excellence and economic mobility through education first stated?
-Answer: Carnegie Mellon University's commitment to promoting academic excellence and economic mobility through education was first stated since its founding.
-
-<Generated>Question: When was the Carnegie Mellon University Instagram account first created?
-Answer: The Carnegie Mellon University Instagram account was first created 3 weeks ago.
-
-<Generated>Question: When was the Tepper School's thought leadership site launched?
-Answer: The launch date for the Tepper School's thought leadership site is not provided in the context.
-
 <Generated>Question: In which city is Carnegie Mellon University located?
 Answer: Pittsburgh
-
-<Generated>Question: In which section of the website can students find the general education requirements?
-Answer: Students can find the general education requirements in the 'General Education Requirements' section of the website.
-
-<Generated>Question: In which section of the CMU Alumni Association website can one find the Alumni Directory?
-Answer: The Alumni Directory can be found in the 'Resources' section of the CMU Alumni Association website.
 
 <Generated>Question: In which school is the Artificial Intelligence major located?
 Answer: The Artificial Intelligence major is located in the School of Computer Science.
 
-<Generated>Question: When was the Net Price Calculator introduced on the admission website?
-Answer: The Net Price Calculator was introduced on the admission website. (No specific date mentioned in the context, so the answer is as provided)
-
-<Generated>Question: When was the AIxArts Incubator Fund established?
-Answer: The AIxArts Incubator Fund was established.
-
-<Generated>Question: Which society was established to recognize and honor donors?
-Answer: Andrew Carnegie Society
-
-<Generated>Question: Who is the speaker at the Milestone Moments event in 2025?
-Answer: Rahul Panat
-
-<Generated>Question: When was the first Spring Carnival Midway Rides held?
-Answer: The context does not provide information on when the first Spring Carnival Midway Rides were held.
-
-<Generated>Question: Who is responsible for managing the Carnegie Mellon University Alumni Association?
-Answer: The Carnegie Mellon University Alumni Association is managed by the CMU Alumni Association.
-
-<Generated>Question: When was the Master of Science in Management program first established?
-Answer: The Master of Science in Management program was first established. (No exact date mentioned in the context, but the program is mentioned, so it's a valid question)
-
-<Generated>Question: In which webpage can I find information about the diversity programs for women at Tepper School of Business?
-Answer: The webpage for information about diversity programs for women at Tepper School of Business is women-at-the-tepper-school.html.
-
-<Generated>Question: In which city is Carnegie Mellon University located?
-Answer: Pittsburgh
-
-<Generated>Question: What library provides access to and assistance with ProQuest for thesis and dissertation deposit?
-Answer: The Libraries
-
-<Generated>Question: When did Josh Gad visit Carnegie Mellon University last?
-Answer: Josh Gad visited Carnegie Mellon University on February 26, 2025.
-
-<Generated>Question: When was the first academic area established at the University of Pittsburgh?
-Answer: The first academic area was established at the University of Pittsburgh in the field of Accounting.
-
-<Generated>Question: When was the Manufacturing Futures Institute established?
-Answer: The Manufacturing Futures Institute was established.
-
 <Generated>Question: In which college is the Biomedical Engineering major located at Carnegie M Mellon University?
 Answer: The Biomedical Engineering major is located in the College of Engineering at Carnegie Mellon University.
-
-<Generated>Question: In which year were the news archives for 2021 available online?
-Answer: The news archives for 2021 were available online.
-
-<Generated>Question: When was the Tepper School of Business established?
-Answer: The Tepper School of Business was established, according to the context, there is no explicit mention of the year in the context, but we can infer that it was before the existence of the alumni network, chapters and programs, regional groups, events, volunteer opportunities, lifelong learning and career resources, alumni awards, requirements, giving, and opportunities pages. Therefore, a reasonable estimate would be that the Tepper School of Business was established before 2000.
-
-<Generated>Question: What year was the Tepper School of Business founded?
-Answer: The Tepper School of Business was founded before 2000.
-
-<Generated>Question: When was Carnegie Mellon University founded and where is it located?
-Answer: Carnegie Mellon University was founded and is located in Pittsburgh, PA.
-
-<Generated>Question: In which section of the Carnegie Mellon University School of Computer Science website can one find information about student awards?
-Answer: The student awards information can be found in the 'Student Awards' section of the Carnegie Mellon University School of Computer Science website.
-
-<Generated>Question: When was Carnegie Mellon University first established on social media?
-Answer: Carnegie Mellon University was first established on Facebook in 2010 and on Twitter in 2009.
-
-<Generated>Question: In which country is Carnegie Mellon University located?
-Answer: Carnegie Mellon University is located in the United States.
-
-<Generated>Question: In which field of engineering is the focus of the Carnegie Mellon University's featured programs?
-Answer: The focus of Carnegie Mellon University's featured programs is on Materials Science & Engineering and Mechanical Engineering.
-
-<Generated>Question: In which section of the website can I find information about student awards?
-Answer: The student awards information can be found in the 'Student Awards' section of the website.
 
 <Generated>Question: When was Carnegie Mellon University established?
 Answer: Carnegie Mellon University was established in Pittsburgh, PA in 1900.
 
-<Generated>Question: Who is the alumna mentioned in the first news article?
-Answer: Tori Noquez
-
-<Generated>Question: When was the strategic plan for The Intelligent Future℠ at Carnegie Mellon University published?
-Answer: The strategic plan for The Intelligent Future℠ at Carnegie Mellon University was published in 2024 - 2030.
-
 <Generated>Question: Who is the Program Director for Research Information Management Services at Carnegie Mellon University?
 Answer: Jason Glenn
-
-<Generated>Question: When was the first corporate presentation and event held at Tepper School of Business?
-Answer: The exact date of the first corporate presentation and event at Tepper School of Business is not provided in the context.
-
-<Generated>Question: What new 3D printing technique was used to fabricate complex and controllable ceramic nanostructures?
-Answer: A new 3D printing technique was used to fabricate complex and controllable ceramic nanostructures.
-
-<Generated>Question: When was the first MBA program established at Carnegie Mellon University?
-Answer: The exact date of the first MBA program's establishment at Carnegie Mellon University is not provided in the context.
-
-<Generated>Question: When was the Carnegie Mellon Institute for Strategy and Technology (CMIST) founded?
-Answer: The Carnegie Mellon Institute for Strategy and Technology (CMIST) was founded.
-
-<Generated>Question: Which university team developed frameworks for environmental control and life support systems in deep space habitats?
-Answer: CMU team
-
-<Generated>Question: When was the Center for Organizational Learning, Innovation and Knowledge established?
-Answer: The Center for Organizational Learning, Innovation and Knowledge was established. (No need to provide the exact year as the context does not provide that information)
-
-<Generated>Question: When was the first in-person event held at the University of Pittsburgh after the pandemic?
-Answer: The exact date of the first in-person event at the University of Pittsburgh after the pandemic is not mentioned in the context.
-
-<Generated>Question: When was the first corporate presentation and event held at Tepper School of Business?
-Answer: The context does not provide information on the first corporate presentation and event held at Tepper School of Business.
-
-<Generated>Question: In which year were the news archives for the first time available online?
-Answer: The news archives were first available online in 2011.
-
-<Generated>Question: When was the first college school established at Carnegie Mellon University?
-Answer: The context does not provide information on when the first college school was established at Carnegie Mellon University.
-
-<Generated>Question: When was the Alumni Board established?
-Answer: The Alumni Board was established with the information available on the context not providing an exact year.
 
 <Generated>Question: Which professor at Carnegie Mellon introduced the first Girl Scout badge for negotiation?
 Answer: Professor Linda Babcock introduced the first Girl Scout badge for negotiation.
 
-<Generated>Question: When was Carnegie Mellon University established?
-Answer: Carnegie Mellon University was established in 1921.
-
-<Generated>Question: When was the first Carnegie-Rochester NYU Conference held?
-Answer: The first Carnegie-Rochester NYU Conference was held in 2011.
-
-<Generated>Question: Which organization is located in Pittsburgh and deals with institutional equity and Title IX issues?
-Answer: The Office for Institutional Equity and Title IX is located in Pittsburgh.
-
-<Generated>Question: When was the Heinz College initiative for civil discourse started?
-Answer: The start date for the Heinz College initiative for civil discourse is not explicitly stated in the context. However, it can be inferred that the events for this initiative are taking place in the current year.
-
-<Generated>Question: In which institute are the primary disciplines in product and service innovation taught?
-Answer: The Integrated Innovation Institute
-
 <Generated>Question: In which year was the first Intersect@CMU conference held?
 Answer: The first Intersect@CMU conference was held in 2018.
-
-<Generated>Question: In which department was the Ph.D. program in Business Technologies offered?
-Answer: The Ph.D. program in Business Technologies is offered in the Business Technologies department.
-
-<Generated>Question: When was the online hybrid MBA program introduced at the university?
-Answer: The online hybrid MBA program was introduced at the university in an unknown year. (The context does not provide the exact year of introduction for the online hybrid MBA program.)
-
-<Generated>Question: Which webpage on the Carnegie Mellon University website provides information about the curriculum for their online MBA program?
-Answer: The webpage "Curriculum" provides information about the curriculum for Carnegie Mellon University's online MBA program.
 
 <Generated>Question: Which organization is responsible for connecting businesses with CMU faculty and students?
 Answer: The Center for Business Engagement
 
-<Generated>Question: Which organization provides resources and information related to student support and resources at Carnegie Mellon University?
-Answer: Student Affairs - Student Support & Resources
-
-<Generated>Question: In which webpage can I find the information about the dual and joint degrees offered by the MBA program?
-Answer: The information about the dual and joint degrees offered by the MBA program can be found on the webpage: programs/mba/curriculum/dual-and-joint-degrees/index.html
-
-<Generated>Question: Which organization is located in Enola, PA and provides services against rape?
+<Generated>Question: Which organization provides services against rape?
 Answer: Pennsylvania Coalition Against Rape (PCAR)
-
-<Generated>Question: When was the Artificial Intelligence and Business Initiative established at Carnegie Mellon University?
-Answer: The Artificial Intelligence and Business Initiative was established at Carnegie Mellon University in an unknown year. (Note: The context does not provide the exact year of establishment for the Artificial Intelligence and Business Initiative.)
-
-<Generated>Question: Which universities strong ties have led to the growth of Pittsburgh's autonomous vehicles cluster?
-Answer: Carnegie Mellon University
-
-<Generated>Question: In which academic area is the accounting department located at Carnegie Mellon University?
-Answer: The accounting department is located in the academic area of accounting at Carnegie Mellon University.
 
 <Generated>Question: Who was the first person to create a smiley in email?
 Answer: Scott Fahlman, a Carnegie Mellon research professor, was the first person to create a smiley in email on September 19, 1982.
 
-<Generated>Question: When was the institutional equity office established at Carnegie Mellon University?
-Answer: The institutional equity office was established at Carnegie Mellon University in 1400412-268-7125 and can be contacted via email at institutionalequity@cmu.edu.
-
-<Generated>Question: Who discovered the Pittsburgh area first?
-Answer: The first known person to enter the Pittsburgh area was the French explorer Robert de La Salle.
-
-<Generated>Question: In which university is the Heinz College of Information Systems and Public Policy located?
-Answer: The Heinz College of Information Systems and Public Policy is located at Carnegie Mellon University.
-
-<Generated>Question: What is the contact information for University Advancement?
-Answer: The contact information for University Advancement is mailto:advancement@andrew.cmu.edu.
-
-<Generated>Question: When was the Online Hybrid MBA program first introduced at the University?
-Answer: The Online Hybrid MBA program was first introduced at the University [based on the context, it is not explicitly stated when it was introduced, but it can be inferred from the context that it is an available program option].
-
-<Generated>Question: In which webpage can I find information about the student clubs and organizations at Tepper School of Business?
-Answer: The information about student clubs and organizations at Tepper School of Business can be found on the webpage "Student Clubs and Organizations: programs/mba/life-at-tepper/student-clubs-and-organizations.html".
-
 <Generated>Question: When is the Siemens Tech for Sustainability Campaign 2025 kick-off event?
 Answer: The Siemens Tech for Sustainability Campaign 2025 kick-off event was on 27 January 2025.
 
-<Generated>Question: When was the first faculty member hired in the Business Technologies area at the University of Pittsburgh?
-Answer: The exact date of the first faculty member hire in the Business Technologies area at the University of Pittsburgh is not provided in the context.
+<Generated>Question: What must a party provide when they wish to introduce Expert Witness testimony?  
+Answer: A party must provide written notice of the intent to introduce Expert Witness testimony no later than thirty (30) calendar days after receiving the Notice of Investigation or no later than ten (10) calendar days after receiving notification that the other party intends to introduce Expert Witness Testimony, whichever date is later.
+Context: for cases involving Staff Respondents under Section VI.E, or (iv) the Hearing Officer appointed for cases involving Faculty Respondents under Section VI.E. Notice of Intent to Introduce Expert Witness Testimony 3. A party who wishes to introduce Expert Witness testimony must provide written notice of the intent to introduce Expert Witness testimony no later than thirty (30) calendar days after receiving the Notice of Investigation issued under Section VI.B or no later than ten (10) calendar days after receiving notification that the other party intends to introduce Expert Witness Testimony, whichever date is later. 4. After receiving Notice of Intent to Introduce Expert Witness Testimony, the Investigator shall provide written notice of such to all other Complainant(s) or Respondent(s) in the investigation. 5. A party seeking to introduce Expert Witness Testimony must submit the name of the proposed Expert Witness and a copy of the Expert Witness’s Curriculum Vitae to the Investigator no later than ten (10)
 
-<Generated>Question: In which year was the first Instagram post made related to Carnegie Mellon University?
-Answer: The first Instagram post related to Carnegie Mellon University was made on January 22, 2025.
+<Generated>Question: What are self-scheduled examinations?  
+Answer: Self-scheduled examinations are exams where an instructor allows each student to choose the examination time instead of fixing a schedule.
 
-<Generated>Question: When was the Carnegie Mellon School of Computer Science established on Facebook?
-Answer: The Carnegie Mellon School of Computer Science was established on Facebook in 2010.
+<Generated>Question: What is the contact number for the Washington Coalition of Sexual Assault Programs?
+Answer: The contact number for the Washington Coalition of Sexual Assault Programs is 360-754-7583.
 
-<Generated>Question: When was the first college established at Carnegie Mellon University?
-Answer: The first college was established at Carnegie Mellon University in the late 19th century. (Note: The context does not provide enough information to determine which college was the first one, but it mentions several colleges and schools, so a general answer is acceptable.)
+<Generated>Question: What should students do if they need assistance with hoverboard shipping or storage?
+Answer: Students should contact their Housing Services Facility Coordinator (FC) as soon as possible.
 
-<Generated>Question: In which concentration was Artificial Intelligence offered as of 2023?
-Answer: Artificial Intelligence was offered as a concentration in the MBA program as of 2023.
+<Generated>Question: What is the maximum number of days a student can be absent for a sport or organization annually?
+Answer: The total number of days of absence shall not exceed six per sport or per organization annually.
 
-<Generated>Question: When was Carnegie Mellon University founded?
-Answer: Carnegie Mellon University was founded in 1900.
+<Generated>Question: Under what conditions will amnesty from university disciplinary action be granted to students seeking medical assistance?
+Answer: Amnesty will be granted when an individual contacts emergency services based on a reasonable belief that another individual needs immediate medical attention, provides their own name to emergency services, and remains with the individual in need until emergency services arrive and their presence is no longer needed.
 
-<Generated>Question: In which section of the website can one find the executive education programs for individuals with open enrollment?
-Answer: The executive education programs for individuals with open enrollment can be found in the 'Programs for Individuals: executive-education/individuals-open-enrollment.html' section of the website.
+<Generated>Question: Who must approve an event deploying games of chance on campus?
+Answer: The director of student leadership, involvement and civic engagement must approve an event deploying games of chance on campus.
 
-<Generated>Question: Which department was founded first at Carnegie Mellon University's School of Computer Science?
-Answer: The first department to be founded at Carnegie Mellon University's School of Computer Science was the Computer Science Department.
+<Generated>Question: Who must approve all banners?
+Answer: All banners must be approved by the Office of Student Activities.
 
-<Generated>Question: In which year were the news archives for 2022 available?
-Answer: The news archives for 2022 were available.
+<Generated>Question: Which colleges at Carnegie Mellon record W grades for graduate students?  
+Answer: Only Tepper and MCS record W grades.
 
-<Generated>Question: When was Carnegie Mellon University first established on social media?
-Answer: Carnegie Mellon University was first established on social media in the year 2010.
+<Generated>Question: What will be recorded on a student's academic record for work below D?
+Answer: Work below D will receive no credit and will be recorded as N on the student's academic record.
 
-<Generated>Question: When was the Swartz Center for Entrepreneurship established?
-Answer: The Swartz Center for Entrepreneurship was established.
+<Generated>Question: Who manages the Academic Disciplinary Process at the university?  
+Answer: The Office of Community Standards and Integrity manages the Academic Disciplinary Process.
 
-<Generated>Question: When was the SCS Distinguished Lecture Series established?
-Answer: The SCS Distinguished Lecture Series was established.
+<Generated>Question: What is the email address for Carnegie Mellon's admission office?  
+Answer: The email address for Carnegie Mellon's admission office is admission@andrew.cmu.edu.
 
-<Generated>Question: Which company partnered with the Tepper School for a part-time MSBA capstone project?
-Answer: LISI (Part-Time MSBA)
+<Generated>Question: Who may direct that a degree not be certified by the university registrar?
+Answer: The dean of students or designee may direct that a degree not be certified by the university registrar.
+
+<Generated>Question: What is the address of Carnegie Mellon University?  
+Answer: The address of Carnegie Mellon University is 5000 Forbes Avenue, Pittsburgh, PA 15213-3890.
+
+<Generated>Question: Where must gifts designated to a specific organization be made to ensure compliance with tax laws?
+Answer: Gifts designated to a specific organization must be made through the University’s annual giving website or by deposit to the Office of Student Leadership, Involvement and Civic Engagement.
+
+<Generated>Question: What must a student submit to elect a course as pass/fail?
+Answer: A student must submit a Grade Option Request Form to Enrollment Services.
+
+<Generated>Question: Where are emotional support animals approved by the Office of Disability Resources not permitted on campus?  
+Answer: Emotional support animals approved by the Office of Disability Resources are not permitted inside other campus buildings.
+
+<Generated>Question: When was the Trademark Licensing Office at Carnegie Mellon established?  
+Answer: The Trademark Licensing Office was established in 1994.
+
+<Generated>Question: What should users do if they believe someone has made unauthorized use of their account at Carnegie Mellon?
+Answer: Users should change their password immediately and report the incident to the Information Security Office.
+
+<Generated>Question: During what hours is disruptive activity restricted on Saturday and Sunday?  
+Answer: Disruptive activity is restricted on Saturday and Sunday before 7:00 a.m. and after 10:00 p.m.
+
+<Generated>Question: What condition would impair the university's ability to provide the Supportive Measures?
+Answer: Maintaining confidentiality would impair the university's ability to provide the Supportive Measures.
+
+<Generated>Question: What is the name of the college at Carnegie Mellon University that offers programs in Biological Sciences, Chemistry, Mathematical Sciences, and Physics?
+Answer: The name of the college is the Mellon College of Science.
+
+<Generated>Question: Who should a staff member report to if they believe their electronic data has been inappropriately accessed by another staff member?  
+Answer: The incident should be reported to Human Resources.
+
+<Generated>Question: Who should the Office of Community Standards and Integrity notify regarding a student's academic integrity violations?  
+Answer: The Office of Community Standards and Integrity should notify the head of the student’s home department.
 

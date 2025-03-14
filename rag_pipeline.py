@@ -10,7 +10,6 @@ from langchain_community.document_loaders import DirectoryLoader
 from langchain_core.documents import Document
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
-from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
@@ -52,16 +51,17 @@ Question: {question}""",
 ]
 
 
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser()
-    # DataStore paramters
-    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
-    parser.add_argument('--chunk_size', type=int, default=500)
-    parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--is_semantic_chunking', type=bool, default=False)
-    # Retriver parameters
-    parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
-    return parser.parse_args()
+PROMPT_IN_CHAT_FORMAT = """\
+Using the information contained in the context,
+give a comprehensive answer to the question.
+Respond only to the question asked, response should be concise and relevant to the question.
+If the answer cannot be deduced from the context, do not give an answer.
+
+Context:
+{context}
+---
+Now answer this question: {question}
+"""
 
 
 class Query(TypedDict):
@@ -98,13 +98,13 @@ class DataStore():
         self.filename_pattern = filename_pattern
 
         # Chunking config
-        self.chunker_name = 'semantic_chunker' if is_semantic_chunking else 'recursive_splitter'
+        chunker_name = 'semantic' if is_semantic_chunking else 'recursive'
         self.is_semantic_chunking = is_semantic_chunking
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
         # Index config
-        index_name = f'{model_name}-{self.chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
+        index_name = f'{model_name}-{chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
         self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
                                  index_name)  # Rename for Pinecone index name requirement
         self.is_upsert_data = is_upsert_data
@@ -118,8 +118,6 @@ class DataStore():
         self.pc_index = self.get_pinecone_index()
         self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
         self.retriever = self.vector_store.as_retriever()
-
-        logging.info(f"Initialized Retriver model:\n{self.__dict__}\n")
 
         if self.is_upsert_data:
             self.upsert_vector_store()
@@ -167,7 +165,7 @@ class DataStore():
         # Chunk documents
         if self.is_semantic_chunking:  # SemanticChunker + potentail RecursiveCharacterTextSplitter
             semantic_splitter = SemanticChunker(self.embeddings)
-            semantic_chunks = [chunk for doc in tqdm(docs, desc='Semantic chunking')
+            semantic_chunks = [chunk for doc in tqdm(docs, desc='Chunk docs')
                                for chunk in semantic_splitter.split_documents([doc])]
             # Sub-chunk long documents where the document length falls in the upper outlier range
             max_length = min(get_chunk_max_length(semantic_chunks), 40000)
@@ -186,18 +184,18 @@ class DataStore():
 
         # Add IDs for the documents
         for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Add doc id'):
-            id_text = f"{self.chunker_name}_{i}_{doc.metadata['source']}"
+            id_text = f"{i}_{doc.metadata['source']}"
             id_text = re.sub(r'[^\w]', '_', id_text).lower()
             doc.id = id_text
 
         # Index documents
-        logging.info(f"Upserting {len(chunks)} chunks to Index {self.index_name}...")
+        logging.info(f'Upserting {len(chunks)} chunks to Index "{self.index_name}"...')
         self.vector_store.add_documents(chunks)
-        logging.info("Done\n")
+        logging.info("Done")
 
 
 class RetrivalLM():
-    def __init__(self, model_name: str, data_store: DataStore, **kwargs):
+    def __init__(self, task: str, model_name: str, data_store: DataStore, **kwargs):
         """
         Args:
             model_name (str): Model name for pipeline(). Should be available for AutoModelForCausalLM.
@@ -216,19 +214,21 @@ class RetrivalLM():
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         if not tokenizer.pad_token:
             tokenizer.pad_token = tokenizer.eos_token
-        self.llm = pipeline(task="text-generation",
+        self.task = task
+        self.llm = pipeline(task=task,
                             model=model_name,
                             tokenizer=tokenizer,
-                            max_new_tokens=512,
+                            max_length=20000,
+                            truncation=True,
                             torch_dtype=torch.bfloat16,
                             device=DEVICE)
 
         # Prompt config
-        self.prompt_template = self.llm.tokenizer.apply_chat_template(
-            PROMPT_IN_CHAT_FORMAT, tokenize=False, add_generation_prompt=True
-        )
+        # self.prompt_template = self.llm.tokenizer.apply_chat_template(
+        #     PROMPT_IN_CHAT_FORMAT, tokenize=False, add_generation_prompt=True
+        # )
 
-    def query_answer(self, query: Query, **kwargs):
+    def qa(self, query: Query, **kwargs):
         """
         Retrive "context", generate "answer", and update them in the Query dictionary.
 
@@ -237,28 +237,49 @@ class RetrivalLM():
         **kwargs: for calling pipeline()
         """
         query['context'] = self.retriever.invoke(query['question'])
-        context = ['\n'+doc.page_content for doc in query['context']]
-        prompt = self.prompt_template.format(context=context, question=query['question'])
-        response = self.llm(prompt, return_full_text=False, **kwargs)
+        context = ''.join(['\n'+doc.page_content for doc in query['context']])
+
+        if self.task == 'text-generation':
+            kwargs['return_full_text'] = False
+
+        prompt = PROMPT_IN_CHAT_FORMAT.format(context=context,
+                                              question=query['question'])
+        response = self.llm(prompt, **kwargs)
         query['answer'] = response[0]["generated_text"].strip()  # type: ignore
         torch.cuda.empty_cache()
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    # DataStore paramters
+    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
+    parser.add_argument('--chunk_size', type=int, default=500)
+    parser.add_argument('--chunk_overlap', type=int, default=100)
+    parser.add_argument('--is_semantic_chunking', type=bool, default=False)
+    # Retriver parameters
+    parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
+    parser.add_argument('--task', type=str, default='text-generation')
+    # Logging paramters
+    parser.add_argument('--log_file_mode', type=str, default='a')
+    return parser.parse_args()
+
+
 if __name__ == '__main__':
 
-    set_logger('rag_pipeline')
-    logging.info(f'Device: {DEVICE}')
-
     args = parse_args()
+    set_logger('rag_pipeline', file_mode=args.log_file_mode)
+
+    logging.info(f'Configuration:\n{vars(args)}')
+    logging.info(f'Device: {DEVICE}')
 
     data_store = DataStore(model_name=args.embedding_model, data_dir='raw_data',
                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
-                           is_semantic_chunking=args.is_semantic_chunking,
-                           is_upsert_data=False)
-    rag_model = RetrivalLM(model_name=args.llm_model, data_store=data_store)
+                           is_semantic_chunking=args.is_semantic_chunking)
+    rag_model = RetrivalLM(task=args.task, model_name=args.llm_model,
+                           data_store=data_store)
 
-    question = "When is the Vintage Pittsburgh retro fair taking place?"
+    question = 'What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?'
     query = Query(question=question, context=[], answer="")
-    rag_model.query_answer(query)
+    rag_model.qa(query)
 
-    logging.info(f"Question: {question}\nAnswer: {query['answer']}")
+    logging.info(f"\n{question}\n{query['answer']}\n")

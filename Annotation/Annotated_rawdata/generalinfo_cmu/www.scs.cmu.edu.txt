@@ -15,14 +15,12 @@ EducationAdmissions: https://cs.cmu.edu/academics/graduate-admissions
 EducationOverview: https://cs.cmu.edu/academics/phd/index
 EducationPrograms: https://cs.cmu.edu/academics/phd/programs
 EducationFor International Students: https://cs.cmu.edu/academics/international-students
-EducationStudent Awards: http://www.cs.cmu.edu/~scsfacts/studentawards.html
 EducationFaculty Awards: https://cs.cmu.edu/about-scs/faculty-awards
 ResearchResearch at SCS: https://www.cs.cmu.edu/research
 ResearchSelected Publications: https://www.cs.cmu.edu/publications
 ResearchStudent Research Opportunities: https://www.cs.cmu.edu/outreach/summer-research-opportunities
 ResearchThe Allen Newell Award for Research Excellence: https://www.cs.cmu.edu/people/achievements/newell
 News & EventsSCS News: https://cs.cmu.edu/news/index
-News & EventsUpdates & Alerts: https://scsdean.cs.cmu.edu/alerts/index.html
 News & EventsThe Link Magazine: https://magazine.cs.cmu.edu/
 News & EventsMedia Kit and Press Contacts: https://cs.cmu.edu/news/scs-media-kit-press-contacts
 News & EventsEvents Calendar: https://cs.cmu.edu/calendar/index
@@ -36,7 +34,6 @@ About SCSAbout the Dean: https://cs.cmu.edu/about-scs/about-dean
 About SCSAlumni Engagement: https://cs.cmu.edu/alumni/index
 About SCSGiving: https://www.cs.cmu.edu/giving
 About SCSOutreach: https://cs.cmu.edu/outreach/index
-About SCSFaculty Hiring: https://scsdean.cs.cmu.edu/faculty-hiring/index.html
 About SCSEmployment at SCS: https://cs.cmu.edu/about-scs/employment-scs
 About SCSSCS Career Center: https://cs.cmu.edu/scs-career-center/index
 Partnerships: https://cs.cmu.edu/partnerships/index
@@ -54,15 +51,13 @@ DepartmentsSCS Building Facilities: https://building.cs.cmu.edu/
 Give: https://givenow.cmu.edu/campaigns/42968/donations/new?a=8338659
 See Our Programs: https://cs.cmu.edu/academics/overview-programs
 March 6, 2025CMU, MIT Join Forces To Combat Deepfake Threats:  https://www.ri.cmu.edu/cmu-and-mit-join-forces-to-combat-deepfake-threats/
-March 5, 2025Cybersecurity Question-Answering Assistant Motivates Users To Follow Its Advice:  https://www.cylab.cmu.edu/news/2025/02/28-cybersecurity-qa-assistant.html
 March 4, 2025Using Computer Science To Save the Bees: https://cs.cmu.edu/news/2025/saving-bees
 March 3, 2025Two SCS Students Among Finalists in CMU's Three Minute Thesis Competition:  https://library.cmu.edu/about/news/2025-03/three-minute-thesis
 February 28, 2025Bar-Joseph To Join GenBio AI: https://cs.cmu.edu/news/2025/bar-joseph-genbio-ai
-February 27, 2025Moderating Content for End-to-End Encryption:  https://www.cylab.cmu.edu/news/2025/02/20-e2ee-content-moderation.html
-SCS Faculty CandidateMar1010AMTalkswithTIANYU GAOASA Conference Room, Gates Hillman 6115 and ZoomIn Person and Virtual - ET: /calendar/181453887
-SCS Faculty CandidateMar101PMTalkswithCHARLES YUANNewell-Simon 4305 and ZoomIn Person and Virtual - ET: /calendar/181454985
-Siemens Tech for Sustainability Campaign 2025Mar105PMCareer PresentationIDEA Submission - Continues through 10 March 2025Kick-Off Event - 27 January 2025: /calendar/180343506
-K&L Gates – Carnegie Mellon University Conference in Ethics and Computational TechnologiesMar108:30PMConference/WorkshopwithGenerative AI: Ethics and GovernanceSimmons Auditorium, First Floor, Tepper BuildingIn Person: /calendar/180581946
+SCS Faculty CandidateMar1010AMTalkswithTIANYU GAOASA Conference Room, Gates Hillman 6115 and ZoomIn Person and Virtual - ET: https://www.cmu.edu/calendar/181453887
+SCS Faculty CandidateMar101PMTalkswithCHARLES YUANNewell-Simon 4305 and ZoomIn Person and Virtual - ET: https://www.cmu.edu/calendar/181454985
+Siemens Tech for Sustainability Campaign 2025Mar105PMCareer PresentationIDEA Submission - Continues through 10 March 2025Kick-Off Event - 27 January 2025: https://www.cmu.edu/calendar/180343506
+K&L Gates – Carnegie Mellon University Conference in Ethics and Computational TechnologiesMar108:30PMConference/WorkshopwithGenerative AI: Ethics and GovernanceSimmons Auditorium, First Floor, Tepper BuildingIn Person: https://www.cmu.edu/calendar/180581946
 See All Events: https://www.cs.cmu.edu/calendar
 Contact Us: https://cs.cmu.edu/about-scs/contact
 Facebook: http://www.facebook.com/pages/Pittsburgh-PA/Carnegie-Mellon-School-of-Computer-Science/170657132947108

@@ -1,19 +1,13 @@
 Skip to main content: #content
 Carnegie Mellon University: //www.cmu.edu/
-COVID-19 Updates: index.html
-Travel and Risk Management: https://www.cmu.edu/risk-operations/travel-risk-program/index.html
 May 11, 2023:Important COVID-19 Updates
-Important COVID-19 Updates: news-and-communications/communications-archive/2023/may/important-covid-19-updates.html
 UHS for Students
-UHS for Students: https://www.cmu.edu/health-services/services-and-fees/covid19.html
 HR for Faculty & Staff
-HR for Faculty & Staff: https://www.cmu.edu/hr/coronavirus/index.html
 Community Health & Well-Being
 Community Health & Well-Being: https://click.connect.cmu.edu/?qs=b737d2c98cdc09f10fd542bfee269a32ccf4a5be9533436281eb5718477dc854867964e2ac18b7ac4a64c6ed297f2c63911e54e07dd653a0092182eb9bf3c6a5
 Enterprise Risk Management
 Enterprise Risk Management: https://www.cmu.edu/erm/
 COVID-19 UpdatesCarnegie Mellon University5000 Forbes AvenuePittsburgh, PA 15213
-Legal Info: //www.cmu.edu/legal/
+Legal Info:  https://www.cmu.edu/legal/
 CMU on Facebook: https://www.facebook.com/carnegiemellonu/
 CMU on Twitter: https://twitter.com/CarnegieMellon
-News & Communications: news-and-communications/index.html

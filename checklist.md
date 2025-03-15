@@ -34,13 +34,13 @@ All basic pipeline is done. The following items are advanced options to be discu
 
 ### Retriever
 
-* [ ]  (2) Hyperparameters for `PineconeVectorStore.as_retriever()`  @Sean
+* [X]  (2) Add hyperparameter args for `PineconeVectorStore.as_retriever()`  @Sean
 * [ ]  Reranking (TBD)
 
 ### QA Generator
 
 * [ ]  (2) Prompt template  @Xiaotong
-* [ ]  (2) Hyperparameters for `pipeline()`  @Sean
+* [X]  (2) Add hyperparameter args for `pipeline()`  @Sean
 * [ ]  (2) `transformer` model options for rag generator. See [Hugging Face model page](https://huggingface.co/models) for reference. Models should support either `"text-generation"` or `"text2text-generation"` tasks. We currently use `"mistralai/Mistral-7B-Instruct-v0.2"` for `"text-generation"` and `google/flan-t5-large` for `"text2text-generation"`.   @Lexa
 
 ## Experiments

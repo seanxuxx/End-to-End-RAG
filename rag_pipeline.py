@@ -15,6 +15,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
+from huggingface_hub import login
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           BitsAndBytesConfig, GenerationConfig,
                           TextGenerationPipeline, pipeline)
@@ -90,6 +91,7 @@ class DataStore():
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
+        print(self.dimension)
 
         # Initialize Pinecone Index and Vector Store
         self.pc_index = self.get_pinecone_index()
@@ -231,6 +233,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     # Required parameters
     parser.add_argument('data_dir', type=str, help='Raw data directory')
+    parser.add_argument('--huggingfacetoken', type=str, help='huggingface token to log in', required=True)
     # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
     parser.add_argument('--chunk_size', type=int, default=500)
@@ -253,7 +256,10 @@ if __name__ == '__main__':
 
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
-
+    if not args.huggingfacetoken:
+        logging.error("No Hugging Face token provided. Please provide a valid token.")
+        exit(1)   
+    login(args.huggingfacetoken)
     # Experiment hyperparameters
     search_config = {'k': 3}
     generation_config = GenerationConfig(
@@ -281,4 +287,5 @@ if __name__ == '__main__':
     for question in question:
         query = Query(question=question, context=[], answer="")
         rag_model.qa(query, **generation_config.to_dict())
+        print(query['context'])
         print(f"\n{question}\n{query['answer']}\n")

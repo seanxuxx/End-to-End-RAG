@@ -5,6 +5,7 @@ import logging
 import os
 import re
 from typing import List, TypedDict
+import random
 
 import torch
 from dotenv import load_dotenv
@@ -26,9 +27,10 @@ from utils import get_chunk_max_length, set_logger
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument('experiment_type', type=str, help='train/test')
-    parser.add_argument('experiment_folder',type=str, default='Annotation/train_testdata')
-    parser.add_argument('result_folder',type=str, default='Annotation/experiment_result')
+    parser.add_argument('experiment_type', type=str, help='train/test/test_set')
+    parser.add_argument('--data_dir', type=str, default='raw_data')
+    parser.add_argument('--experiment_folder',type=str, default='Annotation/train_testdata')
+    parser.add_argument('--result_folder',type=str, default='Annotation/experiment_result')
     # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
     parser.add_argument('--chunk_size', type=int, default=500)
@@ -71,12 +73,18 @@ if __name__ == '__main__':
     with open(os.path.join(args.experiment_folder,args.experiment_type+'.json'),'r') as f:
         content = json.load(f)
     questions = [item['Question'] for item in content]
-    reference_answer = [item['Answer'] for item in content]
+    questions = random.sample(questions,30)
     generated_answer = []
+    context = []
     for question in questions:
         query = Query(question=question, context=[], answer="")
         rag_model.qa(query, **generation_config.to_dict())
         generated_answer.append(query['answer'])
-    result = [{'Question': questions[i],'<Generated>Answer': generated_answer[i],'<Reference>Answer':reference_answer[i]} for i in range(len(questions))]
+        context.append(query['context'])
+    if args.experiment_type != 'test_set':
+        reference_answer = [item['Answer'] for item in content]
+        result = [{'Question': questions[i],'<Generated>Answer': generated_answer[i],'<Reference>Answer':reference_answer[i], '<Retrived>context': context[i]} for i in range(len(questions))]
+    else: 
+        result = [{'Question': questions[i],'<Generated>Answer': generated_answer[i],'<Retrived>context': context[i]} for i in range(len(questions))]
     with open(os.path.join(args.result_folder,args.experiment_type+'.json'),'w') as f:
         json.dump(result,f)

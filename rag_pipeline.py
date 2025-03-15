@@ -16,7 +16,8 @@ from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
-                          BitsAndBytesConfig, pipeline)
+                          BitsAndBytesConfig, GenerationConfig,
+                          TextGenerationPipeline, pipeline)
 
 from utils import get_chunk_max_length, set_logger
 
@@ -31,36 +32,12 @@ DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
 
 
-PROMPT_IN_CHAT_FORMAT = [
-    {
-        "role": "system",
-        "content": """Using the information contained in the context,
-give a comprehensive answer to the question.
-Respond only to the question asked, response should be concise and relevant to the question.
-If the answer cannot be deduced from the context, do not give an answer.""",
-    },
-    {
-        "role": "user",
-        "content": """Context:
-{context}
----
-Now here is the question you need to answer.
-
-Question: {question}""",
-    },
-]
-
-
 PROMPT_IN_CHAT_FORMAT = """\
-Using the information contained in the context,
-give a comprehensive answer to the question.
-Respond only to the question asked, response should be concise and relevant to the question.
-If the answer cannot be deduced from the context, do not give an answer.
-
-Context:
 {context}
----
-Now answer this question: {question}
+----------
+Using the information contained in the context,
+give a concise, accurate answer to the question.
+Question: {question}
 """
 
 
@@ -197,7 +174,7 @@ class DataStore():
 class RetrivalLM():
     def __init__(self, data_store: DataStore,
                  search_type: str = 'similarity',
-                 search_kwargs: dict = {'k': 5},
+                 search_kwargs: dict = {'k': 3},
                  task='text-generation',
                  model_name='mistralai/Mistral-7B-Instruct-v0.2'):
         """
@@ -225,18 +202,9 @@ class RetrivalLM():
         if not tokenizer.pad_token:
             tokenizer.pad_token = tokenizer.eos_token
         self.task = task
-        self.llm = pipeline(task=task,
-                            model=model_name,
-                            tokenizer=tokenizer,
-                            max_length=20000,
-                            truncation=True,
-                            torch_dtype=torch.bfloat16,
-                            device=DEVICE)
-
-        # Prompt config
-        # self.prompt_template = self.llm.tokenizer.apply_chat_template(
-        #     PROMPT_IN_CHAT_FORMAT, tokenize=False, add_generation_prompt=True
-        # )
+        self.llm = pipeline(task=task, model=model_name, tokenizer=tokenizer,
+                            max_new_tokens=100,
+                            torch_dtype=torch.bfloat16, device=DEVICE)
 
     def qa(self, query: Query, **kwargs):
         """
@@ -247,15 +215,13 @@ class RetrivalLM():
         **kwargs: for calling pipeline()
         """
         query['context'] = self.retriever.invoke(query['question'])
-        context = ''.join(['\n'+doc.page_content for doc in query['context']])
-
+        context = '\n----------\n'.join([f'Context {i+1}:\n{doc.page_content}'
+                                         for i, doc in enumerate(query['context'])])
+        prompt = PROMPT_IN_CHAT_FORMAT.format(context=context, question=query['question'])
         if self.task == 'text-generation':
             kwargs['return_full_text'] = False
-
-        prompt = PROMPT_IN_CHAT_FORMAT.format(context=context,
-                                              question=query['question'])
         response = self.llm(prompt, **kwargs)
-        query['answer'] = response[0]["generated_text"].strip()  # type: ignore
+        query['answer'] = response[0]["generated_text"]  # type: ignore
         torch.cuda.empty_cache()
 
 
@@ -288,14 +254,25 @@ if __name__ == '__main__':
     data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
                            is_semantic_chunking=args.is_semantic_chunking)
-    search_config = {'k': 5}
+
+    search_config = {'k': 3}
+
     rag_model = RetrivalLM(data_store=data_store,
                            search_type=args.search_type,
                            search_kwargs=search_config,
                            task=args.task, model_name=args.llm_model)
 
-    question = 'What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?'
+    generation_config = GenerationConfig(
+        max_new_tokens=100,
+        do_sample=True,
+        temperature=0.01,
+        top_p=0.95,
+        repetition_penalty=1.2,
+    )
+
+    question = "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?"
+    question = "When is the Vintage Pittsburgh retro fair taking place?"
     query = Query(question=question, context=[], answer="")
-    rag_model.qa(query)
+    rag_model.qa(query, **generation_config.to_dict())
 
     logging.info(f"\n{question}\n{query['answer']}\n")

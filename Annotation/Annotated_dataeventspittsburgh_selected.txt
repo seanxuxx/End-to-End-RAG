@@ -127,7 +127,6 @@ Answer: March 28, 2025
 <Generated>Question: Who is the conductor of the Pittsburgh Opera's production of Falstaff?
 Answer: Antony Walker
 
-<Generated>Question: Which starter option at Grand Concourse Restaurant includes butternut squash?
-Answer: Butternut Squash Bisque
-Answer: Kale & Romaine Caesar
+What is included in Carmella's 2024 Summer Restaurant Week menu?
+Answer: The 2024 Summer Restaurant Week menu includes elote pierogi filled with cotija cheese and potato, topped with fire-grilled corn salsa and chipotle crema, and jerked chicken served with rice and peas and crispy plantains.
 

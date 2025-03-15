@@ -18,8 +18,8 @@ Manually check the quality of generated data annotation.
 * [X]  (1) `Annotated_datasports.txt` @Lexa
 
 ### Dataset
-* [ ]  (2) Split train/test data: 200-300 test samples  @Xiaotong
-* [ ]  (3) Randomly extract 50 samples from the test set  @Xiaotong
+* [X]  (2) Split train/test data: 200-300 test samples  @Xiaotong
+* [X]  (3) Randomly extract 50 samples from the test set  @Xiaotong
 * [ ]  (4) Compute IAA  @Sean @Lexa
 
 ## Pipeline

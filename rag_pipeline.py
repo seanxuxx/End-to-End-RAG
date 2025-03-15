@@ -176,7 +176,8 @@ class RetrivalLM():
                  search_type: str = 'similarity',
                  search_kwargs: dict = {'k': 3},
                  task='text-generation',
-                 model_name='mistralai/Mistral-7B-Instruct-v0.2'):
+                 model_name='mistralai/Mistral-7B-Instruct-v0.2',
+                 max_new_token_length=100):
         """
         Args:
             data_store (DataStore): DataStore storing chunked documents.
@@ -191,6 +192,7 @@ class RetrivalLM():
                 Defaults to 'text-generation'.
                 Options: 'text-geneartion', 'text2text-generation'.
             model_name (str, optional): Model name for pipeline(). Should be consistent with the pipeline task.
+            max_new_token_length (int, optional): Maximum number of tokens to generate. Defaults to 100.
         """
         # Retriever config
         self.retriever = data_store.vector_store.as_retriever(search_type=search_type,
@@ -203,7 +205,7 @@ class RetrivalLM():
             tokenizer.pad_token = tokenizer.eos_token
         self.task = task
         self.llm = pipeline(task=task, model=model_name, tokenizer=tokenizer,
-                            max_new_tokens=100,
+                            max_new_tokens=max_new_token_length,
                             torch_dtype=torch.bfloat16, device=DEVICE)
 
     def qa(self, query: Query, **kwargs):
@@ -238,6 +240,7 @@ def parse_args() -> argparse.Namespace:
     # LLM parameters
     parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
     parser.add_argument('--task', type=str, default='text-generation')
+    parser.add_argument('--max_new_token_length', type=int, default=100)
     # Logging paramters
     parser.add_argument('--log_file_mode', type=str, default='a')
     return parser.parse_args()
@@ -251,17 +254,8 @@ if __name__ == '__main__':
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
 
-    data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
-                           chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
-                           is_semantic_chunking=args.is_semantic_chunking)
-
+    # Experiment hyperparameters
     search_config = {'k': 3}
-
-    rag_model = RetrivalLM(data_store=data_store,
-                           search_type=args.search_type,
-                           search_kwargs=search_config,
-                           task=args.task, model_name=args.llm_model)
-
     generation_config = GenerationConfig(
         max_new_tokens=100,
         do_sample=True,
@@ -270,9 +264,21 @@ if __name__ == '__main__':
         repetition_penalty=1.2,
     )
 
-    question = "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?"
-    question = "When is the Vintage Pittsburgh retro fair taking place?"
-    query = Query(question=question, context=[], answer="")
-    rag_model.qa(query, **generation_config.to_dict())
+    # Set up models
+    data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
+                           chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
+                           is_semantic_chunking=args.is_semantic_chunking)
+    rag_model = RetrivalLM(data_store=data_store,
+                           search_type=args.search_type,
+                           search_kwargs=search_config,
+                           task=args.task, model_name=args.llm_model)
 
-    logging.info(f"\n{question}\n{query['answer']}\n")
+    # Run RAG
+    question = [
+        "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?",
+        "When is the Vintage Pittsburgh retro fair taking place?"
+    ]
+    for question in question:
+        query = Query(question=question, context=[], answer="")
+        rag_model.qa(query, **generation_config.to_dict())
+        print(f"\n{question}\n{query['answer']}\n")

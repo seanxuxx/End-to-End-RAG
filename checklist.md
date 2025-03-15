@@ -12,8 +12,8 @@ Manually check the quality of generated data annotation.
 
 * [X]  (1) `Annotated_dataeventscmu.txt` @Lexa
 * [X]  (1) `Annotated_dataeventspittsburgh.txt` @Sean
-* [ ]  (1) `Annotated_datageneralinfo_cmu.txt` @Xiaotong
-* [ ]  (1) `Annotated_datageneralinfo_pittsburgh.txt`@Xiaotong
+* [X]  (1) `Annotated_datageneralinfo_cmu.txt` @Xiaotong
+* [X]  (1) `Annotated_datageneralinfo_pittsburgh.txt`@Xiaotong
 * [X]  (1) `Annotated_datamusicculture.txt` @Lexa
 * [X]  (1) `Annotated_datasports.txt` @Lexa
 

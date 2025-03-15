@@ -1,4 +1,5 @@
 import argparse
+import json
 import logging
 import os
 import re
@@ -6,6 +7,7 @@ from typing import List, TypedDict
 
 import torch
 from dotenv import load_dotenv
+from huggingface_hub import login
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_core.documents import Document
 from langchain_experimental.text_splitter import SemanticChunker
@@ -15,7 +17,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
 from pinecone.data.index import Index
 from tqdm import tqdm
-from huggingface_hub import login
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           BitsAndBytesConfig, GenerationConfig,
                           TextGenerationPipeline, pipeline)
@@ -23,16 +24,20 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer,
 from utils import get_chunk_max_length, set_logger
 
 load_dotenv()
-pinecone_api_key = os.getenv('PINECONE_API_KEY')
-if not pinecone_api_key:
-    raise ValueError("PINECONE_API_KEY is missing. Set it as an environment variable.")
-pc = Pinecone(api_key=pinecone_api_key)
 
+# Check if required api keys are written to the environment
+for api_key in ['PINECONE_API_KEY', 'HF_TOKEN', 'LANGSMITH_API_KEY', 'LANGSMITH_TRACING']:
+    if not os.getenv(api_key):
+        raise ValueError(f"{api_key} is missing. Set it as an environment variable.")
 
+# Login in Pinecone
+pc = Pinecone()
+
+# Set device
 DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
 
-
+# Set prompt template
 PROMPT_IN_CHAT_FORMAT = """\
 {context}
 ----------
@@ -50,7 +55,7 @@ class Query(TypedDict):
     https://python.langchain.com/docs/tutorials/rag/
     """
     question: str
-    context: List[Document]
+    context: List[str]
     answer: str
 
 
@@ -217,8 +222,9 @@ class RetrivalLM():
             query (Query): Query dictionary with "question", "context", and "answer".
         **kwargs: for calling pipeline()
         """
-        query['context'] = self.retriever.invoke(query['question'])
-        context = '\n----------\n'.join([f'Context {i+1}:\n{doc.page_content}'
+        retrieved_docs = self.retriever.invoke(query['question'])
+        query['context'] = [doc.page_content for doc in retrieved_docs]
+        context = '\n----------\n'.join([f'Context {i+1}:\n{doc}'
                                          for i, doc in enumerate(query['context'])])
         prompt = PROMPT_IN_CHAT_FORMAT.format(context=context, question=query['question'])
         if self.task == 'text-generation':
@@ -232,7 +238,6 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     # Required parameters
     parser.add_argument('data_dir', type=str, help='Raw data directory')
-    parser.add_argument('--huggingfacetoken', type=str, help='huggingface token to log in', required=True)
     # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
     parser.add_argument('--chunk_size', type=int, default=500)
@@ -255,11 +260,7 @@ if __name__ == '__main__':
 
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
-    if not args.huggingfacetoken:
-        logging.error("No Hugging Face token provided. Please provide a valid token.")
-        exit(1)   
-    login(args.huggingfacetoken)
-    # Experiment hyperparameters
+
     search_config = {'k': 3}
     generation_config = GenerationConfig(
         max_new_tokens=100,
@@ -283,8 +284,11 @@ if __name__ == '__main__':
         "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?",
         "When is the Vintage Pittsburgh retro fair taking place?"
     ]
+    queries = []
     for question in question:
         query = Query(question=question, context=[], answer="")
         rag_model.qa(query, **generation_config.to_dict())
-        print(query['context'])
-        print(f"\n{question}\n{query['answer']}\n")
+        queries.append(query)
+
+    with open('output.json', 'w') as f:
+        json.dump(queries, f, indent=4)

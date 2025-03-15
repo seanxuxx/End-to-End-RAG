@@ -1,0 +1,402 @@
+[
+    {
+      "id": 1,
+      "question": "Who organizes the Ph.D. Student Support Group at Carnegie Mellon University?",
+      "annotator_a": "Dr. Kym Simmons",
+      "annotator_b": "Kym Jordan Simmons, PhD",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Name formatting"
+    },
+    {
+      "id": 2,
+      "question": "When should students anticipate the demands of the exam schedule?",
+      "annotator_a": "Preferably in the course syllabus, well before finals.",
+      "annotator_b": "Students should plan based on the syllabus, ideally before the final exam period.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Paraphrasing"
+    },
+    {
+      "id": 3,
+      "question": "What percentage of the city's population identified as Christians according to the 2014 Pew Research Center study?",
+      "annotator_a": "78%",
+      "annotator_b": "78 percent",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Formatting"
+    },
+    {
+      "id": 4,
+      "question": "Where can you find Bella Sera Urban Trattoria?",
+      "annotator_a": "22 Market Square, Pittsburgh",
+      "annotator_b": "22 Market Square, Pittsburgh, PA",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "State abbreviation"
+    },
+    {
+      "id": 5,
+      "question": "Who helped Count Almaviva win Rosina's heart?",
+      "annotator_a": "Figaro, the barber",
+      "annotator_b": "Figaro (a barber)",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Parentheses vs. appositive"
+    },
+    {
+      "id": 6,
+      "question": "What historical installations are being preserved in the renovation of Point State Park?",
+      "annotator_a": "Fort Pitt Museum and Foundry",
+      "annotator_b": "Fort Pitt Museum and Fort Pitt Foundry",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Partial vs. full name"
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of the Day of Silence event at Carnegie Mellon University?",
+      "annotator_a": "To protest LGBTQ+ erasure.",
+      "annotator_b": "Highlights silencing of LGBTQ+ communities.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Paraphrasing"
+    },
+    {
+      "id": 8,
+      "question": "In which cities has David Sogg performed recitals, chamber music, and concerti?",
+      "annotator_a": "Charlotte, Pittsburgh, San Jose, Tallahassee, Tempe, Seattle",
+      "annotator_b": "Charlotte, Pittsburgh, San Jose, Tallahassee, Tempe, Seattle area",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 9,
+      "question": "Who must approve all banners?",
+      "annotator_a": "Office of Student Activities",
+      "annotator_b": "Student Activities Office",
+      "agreement": "No",
+      "issue_type": "Department name variation"
+    },
+    {
+      "id": 10,
+      "question": "What organization is accepting donations for Public Safety personnel and equipment?",
+      "annotator_a": "Public Safety Support Trust Fund",
+      "annotator_b": "Public Safety Support Trust Fund",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 11,
+      "question": "Question: Which kind of injury happened to Tommy Novak on Sun Mar 9 2025?",
+      "annotator_a": "Lower-body injury",
+      "annotator_b": "Lower Body",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Hyphenation"
+    },
+    {
+      "id": 12,
+      "question": "What day of the week and time is the University Archives open for drop-ins?",
+      "annotator_a": "Thursdays, 10 AM–4 PM",
+      "annotator_b": "Thursdays 10 a.m. to 4 p.m.",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 13,
+      "question": "When did Andrew Wickesberg join the Pittsburgh Symphony Orchestra?",
+      "annotator_a": "2007-2008 season",
+      "annotator_b": "During the 2007–2008 season",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Phrasing"
+    },
+    {
+      "id": 14,
+      "question": "What are some appetizer options at Cenacolo Restaurant in Pittsburgh?",
+      "annotator_a": "Meatballs, Burrino, Beans & Greens, Risotto, Flat Bread, Brussel Sprouts",
+      "annotator_b": "Meatballs, Burrino, Beans and Greens, Risotto, Flatbread, Roasted Brussels Sprouts",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Full name vs. partial"
+    },
+    {
+      "id": 15,
+      "question": "What happened with 0.1 seconds left in the second period of the game between Pittsburgh and Toronto?",
+      "annotator_a": "Matthew Knies scored for Toronto.",
+      "annotator_b": "Knies scored for the Maple Leafs.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Team name vs. city"
+    },
+    {
+      "id": 16,
+      "question": "Who is the speaker for the Margaret Morrison Lecture in Women's History in 2024?",
+      "annotator_a": "Judith A. Houck",
+      "annotator_b": "Dr. Judith Houck",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Name formatting"
+    },
+    {
+      "id": 17,
+      "question": "Which vendor sells pickle flavored gummies in Picklesburgh?",
+      "annotator_a": "Grandpa Joe’s Candy Shop",
+      "annotator_b": "Grandpa Joe's Candy Shop",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 18,
+      "question": "When is the exhibition of Derek Norman's work opening?",
+      "annotator_a": "March 13, 2025",
+      "annotator_b": "March 13th, 2025",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Date format"
+    },
+    {
+      "id": 19,
+      "question": "Which organization is giving away the first 7,500 \"Check Your Heart\" patterned shirts?",
+      "annotator_a": "UMPC Heart and Vascular Institute",
+      "annotator_b": "UPMC Heart and Vascular Institute",
+      "agreement": "No",
+      "issue_type": "Typo (UMPC vs. UPMC)"
+    },
+    {
+      "id": 20,
+      "question": "Who is co-hosting and sponsoring the CMBAA - Juneteenth Party?",
+      "annotator_a": "Trustee Larry Jennings",
+      "annotator_b": "Carnegie Mellon Trustee Larry Jennings",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Title specificity"
+    },
+    {
+      "id": 21,
+      "question": "Which NFL team did MyCole Pruitt play for before joining the Steelers?",
+      "annotator_a": "Atlanta Falcons",
+      "annotator_b": "Falcons",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Team name vs. city"
+    },
+    {
+      "id": 22,
+      "question": "Who is the Vice President for Diversity and Inclusion at Carnegie Mellon University?",
+      "annotator_a": "Dr. Wanda Heading-Grant",
+      "annotator_b": "Wanda Heading-Grant",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Name formatting"
+    },
+    {
+      "id": 23,
+      "question": "Which dish at Hyde Park Prime Steakhouse comes with roasted garlic whipped potatoes?",
+      "annotator_a": "Dry Aged Sirloin Chop Steak",
+      "annotator_b": "Dry-Aged Sirloin Chop",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Full name vs. partial"
+    },
+    {
+      "id": 24,
+      "question": "Who was the composer of the famous song \"My Old Kentucky Home\"?",
+      "annotator_a": "Stephen Foster",
+      "annotator_b": "Stephen Collins Foster",
+      "agreement": "No",
+      "issue_type": "Full name vs. partial"
+    },
+    {
+      "id": 25,
+      "question": "When can students add or drop courses in the summer term according to the academic calendar?",
+      "annotator_a": "Deadline not specified (incomplete).",
+      "annotator_b": "The date is unspecified in the context.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 26,
+      "question": "What did Tosca use to kill Scarpia?",
+      "annotator_a": "A knife.",
+      "annotator_b": "A knife.",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 27,
+      "question": "What activities does SPC combine to help the region become competitive in markets?",
+      "annotator_a": "Community assistance, financial aid, export support.",
+      "annotator_b": "Management of community assistance, financial assistance, export programs.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 28,
+      "question": "Which Pittsburgh organization provides opportunities for seniors to engage in various activities and community events?",
+      "annotator_a": "Pittsburgh Parks & Rec Senior Centers",
+      "annotator_b": "Pittsburgh Parks and Recreation Senior Centers",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Abbreviation"
+    },
+    {
+      "id": 29,
+      "question": "Which organization provides services against rape?",
+      "annotator_a": "PA Coalition Against Rape",
+      "annotator_b": "Pennsylvania Coalition Against Rape (PCAR)",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Acronym use"
+    },
+    {
+      "id": 30,
+      "question": "Whose approval is required for undergraduates to take a course?",
+      "annotator_a": "Dean’s office of the offering college/school.",
+      "annotator_b": "Approval from the dean’s office.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 31,
+      "question": "In which counties and district do most CMU DC Tartans reside?",
+      "annotator_a": "Fairfax, Montgomery, Arlington, DC",
+      "annotator_b": "Fairfax, Montgomery, and Arlington counties; DC",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 32,
+      "question": "What organization in Pennsylvania promotes the human rights of people with intellectual and developmental disabilities?",
+      "annotator_a": "The Arc of Pennsylvania",
+      "annotator_b": "Arc of PA",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Abbreviation"
+    },
+    {
+      "id": 33,
+      "question": "What is the main goal of the Public Safety department according to Mayor William Peduto?",
+      "annotator_a": "To help people in need.",
+      "annotator_b": "To assist those requiring aid.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Paraphrasing"
+    },
+    {
+      "id": 34,
+      "question": "What is the email address for the Zoning Board of Adjustment in Pittsburgh?",
+      "annotator_a": "zoningboard@pittsburghpa.gov",
+      "annotator_b": "zoning.board@pittsburghpa.gov",
+      "agreement": "No",
+      "issue_type": "Typo (extra period)"
+    },
+    {
+      "id": 35,
+      "question": "When did Mr. Lesniak make his conducting debut with Pittsburgh Opera?",
+      "annotator_a": "2017",
+      "annotator_b": "In 2017",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 36,
+      "question": "When was the City of Pittsburgh's Institution and Service Privilege Tax Ordinance enacted?",
+      "annotator_a": "1968",
+      "annotator_b": "Enacted in 1968.",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 37,
+      "question": "What is DAAT comprised of?",
+      "annotator_a": "Multi-agency team: PBP, DA’s Office, State Police, FBI, etc.",
+      "annotator_b": "Local, state, and federal partners including Pittsburgh Police, FBI, etc.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 38,
+      "question": "Which orchestras has Sarah Clendenning performed with before joining the Pittsburgh Symphony Orchestra?",
+      "annotator_a": "San Diego Symphony, LA Philharmonic, Vermont Symphony",
+      "annotator_b": "San Diego Symphony, San Diego Opera, LA Phil, Vermont Symphony",
+      "agreement": "No",
+      "issue_type": "Inclusion/exclusion of details"
+    },
+    {
+      "id": 39,
+      "question": "When must an employer conducting temporary, seasonal, or itinerant business in Pittsburgh file a return and pay the tax?",
+      "annotator_a": "Within 10 days of business completion.",
+      "annotator_b": "10 days after completing temporary work.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 40,
+      "question": "What types of services does CLASS offer?",
+      "annotator_a": "Independent living training and community case management.",
+      "annotator_b": "Classroom-based training and social/residential support.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 41,
+      "question": "Who is responsible for the development of the land between Heinz Field and PNC Park?",
+      "annotator_a": "Stadium Authority",
+      "annotator_b": "The Stadium Authority",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 42,
+      "question": "What is the mission of the Pittsburgh Bureau of Fire?",
+      "annotator_a": "Protect life, property, environment via fire suppression, EMS, etc.",
+      "annotator_b": "Protect life and property through fire services and emergency response.",
+      "agreement": "Yes (Lenient)",
+      "issue_type": null
+    },
+    {
+      "id": 43,
+      "question": "What resources can someone turn to for drug treatment in Pittsburgh?",
+      "annotator_a": "PA Get Help Now, UPMC Recovery, AHN Addiction Center",
+      "annotator_b": "1-800-662-HELP, UPMC, AHN",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Detail level"
+    },
+    {
+      "id": 44,
+      "question": "During what hours is disruptive activity restricted on Saturday and Sunday?",
+      "annotator_a": "Before 7 AM and after 10 PM.",
+      "annotator_b": "Restricted before 7:00 a.m. and after 10:00 p.m.",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 45,
+      "question": "Which professor at Carnegie Mellon introduced the first Girl Scout badge for negotiation?",
+      "annotator_a": "Linda Babcock",
+      "annotator_b": "Prof. Linda Babcock",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Title inclusion"
+    },
+    {
+      "id": 46,
+      "question": "Who inhabited in the Pittsburgh area before European settlers?",
+      "annotator_a": "Seneca, Shawnee, Mingo tribes.",
+      "annotator_b": "Native tribes: Seneca, Shawnee, Mingo.",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 47,
+      "question": "What program did the Department of Public Safety Office of Community Health and Safety announce during the Annual Overdose Awareness Day Resource Fair?",
+      "annotator_a": "Post Overdose Support Team (POST)",
+      "annotator_b": "POST Program",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Acronym use"
+    },
+    {
+      "id": 48,
+      "question": "Which composers' works will be performed in the concert by Piano 4te at August Wilson Center in Pittsburgh?",
+      "annotator_a": "Liszt, Paganini, Fitkin, Eisenga, Peppo, Twedt, Barndollar.",
+      "annotator_b": "Works by Liszt, Paganini, Fitkin, Eisenga, Peppo, Twedt, Barndollar.",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 49,
+      "question": "In which music school did Yun-Ya Lo earn her Bachelor and Master degrees?",
+      "annotator_a": "Juilliard School",
+      "annotator_b": "The Juilliard School",
+      "agreement": "Yes (Strict)",
+      "issue_type": null
+    },
+    {
+      "id": 50,
+      "question": "What is the role of the Naming Commission in Pittsburgh?",
+      "annotator_a": "The Naming Commission in Pittsburgh is responsible for creating guidelines and specifications for naming or changing the name of public property or facilities. They complete a report on the property or facility being named or renamed, which includes its historic, artistic, and cultural background. The Commission meets quarterly and can be contacted for more information by emailing City Planning at cityplanning@pittsburghpa.gov.",
+      "annotator_b": "Creating guidelines and specifications for naming or changing the name of public property or facilities",
+      "agreement": "Yes (Lenient)",
+      "issue_type": "Extra context"
+    }
+  ]

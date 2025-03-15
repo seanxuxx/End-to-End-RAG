@@ -66,7 +66,6 @@ Now answer this question: {question}
 
 class Query(TypedDict):
     """
-    _summary_
     Using TypedDict keeps track of input question, retrieved context, and generated answer,
     helping maintain a structured, type-safe, and modular workflow.
     The idea is adopted from Build a Retrieval Augmented Generation (RAG) App: Part 1 | 🦜️🔗 LangChain
@@ -78,15 +77,16 @@ class Query(TypedDict):
 
 
 class DataStore():
-    def __init__(self, model_name: str, chunk_size=500, chunk_overlap=100,
-                 data_dir='raw_data', filename_pattern='**/*.txt',
+    def __init__(self, model_name: str, data_dir: str,
+                 chunk_size=500, chunk_overlap=100,
+                 filename_pattern='**/*.txt',
                  is_semantic_chunking=False, is_upsert_data=False):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
+            data_dir (str): Directory storing raw data files.
             chunk_size (int, optional): Defaults to 500.
             chunk_overlap (int, optional): Defaults to 100.
-            data_dir (str): Directory storing raw data files. Defaults to 'raw_data'.
             filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
             is_semantic_chunking (bool, optional):
                 True for using SemanticChunker, otherwise RecursiveCharacterTextSplitter. Defaults to False.
@@ -195,19 +195,29 @@ class DataStore():
 
 
 class RetrivalLM():
-    def __init__(self, task: str, model_name: str, data_store: DataStore, **kwargs):
+    def __init__(self, data_store: DataStore,
+                 search_type: str = 'similarity',
+                 search_kwargs: dict = {'k': 5},
+                 task='text-generation',
+                 model_name='mistralai/Mistral-7B-Instruct-v0.2'):
         """
         Args:
-            model_name (str): Model name for pipeline(). Should be available for AutoModelForCausalLM.
             data_store (DataStore): DataStore storing chunked documents.
-        **kwargs: for as_retriever()
+            search_type (str, optional): Type of search that the Retriever should perform.
+                Defaults to 'similarity';
+                Options: 'similarity', 'similarity_score_threshold', 'mmr'.
+            search_kwargs (dict, optional): Keyword arguments to pass to the search function.
+                Defaults to {'k': 5} fo 'similarity';
+                Example {'score_threshold': 0.5} for 'similarity_score_threshold';
+                Example {'fetch_k': 20, 'lambda_mult': 0.5} for 'mmr'.
+            task (str, optional): Transformer pipeline task.
+                Defaults to 'text-generation'.
+                Options: 'text-geneartion', 'text2text-generation'.
+            model_name (str, optional): Model name for pipeline(). Should be consistent with the pipeline task.
         """
-        # Retriver config
-        if kwargs:
-            self.retriever = data_store.vector_store.as_retriever(**kwargs)
-        else:
-            self.retriever = data_store.vector_store.as_retriever(
-                search_type="similarity", search_kwargs={"k": 5})
+        # Retriever config
+        self.retriever = data_store.vector_store.as_retriever(search_type=search_type,
+                                                              search_kwargs=search_kwargs)
 
         # LLM config
         torch.cuda.empty_cache()
@@ -251,12 +261,15 @@ class RetrivalLM():
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    # DataStore paramters
+    # Required parameters
+    parser.add_argument('data_dir', type=str, help='Raw data directory')
+    # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
     parser.add_argument('--chunk_size', type=int, default=500)
     parser.add_argument('--chunk_overlap', type=int, default=100)
     parser.add_argument('--is_semantic_chunking', type=bool, default=False)
-    # Retriver parameters
+    parser.add_argument('--search_type', type=str, default='similarity')
+    # LLM parameters
     parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
     parser.add_argument('--task', type=str, default='text-generation')
     # Logging paramters
@@ -272,11 +285,14 @@ if __name__ == '__main__':
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
 
-    data_store = DataStore(model_name=args.embedding_model, data_dir='raw_data',
+    data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
                            is_semantic_chunking=args.is_semantic_chunking)
-    rag_model = RetrivalLM(task=args.task, model_name=args.llm_model,
-                           data_store=data_store)
+    search_config = {'k': 5}
+    rag_model = RetrivalLM(data_store=data_store,
+                           search_type=args.search_type,
+                           search_kwargs=search_config,
+                           task=args.task, model_name=args.llm_model)
 
     question = 'What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?'
     query = Query(question=question, context=[], answer="")

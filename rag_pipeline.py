@@ -91,7 +91,6 @@ class DataStore():
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
-        print(self.dimension)
 
         # Initialize Pinecone Index and Vector Store
         self.pc_index = self.get_pinecone_index()

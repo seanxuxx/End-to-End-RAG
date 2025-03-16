@@ -133,7 +133,7 @@ if __name__ == '__main__':
         search_type=args.search_type,
         search_kwargs=search_config,
         task=args.task,
-        model_name=args.llm_model
+        model_name=args.generator_model
     )
 
     # Set up generator
@@ -159,7 +159,7 @@ if __name__ == '__main__':
     result = convert_query_responses(queries, reference_answers)
 
     result_filepath, config_filepath, eval_filepath = get_output_filepaths(
-        args.embedding_model, args.llm_model, args.search_type)
+        args.embedding_model, args.generator_model, args.search_type)
     eval_filepath = '' if args.no_reference_answers else eval_filepath
 
     save_outputs(result_filepath, config_filepath, eval_filepath)

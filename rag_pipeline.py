@@ -235,7 +235,7 @@ def parse_retriever_args(parser: argparse.ArgumentParser):
 def parse_generator_args(parser: argparse.ArgumentParser):
     parser.add_argument('--task', type=str, default='text2text-generation',
                         choices=['text-generation', 'text2text-generation'])
-    parser.add_argument('--llm_model', type=str, default='google/flan-t5-large')
+    parser.add_argument('--generator_model', type=str, default='google/flan-t5-large')
     parser.add_argument('--max_new_tokens', type=int, default=50)
     parser.add_argument('--temperature', type=float, default=0.01)
     parser.add_argument('--top_p', type=float, default=0.95)
@@ -283,7 +283,7 @@ if __name__ == '__main__':
         search_type=args.search_type,
         search_kwargs=search_config,
         task=args.task,
-        model_name=args.llm_model
+        model_name=args.generator_model
     )
 
     # Set up generator

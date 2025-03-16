@@ -187,8 +187,8 @@ if __name__ == '__main__':
         torch.cuda.ipc_collect()
         torch.cuda.empty_cache()
 
-    setup_time = time.time()
-    logging.info(f'Inference time elapsed: {setup_time - start_time: .2f}s')
+    infer_time = time.time()
+    logging.info(f'Inference time elapsed: {infer_time - setup_time: .2f}s')
 
     # Save result
     result = convert_query_responses(queries, reference_answers)

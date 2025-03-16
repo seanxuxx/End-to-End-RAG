@@ -7,10 +7,10 @@ from typing import List, TypedDict
 
 import torch
 from dotenv import load_dotenv
-from huggingface_hub import login
 from langchain import hub
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_core.documents import Document
+from langchain_core.vectorstores import InMemoryVectorStore, VectorStore
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain_pinecone import PineconeVectorStore
@@ -210,108 +210,3 @@ class RetrivalLM():
         response = self.llm(prompt, **kwargs)
         query['answer'] = response[0]["generated_text"]  # type: ignore
         torch.cuda.empty_cache()
-
-
-def parse_datastore_args(parser: argparse.ArgumentParser):
-    parser.add_argument('--data_dir', type=str, default='raw_data',
-                        help='Directory of raw text files')
-    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
-    parser.add_argument('--chunk_size', type=int, default=1000)
-    parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--is_semantic_chunking', action='store_true', default=True)
-    parser.add_argument('--not_semantic_chunking', action='store_false',
-                        dest='is_semantic_chunking')
-
-
-def parse_retriever_args(parser: argparse.ArgumentParser):
-    parser.add_argument('--search_type', type=str, default='similarity',
-                        choices=['similarity', 'similarity_score_threshold', 'mmr'])
-    parser.add_argument('--search_k', type=int, default=5)
-    parser.add_argument('--fetch_k', type=int, default=20)
-    parser.add_argument('--lambda_mult', type=float, default=0.5)
-    parser.add_argument('--score_threshold', type=float, default=0.5)
-
-
-def parse_generator_args(parser: argparse.ArgumentParser):
-    parser.add_argument('--task', type=str, default='text2text-generation',
-                        choices=['text-generation', 'text2text-generation'])
-    parser.add_argument('--generator_model', type=str, default='google/flan-t5-large')
-    parser.add_argument('--max_new_tokens', type=int, default=50)
-    parser.add_argument('--temperature', type=float, default=0.01)
-    parser.add_argument('--top_p', type=float, default=0.95)
-    parser.add_argument('--repetition_penalty', type=float, default=1.2)
-    parser.add_argument('--do_sample', action='store_true', default=True,
-                        help="Enable do_sample when calling pipeline (default: True)")
-    parser.add_argument('--not_do_sample', action='store_false', dest='do_sample',
-                        help="Disable do_sample when calling pipeline")
-
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser()
-    parse_datastore_args(parser)
-    parse_retriever_args(parser)
-    parse_generator_args(parser)
-    parser.add_argument('--log_file_mode', type=str, default='a')
-    return parser.parse_args()
-
-
-if __name__ == '__main__':
-
-    args = parse_args()
-    set_logger('rag_pipeline', file_mode=args.log_file_mode)
-    logging.info(f'Configuration:\n{vars(args)}')
-
-    # Set up DataStore
-    data_store = DataStore(
-        data_dir=args.data_dir,
-        model_name=args.embedding_model,
-        chunk_size=args.chunk_size,
-        chunk_overlap=args.chunk_overlap,
-        is_semantic_chunking=args.is_semantic_chunking,
-        is_new_index=False,
-    )
-
-    # Set up Retriver
-    search_config = {'k': args.search_k}
-    if args.search_type == 'mmr':
-        search_config['fetch_k'] = args.fetch_k
-        search_config['lambda_mult'] = args.lambda_mult
-    elif args.search_type == 'similarity_score_threshold':
-        search_config['score_threshold'] = args.score_threshold
-    rag_model = RetrivalLM(
-        data_store=data_store,
-        search_type=args.search_type,
-        search_kwargs=search_config,
-        task=args.task,
-        model_name=args.generator_model
-    )
-
-    # Set up generator
-    generation_config = {
-        'max_new_tokens': args.max_new_tokens,
-        'do_sample': args.do_sample,
-        'use_cache': True,
-    }
-    if args.do_sample:
-        generation_config['temperature'] = args.temperature
-        generation_config['top_p'] = args.top_p
-        generation_config['repetition_penalty'] = args.repetition_penalty
-    if args.task == 'text-generation':
-        generation_config['return_full_text'] = False
-
-    # Run RAG
-    question = [
-        "What kind of food is featured in the Lenten Fish Fry?",
-        "What food is Picklesburgh centered around?",
-        "What year was the Pittsburgh Penguins team founded?",
-        "Who is the Bench Coach for the Pittsburgh Pirates?",
-        "Which food festival is held at Stacks at 3 Crossings?",
-    ]
-    queries = []
-    for question in tqdm(question):
-        query = Query(question=question, context=[], answer="")
-        rag_model.qa(query, **generation_config)
-        queries.append(query)
-
-    with open(f'scratch_{args.search_type}.json', 'w') as f:
-        json.dump(queries, f, indent=4)

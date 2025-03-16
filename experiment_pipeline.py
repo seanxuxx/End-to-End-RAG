@@ -76,6 +76,40 @@ def save_outputs(result: List[dict], configuration: dict, evaluate: bool,
         logging.info(f'Save evaluation metrics to {eval_filepath}')
 
 
+def parse_datastore_args(parser: argparse.ArgumentParser):
+    parser.add_argument('--data_dir', type=str, default='raw_data',
+                        help='Directory of raw text files')
+    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
+    parser.add_argument('--chunk_size', type=int, default=1000)
+    parser.add_argument('--chunk_overlap', type=int, default=100)
+    parser.add_argument('--is_semantic_chunking', action='store_true', default=True)
+    parser.add_argument('--not_semantic_chunking', action='store_false',
+                        dest='is_semantic_chunking')
+
+
+def parse_retriever_args(parser: argparse.ArgumentParser):
+    parser.add_argument('--search_type', type=str, default='similarity',
+                        choices=['similarity', 'similarity_score_threshold', 'mmr'])
+    parser.add_argument('--search_k', type=int, default=5)
+    parser.add_argument('--fetch_k', type=int, default=20)
+    parser.add_argument('--lambda_mult', type=float, default=0.5)
+    parser.add_argument('--score_threshold', type=float, default=0.5)
+
+
+def parse_generator_args(parser: argparse.ArgumentParser):
+    parser.add_argument('--task', type=str, default='text2text-generation',
+                        choices=['text-generation', 'text2text-generation'])
+    parser.add_argument('--generator_model', type=str, default='google/flan-t5-large')
+    parser.add_argument('--max_new_tokens', type=int, default=50)
+    parser.add_argument('--temperature', type=float, default=0.01)
+    parser.add_argument('--top_p', type=float, default=0.95)
+    parser.add_argument('--repetition_penalty', type=float, default=1.2)
+    parser.add_argument('--do_sample', action='store_true', default=True,
+                        help="Enable do_sample when calling pipeline (default: True)")
+    parser.add_argument('--not_do_sample', action='store_false', dest='do_sample',
+                        help="Disable do_sample when calling pipeline")
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument('--experiment_file', type=str,
@@ -87,10 +121,7 @@ def parse_args() -> argparse.Namespace:
     parse_datastore_args(parser)
     parse_retriever_args(parser)
     parse_generator_args(parser)
-
-    args = parser.parse_args()
-    assert args.experiment_file.endswith('.txt'), '"--experiment_file" must be a txt file'
-    return args
+    return parser.parse_args()
 
 
 if __name__ == '__main__':

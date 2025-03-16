@@ -1,92 +1,94 @@
-<Generated>Question: When did Carnegie Museums in Pittsburgh become known as "The Carnegie"?
-Answer: The name "The Carnegie" was adopted for Carnegie Museums in Pittsburgh in 1986.
+<Generated>Question: In which year did Carnegie Museums in Pittsburgh become known as "The Carnegie"?
+Answer: 1986
 
-<Generated>Question: When was the exhibition of Gertrude Abercrombie's works held at the museum?
-Answer: The exhibition of Gertrude Abercrombie's works was held at the museum from Jan. 18 to June 1.
+<Generated>Question: In which year was the exhibition of Gertrude Abercrombie's works held at the museum?
+Answer: From January 18 to June 1
 
 <Generated>Question: What did Tosca use to kill Scarpia?
-Answer: Tosca used a knife to kill Scarpia.Context: The Carnegie Museum of Natural History in Pittsburgh, Pennsylvania, was founded by Andrew Carnegie in 1896. The museum is home to a diverse collection of artifacts, including the first known dinosaur eggs in the Western Hemisphere. The museum also has a significant collection of fossils, including the largest T. rex skull ever discovered. The museum was designed by architects Brinton C. Davis and Henry Hornbostel. The Carnegie Museum of Natural History is a part of the Carnegie Museums of Pittsburgh.
+Answer: A knife
 
-<Generated>Question: When was the Carnegie Museum of Natural History founded?
-Answer: The Carnegie Museum of Natural History was founded in 1896.
+<Generated>Question: In which year was the Carnegie Museum of Natural History founded?
+Answer: 1896
 
-<Generated>Question: When was the plans for the Pittsburgh Glass Center changed from Elizabeth, Pennsylvania to Pittsburgh?
-Answer: The plans for the Pittsburgh Glass Center were changed from Elizabeth, Pennsylvania to Pittsburgh by 1999.
+<Generated>Question: In which year was the plans for the Pittsburgh Glass Center changed from Elizabeth, Pennsylvania to Pittsburgh?
+Answer: 1999
 
 <Generated>Question: What email address should I contact to opt-out of promotional emails from the Carnegie Museums?
 Answer: membership@carnegiemuseums.org
 
-<Generated>Question: When was the Fort Pitt Museum founded?
-Answer: The exact founding date of the Fort Pitt Museum is not provided in the context, but the fort was built in 1758 during French and Indian War.
+<Generated>Question: In which year was the Fort Pitt Museum founded?
+Answer: 1969
 
-<Generated>Question: When was the first iron furnace in Pittsburgh established?
-Answer: The first iron furnace in Pittsburgh was established in 1859.
+<Generated>Question: In which year was the first iron furnace in Pittsburgh established?
+Answer: 1859
 
 <Generated>Question: Who are the community group contacts for purchasing low-price tickets to the 10:30AM matinee performance of We Shall Not Be Moved?
-Answer: Wendy Parkulo, Manager of Group Sales and Community Initiatives can be contacted via email or at 412-281-0912 ext. 213 for more information about purchasing low-price tickets to the 10:30AM matinee performance of We Shall Not Be Moved for community groups.
+Answer: Wendy Parkulo
 
 <Generated>Question: In which century does the Carnegie Museum of Art have notable collections of aluminum relics and chairs?
-Answer: The Carnegie Museum of Art has notable collections of aluminum relics and chairs in the present century.
+Answer: The present century
 
 <Generated>Question: When is the educator workshop for Madama Butterfly?
-Answer: The educator workshop for Madama Butterfly is on Saturday, February 22, 2025.
+Answer: Saturday, February 22, 2025.
 
 <Generated>Question: Which museum object is featured in the 125 Years at Carnegie Museums: A History in Objects publication?
 Answer: The Dinosaur Hall’s T. rex Mural.
 
-<Generated>Question: When did Mr. Lesniak make his conducting debut with Pittsburgh Opera?
-Answer: Mr. Lesniak made his conducting debut with Pittsburgh Opera in 2017.
+<Generated>Question: In which year did Mr. Lesniak make his conducting debut with Pittsburgh Opera?
+Answer: 2017
 
 <Generated>Question: Who was the composer of the famous song "My Old Kentucky Home"?
 Answer: Stephen Foster
 
 <Generated>Question: Who disguised themselves as the Queen of the Fairies to trick Falstaff?
-Answer: Nannetta and Alice disguised themselves as the Queen of the Fairies to trick Falstaff.
+Answer: Nannetta and Alice
 
 <Generated>Question: What does the Meadowcroft Historic village feature?
-Answer: It features a massive rock overhang, the Rockshelter, used 19000 years ago.
+Answer: A massive rock overhang, the Rockshelter, used 19000 years ago.
 
 <Generated>Question: In Bizet's opera Carmen, Who does Carmen tell Don José that she is in love with?
-Answer: Escamillo.
+Answer: Escamillo
 
 <Generated>Question: What services are available for visitors with mobility issues at the Heinz History Center and Sports Museum?
 Answer: A limited number of manual wheelchairs and baby strollers are available to visitors on a first come, first served basis located in the first floor coat room.
 
-<Generated>Question: When was the Heinz History Center's Rauh Jewish History Program & Archives established?
-Answer: In 1988.
+<Generated>Question: In which year was the Heinz History Center's Rauh Jewish History Program & Archives established?
+Answer: 1988
 
 <Generated>Question: What time does Bravo Academy operate?
-Answer: Bravo Academy operates from 9:30 am to 4:00 pm.
+Answer: From 9:30 am to 4:00 pm.
 
 <Generated>Question: When is the Vintage Pittsburgh retro fair taking place?
-Answer: On April 5, 2025.
+Answer: April 5, 2025.
 
 <Generated>Question: Who did the Count suspect Cherubino of having a crush on?
-Answer: The Count suspected Cherubino of having a crush on the Countess.
+Answer: Countess, Rosina
 
 <Generated>Question: What type of dinosaurs did the team find for Andrew Carnegie?
-Answer: The team found a sauropod dinosaur for Andrew Carnegie.
+Answer: A sauropod dinosaur
 
 <Generated>Question: Which locations around Pittsburgh were featured in KEA's "iLove You" music video?
-Answer: Andrew Carnegie Free Library and Music Hall, Airbnb Historic Day House, and Dorsey’s Records shop were featured in KEA's "iLove You" music video.
+Answer: Andrew Carnegie Free Library and Music Hall
+Answer: Airbnb Historic Day House
+Answer: Dorsey’s Records shop
 
 <Generated>Question: Which organization is responsible for the authentication of Andy Warhol's artworks?
 Answer: The Andy Warhol Art Authentication Board
 
 <Generated>Question: In which university did Suzanne, the SVP of Pittsburgh Symphony Orchestra, earn her Master of Arts Management degree?
-Answer: Suzanne earned her Master of Arts Management degree from Carnegie Mellon University.
+Answer: Carnegie Mellon University
 
-<Generated>Question: When was the T. rex mural in Dinosaur Hall painted?
-Answer: The T. rex mural in Dinosaur Hall was painted in 1950.
+<Generated>Question: In which year was the T. rex mural in Dinosaur Hall painted?
+Answer: 1950
 
-<Generated>Question: When was the University of Pittsburgh established?
-Answer: The University of Pittsburgh was established in 1787.
+<Generated>Question: In which year was the University of Pittsburgh established?
+Answer: 1787
 
-<Generated>Question: Who did Lamanna consider his colleagues during his first international dinosaur expedition?
-Answer: Lamanna considered the Argentinian paleontologists he worked with as his colleagues.
+<Generated>Question: What did Lamanna consider his colleagues during his first international dinosaur expedition?
+Answer: Argentinian paleontologists
 
 <Generated>Question: What religious influences did Andy Warhol's personal items reveal in the 2019 exhibition?
-Answer: The 2019 exhibition, Andy Warhol: Revelation, revealed his Byzantine Catholic influences.
+Answer: Byzantine Catholic influences
 
 <Generated>Question: Which city did Mike Fincke grow up near and spent his childhood hours in the Buhl Planetarium?
 Answer: Pittsburgh
@@ -95,25 +97,25 @@ Answer: Pittsburgh
 Answer: Booking Protect
 
 <Generated>Question: In which year was the first coke-fire smelting introduced in Pittsburgh?
-Answer: The first coke-fire smelting was introduced in Pittsburgh in 1859.
+Answer: 1859
 
 <Generated>Question: Which organizations collaborated to host host the second iteration of Envisioning a Just Pittsburgh, an inclusive call for art in 2024?
-Answer: Carnegie Museums of Pittsburgh, Carnegie Library of Pittsburgh, the University of Pittsburgh, 1Hood Media, and the August Wilson African American Cultural Center collaborated to host the inclusive call for art in 2024.
+Answer: Carnegie Museums of Pittsburgh, Carnegie Library of Pittsburgh, the University of Pittsburgh, 1Hood Media, and the August Wilson African American Cultural Center
 
 <Generated>Question: What historical installations are being preserved in the renovation of Point State Park?
-Answer: Historical installations being preserved in the renovation of Point State Park include the Fort Pitt Museum and Fort Pitt Foundry.
+Answer: Fort Pitt Museum and Fort Pitt Foundry
 
 <Generated>Question: Who helped Count Almaviva win Rosina's heart?
-Answer: Figaro, a barber, helped Count Almaviva win Rosina's heart.
+Answer: Figaro
 
-<Generated>Question: What is the contact information for the Manager of Institutional Support at The Frick Pittsburgh?
-Answer: Jodi Golomb, 412-342-4089, and JGolomb@TheFrickPittsburgh.org.
+<Generated>Question: What is the contact number for the Manager of Institutional Support at The Frick Pittsburgh?
+Answer: 412-342-4089
 
 <Generated>Question: Which vendor sells pickled cabbage?
-Answer: Mancini's sells pickled cabbage.
+Answer: Mancini's
 
 <Generated>Question: Which orchestra did Jack Howell join after leaving the Pittsburgh Symphony for the second time?
-Answer: Jack Howell joined the New Zealand Symphony after leaving the Pittsburgh Symphony for the second time.
+Answer: New Zealand Symphony
 
 <Generated>Question: Which music schools did Kristina Yoder attend for her Bachelor and Master degrees?
 Answer: The Juilliard School
@@ -128,13 +130,13 @@ Answer: Wednesday, April 9, 2025
 Answer: Michele George and Ed Kreitman
 
 <Generated>Question: Which vendors in Block 1 offer pickle margarita in Picklesburgh?
-Answer: Country Hammer Moonshine.
+Answer: Country Hammer Moonshine
 
 <Generated>Question: Which music festivals did Douglas attend as a student?
-Answer: Douglas attended the summer music festivals at Aspen, Roundtop, the National Orchestral Institute, Music Academy of the West, and Tanglewood.
+Answer: Summer music festivals at Aspen, Roundtop, the National Orchestral Institute, Music Academy of the West, and Tanglewood.
 
 <Generated>Question: Which specialty cocktails are available during Picklesburgh's happy hour?
-Answer: Specialty cocktails are available from 4:30 to 9:30 p.m. on Thursday, Friday, and Saturday and from 12:00 to 5:00 p.m. on Sunday.
+Answer: From 4:30 to 9:30 p.m. on Thursday, Friday, and Saturday and from 12:00 to 5:00 p.m. on Sunday.
 
 <Generated>Question: Who is performing for the Stanwix St. Stage on Saturday, July 20, from 12:00 - 1:00 pm?
 Answer: Anne Eliza.
@@ -143,37 +145,44 @@ Answer: Anne Eliza.
 Answer: Bronwyn Banerdt
 
 <Generated>Question: Who are the musicians David McCarroll has performed with in chamber ensembles?
-Answer: David McCarroll has performed in chamber ensembles with musicians including Mitsuko Uchida, Richard Goode, Miriam Fried, Pamela Frank, Anthony Marwood, Donald Weilerstein, Kim Kashkashian, Roger Tapping, Marcy Rosen, Peter Wiley, and Charles Neidich.
+Answer: David McCarroll
 
 <Generated>Question: Which orchestra has commissioned a new concerto for Rusinek?
 Answer: Pittsburgh Symphony Orchestra
 
 <Generated>Question: Which orchestras has Sarah Clendenning performed with before joining the Pittsburgh Symphony Orchestra?
-Answer: Sarah Clendenning has performed with the San Diego Symphony, the San Diego Opera, the Los Angeles Philharmonic, the Mainly Mozart Festival, the Vermont Symphony Orchestra, and the Vermont Mozart Festival before joining the Pittsburgh Symphony Orchestra.
+Answer: Sarah Clendenning
 
 <Generated>Question: When did Christopher Allen join the Pittsburgh Symphony?
-Answer: Christopher Allen joined the Pittsburgh Symphony in September of 1997.
+Answer: September 1997
 
 <Generated>Question: Who is the coach of Chamber Music Pittsburgh's competitive Montgomery Fellowship Quartet program?
 Answer: Jeremy Black
 
-<Generated>Question: Which orchestras has Michael Rusinek performed as principal clarinet with, besides the Pittsburgh Symphony Orchestra?
-Answer: Michael Rusinek has performed as principal clarinet with the orchestras of Philadelphia, St. Louis, The Royal Concertgebouw in Amsterdam, and The National Arts Center in Ottawa, Canada.
-
 <Generated>Question: When did Cecee Pantikian join the Pittsburgh Symphony Orchestra?
-Answer: Cecee Pantikian joined the Pittsburgh Symphony Orchestra in September 2020.
+Answer: September 2020
 
 <Generated>Question: In which cities has David Sogg performed recitals, chamber music, and concerti?
 Answer: Charlotte, Pittsburgh, San Jose, Tallahassee, Tempe, and the Seattle area.
 
 <Generated>Question: Which orchestras has Manfred Honeck conducted in the United States?
-Answer: Manfred Honeck has conducted all major US orchestras, including New York Philharmonic, The Cleveland Orchestra, Chicago Symphony Orchestra, Los Angeles Philharmonic, Philadelphia Orchestra, Boston Symphony Orchestra and San Francisco Symphony.
+Answer: New York Philharmonic
+Answer: Cleveland Orchestra
+Answer: Chicago Symphony Orchestra
+Answer: Los Angeles Philharmonic
+Answer: Los Angeles Philharmonic
+Answer: Philadelphia Orchestra
+Answer: Boston Symphony Orchestra
+Answer: San Francisco Symphony.
 
 <Generated>Question: Which vendor offers pickle vodka in Picklesburgh?
 Answer: Armen's Barrels
 
-<Generated>Question: Which orchestra did DeAlmeida record Bach's concerto with, under whose conduction?
-Answer: DeAlmeida recorded Bach's concerto with the Pittsburgh Symphony Orchestra, under the conduction of Lorin Maazel.
+<Generated>Question: Which orchestra did DeAlmeida record Bach's concerto with?
+Answer: Pittsburgh Symphony Orchestra
+
+<Generated>Question: Under whose conduction, DeAlmeida recorded Bach's concerto with Pittsburgh Symphony Orchestra?
+Answer: Lorin Maazel
 
 <Generated>Question: Which competition did Jeremy Black win first prize in at the age of 12?
 Answer: Illinois Bell/WTTW Young Performers Competition
@@ -181,29 +190,31 @@ Answer: Illinois Bell/WTTW Young Performers Competition
 <Generated>Question: In which country will Mead Chamis and Mehmari perform at the 2024 International Viola Congress?
 Answer: Brazil
 
-<Generated>Question: When did Andrew Wickesberg join the Pittsburgh Symphony Orchestra?
-Answer: Andrew Wickesberg joined the Pittsburgh Symphony Orchestra in the 2007-2008 season.
+<Generated>Question: In which season did Andrew Wickesberg join the Pittsburgh Symphony Orchestra?
+Answer: 2007-2008 season
 
-<Generated>Question: Where did Aaron White begin his musical studies?
-Answer: Aaron White began his musical studies in the public school system after moving to Irving, Texas.
+<Generated>Question: In which city and state did Aaron White begin his musical studies?
+Answer: Irving, Texas.
 
 <Generated>Question: Who are some renowned artists that Banerdt has collaborated with?
-Answer: Banerdt has collaborated with artists such as Kim Kashkashian and Mitsuko Uchida.
+Answer: Kim Kashkashian
+Answer: Mitsuko Uchida.
 
 <Generated>Question: Which music academy did Stephanie Tretick attend before Indiana University/Bloomington?
-Answer: Stephanie Tretick attended Vassar College before Indiana University/Bloomington.
+Answer: Vassar College
 
 <Generated>Question: When is the Vince Gill concert presented at Pitteburgh Symphony Orchestra?
-Answer: On Saturday, July 12, 2025, at 7:30 pm.
+Answer: Saturday, July 12, 2025, at 7:30 pm.
 
 <Generated>Question: Where did Victoria Luperi study music?
-Answer: Victoria Luperi studied music at the Curtis Institute of Music.
+Answer: Curtis Institute of Music
 
 <Generated>Question: Which vendor sells pickle flavored gummies in Picklesburgh?
 Answer: Grandpa Joe's Candy Shop
 
 <Generated>Question: Which vendor sells pickled peanuts in Picklesburgh?
-Answer: Cinnaroast or Pickle Pirate
+Answer: Cinnaroast
+Answer: Pickle Pirate
 
-<Generated>Question: When did Laura Fuller join the Pittsburgh Symphony Orchestra?
-Answer: Laura Fuller joined the Pittsburgh Symphony Orchestra in 2017.
+<Generated>Question: In which year did Laura Fuller join the Pittsburgh Symphony Orchestra?
+Answer: 2017

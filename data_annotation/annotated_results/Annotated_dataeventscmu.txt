@@ -1,38 +1,38 @@
 <Generated>Question: When is the Spring Carnival taking place at Carnegie Mellon University?
-Answer: From April 3 to 5, 2025.
+Answer: From April 3 to 5, 2025
 
 <Generated>Question: In which counties and district do most CMU DC Tartans reside?
-Answer: Most CMU DC Tartans reside in Fairfax, Montgomery, and Arlington counties, as well as the District of Columbia.
-
-<Generated>Question: When can students add or drop courses in the summer term according to the academic calendar?
-Answer: According to the academic calendar, students can add or drop courses in the summer term until the specified date. (The context does not provide the exact date, so the answer is incomplete.)
+Answer: Fairfax county
+Answer: Montgomery county
+Answer: Arlington county
+Answer: District of Columbia
 
 <Generated>Question: When is the opening reception for the Derek Norman exhibition at Carnegie Mellon University?
-Answer: The opening reception for the Derek Norman exhibition is on March 13, from 5-7 p.m.
+Answer: March 13, from 5-7 p.m.
 
 <Generated>Question: When is the EDIE Makeathon taking place?
-Answer: The EDIE Makeathon is taking place on March 21 - 22, 2025.
+Answer: March 21 - 22, 2025
 
 <Generated>Question: Who organizes the Master’s Student Support Group?
-Answer: The Master’s Student Support Group is organized by co-facilitator Adrijana Vukelic.
+Answer: Adrijana Vukelic
 
 <Generated>Question: When does Heartfulness Weekly Meditation take place?
-Answer: The Heartfulness Weekly Meditation takes place from 8:30 to 11 a.m. every week from March 30 to May 5.
+Answer: 8:30 to 11 a.m. every week from March 30 to May 5
 
 <Generated>Question: When is the exhibition of Derek Norman's work opening?
-Answer: The exhibition of Derek Norman's work is opening on March 13, 2025.
+Answer: March 13, 2025
 
 <Generated>Question: What is the purpose of the Day of Silence event at Carnegie Mellon University?
-Answer: The Day of Silence is a student-led national event to highlight the silencing and erasure of LGBTQ+ people.
+Answer: Highlight the silencing and erasure of LGBTQ+ people
 
 <Generated>Question: Who are the performers in the Carnegie Mellon Chamber Series: Schumann & Schubert event?
-Answer: The performers in the Carnegie Mellon Chamber Series: Schumann & Schubert event are David McCarroll (violin), David Harding (viola), Angela Park (cellist), and Dimitri Papadimitriou (pianist).
+Answer: David McCarroll, David Harding, Angela Park, and Dimitri Papadimitriou.
 
 <Generated>Question: What is the purpose of the Academic Calendar web page at Carnegie Mellon University?
-Answer: The Academic Calendar web page provides access to calendars for various CMU programs and locations, including registration dates, class start dates, add/drop deadlines, exam dates, and more.
+Answer: Provide access to calendars for various CMU programs and locations, including registration dates, class start dates, add/drop deadlines, exam dates, and more.
 
 <Generated>Question: What day of the week and time is the University Archives open for drop-ins?
-Answer: The University Archives is open for drop-ins on Thursdays from 10 a.m. to 4 p.m.
+Answer: Thursdays from 10 a.m. to 4 p.m.
 
 <Generated>Question: What is the name of the Carnegie Mellon University employee resource group that advocates for and supports neurodiverse people?
 Answer: Neurodiverse Employee Resource Group (NERG)
@@ -46,9 +46,6 @@ Answer: Drop in Mending Hours
 <Generated>Question: What is the start date for the Summer One & Mini-5 Faculty Course Evaluations?
 Answer: June 13, 2025
 
-<Generated>Question: What day of the week and time is the University Archives open for drop-ins?
-Answer: The University Archives is open for drop-ins on Thursdays from 10 a.m. to 4 p.m.
-
 <Generated>Question: Who is the speaker for the Margaret Morrison Lecture in Women's History in 2024?
 Answer: Judith A. Houck
 
@@ -59,34 +56,28 @@ Answer: Carnegie Mellon Trustee Larry Jennings
 Answer: Animal Friend’s Therapet program
 
 <Generated>Question: Who organizes the Ph.D. Student Support Group at Carnegie Mellon University?
-Answer: Kym Jordan Simmons, PhD
+Answer: Kym Jordan Simmons
 
 <Generated>Question: Who organizes the LGBTQIA+ Support and Social Group at Carnegie Mellon University?
 Answer: Jayme Jenkins
 
 <Generated>Question: What is the significance of March 20 or 21 for Bahá’ís and Iranians?
-Answer: March 20 or 21 marks the New Year celebration for Bahá’ís and Iranians.
-
-<Generated>Question: Who is the speaker at the event?
-Answer: Rayid Ghani
+Answer: Mark the New Year celebration for Bahá’ís and Iranians.
 
 <Generated>Question: What is the significance of National Arab American Heritage Month?
-Answer: National Arab American Heritage Month is a time when the U.S. celebrates the cultural and leadership contributions of Arab Americans.
+Answer: Celebrate the cultural and leadership contributions of Arab Americans.
 
 <Generated>Question: Who organizes the Virtual Gratitude Gathering?
 Answer: Harsh Agarwal
 
 <Generated>Question: What is the purpose of the Black Women’s Support Group (Graduate Students)?
-Answer: The Black Women’s Support Group (Graduate Students) is a weekly, virtual space for students who identify as Black women, facilitated by Black female therapists, to discuss various topics of interest including stress and coping, misogynoir, oppression and privilege, intersectional identities, self-esteem, relationships, colorism, family, and internalized racism.
+Answer: Discuss various topics of interest including stress and coping, misogynoir, oppression and privilege, intersectional identities, self-esteem, relationships, colorism, family, and internalized racism.
 
 <Generated>Question: Who is the director of Carnegie Mellon’s Entertainment Technology Center?
 Answer: Derek Ham
 
-<Generated>Question: When is the opening reception for the Derek Norman exhibition?
-Answer: The opening reception for the Derek Norman exhibition is on March 13, from 5-7 p.m.
-
 <Generated>Question: When is Yom HaShoah observed?
-Answer: Yom HaShoah is observed on April 23, 2025.
+Answer: April 23, 2025
 
 <Generated>Question: Who organizes the Monthly Crafternoon event at Carnegie Mellon University?
 Answer: Harsh Agarwal
@@ -95,7 +86,7 @@ Answer: Harsh Agarwal
 Answer: New Zealand
 
 <Generated>Question: Who does Grace's manifestations of Mary-Kate and Ashley Olsen represent in her life?
-Answer: Grace's manifestations of Mary-Kate and Ashley Olsen represent the ideal of perfection that Grace aspires to in her life.
+Answer: The ideal of perfection that Grace aspires to in her life
 
 <Generated>Question: What is the contact email for the Academic Calendar?
 Answer: cmuregistrar@andrew.cmu.edu
@@ -106,14 +97,14 @@ Answer: Giacomo de Nicola
 <Generated>Question: Which team is Carnegie Mellon Men's Tennis team playing against on April 19, 2025?
 Answer: Case Western Reserve
 
-<Generated>Question: When does the AI-SDM seminar series take place?
-Answer: The AI-SDM seminar series takes place biweekly.
+<Generated>Question: How often does the AI-SDM seminar series take place?
+Answer: Biweekly
 
 <Generated>Question: Who is the director of the play "The Inseparables" at CMU Drama?
 Answer: Robert Ramirez
 
 <Generated>Question: Who facilitates the Black Women’s Support Group (Graduate Students)?
-Answer: The Black Women’s Support Group (Graduate Students) is facilitated by Black female therapists.
+Answer: Black female therapists
 
 <Generated>Question: How many alumni, parents, and friends does CMU have in the San Francisco Bay Area?
-Answer: The San Francisco Bay Area has over 10,500 alumni, parents, and friends.
+Answer: Over 10,500 alumni, parents, and friends

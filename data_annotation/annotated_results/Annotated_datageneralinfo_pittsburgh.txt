@@ -1,255 +1,315 @@
-<Generated>Question: Which neighborhoods surround McKinley Park?
-Answer: McKinley Park is nestled between Pittsburgh’s Beltzhoover, Bon Air, and Knoxville neighborhoods.
+<Generated>Question: Which neighborhoods surround McKinley Park in Pittsburgh?
+Answer: Beltzhoover, Bon Air, and Knoxville neighborhoods.
 
 <Generated>Question: Who are the key personnel at the Disability Resources office at Carnegie Mellon University?
-Answer: Ethan Obstarczyk is the Senior Disability Resources Program Administrator, Patrick McCue is the Accessibility Specialist, and Jill Ramsey is the Testing Center Proctor.
+Answer: Ethan Obstarczyk
 
-<Generated>Question: Who will evaluate the applications for the Food Justice Fund?  
-Answer: The City will evaluate all applications to ensure the eligible use of Federal ARPA funds.
+<Generated>Question: Who will evaluate the applications for the Food Justice Fund?
+Answer: The City of Pittsburgh
 
 <Generated>Question: What statute classifies a person as an employer under the Pennsylvania Personal Income Tax regulations?
-Answer: A person is classified as an employer under the Pennsylvania Personal Income Tax statute, 72 P.S. § 7301(h).
+Answer: An employer under the Pennsylvania Personal Income Tax statute, 72 P.S. § 7301(h).
 
 <Generated>Question: Who issued an Executive Order to bring new efficiency and transparency to Pittsburgh's spending and budgeting procedures?
-Answer: Mayor William Peduto issued the Executive Order.
+Answer: Mayor William Peduto
 
-<Generated>Question: Where is the Bureau of Fire Headquarters located in Pittsburgh?  
-Answer: The Bureau of Fire Headquarters is located at 200 Ross Street, 5th Floor, Pittsburgh, PA 15219.
+<Generated>Question: Where is the Bureau of Fire Headquarters located in Pittsburgh?
+Answer: 200 Ross Street, 5th Floor, Pittsburgh, PA 15219
 
-<Generated>Question: When was Light Up Night held in 2024?  
-Answer: Light Up Night was held on November 23, 2024.
+<Generated>Question: When was Light Up Night held in 2024?
+Answer: November 23, 2024
 
 <Generated>Question: Who inhabited in the Pittsburgh area before European settlers?
-Answer: The Pittsburgh area was first inhabited by various Native American tribes, including the Seneca, Shawnee, and Mingo, before European settlers arrived.
+Answer: Seneca
+Answer: Shawnee
+Answer: Mingo
 
 <Generated>Question: Who is the Assistant Director of the Office of Community Health & Safety in the City of Pittsburgh?
 Answer: Camila Alarcon-Chelecki
 
 <Generated>Question: In which location is the City of Pittsburgh's main office located?
-Answer: The City of Pittsburgh's main office is located at 414 Grant St., Pittsburgh, PA 15219. (Accessibility entrance on Ross St.)
+Answer: 414 Grant St., Pittsburgh, PA 15219
 
-<Generated>Question: What is DAAT comprised of?  
-Answer: DAAT is a multi-agency team comprised of local, state, and federal Law Enforcement partners, including the Pittsburgh Bureau of Police, Allegheny County District Attorney’s Office, Allegheny County Police, Allegheny County Sheriff’s Department, Pennsylvania Attorney General’s Office, Pennsylvania State Police, FBI Pittsburgh, the US Attorneys Office, and the Bureau of Alcohol, Tobacco, Firearms and Explosives.
+<Generated>Question: What is DAAT comprised of?
+Answer: Local, state, and federal Law Enforcement partners
 
-<Generated>Question: What did Mayor William Peduto sign on May 29, 2018?
-Answer: Mayor William Peduto signed two Executive Orders supporting growth of the construction industry and access to family-supporting union jobs for city residents.
+<Generated>Question: What Law Enforcement partners does DAAT have?
+Answer: Pittsburgh Bureau of Police
+Answer: Allegheny County District Attorney’s Office
+Answer: Allegheny County Police
+Answer: Allegheny County Sheriff’s Department
+Answer: Pennsylvania Attorney General’s Office
+Answer: Pennsylvania State Police
+Answer: FBI Pittsburgh
+Answer: US Attorneys Office
+Answer: Bureau of Alcohol, Tobacco, Firearms and Explosives.
+
+<Generated>Question: What do the the Executive Orders support that Mayor William Peduto signed on May 29, 2018?
+Answer: Growth of the construction industry
+Answer: Access to family-supporting union jobs for city residents
 
 <Generated>Question: Who was the National Negro Opera Company founded?
-Answer: The National Negro Opera Company was founded by Miriam White and Jonnet Solomon.
+Answer: Miriam White and Jonnet Solomon.
 
 <Generated>Question: What are some examples of property violations on campus?
-Answer: Some examples of property violations on campus include damage to or destruction of property, improper placement of posters/banners, improper possession of property, irresponsible use of university property or services, operation of vehicles in restricted areas, propping open doors that are kept locked for security purposes, repairing and storing vehicles in unauthorized university spaces, and trespassing on a roof, parapet, and/or other non-public areas.
+Answer: Damage to or destruction of property
+Answer: Improper placement of posters/banners
+Answer: Improper possession of property
+Answer: Irresponsible use of university property or services
+Answer: Operation of vehicles in restricted areas
+Answer: Propping open doors that are kept locked for security purposes
+Answer: Repairing and storing vehicles in unauthorized university spaces
+Answer: Trespassing on a roof, parapet, and/or other non-public areas
 
 <Generated>Question: What program did the Department of Public Safety Office of Community Health and Safety announce during the Annual Overdose Awareness Day Resource Fair?
-Answer: The Department of Public Safety Office of Community Health and Safety announced the Post Overdose Support Team (POST) Program.
+Answer: Post Overdose Support Team (POST) Program.
 
 <Generated>Question: What activities does SPC combine to help the region become competitive in markets?
-Answer: SPC combines management of community assistance, financial assistance, export and government procurement assistance, and special enterprise development activities.
+Answer: Management of community assistance, financial assistance, export and government procurement assistance, and special enterprise development activities.
 
-<Generated>Question: Who is tracking and reporting the numbers of tests and confirmed cases of COVID-19 daily in Allegheny County?  
-Answer: The Allegheny County Health Department is tracking and reporting the numbers of tests and confirmed cases of COVID-19 daily.
-
-<Generated>Question: When should students anticipate the demands of the exam schedule?
-Answer: Students should anticipate the demands of the exam schedule preferably as part of the course syllabus, well in advance of the final examination period.
+<Generated>Question: Who is tracking and reporting the numbers of tests and confirmed cases of COVID-19 daily in Allegheny County?
+Answer: The Allegheny County Health Department
 
 <Generated>Question: When must an employer conducting temporary, seasonal, or itinerant business in Pittsburgh file a return and pay the tax?
-Answer: An employer must file a return and pay the tax within ten (10) days of the completion of the temporary, seasonal, or itinerant business.
+Answer: Within ten days of the completion of the temporary, seasonal, or itinerant business
 
-<Generated>Question: When was the first coke-fire smelting introduced in Pittsburgh?
-Answer: The first coke-fire smelting was introduced in Pittsburgh in 1859.
+<Generated>Question: In which year was the first coke-fire smelting introduced in Pittsburgh?
+Answer: 1859
 
 <Generated>Question: Who discovered the Pittsburgh area for Europeans?
-Answer: The first European to discover the Pittsburgh area was the French explorer Robert de La Salle.
+Answer: Robert de La Salle
 
 <Generated>Question: What payment methods are accepted at the farmers markets presented by CitiParks?
-Answer: All markets accept food stamps (SNAP), credit and debit cards as part of Just Harvest's Fresh Access program.
+Answer: Credit and debit cards
 
 <Generated>Question: What is the definition of a minor according to the given context?
-Answer: A minor is any individual less than eighteen (18) years of age.
+Answer: Individual less than eighteen years of age
 
 <Generated>Question: Which officer passed away at St. Clair Hospital following a brief illness?
 Answer: Officer Brian Rowland
 
-<Generated>Question: What is the main task of the Bureau of Animal Care & Control in Pittsburgh?  
-Answer: The Bureau of Animal Care & Control serves the residents of the City of Pittsburgh by providing care, control, and resolution to situations dealing with domestic animals and wildlife.
+<Generated>Question: What is the main task of the Bureau of Animal Care & Control in Pittsburgh?
+Answer: Serve the residents of the City of Pittsburgh by providing care, control, and resolution to situations dealing with domestic animals and wildlife
 
-<Generated>Question: Who founded Carnegie Mellon University?  
-Answer: Carnegie Mellon University was founded by Andrew Carnegie and Andrew Mellon.
+<Generated>Question: Who founded Carnegie Mellon University?
+Answer: Andrew Carnegie and Andrew Mellon
 
-<Generated>Question: When will the no parking measures be enforced on East Carson Street?  
-Answer: The no parking measures will be enforced on Fridays and Saturdays, from 7 p.m. until 4 a.m. on East Carson Street.
+<Generated>Question: When will the no parking measures be enforced on East Carson Street?
+Answer: Fridays and Saturdays, from 7 p.m. until 4 a.m.
 
 <Generated>Question: What organization is accepting donations for Public Safety personnel and equipment?
-Answer: The Public Safety Support Trust Fund is accepting donations.
+Answer: Public Safety Support Trust Fund
 
 <Generated>Question: What is the total number of uniformed personnel in the Department of Public Safety?
-Answer: The total number of uniformed personnel in the Department of Public Safety is 1155. (850 police officers and 678 firefighters + 217 EMS employees)
+Answer: 1155
 
 <Generated>Question: Where can a copy of the Taxpayer Bill of Rights be downloaded?
-Answer: A copy of the Taxpayer Bill of Rights can be downloaded at http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf
+Answer: http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf
 
-<Generated>Question: What type of businesses are required to register with the City of Pittsburgh according to the City Code?
-Answer: Businesses that have an office, factory, workshop, branch, warehouse, or other place of business, including banks, schools, hospitals, non-profit, and trade associations, located in the City or outside the City, and perform work or render services in whole or in part in the City are required to register with the City of Pittsburgh according to the City Code.
+<Generated>Question: What types of businesses are required to register with the City of Pittsburgh according to the City Code?
+Answer: Banks, schools, hospitals, non-profit, and trade associations
 
-<Generated>Question: What types of services does CLASS offer?  
-Answer: CLASS offers individualized services ranging from independent living skills training in the classroom to community-based case management for social, recreational, and residential supports.
+<Generated>Question: What types of services does CLASS offer?
+Answer: Independent living skills training in the classroom
+Answer: Community-based case management for social, recreational, and residential supports.
 
 <Generated>Question: Why was the Civil Service Commission established in Pittsburgh?
-Answer: The Civil Service Commission was established in Pittsburgh to insure the maintenance of a merit personnel system.
+Answer: Insure the maintenance of a merit personnel system
 
 <Generated>Question: What organization is responsible for reviewing and approving new indoor flight spaces?
-Answer: The UAS Committee is responsible for reviewing and approving new indoor flight spaces.
+Answer: UAS Committee
 
-<Generated>Question: How can you order a transcript of a meeting from City Planning?  
-Answer: You can order a transcript of a meeting by calling Network Deposition Services at 412-281-7908.
+<Generated>Question: How can you order a transcript of a meeting from City Planning?
+Answer: Call Network Deposition Services at 412-281-7908
+
+<Generated>Question: What is the phone number of Network Deposition Services in Department of City Planning?
+Answer: 412-281-7908
 
 <Generated>Question: Whose approval is required for undergraduates to take a course?
-Answer: Undergraduates need the approval of the dean’s office of the college/school offering the course.
+Answer: The dean’s office of the college/school offering the course
 
-<Generated>Question: When did the new Right to Know Law take effect in the Commonwealth of Pennsylvania?  
-Answer: The new Right to Know Law took effect on January 1, 2009.
+<Generated>Question: When did the new Right to Know Law take effect in the Commonwealth of Pennsylvania?
+Answer: January 1, 2009
 
 <Generated>Question: What percentage of the city's population identified as Christians according to the 2014 Pew Research Center study?
-Answer: 78% of the population of the city identified themselves as Christians.
+Answer: 78%
 
 <Generated>Question: What are DOMI's customer service hours for in-person and remote inquiries?
-Answer: DOMI's customer service hours for in-person and remote inquiries are Monday – Friday from 9am to 3pm.
+Answer: Monday to Friday from 9am to 3pm
+
+<Generated>Question: Are DOMI's customer service hours available for both in-person and remote inquiries, yes or no?
+Answer: yes
 
 <Generated>Question: How much funding did FEMA provide through its Fire Prevention Safety Grants?
-Answer: FEMA provided more than $950,000 through its Fire Prevention Safety Grants.
+Answer: More than $950,000
 
 <Generated>Question: When did MBK Pittsburgh host its Health and Wellness Summit?
-Answer: MBK Pittsburgh hosted its Health and Wellness Summit on June 20, 2024.
+Answer: June 20, 2024
 
 <Generated>Question: What resources can someone turn to for drug treatment in Pittsburgh?
-Answer: PA Get Help Now (1-800-662-HELP), UPMC Recovery Engagement Program (412-232-6275), and AHN Addiction Medicine Center of Excellence (412-359-4644) are some resources for drug treatment in Pittsburgh.
+Answer: PA Get Help Now
+Answer: UPMC Recovery Engagement Program
+Answer: AHN Addiction Medicine Center of Excellence
 
-<Generated>Question: When was the Buenos Aires Football Club founded?  
-Answer: The Buenos Aires Football Club was founded on June 20, 1867.
+<Generated>Question: What is the phone number of PA Get Help Now?
+Answer: 1-800-662-HELP
+
+<Generated>Question: What is the phone number of UPMC Recovery Engagement Program?
+Answer: 412-232-6275
+
+<Generated>Question: What is the phone number of AHN Addiction Medicine Center of Excellence?
+Answer: 412-359-4644
+
+<Generated>Question: When was the Buenos Aires Football Club founded?
+Answer: June 20, 1867
 
 <Generated>Question: Who is the new acting EMS Chief of Pittsburgh?
 Answer: Ronald Romano
 
 <Generated>Question: What is the email address for the Zoning Board of Adjustment in Pittsburgh?
-Answer: The email address for the Zoning Board of Adjustment in Pittsburgh is zoningboard@pittsburghpa.gov.
+Answer: zoningboard@pittsburghpa.gov
 
 <Generated>Question: What is the mission of Autism Urban Connections Inc.?
-Answer: The mission of Autism Urban Connections Inc. is to provide education, support, advocacy, and empowerment, with an emphasis on self-care to families of those diagnosed with Autism.
+Answer: Provide education, support, advocacy, and empowerment, with an emphasis on self-care to families of those diagnosed with Autism.
 
 <Generated>Question: Where can applications for the Police Officer position in Pittsburgh be submitted?
-Answer: Applications for the Police Officer position in Pittsburgh can be submitted online at www.pghjobs.net.
+Answer: www.pghjobs.net
 
 <Generated>Question: Where can I find the registration form for the Pittsburgh COPS Kids program?
-Answer: The registration form for the Pittsburgh COPS Kids program can be found online at http://pittsburghpa.gov/police/community-policing/cops-kids.html or picked up in person at Police Headquarters at 1203 Western Avenue, Pittsburgh, Pa 15233.
+Answer: http://pittsburghpa.gov/police/community-policing/cops-kids.html
+Answer: Pick up in person at Police Headquarters at 1203 Western Avenue, Pittsburgh, PA 15233
 
-<Generated>Question: What is the purpose of the PINS program?  
-Answer: The purpose of the PINS program is to identify and refer City residents who frequently utilize 9-1-1 services to meet their basic needs, as well as individuals who may be vulnerable to harm and need follow up, and to connect them to long-term services and supports.
-Context: The PINS program developed as a partnership between the three Public Safety Bureaus and the Office of Community Health & Safety. First responders identify and refer City residents who frequently utilize 9-1-1 services to meet their basic needs, as well as individuals who may be vulnerable to harm and need follow up. Community Social Workers and Public Safety liaisons conduct home visits to assess the health and social needs of these residents and develop a plan to link the residents to services and resources (including CIT and FBI cases). High utilizers also known as "frequent flyers" who disproportionately utilize 9-1-1 services place strain upon the emergency response system. By connecting these individuals to long-term services and supports, we relieve pressure on the systems in place to assist people who experience crises. Nationally, these programs are known to provide systems-level cost-savings.
+<Generated>Question: Where is the Pittsburgh COPS Kids program?
+Answer: 1203 Western Avenue, Pittsburgh, PA 15233
+
+<Generated>Question: What is the purpose of the PINS program?
+Answer: Identify and refer City residents who frequently utilize 9-1-1 services to meet their basic needs, as well as individuals who may be vulnerable to harm and need follow up, and to connect them to long-term services and supports
 
 <Generated>Question: When did Mayor Peduto issue the executive orders on affordable housing?
-Answer: Mayor Peduto issued the executive orders on affordable housing on February 14, 2017.
+Answer: February 14, 2017
 
 <Generated>Question: What is the Local Services Tax (LST)?
-Answer: The Local Services Tax is a tax on individuals for the privilege of engaging in an occupation
+Answer: A tax on individuals for the privilege of engaging in an occupation
 
-<Generated>Question: Which university in Pittsburgh won the NIT title in 1955?  
-Answer: Duquesne University won the NIT title in 1955.
+<Generated>Question: Which university in Pittsburgh won the NIT title in 1955?
+Answer: 1955
 
 <Generated>Question: What is the email address for the Historic Review Commission in Pittsburgh?
-Answer: The email address for the Historic Review Commission in Pittsburgh is historicreview@pittsburghpa.gov.
+Answer: historicreview@pittsburghpa.gov
 
 <Generated>Question: How can one register to speak at Council’s Regular and Standing Committees meetings?
-Answer: One can register to speak at Council’s Regular and Standing Committees meetings by using the online Speaker Signup form or by calling the City Clerk's office at (412) 255-2138.
+Answer: Use the online Speaker Signup form
+Answer: Call the City Clerk's office at (412) 255-2138
 
-<Generated>Question: When was the Longtime Owner Occupant Tax Exemption Program (LOOP) proposed in Pittsburgh?
-Answer: The Longtime Owner Occupant Tax Exemption Program (LOOP) was proposed in Pittsburgh in 2023 (implied by the text that Mayor Ed Gainey has submitted legislation to City Council).
+<Generated>Question: What is the phone number of the City Clerk's office?
+Answer: (412) 255-2138
 
-<Generated>Question: How many homicides were there in Pittsburgh in 2018?  
-Answer: There were 55 homicides in 2018.
+<Generated>Question: In which year was the Longtime Owner Occupant Tax Exemption Program (LOOP) proposed in Pittsburgh?
+Answer: 2023
 
-<Generated>Question: Who must approve a student's return from an academic suspension?  
-Answer: The associate dean (undergraduate students) or department head (graduate students) must approve a student's return from an academic suspension.
+<Generated>Question: How many homicides were there in Pittsburgh in 2018?
+Answer: 55
+
+<Generated>Question: Who must approve a undergraduate student's return from an academic suspension?
+Answer: Associate dean
+
+<Generated>Question: Who must approve a graduate student's return from an academic suspension?
+Answer: Department head
 
 <Generated>Question: What organization in Pennsylvania promotes the human rights of people with intellectual and developmental disabilities?
 Answer: The Arc of Pennsylvania
 
-<Generated>Question: When did Pittsburgh begin producing steel?  
-Answer: Production of steel began in 1875.
+<Generated>Question: In which year did Pittsburgh begin producing steel?
+Answer: 1875
 
 <Generated>Question: What is the phone number for Pittsburgh-Regional-Transit?
-Answer: The phone number for Pittsburgh-Regional-Transit is 412-442-2000.
+Answer: 412-442-2000
 
 <Generated>Question: How much was the FEMA Assistance to Firefighters Grant awarded to the Pittsburgh Bureau of Fire?
-Answer: The Pittsburgh Bureau of Fire was awarded a $1.7 million FEMA Assistance to Firefighters Grant.
+Answer: $1.7
 
 <Generated>Question: Who was imploring and challenging the newly-promoted personnel to be excellent?
 Answer: Mayor Ed Gainey
 
- What is the purpose of the Self-Advocacy Voices mentorship incubator program?
-Answer: The Self-Advocacy Voices mentorship incubator program empowers people with disabilities to give voice to their interests, passions, knowledge, and experiences through public speaking within a supportive environment of peers and mentors.
+<Generated>Question: What is the purpose of the Self-Advocacy Voices mentorship incubator program?
+Answer: Empower people with disabilities to give voice to their interests, passions, knowledge, and experiences through public speaking within a supportive environment of peers and mentors.
 
 <Generated>Question: Which Pittsburgh organization provides opportunities for seniors to engage in various activities and community events?
-Answer: The Pittsburgh Parks and Recreation Department's Senior Community Centers program offers opportunities for seniors to engage in various activities and community events.
+Answer: The Pittsburgh Parks and Recreation Department's Senior Community Centers program
 
-<Generated>Question: How can someone contact CDAP via email?  
-Answer: To contact CDAP via email, please email pacd@pittsburghpa.gov.
+<Generated>Question: How can someone contact CDAP via email?
+Answer: pacd@pittsburghpa.gov.
 
-<Generated>Question: What is the main goal of the Public Safety department according to Mayor William Peduto?  
-Answer: The main goal of the Public Safety department is to be there for people in need of help.
+<Generated>Question: What is the main goal of the Public Safety department according to Mayor William Peduto?
+Answer: For people in need of help
 
 <Generated>Question: What is the income threshold for an employee to apply for a refund of the Local Services Tax?
-Answer: An employee whose total income for a calendar year was less than $12,000 can apply for a refund of the Local Services Tax.
+Answer: Less than $12,000
 
 <Generated>Question: What is the role of the Naming Commission in Pittsburgh?
-Answer: The Naming Commission in Pittsburgh is responsible for creating guidelines and specifications for naming or changing the name of public property or facilities. They complete a report on the property or facility being named or renamed, which includes its historic, artistic, and cultural background. The Commission meets quarterly and can be contacted for more information by emailing City Planning at cityplanning@pittsburghpa.gov.
+Answer: Create guidelines and specifications for naming or changing the name of public property or facilities
 
-<Generated>Question: What are the core responsibilities of the Department of City Planning in Pittsburgh?  
-Answer: The core responsibilities of the Department of City Planning in Pittsburgh include reviewing development proposals, managing compliance with current land use policies, and developing long-range plans that adapt and evolve the City’s approach to land use to meet future needs.
+<Generated>Question: What are the core responsibilities of the Department of City Planning in Pittsburgh?
+Answer: Review development proposals
+Answer: Manage compliance with current land use policies
+Answer: Develop long-range plans
 
-<Generated>Question: What is Carnegie Mellon University committed to cultivating in its environment?  
-Answer: Carnegie Mellon University is committed to cultivating an environment that supports the personal and intellectual growth of each student.
+<Generated>Question: What is Carnegie Mellon University committed to cultivating in its environment?
+Answer: Cultivate an environment that supports the personal and intellectual growth of each student
 
 <Generated>Question: What is being asked of campers to help those in need in Pittsburgh?
 Answer: Campers are being asked to bring a non-perishable food item or personal hygiene product on their first day of camp to help those in need in Pittsburgh.
 
 <Generated>Question: What is the focus of the legislation in the Black Pittsburgh Matters Policies and Programs?
-Answer: The legislation is focused on eliminating student opportunity gaps.
+Answer: Eliminate student opportunity gaps
 
 <Generated>Question: Which demographic groups are disproportionately disconnected from broadband in Southwestern Pennsylvania?
-Answer: According to a 2022 Southwestern Pennsylvania Commission report on Equitable Broadband Access, Seniors, Families with K-12 students, and Black citizens are disproportionately disconnected.
+Answer: Seniors
+Answer: Families with K-12 students
+Answer: Black
 
-<Generated>Question: When was the City of Pittsburgh's Institution and Service Privilege Tax Ordinance enacted?
-Answer: The City of Pittsburgh's Institution and Service Privilege Tax Ordinance was enacted in 1968.
+<Generated>Question: In which year was the City of Pittsburgh's Institution and Service Privilege Tax Ordinance enacted?
+Answer: 1968
 
 <Generated>Question: What are some possible remedies for a violation of this Policy?
-Answer: Some possible remedies for a violation of this Policy include a no contact order, academic adjustments or accommodations, and workplace adjustments or accommodations.
+Answer: No contact order
+Answer: Academic adjustments or accommodations
+Answer: Workplace adjustments or accommodations
 
-<Generated>Question: What is the contact information for the City of Pittsburgh?
-Answer: The City of Pittsburgh can be reached at 412-255-2621 and their address is 414 Grant St. Pittsburgh, PA 15219 (Accessibility entrance on Ross St.).
+<Generated>Question: What is the contact phone number for the City of Pittsburgh?
+Answer: 412-255-2621
 
 <Generated>Question: What is the mission of the Pittsburgh Bureau of Fire?
-Answer: The mission of the Pittsburgh Bureau of Fire is to protect life, property, and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service, and domestic preparedness.
+Answer: Protect life, property, and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service, and domestic preparedness.
 
-<Generated>Question: When was the original ReelAbilities Film Festival initiated in New York?  
-Answer: The original ReelAbilities Film Festival was initiated in New York in 2007.
+<Generated>Question: In which year was the original ReelAbilities Film Festival initiated in New York?
+Answer: 2007
 
-<Generated>Question: When was coke-fire smelting introduced in Pittsburgh?  
-Answer: Coke-fire smelting was introduced in Pittsburgh in 1859 by the Clinton and Soho iron furnaces.
+<Generated>Question: Where was the original ReelAbilities Film Festival initiated in 2007?
+Answer: New York
 
-<Generated>Question: What is the mission of Environmental Services in Pittsburgh?  
-Answer: The mission of Environmental Services is to establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers.
+<Generated>Question: In which year was coke-fire smelting introduced in Pittsburgh?
+Answer: 1859
+
+<Generated>Question: What is the mission of Environmental Services in Pittsburgh?
+Answer: Establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers.
 
 <Generated>Question: What does the Independent Living Institute aim to promote for individuals with disabilities?
-Answer: The Independent Living Institute aims to promote opportunities for individuals with disabilities for more personal and political power, self-determination, full participation, and equality.
+Answer: Personal and political power
+Answer: Self-determination
+Answer: Full participation
+Answer: Equality
 
 <Generated>Question: Who is responsible for the development of the land between Heinz Field and PNC Park?
-Answer: The Stadium Authority is responsible for the development of the land between Heinz Field and PNC Park.
+Answer: The Stadium Authority
 
 <Generated>Question: What was the total budgeted amount for debt service in 2028?
-Answer: The total budgeted amount for debt service in 2028 was $800,000,000.
+Answer: $800,000,000
 
-<Generated>Question: When was the first recreation center built in Pittsburgh?
-Answer: The first recreation center in Pittsburgh was built in 1895, according to the Moore Park Building document.
+<Generated>Question: In which year was the first recreation center built in Pittsburgh?
+Answer: 1895
 
 <Generated>Question: What measures have been implemented in Public Safety to prevent the spread of COVID-19?
-Answer: Measures implemented in Public Safety to prevent the spread of COVID-19 include mandatory masks and social distancing, daily screenings upon entry to any Public Safety facility, and strict quarantine/isolation procedures.
+Answer: Mandatory masks and social distancing
+Answer: Daily screenings upon entry to any Public Safety facility
+Answer: Strict quarantine/isolation procedures

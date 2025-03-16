@@ -1,5 +1,11 @@
 <Generated>Question: What are the choices for the lunch starter at McCormick & Schmick’s Seafood in downtown Pittsburgh?
-Answer: Chilled Asparagus & Potato Soup, Crab and Asparagus Salad, Basil Oil, Mixed Greens Salad, Blue Cheese Crumbles, Candied Walnuts, White Balsamic Vinaigrette.
+Answer: Chilled Asparagus & Potato Soup
+Answer: Crab and Asparagus Salad
+Answer: Basil Oil
+Answer: Mixed Greens Salad
+Answer: Blue Cheese Crumbles
+Answer: Candied Walnuts
+Answer: White Balsamic Vinaigrette
 
 <Generated>Question: What organization sponsors the Sensory Friendly Afternoon program at the Children's Museum of Pittsburgh?
 Answer: PA Leadership Charter School
@@ -11,7 +17,12 @@ Answer: October 3rd-13th, 2024
 Answer: Downtown’s iconic Market Square
 
 <Generated>Question: What are some appetizer options at Cenacolo Restaurant in Pittsburgh?
-Answer: Meatballs, Burrino, Beans & Greens, Risotto, Flat Bread, Roasted Brussel Sprouts.
+Answer: Meatballs
+Answer: Burrino
+Answer: Beans & Greens
+Answer: Risotto
+Answer: Flat Bread
+Answer: Roasted Brussel Sprouts
 
 <Generated>Question: What does Abbots Cross perform at City Winery Pittsburgh in 2025?
 Answer: St. Patrick's Day celebration
@@ -27,13 +38,20 @@ Answer: Traditional dances
 Answer: Live music performances
 
 <Generated>Question: Which proteins are available for selection in Piada Italian Street Food?
-Answer: Italian Sausage, Grilled Chicken, Grilled Steak, Crispy Chicken, Hot Fried Chicken, Grass-fed Meatballs, Calamari & Hot Peppers, or Grilled Salmon.
+Answer: Italian Sausage
+Answer: Grilled Chicken
+Answer: Grilled Steak
+Answer: Crispy Chicken
+Answer: Hot Fried Chicken
+Answer: Grass-fed Meatballs
+Answer: Calamari & Hot Peppers
+Answer: Grilled Salmon
 
 <Generated>Question: What pasta is used in the Roasted Eggplant Pasta?
 Answer: Fettuccini
 
 <Generated>Question: What is the location of the Milwaukee Brewers games?
-Answer: PNC Park, 15212, Pittsburgh, Pennsylvania, US.
+Answer: PNC Park, 15212, Pittsburgh, PA
 
 <Generated>Question: In which year was the first coke-fire smelting introduced in Pittsburgh?
 Answer: 1859
@@ -65,10 +83,10 @@ Answer: Filet Mignon
 Answer: Salmon Filet
 
 <Generated>Question: Which composers' works will be performed in the concert by Piano 4te at August Wilson Center in Pittsburgh?
-Answer: Piano 4te's concert will feature works by Liszt, Paganini, Graham Fitkin, Douwe Eisenga, Brayden Peppo, Chad Twedt, and Eric Barndollar.
+Answer: Liszt, Paganini, Graham Fitkin, Douwe Eisenga, Brayden Peppo, Chad Twedt, and Eric Barndollar.
 
 <Generated>Question: Where can you find Bella Sera Urban Trattoria?
-Answer: 22 Market Square in Pittsburgh.
+Answer: 22 Market Square in Pittsburgh
 
 <Generated>Question: When is the National History Day Pittsburgh competition taking place in 2025?
 Answer: March 15-16, 2025
@@ -77,10 +95,10 @@ Answer: March 15-16, 2025
 Answer: Grandview United Presbyterian Church
 
 <Generated>Question: Where is the church where Emotions Anonymous meetings occur?
-Answer: 301 Grandview Ave, Pittsburgh Mt. Washington.
+Answer: 301 Grandview Ave, Pittsburgh Mt. Washington
 
 <Generated>Question: What is one of the courses offered in the Restaurant Week Special Menu at Andrew's Steak and Seafood?
-Answer: Pineapple Carpaccio.
+Answer: Pineapple Carpaccio
 
 <Generated>Question: Which type of gin is used in the White Linen cocktail?
 Answer: Hendricks Gin
@@ -91,7 +109,7 @@ Answer: Ferrari Carano
 <Generated>Question: In which theater is 'The Latchkey Kids' improv show taking place?
 Answer: Arcade Comedy Theater
 
-<Generated>Question: When was the Pittsburgh Insider's Guide first published?
+<Generated>Question: In which year was the Pittsburgh Insider's Guide first published?
 Answer: 2025
 
 <Generated>Question: What type of dance is taught at Lot 17 in Pittsburgh on Tuesday nights?
@@ -107,13 +125,13 @@ Answer: Pittsburgh Blues and Roots Festival
 Answer: Mathieu David Gagnon
 
 <Generated>Question: Where does the Carnegie Museum of Natural History host the Family Nature Hike event?
-Answer: Powdermill Nature Reserve, 1795 Route 381, Rector Downtown.
+Answer: Powdermill Nature Reserve, 1795 Route 381, Rector Downtown
 
 <Generated>Question: What type of cuisine is featured in the Vue 412's Moroccan Sheppard's Pie?
 Answer: Moroccan cuisine
 
 <Generated>Question: What is the location of the monthly Amnesty International Pittsburgh meeting?
-Answer: In Shadyside, 605 Morewood Avenue, Pittsburgh, PA 15213
+Answer: 605 Morewood Avenue, Pittsburgh, PA 15213
 
 <Generated>Question: In which neighborhood is J. Gough's Tavern?
 Answer: Greenfield
@@ -128,4 +146,5 @@ Answer: March 28, 2025
 Answer: Antony Walker
 
 What is included in Carmella's 2024 Summer Restaurant Week menu?
-Answer: The 2024 Summer Restaurant Week menu includes elote pierogi filled with cotija cheese and potato, topped with fire-grilled corn salsa and chipotle crema, and jerked chicken served with rice and peas and crispy plantains.
+Answer: Elote pierogi
+Answer: Jerked chicken served with rice and peas and crispy plantains

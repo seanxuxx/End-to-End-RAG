@@ -178,7 +178,7 @@ if __name__ == '__main__':
         generation_config['return_full_text'] = False
 
     setup_time = time.time()
-    logging.info(f'Configure time elapsed: {setup_time - start_time: .2f}s')
+    logging.info(f'Configure time elapsed: {setup_time - start_time:.2f}s')
 
     # Run RAG
     queries = [Query(question=question, context=[], answer='') for question in questions]
@@ -188,7 +188,7 @@ if __name__ == '__main__':
         torch.cuda.empty_cache()
 
     infer_time = time.time()
-    logging.info(f'Inference time elapsed: {infer_time - setup_time: .2f}s')
+    logging.info(f'Inference time elapsed: {infer_time - setup_time:.2f}s')
 
     # Save result
     result = convert_query_responses(queries, reference_answers)

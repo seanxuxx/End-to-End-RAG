@@ -98,11 +98,13 @@ class DataStore():
 
         # Initialize Vector Store
         if is_new_index:  # Create new index and vector store and upsert documents
+            logging.info(f"Create Pinecone index: {self.index_name}")
             self.vector_store = self.get_vector_store()
             chunks = self.chunk_documents()
             logging.info(f'Upserting {len(chunks)} chunks to Index "{self.index_name}"...')
             self.vector_store.add_documents(chunks)
         else:  # Load existing vector store
+            logging.info(f"Use existing Pinecone index: {self.index_name}")
             pc_index = pc.Index(self.index_name)
             self.vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
 
@@ -112,7 +114,6 @@ class DataStore():
         """
         if self.index_name in pc.list_indexes().names():
             pc.delete_index(self.index_name)
-        logging.info(f"Create Pinecone index: {self.index_name}")
         pc.create_index(name=self.index_name, dimension=self.dimension,
                         spec=ServerlessSpec(cloud="aws", region="us-east-1"))
         pc_index = pc.Index(self.index_name)

@@ -246,23 +246,38 @@ if __name__ == '__main__':
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
 
+    # Set up DataStore
+    data_store = DataStore(
+        model_name=args.embedding_model,
+        data_dir=args.data_dir,
+        chunk_size=args.chunk_size,
+        chunk_overlap=args.chunk_overlap,
+        is_semantic_chunking=args.is_semantic_chunking,
+        filename_pattern='description_pages/*.txt'
+    )
+
+    # Set up Retriver
+    search_type = 'similarity'
     search_config = {'k': 3}
+    rag_model = RetrivalLM(
+        data_store=data_store,
+        search_type=search_type,
+        search_kwargs=search_config,
+        task=args.task,
+        model_name=args.llm_model
+    )
+
+    # Set up generator
     generation_config = GenerationConfig(
         max_new_tokens=100,
         do_sample=True,
         temperature=0.01,
         top_p=0.95,
         repetition_penalty=1.2,
+        use_cache=True,
+        eos_token_id=rag_model.tokenizer.eos_token_id,
+        pad_token_id=rag_model.tokenizer.pad_token_id,
     )
-
-    # Set up models
-    data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
-                           chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
-                           is_semantic_chunking=args.is_semantic_chunking)
-    rag_model = RetrivalLM(data_store=data_store,
-                           search_type=args.search_type,
-                           search_kwargs=search_config,
-                           task=args.task, model_name=args.llm_model)
 
     # Run RAG
     question = [
@@ -270,7 +285,7 @@ if __name__ == '__main__':
         "When is the Vintage Pittsburgh retro fair taking place?"
     ]
     queries = []
-    for question in question:
+    for question in tqdm(question):
         query = Query(question=question, context=[], answer="")
         rag_model.qa(query, **generation_config.to_dict())
         queries.append(query)

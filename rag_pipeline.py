@@ -281,8 +281,9 @@ if __name__ == '__main__':
 
     # Run RAG
     question = [
-        "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?",
-        "When is the Vintage Pittsburgh retro fair taking place?"
+        "What kind of food is featured in the Lenten Fish Fry?",
+        "What food is Picklesburgh centered around?",
+        "What year was the Pittsburgh Penguins team founded?"
     ]
     queries = []
     for question in tqdm(question):

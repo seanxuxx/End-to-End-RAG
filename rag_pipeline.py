@@ -230,8 +230,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument('--chunk_overlap', type=int, default=100)
     parser.add_argument('--is_semantic_chunking', type=bool, default=True)
     # LLM parameters
-    parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
-    parser.add_argument('--task', type=str, default='text-generation')
+    parser.add_argument('--llm_model', type=str, default='google/flan-t5-large')
+    parser.add_argument('--task', type=str, default='text2text-generation')
     parser.add_argument('--max_new_token_length', type=int, default=100)
     # Logging paramters
     parser.add_argument('--log_file_mode', type=str, default='a')
@@ -253,7 +253,7 @@ if __name__ == '__main__':
         chunk_size=args.chunk_size,
         chunk_overlap=args.chunk_overlap,
         is_semantic_chunking=args.is_semantic_chunking,
-        filename_pattern='description_pages/*.txt'
+        is_new_index=False,
     )
 
     # Set up Retriver

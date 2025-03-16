@@ -4,6 +4,7 @@ import logging
 import os
 import re
 import time
+from ast import arg
 from datetime import datetime
 from typing import List
 
@@ -120,6 +121,8 @@ def parse_args() -> argparse.Namespace:
                         default='data/test/questions.txt')
     parser.add_argument('--output_folder', type=str,
                         default='system_outputs')
+    parser.add_argument('--output_name', type=str,
+                        default='')
     parser.add_argument('--no_reference_answers', action='store_true', default=False,
                         help='Include this flag if only running on the final test set')
     parse_datastore_args(parser)
@@ -133,6 +136,18 @@ if __name__ == '__main__':
     start_time = time.time()
 
     args = parse_args()
+
+    if args.output_name:
+        variant_name = args.output_name
+    else:
+        variant_name = format_variant_name(
+            args.embedding_model,
+            args.chunk_size,
+            args.chunk_overlap,
+            args.search_type,
+            args.generator_model
+        )
+
     set_logger('experiments', file_mode='a')
     logging.info(f'Configuration:\n{vars(args)}')
 
@@ -193,13 +208,6 @@ if __name__ == '__main__':
     # Save result
     result = convert_query_responses(queries, reference_answers)
     configuration = vars(args)
-    variant_name = format_variant_name(
-        args.embedding_model,
-        args.chunk_size,
-        args.chunk_overlap,
-        args.search_type,
-        args.generator_model
-    )
     save_outputs(result, configuration, evaluate=not args.no_reference_answers,
                  output_dir=args.output_folder, sub_dir=variant_name)
 

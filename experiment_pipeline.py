@@ -27,10 +27,10 @@ from rag_pipeline import *
 from utils import set_logger
 
 
-def load_data(question_filepath: str, no_reference_answers)-> tuple[list[str], dict]:
+def load_data(question_filepath: str, no_reference_answers: bool)-> tuple[list[str], dict]:
     # Load questions
-    with open(args.experiment_file, 'r') as f:
-        questions = f.readlines()
+    with open(question_filepath, 'r') as f:
+        questions = [line.strip() for line in f.readlines()]
     logging.info(f'Load {len(questions)} questions from {question_filepath}')
 
     # Load reference answers if available

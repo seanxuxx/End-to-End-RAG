@@ -112,25 +112,13 @@ class DataStore():
         Returns:
             Index
         """
-        if self.index_name not in pc.list_indexes().names():
-            logging.info(f"Create new Pinecone Index")
-            self.create_new_index()
-        else:
-            index_dict = pc.describe_index(self.index_name)
-            if index_dict['dimension'] != self.dimension:
-                logging.info(f"Recreate Pinecone Index due to mismatch in model dimension")
-                pc.delete_index(self.index_name)
-                self.create_new_index()
+        if self.index_name in pc.list_indexes().names():
+            pc.delete_index(self.index_name)
+        logging.info(f"Create Pinecone index: {self.index_name}")
+        pc.create_index(name=self.index_name, dimension=self.dimension,
+                        spec=ServerlessSpec(cloud="aws", region="us-east-1"))
         pc_index = pc.Index(self.index_name)
         return pc_index
-
-    def create_new_index(self):
-        pc.create_index(
-            name=self.index_name,
-            dimension=self.dimension,
-            spec=ServerlessSpec(cloud="aws", region="us-east-1")
-        )
-        self.is_upsert_data = True  # Upsert data as long as creating new index
 
     def upsert_vector_store(self):
         """

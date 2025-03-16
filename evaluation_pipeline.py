@@ -3,6 +3,11 @@ import logging
 from typing import List, Dict
 from dataclasses import dataclass, asdict
 from collections import Counter
+import re
+import string
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer, WordNetLemmatizer
+
 
 
 class QAEvaluator:
@@ -45,8 +50,22 @@ class QAEvaluator:
 
     @staticmethod
     def tokenize(text: str) -> List[str]:
-        """Basic whitespace tokenizer"""
-        return text.strip().split()
+        """
+        NLTK-based tokenizer that lowercases text, tokenizes it,
+        removes punctuation, and strips trailing 'ing' and plural 's'.
+        """
+        # Lowercase text
+        text = text.lower()
+        # Tokenize using NLTK
+        tokens = word_tokenize(text)
+        wnl = WordNetLemmatizer()
+        processed_tokens = []
+        for token in tokens:
+            if token in string.punctuation:
+                continue
+            token = wnl.lemmatize(token)
+            processed_tokens.append(token)
+        return processed_tokens
 
     def _exact_match(self, pred: str, truths: List[str]) -> bool:
         """Check if prediction matches any ground truth exactly"""

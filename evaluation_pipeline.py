@@ -174,15 +174,16 @@ class QAEvaluator:
 
         # Calculate final metrics
         self.metrics = {
-            'exact_match': (exact_matches / total) * 100,
-            'answer_recall': (total_recall / total) * 100,
-            'macro_f1': (total_f1 / total) * 100
+            'exact_match': round((exact_matches / total),4),
+            'answer_recall': round((total_recall / total),4),
+            'macro_f1': round((total_f1 / total),4)
         }
+        self.question_logs.append(self.metrics)
 
         self.logger.info("\nEvaluation Complete")
-        self.logger.info(f"Exact Match: {self.metrics['exact_match']:.2f}%")
-        self.logger.info(f"Answer Recall: {self.metrics['answer_recall']:.2f}%")
-        self.logger.info(f"Macro F1: {self.metrics['macro_f1']:.2f}%")
+        self.logger.info(f"Exact Match: {100*self.metrics['exact_match']:.2f}%")
+        self.logger.info(f"Answer Recall: {100*self.metrics['answer_recall']:.2f}%")
+        self.logger.info(f"Macro F1: {100*self.metrics['macro_f1']:.2f}%")
 
         return self.metrics
 

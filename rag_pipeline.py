@@ -8,6 +8,7 @@ from typing import List, TypedDict
 import torch
 from dotenv import load_dotenv
 from huggingface_hub import login
+from langchain import hub
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_core.documents import Document
 from langchain_experimental.text_splitter import SemanticChunker
@@ -36,15 +37,6 @@ pc = Pinecone()
 # Set device
 DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
-
-# Set prompt template
-PROMPT_IN_CHAT_FORMAT = """\
-{context}
-----------
-Using the information contained in the context,
-give a concise, accurate answer to the question.
-Question: {question}
-"""
 
 
 class Query(TypedDict):
@@ -201,6 +193,7 @@ class RetrivalLM():
             torch_dtype=torch.bfloat16,
             device=DEVICE
         )
+        self.prompt_template = hub.pull("langchain-ai/retrieval-qa-chat")
 
     def qa(self, query: Query, **kwargs):
         """
@@ -212,9 +205,8 @@ class RetrivalLM():
         """
         retrieved_docs = self.retriever.invoke(query['question'])
         query['context'] = [doc.page_content for doc in retrieved_docs]
-        context = '\n----------\n'.join([f'Context {i+1}:\n{doc}'
-                                         for i, doc in enumerate(query['context'])])
-        prompt = PROMPT_IN_CHAT_FORMAT.format(context=context, question=query['question'])
+        prompt = self.prompt_template.format(context='\n'.join(query['context']),
+                                             input=query['question'])
         if self.task == 'text-generation':
             kwargs['return_full_text'] = False
         response = self.llm(prompt, **kwargs)
@@ -273,10 +265,10 @@ if __name__ == '__main__':
     # Set up generator
     generation_config = {
         'max_new_tokens': 50,
-        'do_sample': True,
-        'temperature': 0.01,
-        'top_p': 0.95,
-        'repetition_penalty': 1.2,
+        # 'do_sample': True,
+        # 'temperature': 0.01,
+        # 'top_p': 0.95,
+        # 'repetition_penalty': 1.2,
         'use_cache': True,
     }
 

@@ -148,12 +148,17 @@ class DataStore():
             chunks = text_splitter.split_documents(docs)
 
         # Add IDs for the documents
+        result = []
+        doc_text = set()
         for i, doc in tqdm(enumerate(chunks), total=len(chunks), desc='Add doc id'):
+            if doc.page_content in doc_text:  # Deduplicate
+                continue
             id_text = f"{i}_{doc.metadata['source']}"
             id_text = re.sub(r'[^\w]', '_', id_text).lower()
             doc.id = id_text
-
-        return chunks
+            doc_text.add(doc.page_content)
+            result.append(doc)
+        return result
 
 
 class RetrivalLM():

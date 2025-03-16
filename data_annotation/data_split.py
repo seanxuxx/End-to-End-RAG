@@ -4,6 +4,8 @@ import os
 import random
 from typing import List
 
+random.seed(42)
+
 
 def write_data_files(data: List[str], output_dir: str, sub_dir: str):
     data_dir = os.path.join(output_dir, sub_dir)
@@ -27,7 +29,7 @@ def write_data_files(data: List[str], output_dir: str, sub_dir: str):
         print(f"{sub_dir} questions written to {question_filepath}")
 
     with open(answer_filepath, 'w') as f:
-        json.dump(answers, f, indent=4)
+        json.dump(answers, f, indent=2)
         print(f"{sub_dir} answers written to {answer_filepath}")
 
 

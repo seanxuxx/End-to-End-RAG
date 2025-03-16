@@ -1,8 +1,5 @@
 import argparse
-<<<<<<< HEAD
-=======
 import json
->>>>>>> main
 import logging
 import os
 import re
@@ -49,17 +46,6 @@ give a concise, accurate answer to the question.
 Question: {question}
 """
 
-<<<<<<< HEAD
-PROMPT_IN_CHAT_FORMAT = """\
-{context}
-----------
-Using the information contained in the context,
-give a concise, accurate answer to the question.
-Question: {question}
-"""
-
-=======
->>>>>>> main
 
 class Query(TypedDict):
     """
@@ -69,11 +55,7 @@ class Query(TypedDict):
     https://python.langchain.com/docs/tutorials/rag/
     """
     question: str
-<<<<<<< HEAD
-    context: List[Document]
-=======
     context: List[str]
->>>>>>> main
     answer: str
 
 
@@ -240,14 +222,9 @@ class RetrivalLM():
             query (Query): Query dictionary with "question", "context", and "answer".
         **kwargs: for calling pipeline()
         """
-<<<<<<< HEAD
-        query['context'] = self.retriever.invoke(query['question'])
-        context = '\n----------\n'.join([f'Context {i+1}:\n{doc.page_content}'
-=======
         retrieved_docs = self.retriever.invoke(query['question'])
         query['context'] = [doc.page_content for doc in retrieved_docs]
         context = '\n----------\n'.join([f'Context {i+1}:\n{doc}'
->>>>>>> main
                                          for i, doc in enumerate(query['context'])])
         prompt = PROMPT_IN_CHAT_FORMAT.format(context=context, question=query['question'])
         if self.task == 'text-generation':
@@ -284,10 +261,6 @@ if __name__ == '__main__':
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
 
-<<<<<<< HEAD
-    # Experiment hyperparameters
-=======
->>>>>>> main
     search_config = {'k': 3}
     generation_config = GenerationConfig(
         max_new_tokens=100,
@@ -311,12 +284,6 @@ if __name__ == '__main__':
         "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?",
         "When is the Vintage Pittsburgh retro fair taking place?"
     ]
-<<<<<<< HEAD
-    for question in question:
-        query = Query(question=question, context=[], answer="")
-        rag_model.qa(query, **generation_config.to_dict())
-        print(f"\n{question}\n{query['answer']}\n")
-=======
     queries = []
     for question in question:
         query = Query(question=question, context=[], answer="")
@@ -325,4 +292,3 @@ if __name__ == '__main__':
 
     with open('output.json', 'w') as f:
         json.dump(queries, f, indent=4)
->>>>>>> main

@@ -1,13 +1,16 @@
 import json
 import logging
-from typing import List, Dict
-from dataclasses import dataclass, asdict
-from collections import Counter
 import re
 import string
-from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer, WordNetLemmatizer
+from collections import Counter
+from dataclasses import asdict, dataclass
+from typing import Dict, List
 
+import nltk
+from nltk.stem import PorterStemmer, WordNetLemmatizer
+from nltk.tokenize import word_tokenize
+
+nltk.download('wordnet')
 
 
 class QAEvaluator:
@@ -23,12 +26,12 @@ class QAEvaluator:
         """Initialize from JSON files"""
         with open(model_qa_path) as f:
             model_answers = json.load(f)
-        
+
         with open(annotated_qa_path) as f:
             annotated_answers = json.load(f)
-        
+
         return cls(model_answers, annotated_answers)
-        
+
     def _setup_logger(self):
         """Set up logger without basic config"""
         self.logger = logging.getLogger('QAEvaluator')
@@ -96,7 +99,7 @@ class QAEvaluator:
 
             precision = common / pred_total if pred_total > 0 else 0.0
             recall = common / gt_total if gt_total > 0 else 0.0
-            
+
             if (precision + recall) > 0:
                 f1 = 2 * (precision * recall) / (precision + recall)
             else:
@@ -109,8 +112,8 @@ class QAEvaluator:
 
         return max_recall, max_f1
 
-    def _log_question_stats(self, question: str, pred: str, truths: List[str], 
-                           em: bool, recall: float, f1: float):
+    def _log_question_stats(self, question: str, pred: str, truths: List[str],
+                            em: bool, recall: float, f1: float):
         """Simplified logging without timestamps/levels"""
         self.logger.info(f"\nQuestion: {question}")
         self.logger.info(f"Model Answer: {pred}")
@@ -119,7 +122,6 @@ class QAEvaluator:
         self.logger.info(f"Max Recall: {recall:.2f}")
         self.logger.info(f"Max F1: {f1:.2f}")
         self.logger.info("-" * 50)
-
 
         # JSON-serializable log storage
         self.question_logs.append({
@@ -183,11 +185,11 @@ class QAEvaluator:
         self.logger.info(f"Macro F1: {self.metrics['macro_f1']:.2f}%")
 
         return self.metrics
-    
+
     def get_metrics(self) -> Dict[str, float]:
         """Return calculated metrics"""
         return self.metrics.copy()
-    
+
     def get_logger(self) -> logging.Logger:
         """Get the logger instance"""
         return self.logger

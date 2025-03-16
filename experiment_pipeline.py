@@ -4,6 +4,7 @@ import logging
 import os
 import random
 import re
+from datetime import datetime
 from typing import List, TypedDict
 
 import torch
@@ -21,35 +22,45 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           BitsAndBytesConfig, GenerationConfig,
                           TextGenerationPipeline, pipeline)
 
-from rag_pipeline import *
 from evaluation_pipeline import *
-from utils import get_chunk_max_length, set_logger
+from rag_pipeline import *
+from utils import set_logger
 
-# Experiment hyperparameters
+
+def load_data(question_filepath: str, no_reference_answers)-> tuple[list[str], dict]:
+    # Load questions
+    with open(args.experiment_file, 'r') as f:
+        questions = f.readlines()
+    logging.info(f'Load {len(questions)} questions from {question_filepath}')
+
+    # Load reference answers if available
+    if not no_reference_answers:
+        reference_answer_file = os.path.join(os.path.dirname(question_filepath),
+                                             'reference_answers.json')
+        with open(reference_answer_file, 'r') as f:
+            reference_answers = json.load(f)
+    else:
+        reference_answers = {}
+    logging.info(f'Load {len(reference_answers)} reference answers from {reference_answer_file}')
+
+    return questions, reference_answers
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument('experiment_type', type=str, help='withreference/noreference')
-    parser.add_argument('--experiment_file', type=str, default='Annotation/train_testdata/test.json')
-    parser.add_argument('--result_folder', type=str, default='Annotation/experiment_result')
-    parser.add_argument('--data_dir', type=str, default='raw_data')
-    # Retriver parameters
-    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
-    parser.add_argument('--chunk_size', type=int, default=500)
-    parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--is_semantic_chunking', type=bool, default=False)
-    parser.add_argument('--search_type', type=str, default='similarity')
-    parser.add_argument('--search_num', type=int, default=3)
-    # LLM parameters
-    parser.add_argument('--llm_model', type=str, default='google/flan-t5-large')
-    parser.add_argument('--task', type=str, default='text2text-generation')
-    parser.add_argument('--max_new_token_length', type=int, default=100)
-    parser.add_argument('--temperature', type=float, default=0.01)
-    parser.add_argument('--top_p', type=float, default=0.95)
-    parser.add_argument('--repetition_penalty', type=float, default=1.2)
+    parser.add_argument('--experiment_file', type=str,
+                        default='data/test/questions.txt')
+    parser.add_argument('--output_folder', type=str,
+                        default='system_outputs')
+    parser.add_argument('--no_reference_answers', action='store_true', default=False,
+                        help='Include this flag if only running on the final test set')
+    parse_datastore_args(parser)
+    parse_retriever_args(parser)
+    parse_generator_args(parser)
 
-    return parser.parse_args()
+    args = parser.parse_args()
+    assert args.experiment_file.endswith('.txt'), '"--experiment_file" must be a txt file'
+    return args
 
 
 if __name__ == '__main__':
@@ -58,59 +69,92 @@ if __name__ == '__main__':
     set_logger('rag_pipeline', file_mode='w')
     logging.info(f'Configuration:\n{vars(args)}')
 
-    search_config = {'k': args.search_num}
-    generation_config = GenerationConfig(
-        max_new_tokens=args.max_new_token_length,
-        do_sample=True,
-        temperature=args.temperature,
-        top_p=args.top_p,
-        repetition_penalty=args.repetition_penalty,
+    questions, reference_answers = load_data(args.experiment_file,
+                                             args.no_reference_answers)
+
+    # Set up DataStore
+    data_store = DataStore(
+        data_dir=args.data_dir,
+        model_name=args.embedding_model,
+        chunk_size=args.chunk_size,
+        chunk_overlap=args.chunk_overlap,
+        is_semantic_chunking=args.is_semantic_chunking,
     )
 
-    # Set up models
-    data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
-                           chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
-                           is_semantic_chunking=args.is_semantic_chunking)
-    rag_model = RetrivalLM(data_store=data_store,
-                           search_type=args.search_type,
-                           search_kwargs=search_config,
-                           task=args.task, model_name=args.llm_model)
+    # Set up Retriver
+    search_config = {'k': args.search_k}
+    if args.search_type == 'mmr':
+        search_config['fetch_k'] = args.fetch_k
+        search_config['lambda_mult'] = args.lambda_mult
+    elif args.search_type == 'similarity_score_threshold':
+        search_config['score_threshold'] = args.score_threshold
+    rag_model = RetrivalLM(
+        data_store=data_store,
+        search_type=args.search_type,
+        search_kwargs=search_config,
+        task=args.task,
+        model_name=args.llm_model
+    )
+
+    # Set up generator
+    generation_config = {
+        'max_new_tokens': args.max_new_tokens,
+        'do_sample': args.do_sample,
+        'use_cache': True,
+    }
+    if args.do_sample:
+        generation_config['temperature'] = args.temperature
+        generation_config['top_p'] = args.top_p
+        generation_config['repetition_penalty'] = args.repetition_penalty
+    if args.task == 'text-generation':
+        generation_config['return_full_text'] = False
 
     # Run RAG
-    with open(args.experiment_file, 'r') as f:
-        content = json.load(f)
-    questions = [item['Question'] for item in content]
-    #questions = questions[:10] #cmt when running the whole dataset
-    generated_answer = []
-    context = []
-    for question in questions:
+    queries = [Query(question=question, context=[], answer='') for question in questions]
+    for query in tqdm(queries, desc='RAG Q&Aing'):
+        rag_model.qa(query, **generation_config)
         torch.cuda.ipc_collect()
-        query = Query(question=question, context=[], answer="")
-        rag_model.qa(query, **generation_config.to_dict())
-        generated_answer.append(query['answer'])
-        context.append(query['context'])
-        del query
         torch.cuda.empty_cache()
-    if args.experiment_type == 'withreference':
-        reference_answer = [item['Answer'] for item in content]
-        result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
-                   '<Reference>Answer': reference_answer[i], '<Retrived>context': context[i]} for i in range(len(questions))]
+
+    # Covert queries to result
+    if reference_answers:
+        result = []
+        for i, query in enumerate(queries):  # Write reference answers to result dictionary
+            curr_result = dict(query)
+            curr_result['reference_answer'] = reference_answers[f'{i+1}']
+            result.append(curr_result)
     else:
-        result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
-                   '<Retrived>context': context[i]} for i in range(len(questions))]
+        result = queries
 
-    chunk_method = 'semantic' if args.is_semantic_chunking else 'character'
-    with open(os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}.json'), 'w') as f:
-        json.dump(result, f, indent=4)
+    # Set up output file names
+    variant_name_component = [
+        args.embedding_model,
+        args.llm_model,
+        args.search_type,
+        datetime.now().strftime("%m%d%H%M"),
+    ]
+    variant_name = '-'.join([str(item) for item in variant_name_component])
+    variant_folder = os.path.join(args.output_folder, variant_name)
+    os.makedirs(variant_folder, exist_ok=True)
+    result_filepath = os.path.join(variant_folder, 'results.json')
+    config_filepath = os.path.join(variant_folder, 'config.json')
+    eval_filepath = os.path.join(variant_folder, 'evaluation.json')
 
-    with open(os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}-config.json'), 'w') as f:
-        json.dump(vars(args) | generation_config.to_dict(), f, indent=4)
-    #evaluation
-    if args.experiment_type == 'withreference':
-        model_outputs = [{'Question': item['Question'], 'Answer': item['<Generated>Answer']} for item in result]
-        annotated_data = [{'Question': item['Question'], 'Answer': item['<Reference>Answer']} for item in result]
+    with open(result_filepath, 'w') as f:
+        json.dump(result, f, indent=2)
+        logging.info(f'Save {len(result)} results to {result_filepath}')
+
+    with open(config_filepath, 'w') as f:
+        json.dump(vars(args), f, indent=2)
+        logging.info(f'Save model configuration to {config_filepath}')
+
+    # Evaluation
+    if not args.no_reference_answers:
+        model_outputs = [{'Question': item['question'],
+                          'Answer': item['answer']} for item in result]
+        annotated_data = [{'Question': item['question'],
+                           'Answer': item['reference_answer']} for item in result]
         evaluation = QAEvaluator(model_outputs, annotated_data)
         evaluation.evaluate()
-        metrics_output = os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}-metrics.json')
-        evaluation.save_logs_to_json(metrics_output)
-        
+        evaluation.save_logs_to_json(eval_filepath)
+        logging.info(f'Save evaluation metrics to {eval_filepath}')

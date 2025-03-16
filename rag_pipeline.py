@@ -179,18 +179,25 @@ class RetrivalLM():
             max_new_token_length (int, optional): Maximum number of tokens to generate. Defaults to 100.
         """
         # Retriever config
-        self.retriever = data_store.vector_store.as_retriever(search_type=search_type,
-                                                              search_kwargs=search_kwargs)
+        self.retriever = data_store.vector_store.as_retriever(
+            search_type=search_type,
+            search_kwargs=search_kwargs
+        )
 
         # LLM config
         torch.cuda.empty_cache()
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
-        if not tokenizer.pad_token:
-            tokenizer.pad_token = tokenizer.eos_token
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        if not self.tokenizer.pad_token:
+            self.tokenizer.pad_token = self.tokenizer.eos_token
         self.task = task
-        self.llm = pipeline(task=task, model=model_name, tokenizer=tokenizer,
-                            max_new_tokens=max_new_token_length,
-                            torch_dtype=torch.bfloat16, device=DEVICE)
+        self.llm = pipeline(
+            task=task,
+            model=model_name,
+            tokenizer=self.tokenizer,
+            max_new_tokens=max_new_token_length,
+            torch_dtype=torch.bfloat16,
+            device=DEVICE
+        )
 
     def qa(self, query: Query, **kwargs):
         """

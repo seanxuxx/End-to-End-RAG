@@ -7,7 +7,6 @@ from typing import List, TypedDict
 
 import torch
 from dotenv import load_dotenv
-from langchain import hub
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_core.documents import Document
 from langchain_core.vectorstores import InMemoryVectorStore, VectorStore
@@ -182,7 +181,13 @@ class RetrivalLM():
             torch_dtype=torch.bfloat16,
             device=DEVICE
         )
-        self.prompt_template = hub.pull("langchain-ai/retrieval-qa-chat")
+        self.prompt_template = """\
+System: Answer user questions based solely on the context below:
+
+<context>
+{context}
+</context>
+User: {question}"""
 
     def qa(self, query: Query, **kwargs):
         """
@@ -195,7 +200,7 @@ class RetrivalLM():
         retrieved_docs = self.retriever.invoke(query['question'])
         query['context'] = [doc.page_content for doc in retrieved_docs]
         prompt = self.prompt_template.format(context='\n'.join(query['context']),
-                                             input=query['question'])
+                                             question=query['question'])
         response = self.llm(prompt, **kwargs)
         query['answer'] = response[0]["generated_text"]  # type: ignore
         torch.cuda.empty_cache()

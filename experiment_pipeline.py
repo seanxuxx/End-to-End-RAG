@@ -80,14 +80,17 @@ if __name__ == '__main__':
     with open(args.experiment_file, 'r') as f:
         content = json.load(f)
     questions = [item['Question'] for item in content]
-    questions = questions[:10] #cmt when running the whole dataset
+    #questions = questions[:10] #cmt when running the whole dataset
     generated_answer = []
     context = []
     for question in questions:
+        torch.cuda.ipc_collect()
         query = Query(question=question, context=[], answer="")
         rag_model.qa(query, **generation_config.to_dict())
         generated_answer.append(query['answer'])
         context.append(query['context'])
+        del query
+        torch.cuda.empty_cache()
     if args.experiment_type == 'withreference':
         reference_answer = [item['Answer'] for item in content]
         result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
@@ -103,9 +106,9 @@ if __name__ == '__main__':
     with open(os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}-config.json'), 'w') as f:
         json.dump(vars(args) | generation_config.to_dict(), f, indent=4)
     #evaluation
-    model_outputs = [{'Question': item['Question'], 'Answer': item['<Generated>Answer']} for item in result]
-    annotated_data = [{'Question': item['Question'], 'Answer': item['<Reference>Answer']} for item in result]
     if args.experiment_type == 'withreference':
+        model_outputs = [{'Question': item['Question'], 'Answer': item['<Generated>Answer']} for item in result]
+        annotated_data = [{'Question': item['Question'], 'Answer': item['<Reference>Answer']} for item in result]
         evaluation = QAEvaluator(model_outputs, annotated_data)
         evaluation.evaluate()
         metrics_output = os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}-metrics.json')

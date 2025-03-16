@@ -13,10 +13,7 @@ from langchain_core.documents import Document
 from langchain_core.vectorstores import InMemoryVectorStore, VectorStore
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
-from langchain_pinecone import PineconeVectorStore
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pinecone import Pinecone, ServerlessSpec
-from pinecone.data.index import Index
 from tqdm import tqdm
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           BitsAndBytesConfig, GenerationConfig,
@@ -32,7 +29,7 @@ for api_key in ['PINECONE_API_KEY', 'HF_TOKEN', 'LANGSMITH_API_KEY', 'LANGSMITH_
         raise ValueError(f"{api_key} is missing. Set it as an environment variable.")
 
 # Login in Pinecone
-pc = Pinecone()
+# pc = Pinecone()
 
 # Set device
 DEVICE = ('cuda' if torch.cuda.is_available() else
@@ -54,8 +51,7 @@ class Query(TypedDict):
 class DataStore():
     def __init__(self, model_name: str, data_dir: str,
                  chunk_size=1000, chunk_overlap=100,
-                 filename_pattern='**/*.txt',
-                 is_semantic_chunking=True, is_new_index=True):
+                 filename_pattern='**/*.txt', is_semantic_chunking=True):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
@@ -65,9 +61,6 @@ class DataStore():
             filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
             is_semantic_chunking (bool, optional):
                 True for mainly using SemanticChunker and False for RecursiveCharacterTextSplitter.
-                Defaults to True.
-            is_new_index (bool, optional):
-                Whether to load, chunk, and upsert documents to vector store.
                 Defaults to True.
         """
         # Data config
@@ -88,14 +81,6 @@ class DataStore():
         self.store_name = re.sub(r'[^a-zA-Z0-9]', '-',
                                  f'{model_name}-{chunk_size}-{chunk_overlap}'.lower())
         self.vector_store = self.get_vector_store()
-        # if is_new_index:  # Create new index and vector store and upsert documents
-        #     logging.info(f"Create Pinecone index: {self.index_name}")
-        #     self.vector_store = self.get_vector_store()
-        #     chunks = self.chunk_documents()
-        # else:  # Load existing vector store
-        #     logging.info(f"Use existing Pinecone index: {self.index_name}")
-        #     pc_index = pc.Index(self.index_name)
-        #     self.vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
 
     def get_vector_store(self) -> VectorStore:
         """
@@ -105,14 +90,15 @@ class DataStore():
         vector_store = InMemoryVectorStore(self.embeddings)
         filepath = os.path.join('data_store', self.store_name+'.pkl')
         if os.path.exists(filepath):
-            vector_store.load(filepath, self.embeddings)
-            logging.info(f"Load vector store from {filepath}")
+            logging.info(f"Loading vector store from: {filepath}")
+            vector_store = vector_store.load(filepath, self.embeddings)
+            logging.info(f"Add {len(vector_store.store)} chunks")
         else:
             chunks = self.chunk_documents()
             logging.info(f"Adding {len(chunks)} chunks")
             vector_store.add_documents(chunks)
             vector_store.dump(filepath)
-            logging.info(f"Save vector store to {filepath}")
+            logging.info(f"Save vector store to: {filepath}")
         return vector_store
 
     def chunk_documents(self) -> List[Document]:

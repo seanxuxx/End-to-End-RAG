@@ -133,7 +133,7 @@ if __name__ == '__main__':
     start_time = time.time()
 
     args = parse_args()
-    set_logger('rag_pipeline', file_mode='w')
+    set_logger('experiments', file_mode='a')
     logging.info(f'Configuration:\n{vars(args)}')
 
     # Load dataset

@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import re
+import time
 from datetime import datetime
 from typing import List
 
@@ -18,7 +19,7 @@ def load_data(question_filepath: str, no_reference_answers: bool)-> tuple[list[s
     # Load questions
     with open(question_filepath, 'r') as f:
         questions = [line.strip() for line in f.readlines()]
-    logging.info(f'Load {len(questions)} questions from {question_filepath}')
+    logging.info(f'Load {len(questions)} questions from: {question_filepath}')
 
     # Load reference answers if available
     if not no_reference_answers:
@@ -28,7 +29,7 @@ def load_data(question_filepath: str, no_reference_answers: bool)-> tuple[list[s
             reference_answers = json.load(f)
     else:
         reference_answers = {}
-    logging.info(f'Load {len(reference_answers)} reference answers from {reference_answer_file}')
+    logging.info(f'Load {len(reference_answers)} reference answers from: {reference_answer_file}')
 
     return questions, reference_answers
 
@@ -57,12 +58,12 @@ def save_outputs(result: List[dict], configuration: dict, evaluate: bool,
     qa_filepath = os.path.join(dir_path, 'results.json')
     with open(qa_filepath, 'w') as f:
         json.dump(result, f, indent=2)
-        logging.info(f'Save {len(result)} results to {qa_filepath}')
+        logging.info(f'Save {len(result)} results to: {qa_filepath}')
 
     config_filepath = os.path.join(dir_path, 'config.json')
     with open(config_filepath, 'w') as f:
         json.dump(configuration, f, indent=2)
-        logging.info(f'Save model configuration to {config_filepath}')
+        logging.info(f'Save model configuration to: {config_filepath}')
 
     if evaluate:  # Evaluation
         eval_filepath = os.path.join(dir_path, 'evaluation.json')
@@ -73,7 +74,7 @@ def save_outputs(result: List[dict], configuration: dict, evaluate: bool,
         evaluation = QAEvaluator(model_outputs, annotated_data)
         evaluation.evaluate()
         evaluation.save_logs_to_json(eval_filepath)
-        logging.info(f'Save evaluation metrics to {eval_filepath}')
+        logging.info(f'Save evaluation metrics to: {eval_filepath}')
 
 
 def parse_datastore_args(parser: argparse.ArgumentParser):
@@ -126,6 +127,8 @@ def parse_args() -> argparse.Namespace:
 
 if __name__ == '__main__':
 
+    start_time = time.time()
+
     args = parse_args()
     set_logger('rag_pipeline', file_mode='w')
     logging.info(f'Configuration:\n{vars(args)}')
@@ -171,12 +174,18 @@ if __name__ == '__main__':
     if args.task == 'text-generation':
         generation_config['return_full_text'] = False
 
+    setup_time = time.time()
+    logging.info(f'Configure time elapsed: {setup_time - start_time: .2f}s')
+
     # Run RAG
     queries = [Query(question=question, context=[], answer='') for question in questions]
     for query in tqdm(queries, desc='RAG Q&Aing'):
         rag_model.qa(query, **generation_config)
         torch.cuda.ipc_collect()
         torch.cuda.empty_cache()
+
+    setup_time = time.time()
+    logging.info(f'Inference time elapsed: {setup_time - start_time: .2f}s')
 
     # Save result
     result = convert_query_responses(queries, reference_answers)
@@ -190,3 +199,5 @@ if __name__ == '__main__':
     )
     save_outputs(result, configuration, evaluate=not args.no_reference_answers,
                  output_dir=args.output_folder, sub_dir=variant_name)
+
+    logging.info('\n')  # Done!!!

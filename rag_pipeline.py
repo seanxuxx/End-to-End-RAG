@@ -79,37 +79,40 @@ class DataStore():
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
-        # Index config
-        self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
-                                 f'{model_name}-{chunk_size}-{chunk_overlap}'.lower())
-
         # Embedding model config
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
 
-        # Initialize Vector Store
-        if is_new_index:  # Create new index and vector store and upsert documents
-            logging.info(f"Create Pinecone index: {self.index_name}")
-            self.vector_store = self.get_vector_store()
-            chunks = self.chunk_documents()
-            logging.info(f'Upserting {len(chunks)} chunks to Index "{self.index_name}"...')
-            self.vector_store.add_documents(chunks)
-        else:  # Load existing vector store
-            logging.info(f"Use existing Pinecone index: {self.index_name}")
-            pc_index = pc.Index(self.index_name)
-            self.vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
+        # Vector store config
+        self.store_name = re.sub(r'[^a-zA-Z0-9]', '-',
+                                 f'{model_name}-{chunk_size}-{chunk_overlap}'.lower())
+        self.vector_store = self.get_vector_store()
+        # if is_new_index:  # Create new index and vector store and upsert documents
+        #     logging.info(f"Create Pinecone index: {self.index_name}")
+        #     self.vector_store = self.get_vector_store()
+        #     chunks = self.chunk_documents()
+        # else:  # Load existing vector store
+        #     logging.info(f"Use existing Pinecone index: {self.index_name}")
+        #     pc_index = pc.Index(self.index_name)
+        #     self.vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
 
-    def get_vector_store(self) -> PineconeVectorStore:
+    def get_vector_store(self) -> VectorStore:
         """
-            PineconeVectorStore
+        Returns:
+            VectorStore
         """
-        if self.index_name in pc.list_indexes().names():
-            pc.delete_index(self.index_name)
-        pc.create_index(name=self.index_name, dimension=self.dimension,
-                        spec=ServerlessSpec(cloud="aws", region="us-east-1"))
-        pc_index = pc.Index(self.index_name)
-        vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
+        vector_store = InMemoryVectorStore(self.embeddings)
+        filepath = os.path.join('data_store', self.store_name+'.pkl')
+        if os.path.exists(filepath):
+            vector_store.load(filepath, self.embeddings)
+            logging.info(f"Load vector store from {filepath}")
+        else:
+            chunks = self.chunk_documents()
+            logging.info(f"Adding {len(chunks)} chunks")
+            vector_store.add_documents(chunks)
+            vector_store.dump(filepath)
+            logging.info(f"Save vector store to {filepath}")
         return vector_store
 
     def chunk_documents(self) -> List[Document]:

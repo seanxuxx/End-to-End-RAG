@@ -5,7 +5,7 @@ import os
 import random
 import re
 from datetime import datetime
-from typing import List, TypedDict
+from typing import List, Tuple, TypedDict
 
 import torch
 from dotenv import load_dotenv
@@ -44,6 +44,46 @@ def load_data(question_filepath: str, no_reference_answers)-> tuple[list[str], d
     logging.info(f'Load {len(reference_answers)} reference answers from {reference_answer_file}')
 
     return questions, reference_answers
+
+
+def convert_query_responses(queries: List[Query], reference_answers: dict) -> List[Dict]:
+    result = [dict(query) for query in queries]
+    if reference_answers:
+        for i, q_dict in enumerate(result):  # Write reference answers to result dictionary
+            q_dict['reference_answer'] = reference_answers[f'{i+1}']
+    return result
+
+
+def get_output_filepaths(embedding_model: str, generator_model: str, search_type: str) -> Tuple[str, str, str]:
+    variant_name_component = [embedding_model, generator_model, search_type,
+                              datetime.now().strftime("%m%d%H%M")]
+    variant_name = '-'.join([str(item) for item in variant_name_component])
+    variant_folder = os.path.join(args.output_folder, variant_name)
+    os.makedirs(variant_folder, exist_ok=True)
+    result_filepath = os.path.join(variant_folder, 'results.json')
+    config_filepath = os.path.join(variant_folder, 'config.json')
+    eval_filepath = os.path.join(variant_folder, 'evaluation.json')
+    return result_filepath, config_filepath, eval_filepath
+
+
+def save_outputs(result_filepath: str, config_filepath: str, eval_filepath: str):
+    with open(result_filepath, 'w') as f:
+        json.dump(result, f, indent=2)
+        logging.info(f'Save {len(result)} results to {result_filepath}')
+
+    with open(config_filepath, 'w') as f:
+        json.dump(vars(args), f, indent=2)
+        logging.info(f'Save model configuration to {config_filepath}')
+
+    if eval_filepath:  # Evaluation
+        model_outputs = [{'Question': item['question'],
+                          'Answer': item['answer']} for item in result]
+        annotated_data = [{'Question': item['question'],
+                           'Answer': item['reference_answer']} for item in result]
+        evaluation = QAEvaluator(model_outputs, annotated_data)
+        evaluation.evaluate()
+        evaluation.save_logs_to_json(eval_filepath)
+        logging.info(f'Save evaluation metrics to {eval_filepath}')
 
 
 def parse_args() -> argparse.Namespace:
@@ -116,45 +156,10 @@ if __name__ == '__main__':
         torch.cuda.ipc_collect()
         torch.cuda.empty_cache()
 
-    # Covert queries to result
-    if reference_answers:
-        result = []
-        for i, query in enumerate(queries):  # Write reference answers to result dictionary
-            curr_result = dict(query)
-            curr_result['reference_answer'] = reference_answers[f'{i+1}']
-            result.append(curr_result)
-    else:
-        result = queries
+    result = convert_query_responses(queries, reference_answers)
 
-    # Set up output file names
-    variant_name_component = [
-        args.embedding_model,
-        args.llm_model,
-        args.search_type,
-        datetime.now().strftime("%m%d%H%M"),
-    ]
-    variant_name = '-'.join([str(item) for item in variant_name_component])
-    variant_folder = os.path.join(args.output_folder, variant_name)
-    os.makedirs(variant_folder, exist_ok=True)
-    result_filepath = os.path.join(variant_folder, 'results.json')
-    config_filepath = os.path.join(variant_folder, 'config.json')
-    eval_filepath = os.path.join(variant_folder, 'evaluation.json')
+    result_filepath, config_filepath, eval_filepath = get_output_filepaths(
+        args.embedding_model, args.llm_model, args.search_type)
+    eval_filepath = '' if args.no_reference_answers else eval_filepath
 
-    with open(result_filepath, 'w') as f:
-        json.dump(result, f, indent=2)
-        logging.info(f'Save {len(result)} results to {result_filepath}')
-
-    with open(config_filepath, 'w') as f:
-        json.dump(vars(args), f, indent=2)
-        logging.info(f'Save model configuration to {config_filepath}')
-
-    # Evaluation
-    if not args.no_reference_answers:
-        model_outputs = [{'Question': item['question'],
-                          'Answer': item['answer']} for item in result]
-        annotated_data = [{'Question': item['question'],
-                           'Answer': item['reference_answer']} for item in result]
-        evaluation = QAEvaluator(model_outputs, annotated_data)
-        evaluation.evaluate()
-        evaluation.save_logs_to_json(eval_filepath)
-        logging.info(f'Save evaluation metrics to {eval_filepath}')
+    save_outputs(result_filepath, config_filepath, eval_filepath)

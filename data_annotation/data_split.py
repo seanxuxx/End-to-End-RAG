@@ -19,7 +19,7 @@ def write_data_files(data: List[str], output_dir: str, sub_dir: str):
         questions.append(curr_q)
         answers.append({f"{i+1}": curr_a})
 
-    with open(os.path.join(data_dir, 'questions.text'), 'w') as f:
+    with open(os.path.join(data_dir, 'questions.txt'), 'w') as f:
         f.write('\n'.join(questions))
 
     with open(os.path.join(data_dir, 'reference_answers.json'), 'w') as f:

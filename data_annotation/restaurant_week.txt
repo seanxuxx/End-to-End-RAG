@@ -12,17 +12,17 @@ Related Content: Pittsburgh Restaurant Week/Pittsburgh TasteBuds Ltd.Pittsburgh,
 
 <Generated>Question: When was the Pittsburgh Symphony Orchestra founded?  
 Answer: The Pittsburgh Symphony Orchestra was founded in 1895.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is the price of the Restaurant Week Special Menu at Muddy Waters Oyster Bar?  
 Answer: The price of the Restaurant Week Special Menu at Muddy Waters Oyster Bar is $45.24.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2024-restaurants/muddy-waters-oyster-bar TITLE: Muddy Waters Oyster Bar – Pittsburgh Restaurant Week CONTENT: Muddy Waters Oyster Bar Muddy Waters Oyster Bar
 
 Restaurant Week Special Menu: $45.24 DINNER 1st course (choose 1) Catfish sticks Hush puppies Watermelon salad 2nd course (choose 1) Chicken gumbo Vegetable jambalaya Shrimp po boy 3rd course (choose 1) Beignet Banana trifle
 
-================================================================================
+
 
 <Generated>Question: What type of ganache is used in the Chocolate Bundt Cake?
 Answer: The Chocolate Bundt Cake uses white chocolate ganache.
@@ -30,15 +30,15 @@ Context: Impossible Meatballs – “zucchini noodles”, provençale, shaved pa
 
 <Generated>Question: What was the Restaurant Week special at The Porch at Schenley?
 Answer: The Restaurant Week special at The Porch at Schenley was a $20.22 Specialty Entree Pasta Bolognese with Ricotta Cheese, Basil & Garlic Toast.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2022-restaurants/the-forge TITLE: The Forge – Pittsburgh Restaurant Week CONTENT: The Forge The Forge Notice: On August 4, 2022, The Forge notified Pittsburgh Restaurant Week that they are withdrawing their participation for the summer 2022 event.
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2022-restaurants/the-porch-at-schenley TITLE: The Porch at Schenley – Pittsburgh Restaurant Week CONTENT: The Porch at Schenley The Porch at Schenley Restaurant Week Special: $20.22 Specialty Entree Pasta Bolognese Ricotta Cheese, Basil & Garlic Toast
 
-================================================================================
+
 
 <Generated>Question: What are the ingredients in the Chicken Piccata dish?
 Answer: The ingredients in the Chicken Piccata dish are lemon, potatoes, asparagus, capers, zucchini, and tomatoes.
@@ -46,25 +46,25 @@ Context: English Peas, Cherry Tomatoes, Charred Zucchini Nero d’Avola • Fued
 
 <Generated>Question: What event is Revival on Lincoln participating in?
 Answer: Revival on Lincoln is participating in Pittsburgh Restaurant Week.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2023-restaurants/revival-on-lincoln TITLE: Revival on Lincoln – Pittsburgh Restaurant Week CONTENT: Revival on Lincoln Revival on Lincoln
 
 <Generated>Question: What is the specialty dish offered by Ten Penny for Pittsburgh Restaurant Week?  
 Answer: The specialty dish offered by Ten Penny for Pittsburgh Restaurant Week is Crab Stuffed Pork Tenderloin with Bernaise Sauce, Demi Glace, Roasted Parsnips, and Beets.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2016-restaurants/tako TITLE: täkō – Pittsburgh Restaurant Week CONTENT: täkō täkō Restaurant Week Menu $20.16 Specialty Message from the Restaurant: “tako will feature a daily changing menu of special entrees for Pittsburgh Restaurant Week. Check Twitter and Facebook for menu features!”
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2016-restaurants/ten-penny TITLE: Ten Penny – Pittsburgh Restaurant Week CONTENT: Ten Penny Ten Penny Restaurant Week Special: $20.16 Specialty Crab Stuffed Pork Tenderloin Bernaise Sauce/ Demi Glace/ Roasted Parsnips and Beets
 
-================================================================================
+
 
 <Generated>Question: What is the price of the Hyde Park Prime Steakhouse Restaurant Week Special dinner?  
 Answer: The price of the Hyde Park Prime Steakhouse Restaurant Week Special dinner is $45.25.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2025-restaurants/hyde-park-prime-steakhouse TITLE: Hyde Park Prime Steakhouse – Pittsburgh Restaurant Week CONTENT: Hyde Park Prime Steakhouse Hyde Park Prime Steakhouse Restaurant Week Special: $45.25 DINNER First Course Choice of One Hyde Park Wedge Salad Smoked bacon, candied pecans, tomato, blue cheese dressing, port wine drizzle Caesar Salad Made to order garlic croutons, chopped anchovies upon request Lobster Bisque Main Course Choice of One Filet Mignon 6oz Roasted garlic whipped potatoes, crispy onion straws Salmon Filet Sauteed spinach, roasted garlic whipped potatoes, lemon crystal citrus sauce Chicken Milanese Crispy romano crusted; lemon caper sauce, asparagus Crab Cake Oscar Asparagus, lump crab & bearnaise Dessert Course Two Flourless Chocolate Tortes Semi-sweet, glazed with dark chocolate, Bailey’s crème anglaise, port wine reduction
 
@@ -72,11 +72,11 @@ URL: https://pittsburghrestaurantweek.com/restaurants/winter-2025-restaurants/hy
 Answer: The Romanesco & porter cheddar soup is included in the appetizer section.
 Context: Appetizers SOUP Romanesco & porter cheddar soup SWEETBREADS lamb, prosciutto, popcorn shoots, hazelnut vinaigrette, black truffle SALAD Russian kale, baby carrot, smoked beet, piave cheese, beet custard, grapefruit-brown butter vinaigrette Entrees LAMB lamb rack, potato puree, rosemary-roasted heirloom carrots, heirloom tomatoes, Cippolini onion SCALLOPS pan-seared scallops, squid ink celeriac mousseline, bok choy, crispy pancetta TOFU sweet chili marinated tofu, crispy udon noodle, matsutake mushroom, snap peas, carrot Desserts CHOCOLATE chocolate bateaux, raspberry gel, mint powder FRUIT gin compressed starfruit, lime granite, thai basil, pomegranate seeds Plus, stop by for our special $7.50 craft cocktail menu during dinner $15 Brunch Special STEAK & EGGS angus hanger steak, broccoli, brussels, potato, frisée, black truffle, poached egg, bourbon jus
 
-================================================================================
+
 
 <Generated>Question: When was the Pittsburgh Penguins team founded?  
 Answer: The Pittsburgh Penguins team was founded in 1967.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is the price of the Restaurant Week Special Menu at Mary’s Vine?
 Answer: The price of the Restaurant Week Special Menu at Mary’s Vine is $45.24.
@@ -94,7 +94,7 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2021-resta
 Answer: The first course includes mushroom bisque with toast and poached egg, smoked salmon topped with brown butter crème fraiche, red onion and capers over multigrain pancakes, and Korean BBQ duck tacos with pickled vegetables and sirachi aioli.
 Context: First Course Mushroom bisque with toast and poached egg Smoked salmon topped with brown butter crème fraiche, red onion and capers over multigrain pancakes Korean BBQ duck tacos with pickled vegetables and sirachi aioli Second Course Asiago cream gnocchi with smoked chicken, roast tomatoes, pinenuts and truffle salt Pan seared mahi mahi over potato leek puree and charred fennel Pork shank finished with apple cider demi glace, served with basmati and apple bacon marmalade Third Course Salted caramel pretzel brownie with chocolate sauce Apple pie with caramel sauce Smoked ice cream with biscotti crunch and candied bacon
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2013-restaurants/bocktown-beer-and-grill TITLE: Bocktown Beer and Grill – Pittsburgh Restaurant Week CONTENT: Bocktown Beer and Grill Bocktown Beer and Grill Restaurant Week Special:
 
@@ -110,7 +110,7 @@ Context: Hot Fried Chicken, Grass-fed Meatballs, Calamari & Hot Peppers, or Gril
 Answer: The dessert options are Creme Brulee, Vanilla Cheesecake with coffee sauce, or Triple chocolate mousse cake.
 Context: $20.13 Option 1 Choice of Appetizer: House made spinach artichoke dip – or – Hummus, served with warm pita and fresh cut veggies for dipping Shrimp Po ‘Boy Either grilled or fried.  Served with lettuce, tomato and lemon & cracked pepper remoulade. House cut potato chips $20.13 Option 2 James Street Meatloaf Personal hand crafted  meatloaf, smashed redskins, sweet corn sauce Choice of Dessert: Creme Brulee, Vanilla Cheesecake with coffee sauce, or Triple chocolate mousse cake
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2013-restaurants/kaleidoscope-cafe TITLE: Kaleidoscope Cafe – Pittsburgh Restaurant Week CONTENT: Kaleidoscope Cafe Kaleidoscope Cafe Restaurant Week Special:
 
@@ -124,27 +124,27 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2018-resta
 
 <Generated>Question: What is the price of the Green Forest Churrascaria Restaurant Week Special multi-course dinner?  
 Answer: The price of the Green Forest Churrascaria Restaurant Week Special multi-course dinner is $35.15.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2015-restaurants/green-forest-churrascaria TITLE: Green Forest Churrascaria – Pittsburgh Restaurant Week CONTENT: Green Forest Churrascaria Green Forest Churrascaria Restaurant Week Special: $35.15 Multi-Course Dinner First Course: Appetizer Table of imported cold meats and cheeses Second Course: Salad Bar Sushi & Sashimi, Sea food, and others Third course: Entrée Leg of Lamb, Picanha (beef tenderloin), Filet Mignon w/ parmesan cheese, Lamb Chops, Sausage, Filet mignon w/ Madeira sauce, Rib Eye, Beef ribs, Flank steak, Pork Loin w/ parmesan cheese, Baby Back Pork Ribs, Top Sirloin, Filet Mignon wrapped in bacon, Turkey wrapped in bacon, Bacon slab, Sirloin w/ chimichuri sauce
 
-================================================================================
+
 
 <Generated>Question: What is the price of the Luma Restaurant Week Special Menu?  
 Answer: The price of the Luma Restaurant Week Special Menu is $45.23.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2023-restaurants/luma TITLE: Luma – Pittsburgh Restaurant Week CONTENT: Luma Luma Restaurant Week Special Menu: $45.23 DINNER First Course: *Ciabatta topped with fresh burrata, roasted cherry tomatoes and fresh basil *Lobster & shrimp bisque *Mixed greens with crumbled goat cheese, candied pecans, honey crisp apples and dried cranberries in a citrus vinaigrette Second Course: *Short rib braised over pappardelle, cabernet demi glace, horseradish aioli and frizzled onions *Grouper pistachio encrusted topped with a citrus butter with sauteed broccolini *6oz center cut filet mignon topped with a port wine demi glace with sauteed broccolini Third Course: Colossal New York style cheesecake with a raspberry melba Warmed chocolate chip brownie topped with chocolate sauce, vanilla ice cream and whipped cream Raspberry Sorbet * New menu item
 
 <Generated>Question: What is the first course offered at The Porch at Schenley during Pittsburgh Restaurant Week?  
 Answer: The first course offered is Pork Rillettes with Peach Mostarda, Pickled Green Beans, and Crostini.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2013-restaurants/the-porch-at-schenley TITLE: The Porch at Schenley – Pittsburgh Restaurant Week CONTENT: The Porch at Schenley The Porch at Schenley Restaurant Week Special:
 
 FIRST COURSE Pork Rillettes Peach Mostarda, Pickled Green Beans, Crostini SECOND COURSE “Butler County Beef” Meatballs House Made Spaghetti, Roasted Tomato Marinara & Garlic Bread THIRD COURSE Molten Chocolate Cake Cranberry Coulis, Hazelnut Whipped Cream & Sea salt
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2013-restaurants/the-wooden-nickel TITLE: The Wooden Nickel – Pittsburgh Restaurant Week CONTENT: The Wooden Nickel The Wooden Nickel Restaurant Week Special:
 
@@ -154,11 +154,11 @@ Context: pan seared with imported Prosciutto, beef steak tomatoes, baby green on
 
 <Generated>Question: What is the price of the Restaurant Week Special Menu at Senti Restaurant?
 Answer: The price of the Restaurant Week Special Menu at Senti Restaurant is $45.23.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2023-restaurants/senti-restaurant TITLE: Senti Restaurant – Pittsburgh Restaurant Week CONTENT: Senti Restaurant Senti Restaurant Restaurant Week Special Menu: $45.23 DINNER INIZIO choice of Bruschetta con Funghi Toasted focaccia bread, wild mushroom conserva, ricotta, parsley olive oil Zuppa dell Giorno soup of the day ENTRÉE choice of Malloreddus con Ragù di Maiale Sardinia pasta, pork sausage, parsley saffron, olive oil Brasato di Manzo con Polenta GF short rib, creamy polenta, peppers agrodolce DOLCE Tiramisù mascarpone cream, espresso, lady fingers
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2023-restaurants/social-house-7 TITLE: Social House 7 – Pittsburgh Restaurant Week CONTENT: Social House 7 Social House 7
 
@@ -174,33 +174,33 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2018-resta
 Answer: The dessert offered is Chocolate Molasses Cake with salted butter cream and pecan brittle.
 Context: First Plate Crab Bisque Chopped Salad Second Plate Beef Bourguignon Scallops with Golden Beet Risotto. Third Plate Chocolate Chip Cookies and Milk
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2015-restaurants/cioppino-restaurant-cigar-bar TITLE: Cioppino Restaurant & Cigar Bar – Pittsburgh Restaurant Week CONTENT: Cioppino Restaurant & Cigar Bar Cioppino Restaurant & Cigar Bar Restaurant Week Menu
 
 Second Course: Veal Milanese -parmesan risotto, mushroom cream Dessert: Chocolate Molasses Cake -salted butter cream, pecan brittle
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2015-restaurants/city-oven TITLE: City Oven – Pittsburgh Restaurant Week CONTENT: City Oven City Oven Restaurant Week Special:
 
 <Generated>Question: What is the price of the fixed price dinner at Alexander's Italian Bistro during Pittsburgh Restaurant Week?  
 Answer: The fixed price dinner at Alexander's Italian Bistro during Pittsburgh Restaurant Week is $20.16.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2016-restaurants/alexanders-italian-bistro TITLE: Alexander’s Italian Bistro – Pittsburgh Restaurant Week CONTENT: Alexander’s Italian Bistro Alexander’s Italian Bistro Restaurant Week Special: $20.16 Fixed Price Dinner First Course House Salad or Soup Second Course select one Fusilli Marfredo w/ Burrata Eggplant Alexander (Parmigiano w/ ricotta cheese) Chicken Eggplant Pesto Third Course Tira Mi Su
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2016-restaurants/avenue-b TITLE: Avenue B – Pittsburgh Restaurant Week CONTENT: Avenue B Avenue B Restaurant Week Special: $35.16 Multi-Course Dinner Avenue B offers a blackboard-style menu. Additional details currently unavailable. $20.16 Two-Course Lunch also available.
 
 <Generated>Question: What special offer did Istanbul Sofra have during the 2017 Pittsburgh Restaurant Week?  
 Answer: Istanbul Sofra offered a 15% discount on the entire bill and a complimentary glass of wine for everyone with the purchase of a meal.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2017-restaurants/istanbul-sofra TITLE: Istanbul Sofra – Pittsburgh Restaurant Week CONTENT: Istanbul Sofra Istanbul Sofra Restaurant Week Special: 2017 Restaurant Week Special 15% discount entire bill And complimentary glass of wine for everyone with purchases of meal
 
-================================================================================
+
 
 <Generated>Question: What is the price of the wine pairings at Willow Restaurant Week Special?
 Answer: The wine pairings are priced at $15.
@@ -208,11 +208,11 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2017-resta
 
 <Generated>Question: What is the price of the Restaurant Week Special Menu at Atarashi?  
 Answer: The price of the Restaurant Week Special Menu at Atarashi is $20.24.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2024-restaurants/sushi-atarashi TITLE: Atarashi – Pittsburgh Restaurant Week CONTENT: Atarashi Atarashi The following menu is available at the Oakland Avenue location and the 1720 Washington Road location. Restaurant Week Special Menu: $20.24 Lunch or Dinner 1st Course (Choice of): Spring Roll (2 pieces) Shrimp Tempura (2 pieces) Side Salad (Asian Sesame Dressing) Steamed Edamame 2nd Course (Choice of): Poke Side Salad Nigiri (4 pieces) 3rd Course (Choice of): Twin City Roll Crab Rangoon Roll Teriyaki Chicken Bowl Ultimate Zen Bowl Salt and Pepper Chicken Bento
 
-================================================================================
+
 
 <Generated>Question: What is one of the first course options for the $20.17 Lunch special at Roman Bistro during Pittsburgh Restaurant Week?  
 Answer: One of the first course options is Strawberry & Walnut Salad.
@@ -220,15 +220,15 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2017-resta
 
 <Generated>Question: What is the price of the Silk Elephant Restaurant Week Special?  
 Answer: The price of the Silk Elephant Restaurant Week Special is $20.16.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2016-restaurants/silk-elephant TITLE: Silk Elephant – Pittsburgh Restaurant Week CONTENT: Silk Elephant Silk Elephant Restaurant Week Special: $20.16 Specialty 2016 Tapas Trio Thai Sweet & Sour Glazed Pork Belly (slow roasted and served over arugula salad in a pressed olive and fresh lemon dressing) Coconut Encrusted Croquettes – Vegetarian (served over a miso green curry sauce) Spicy Pineapple on Blackened Wild Salmon (served over a creamy Cajun curry sauce and drizzled with a balsamic reduction)
 
-================================================================================
+
 
 <Generated>Question: When was the Pittsburgh Penguins hockey team founded?
 Answer: The Pittsburgh Penguins hockey team was founded in 1967.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is the price of the dinner special at McCormick & Schmick’s Seafood during Pittsburgh Restaurant Week?  
 Answer: The dinner special at McCormick & Schmick’s Seafood during Pittsburgh Restaurant Week is $35.16.
@@ -236,23 +236,23 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2016-resta
 
 <Generated>Question: What is the price of the Restaurant Week Special at Benjamin’s Western Avenue Burger Bar?
 Answer: The price of the Restaurant Week Special at Benjamin’s Western Avenue Burger Bar is $20.16.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2016-restaurants/benjamins-western-avenue-burger-bar TITLE: Benjamin’s Western Avenue Burger Bar – Pittsburgh Restaurant Week CONTENT: Benjamin’s Western Avenue Burger Bar Benjamin’s Western Avenue Burger Bar Restaurant Week Special $20.16 Specialty Option 1 2 Benjamin’s Basic Burgers with sides & Choice of Selected Appetizer Option 2 2 Benjamin’s Basic Burgers with sides & 2 Yuengling Lager Drafts
 
-================================================================================
+
 
 <Generated>Question: What is the price of the Paris 66 Restaurant Week Special dinner?  
 Answer: The Paris 66 Restaurant Week Special dinner is priced at $40.22.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2022-restaurants/paris-66 TITLE: Paris 66 – Pittsburgh Restaurant Week CONTENT: Paris 66 Paris 66 Restaurant Week Special: $40.22 Dinner FIRST COURSE Escargots Salade Verte SECOND COURSE Chicken Leg Confit dijon cream, pomme puree, hericot verts Roasted Pork Loin sauce provencal, pomme puree, haricot verts THIRD COURSE Creme Brulee Lemon Raspberry Tarte
 
-================================================================================
+
 
 <Generated>Question: What is the name of the French explorer who was the first known person to enter Pittsburgh?
 Answer: The French explorer who was the first known person to enter Pittsburgh was Robert de La Salle.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is the price of the Restaurant Week Special at Sullivan's Steakhouse?
 Answer: The Restaurant Week Special at Sullivan's Steakhouse is $45.25.
@@ -260,27 +260,27 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2025-resta
 
 <Generated>Question: What is the name of the restaurant featured in the Pittsburgh Restaurant Week?
 Answer: The name of the restaurant is Vivo Kitchen.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2016-restaurants/vivo-kitchen TITLE: Vivo Kitchen – Pittsburgh Restaurant Week CONTENT: Vivo Kitchen Vivo Kitchen Restaurant Week Special: To Be Announced
 
-================================================================================
+
 
 <Generated>Question: What is the price of the Bistro 9101 Restaurant Week Special multi-course dinner?  
 Answer: The price of the Bistro 9101 Restaurant Week Special multi-course dinner is $35.16.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2016-restaurants/bistro-9101 TITLE: Bistro 9101 – Pittsburgh Restaurant Week CONTENT: Bistro 9101 Bistro 9101 Restaurant Week Special $35.16 Multi-Course Dinner COURSE ONE Cabernet and Anise Poached Local Pear Amish blue cheese and arugula pomegranate gastric COURSE TWO Braised Lamb Stew Tender slow braised lamb shoulder, roasted red peppers served over crispy herbed fingerling potato COURSE THREE Goat Cheese Cake Drunken dry tart cherry sauce
 
-================================================================================
+
 
 <Generated>Question: What is the price of the dinner menu at Grand Concourse Restaurant during Pittsburgh Restaurant Week?  
 Answer: The price of the dinner menu at Grand Concourse Restaurant is $40.21.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2021-restaurants/grand-concourse-restaurant TITLE: Grand Concourse Restaurant – Pittsburgh Restaurant Week CONTENT: Grand Concourse Restaurant Grand Concourse Restaurant Menu: $40.21 DINNER — CHOICE of STARTER — Martha’s Vineyard Salad Classic Caesar Salad • Charley’s Chowder Chilled Gazpacho — CHOICE of ENTRÉE — Cedar Planked Parmesan Shrimp add 3 seared scallops… 7.21 Tomatillo BBQ Glazed Salmon add 5 grilled shrimp… 5.21 Chicken Milanese add 5 scampi style shrimp… 5.21 Vegetable Coconut Curry add 5 coconut shrimp… 7.21 — CHOICE of DESSERT — Pineapple Bundt Cake Traditional Key Lime Pie Complete Your Meal With A Bottle Of SONOMA ‘CUTRER’ CHARDONNAY $40
 
-================================================================================
+
 
 <Generated>Question: What is included in the Azorean Cafe's Restaurant Week Special for lunch?
 Answer: The Azorean Cafe's Restaurant Week Special for lunch includes a first course choice of soup or salad, an entree course with options like Bacalhau Natas, Polvo Guisado, Camarao Teimosa, or Feijoada, and a dessert course choice of dessert.
@@ -304,13 +304,13 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2024-resta
 
 <Generated>Question: What is the name of the French explorer who was the first known person to enter Pittsburgh?
 Answer: The French explorer Robert de La Salle was the first known person to enter Pittsburgh.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: When did the Pittsburgh Restaurant Week Summer 2014 take place?  
 Answer: The Pittsburgh Restaurant Week Summer 2014 took place from August 11-17, 2014.
 Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2014-restaurants TITLE: Summer 2014 Restaurants – Pittsburgh Restaurant Week CONTENT: Summer 2014 Restaurants Summer 2014 Restaurants Summer 2014 is now over. View menus for the upcoming restaurant week here. Pittsburgh Restaurant Week Summer 2014 is returning August 11-17, 2014. Is this your first time enjoying restaurant week? Check out these tips for getting the most out of Pittsburgh Restaurant Week . Printable Restaurant List Submit Restaurant Week Photos Register to receive the Pittsburgh Restaurant Week newsletter for the latest in PRW news. Browse Special Menus
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2014-restaurants/arpino-trattoria TITLE: Arpino Trattoria – Pittsburgh Restaurant Week CONTENT: Arpino Trattoria Arpino Trattoria Restaurant Week Special:
 
@@ -324,7 +324,7 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2024-resta
 
 Annual Winter Theme: “New Dishes for the New Year” FAQ: How does restaurant week work? Browse Menus. Make Reservations. Dine Out. Enjoy. No coupons required. Mention PRW to your host/server to ensure you are getting the entire restaurant week experience. Browse Special Menus
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2024-restaurants/bae-baes-kitchen TITLE: Bae Bae’s Kitchen – Pittsburgh Restaurant Week CONTENT: Bae Bae’s Kitchen Bae Bae’s Kitchen Restaurant Week Special: $25.24 LUNCH OR DINNER Entree with Dessert Combo Bim Bim Bap (Steamed Rice Topped with Sunny Side up Egg, Rotating Daily Sides and Bim Bim Paste) with Choice of Crispy Tofu, BBQ Bulgogi Beef or Korean Fried Chicken Daily Rotating Dessert
 
@@ -334,21 +334,21 @@ Context: beurre blanc Third Course: A decadent moist date sponge cake served war
 
 <Generated>Question: When was coke-fire smelting introduced in Pittsburgh?  
 Answer: Coke-fire smelting was introduced in Pittsburgh in 1859 by the Clinton and Soho iron furnaces.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is the price of the dinner special at Eddie Merlot's during Pittsburgh Restaurant Week?  
 Answer: The dinner special at Eddie Merlot's during Pittsburgh Restaurant Week is $35.19.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2019-restaurants/eddie-merlots TITLE: Eddie Merlot’s – Pittsburgh Restaurant Week CONTENT: Eddie Merlot’s Eddie Merlot’s Restaurant Week Special: $35.19 Dinner First Course – choice of Candied Cherrywood Bacon King Crab Corn Bisque ~ Cup Caesar Salad Entrée Selections – choice of 10 oz. Dry Aged Strip ~ Prepared to Order Cedar Plank Roasted Salmon ~ Barbecue glaze, roasted garlic aioli, sautéed spinach, fingerling potatoes Chicken Florentine ~Chicken breasts, creamed spinach, Parmesan cream sauce, tomato relish 1 lb. – King Crab Legs ~With drawn butter and lemon Chef’s Selection – 7 oz. Filet Mignon – add $10 Dessert – choice of Carrot Cake Chocolate Cake
 
-================================================================================
+
 
 <Generated>Question: What type of salad is offered at McCormick & Schmick’s Seafood Restaurant during Pittsburgh Restaurant Week?
 Answer: McCormick & Schmick’s Seafood Restaurant offers a Caesar salad during Pittsburgh Restaurant Week.
 Context: Appetizers Blackened tuna w/Gorgonzola Romano battered cheese ravioli w/tomato cream Mussels marinara Salad House salad Caesar salad BLT chop salad Entrees Polenta crusted cod w/red pepper coulis served with starch and vegetable. Mushroom tortelloni w/Sherry cream Hot sausage lasagna.
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2014-restaurants/mccormick-schmicks-seafood-restaurant TITLE: McCormick & Schmick’s Seafood Restaurant – Pittsburgh Restaurant Week CONTENT: McCormick & Schmick’s Seafood Restaurant McCormick & Schmick’s Seafood Restaurant Restaurant Week Special:
 
@@ -366,15 +366,15 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/winter-2024-resta
 
 <Generated>Question: What is included in the $20.19 Lunch special at or, The Whale during Pittsburgh Restaurant Week?
 Answer: The $20.19 Lunch special includes a Farm Greens Salad or Summer Soup for the first course, a Salmon Salad or Crab Cake Sandwich for the second course, and a Cookie to go for the third course.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2019-restaurants/or-the-whale TITLE: or, The Whale – Pittsburgh Restaurant Week CONTENT: or, The Whale or, The Whale Restaurant Week Special: $20.19 Lunch First Course: – Farm Greens Salad – Summer Soup Second Course: – Salmon Salad grilled salmon, farro, romanesco, strawberry vinaigrette. – Crab Cake Sandwich jumbo lump crab, remoulade, fries Third Course: Cookie to go $35.19 Dinner First Course: – Spinach Salad – Farm Greens Salad – Lobster Bisque Second Course: – Black Cod pistachio encrusted, zucchini, squash, beurre blanc – Shrimp Pomodoro linguini, tomato concasse, basil, parmesan – Fire Roasted Chicken chicken, mustard jus, smoked smashed potatoes, asparagus Third Course: -oTW signature dessert
 
-================================================================================
+
 
 <Generated>Question: When was the first known person to enter Pittsburgh?
 Answer: The first known person to enter Pittsburgh was the French explorer Robert de La Salle.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is served with the decadent moist date sponge cake?
 Answer: The decadent moist date sponge cake is served with vanilla ice cream and whipped cream.
@@ -382,29 +382,29 @@ Context: ice cream and whipped cream Decadent moist date sponge cake served warm
 
 <Generated>Question: What is the price of the Restaurant Week Special Menu at Twelve Whiskey Barbecue?  
 Answer: The price of the Restaurant Week Special Menu at Twelve Whiskey Barbecue is $30.23.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2023-restaurants/twelve-whiskey-barbecue TITLE: Twelve Whiskey Barbecue – Pittsburgh Restaurant Week CONTENT: Twelve Whiskey Barbecue Twelve Whiskey Barbecue Restaurant Week Special Menu: $30.23 DINNER APPETIZERS Roasted Cauliflower Soup w/ Chimichurri Hot Crab & Corn w/Pita Chips ENTREES Smoked Pork Loin Sando apple slaw, pickled onions, ginger habanero mayo, ciabatta bun, waffle fries Braised Short Rib gorgonzola polenta, red wine jus, pickled carrots, melted onions & chumichurri DESSERT Chocolate Chip Milk Mousse Cake
 
-================================================================================
+
 
 <Generated>Question: What is the price of the multi-course dinner special at DiAnoia’s Eatery during Pittsburgh Restaurant Week?  
 Answer: The price of the multi-course dinner special at DiAnoia’s Eatery during Pittsburgh Restaurant Week is $25.17.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2017-restaurants/dianoias-eatery TITLE: DiAnoia’s Eatery – Pittsburgh Restaurant Week CONTENT: DiAnoia’s Eatery DiAnoia’s Eatery Restaurant Week Special: $25.17 Multi-Course Dinner FIRST COURSE Escarole, Beans & Sausage: Hot Italian Sausage, Cannellini Beans, Escarole, Chicken Stock OR Burrata Crostini: Arugula, Caponata, Saba, EVO SECOND COURSE Cacio E Pepe: House-made Spaghetti, Grana Padano, Pecorino Romano, Black Pepper OR Tagliatelle Primavera: House-made Tagliatelle, Rapini, Olives, Tomato, Capers, Roasted Peppers, Garlic, Spinach, Parmigiano Reggiano, Pine Nuts, EVO THIRD COURSE Tiramisu
 
-================================================================================
+
 
 <Generated>Question: What dessert is offered at Caffe Amante during Pittsburgh Restaurant Week?  
 Answer: Tiramisu
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2013-restaurants/caffe-amante TITLE: Caffe Amante – Pittsburgh Restaurant Week CONTENT: Caffe Amante Caffe Amante Restaurant Week Special:
 
 ENTREE Chicken Piccatta accompanied with mashed potatoes DESSERT Tiramisu
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2013-restaurants/center-plate TITLE: Center Plate – Pittsburgh Restaurant Week CONTENT: Center Plate Center Plate Restaurant Week Special:
 
@@ -418,31 +418,31 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2018-resta
 
 Browse Special Menus
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2018-restaurants/bigelow-grille TITLE: Bigelow Grille – Pittsburgh Restaurant Week CONTENT: Bigelow Grille Bigelow Grille Restaurant Week Special $20.18 Specialty available lunch and dinner Grilled Hangar Steak heirloom tomato salad, arugula, crispy blue cheese polenta
 
-================================================================================
+
 
 <Generated>Question: What is the price of the menu at The Rebel Room during Pittsburgh Restaurant Week?  
 Answer: The Rebel Room Menu is priced at $38.21.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2021-restaurants/the-rebel-room TITLE: The Rebel Room – Pittsburgh Restaurant Week CONTENT: The Rebel Room The Rebel Room Menu: $38.21 LUNCH OR DINNER First Course Grilled Caesar Salad Grilled Romaine Heart, Candied Onion, Garlic crouton, Lemon Confit Peach & Burrata Chambersburg Peach, Soft Greens, Pumpernickel Crostini Second Course Short Rib Pierogi House Made Pierogi, Truffled Mushroom, Demi Third Course Chicken Roulade Citrus Greens, Rosemary Whipped Potato, Baby Carrot, Natural Jus Petit Filet Puffed Potato, Asparagus, Demi Fourth Course Apple Fritter Mousse Apple Fritter, Cinnamon Mousse, Compote, Graham Crumble Local Craft Beers Available
 
-================================================================================
+
 
 <Generated>Question: What is the price range for the dinner menu at Ruth's Chris Steak House during Pittsburgh Restaurant Week?  
 Answer: The dinner menu price range is $34.20 to $45.20.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2020-restaurants/ruths-chris-steak-house TITLE: Ruth’s Chris Steak House – Pittsburgh Restaurant Week CONTENT: Ruth’s Chris Steak House Ruth’s Chris Steak House Restaurant Week Menu : $34.20 to $45.20 Dinner Dine-In FIRST COURSE Steak House Salad Caesar Salad ENTREE COURSE 8oz Filet ($45.20) 10oz Atlantic Salmon ($34.20) SIDE CHOICE Creamed Spinach Garlic Mashed Potatoes DESSERT COURSE Personal size Cheesecake
 
-================================================================================
+
 
 <Generated>Question: When was the first known person to enter Pittsburgh?
 Answer: The first known person to enter Pittsburgh was the French explorer Robert de La Salle.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is included in the Bonefish House Salad at Bonefish Grill during Pittsburgh Restaurant Week?  
 Answer: The Bonefish House Salad includes hearts of palm, Kalamata olives, tomatoes, and citrus herb vinaigrette.
@@ -450,7 +450,7 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2018-resta
 
 <Generated>Question: What is included in the first course of Matteo's Restaurant Week Special?  
 Answer: The first course includes Artichokes Romano with roasted red pepper sauce, Goat Cheese Bruschetta with herbed goat cheese and bruschetta tomatoes, and a Cheese Plate with three artisan cheeses and seasonal fruit.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2013-restaurants/matteos TITLE: Matteo’s – Pittsburgh Restaurant Week CONTENT: Matteo’s Matteo’s Restaurant Week Special:
 
@@ -458,39 +458,39 @@ FIRST COURSE Artichokes Romano w/ roasted red pepper sauce Goat Cheese Bruschett
 
 <Generated>Question: What is one of the options for the first course in the fl.2 Restaurant Week Menu dinner?
 Answer: One of the options for the first course is poblano soup with crema and guajillo oil.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2018-restaurants/fl-2-floor-2-2 TITLE: fl.2 (Floor 2) – Pittsburgh Restaurant Week CONTENT: fl.2 (Floor 2) fl.2 (Floor 2) Restaurant Week Menu $35.18 Dinner COURSE ONE Choice of poblano soup CREMA, GUAJILLO OIL or simple green salad SHAVED APPLE, ARUGULA VINAIGRETTE, PARMESAN COURSE TWO lamb neck bolognese PAPPARDELLE, MUSHROOMS or local trout KALE, PEACHES, CHILE DE ARBOL COURSE THREE japanese cheesecake (GF) MATCHA, PRESERVED CHERRIES $20.18 Lunch french onion soup GRUYERE, CHIVES rotisserie chicken salad BITTER GREENS, FUJI APPLE, RASPBERRY, HONEY DIJON churros ABUELITA CHOCOLATE SAUCE
 
-================================================================================
+
 
 <Generated>Question: What type of dining service does Pane è Pronto offer during Pittsburgh Restaurant Week?  
 Answer: Pane è Pronto operates a grab and go deli and does not offer a sit down dining service.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2025-restaurants/pane-e-pronto TITLE: Pane è Pronto – Pittsburgh Restaurant Week CONTENT: Pane è Pronto Pane è Pronto Restaurant Week Special Menu: $20.25 Grab-And-Go Specialty available for take out, online orders and to go. Mangia Mangia for Two! Our Mangia Dinner consists of One Pound of our House Pasta, 2 DiAnoias Meatballs, a Pint of Marinara, a Dinner Salad with our Oregano Vinaigrette, and Fresh Baked Bread. As Always, Our Dinners are prepared for you and Served Cold with Easy Reheat Instructions. Pane è Pronto does NOT offer a sit down dining service, but rather operates a grab and go deli.
 
-================================================================================
+
 
 <Generated>Question: What is the dessert option in the Paris 66 Restaurant Week Special?
 Answer: The dessert option in the Paris 66 Restaurant Week Special is Macarons.
 Context: FIRST COURSE Choice of Soup or Salad SECOND COURSE Choice of Entree – Roasted Lamb Shoulder Stuffed Ravioli with a Rich Lamb Gravy, topped with Fresh House Pulled Mozzarella or – Wild Sockey Salmon, Pan-Seared and Topped with a Roasted Leek & Pepper Sauce over Wild Rice THIRD COURSE Choice of Traditional, Chocolate, or Raspberry Baklava
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2013-restaurants/paris-66 TITLE: Paris 66 – Pittsburgh Restaurant Week CONTENT: Paris 66 Paris 66 Restaurant Week Special:
 
 Trois pour Trente 3 for $30 Tasting Menu Appetizer Escargots ~ Entrée Beef Wellington ~ Dessert Macarons
 
-================================================================================
+
 
 <Generated>Question: What is the price of the lunch special at Molinaro Ristorante during Pittsburgh Restaurant Week?  
 Answer: The price of the lunch special at Molinaro Ristorante during Pittsburgh Restaurant Week is $25.19.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2019-restaurants/molinaro-ristorante TITLE: Molinaro Ristorante – Pittsburgh Restaurant Week CONTENT: Molinaro Ristorante Molinaro Ristorante Restaurant Week Special: $25.19 Lunch First Course: (choice of) Zucchini Arancini Meatballs Or Italian Salad Caesar Salad Second Course: (choice of) Pizza: New York Margherita Bianca Panini: Porchetta Grilled Chicken Italian Pasta: Penne Vodka Spaghetti Pomodoro Fettucine Alfredo $35.19 Dinner First Course (choice of) Fried Calamari Fried Zucchini Arancini Meatballs Italian Salad Ceasar Salad Second Course (choice of) Chicken Romano Linguine Pesto with Shrimp Porchetta Dessert (choice of) Cannoli Tiramisu
 
-================================================================================
+
 
 <Generated>Question: What are the filling options available for the dish?
 Answer: The filling options available are House-Smoked Chicken, House-Smoked Pork, and Sauteéd Shrimp.
@@ -510,37 +510,37 @@ Context: with winter slaw featuring local cabbage, squash, and apples, finished 
 
 <Generated>Question: Until when is the Grazing Rights Restaurant Week Special available?
 Answer: The Grazing Rights Restaurant Week Special is available until February 6, 2021.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2021-restaurants/grazing-rights TITLE: Grazing Rights – Pittsburgh Restaurant Week CONTENT: Grazing Rights Grazing Rights Restaurant Week Special: $35.21 Dinner Dine-In or Takeout 1st choice of FRENCH ONION SOUP | Veal Broth | Onion | Gruyere  | Baguette PETITE GREENS | Honey Vinaigrette | Seasonal Vegetables | Bleu Cheese BEEF TARTARE | Chips | Capers| Shallots | Pickled Radish | Egg Yolk 2nd choice of 12 oz Prime NYS 6 oz Prime Filet 8 oz Scottish Salmon Sides included ROBOUCHON POMME PUREE  | Gold potatoes |Butter | Cream | Chive GRILLED BEETS | Horseradish Ricotta | Lemon Vinaigrette CRISPY BRUSSELS | Honey Balsamic| Pecorino AVAILABLE UNTIL FEBRUARY 6, 2021
 
-================================================================================
+
 
 <Generated>Question: What is the price of the optional wine pairing available with the dinner courses?
 Answer: The optional wine pairing will be available for $12.14.
 Context: First Course Warm Spinach, house pancetta, sherry vinaigrette Second Course (choose one) Duo of Beef Braised Flatiron & Grilled Skirt Steak, snap peas, olives, saffron potato confit, wilted leeks Grilled Salmon farro with picked escarole, gardinara & golden raisins, sauce salmone Third Course Tiramisu (house specialty) or Chef’s Featured Dessert Optional wine pairing will be available for $12.14 $30.14 Dinner (Vegetarian) First Course Winter Vegetable Bisque with coconut curry puree, crispy kale greens, cinnamon dust Second Course Butternut Squash Ravioli with sage, brown butter Third Course Tiramisu (house specialty) or Chef’s Feature Dessert Optional wine pairing will be available for $12.14 $20.14 Specialty Select flatbread pizzas with a glass of wine will be available for $20.14 Plus … During Pittsburgh Restaurant Week, Winter 2014, there will be wine bottle features for $20.14, red, white & sparkling
 
-================================================================================
+
 
 <Generated>Question: What is the name of the French explorer who was the first known person to enter Pittsburgh?
 Answer: The French explorer Robert de La Salle was the first known person to enter Pittsburgh.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is the price of the multi-course meal special at Bigham Tavern during Pittsburgh Restaurant Week?  
 Answer: The price of the multi-course meal special at Bigham Tavern during Pittsburgh Restaurant Week is $20.16.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2016-restaurants/bigham-tavern-2 TITLE: Bigham Tavern – Pittsburgh Restaurant Week CONTENT: Bigham Tavern Bigham Tavern Restaurant Week Special: $20.16 Multi-Course Meal 1st Course petite salad grilled romaine, topped with bacon, chopped hard boiled egg, onion, tomato, bleu cheese crumbles and balsamic reduction 2nd Course appetizer sticky icky wings the most chronic wing of all. This pipe dream is now a reality – grilled wings with maple bacon bourbon sauce, topped with sea salt, cracked black pepper and scallions 3rd COURSE entree a small version of our killer BACON MAC – slow cooked and pulled smoked bacon, jalapeno bacon & horseradish cheddar cheese topped with coyote onion straws 4th COURSE dessert cheesecake topped with candied bacon and caramel drizzle
 
-================================================================================
+
 
 <Generated>Question: What is the price of The Twisted Frenchman's Restaurant Week Special dinner?
 Answer: The price of The Twisted Frenchman's Restaurant Week Special dinner is $35.16.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/summer-2016-restaurants/the-twisted-frenchman TITLE: The Twisted Frenchman – Pittsburgh Restaurant Week CONTENT: The Twisted Frenchman The Twisted Frenchman Restaurant Week Special: $35.16 Dinner Starter – Preperations of beets, goat cheese mousse, petite arugula, compressed cucumber – Beef tartare, foie gras & chestnut pate, escargot caviar, chips – Cod and shrimp “fish and chips’ aioli, mustard greens, chips Mains – Vegetarian cassoulet, legumes, baby vegetables, vegetarian demiglace – Snapper, mussels beurre blanc, dill, carrot,rice, pepper stew – Beef, house dry aged prime strip, endive, black garlic, chili froth, fine herbs
 
-================================================================================
+
 
 <Generated>Question: What can be added to an entree for an additional cost?
 Answer: Crab Bearnaise can be added for $11.5, and a 9oz Lobster Tail can be added for $35.
@@ -550,17 +550,17 @@ Context: lemon crystal citrus sauce Chicken Milanese Crispy romano crusted; whit
 Answer: The dessert is a housemade french toast cupcake with maple buttercream frosting and chocolate covered bacon.
 Context: Includes pairings First Course Beet and Apple Soup with Dill Second Course Kohlrabi and Mushroom Ravioli or Sweet and Spicy Pork Belly with Rice Polenta Third Course Buttercup Squash and Honey Flan
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2014-restaurants/bigham-tavern TITLE: Bigham Tavern – Pittsburgh Restaurant Week CONTENT: Bigham Tavern Bigham Tavern Restaurant Week Special:
 
 Three Course Meal featuring all things BIG-HAM. starter pulled pork poppers entree our award winning #1 Bigham Burger which took first place in the 2013 Pittsburgher Competition two aged sirloin patties, loaded with memphis bbq pork, bacon, 3 types of ham, white cheddar & pickle dessert housemade french toast cupcake with maple buttercream frosting and chocolate covered bacon Bigham Tavern will be closing at 6:00 p.m. on Monday, January 13, 2014.
 
-================================================================================
+
 
 <Generated>Question: What is the name of the restaurant participating in the Pittsburgh Restaurant Week?
 Answer: The name of the restaurant is Istanbul Sofra.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2015-restaurants/istanbul-sofra TITLE: Istanbul Sofra – Pittsburgh Restaurant Week CONTENT: Istanbul Sofra Istanbul Sofra Restaurant Week Special
 
@@ -570,13 +570,13 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2024-resta
 
 <Generated>Question: When was the first known person to enter Pittsburgh?
 Answer: The first known person to enter Pittsburgh was the French explorer Robert de La Salle.
-Context: ================================================================================
+Context: 
 
 <Generated>Question: What is one of the dessert options available in the menu?
 Answer: One of the dessert options available is Chocolate tres leches.
 Context: First Course Appetizer (choice of one): Sweet potato and ginger soup with cinnamon-spiced yogurt Mixed baby greens and mango with chili vinaigrette Main Course (choice of one): Ropa vieja with pigeon peas and savory rice Grilled pork tenderloin topped with cilantro and jalapeno alongside white sweet potato puree Fig and date rice with assorted seasonal vegetables, tagine sauce, and collard greens Fresh fish of the day Dessert Course (choice of one): Chocolate tres leches Fresh fruit sorbet
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2012-restaurants/arpino-trattoria TITLE: Arpino Trattoria – Pittsburgh Restaurant Week CONTENT: Arpino Trattoria Arpino Trattoria 1910 Cochran Road Pittsburgh, PA 15220 412-207-2765 www.arpinotrattoria.com Restaurant Week Special:
 
@@ -584,7 +584,7 @@ URL: https://pittsburghrestaurantweek.com/restaurants/winter-2012-restaurants/ar
 Answer: One of the dessert options is Flourless Chocolate Espresso Cake.
 Context: FIRST COURSE Wedge Salad with Bleu Cheese and Applewood Smoked Bacon Caesar Salad Clam Chowder ENTREE COURSE Filet Mignon 8oz All-Natural Herb Grilled Chicken Bone-In Dry Aged Sirloin Steak 14oz Seared Citrus Glazed Salmon Porcini Rubbed Sliced Tenderloin Chef’s Suggestions (Add $10) Filet Mignon and Grilled Jumbo Shrimp with Herb Butter Bone-In Kona Crusted Dry Aged Sirloin with Shallot Butter 18oz SIDE Sam’s Mashed Potatoes French Beans with Heirloom Tomatoes DESSERT COURSE Flourless Chocolate Espresso Cake Classic Crème Brûlée
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2015-restaurants/the-carlton TITLE: The Carlton – Pittsburgh Restaurant Week CONTENT: The Carlton The Carlton Restaurant Week Special:
 
@@ -598,13 +598,13 @@ Context: & Corn (GF)(V) cooked vegetables suspended in a vegetable stock gelatin
 
 <Generated>Question: What are the appetizer options available at Mallorca during Pittsburgh Restaurant Week?  
 Answer: The appetizer options are Fried Calamari, Spanish Sausage, Mussels in Hot Sauce, Portabello Mushroom in Balsamic Vinaigrette, or Garlic Shrimp.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2014-restaurants/mallorca TITLE: Mallorca – Pittsburgh Restaurant Week CONTENT: Mallorca Mallorca Restaurant Week Special:
 
 Choose one of these appetizers: Fried Calamari, Spanish Sausage, Mussels in Hot Sauce, Portabello Mushroom in Balsamic Vinaigrette or Garlic Shrimp. Choose one of these entrees: Spicy Shrimp, Paella Valencia, Stuffed           Salmon, Chicken Mallorca,  an 8oz Filet Mignon in a White Pepper               Cream Sauce, Vegan Piquillo Peppers Stuffed with Spinach, Raisins and Pine Nuts. Choose one of these desserts: Creme Brulee, NY Style Cheesecake,           Flan, Rum Cake, Chocolate Cake or Rice Pudding.
 
-================================================================================
+
 
 <Generated>Question: How many items are available in the gourmet salad area for guests to help themselves to?  
 Answer: There are 50 items available in the gourmet salad area.
@@ -616,17 +616,17 @@ Context: URL: https://pittsburghrestaurantweek.com/restaurants/summer-2022-resta
 
 <Generated>Question: What is the price of the dinner menu at Meat & Potatoes during Pittsburgh Restaurant Week?  
 Answer: The dinner menu at Meat & Potatoes during Pittsburgh Restaurant Week is priced at $35.18.
-Context: ================================================================================
+Context: 
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2018-restaurants/meat-potatoes TITLE: Meat & Potatoes – Pittsburgh Restaurant Week CONTENT: Meat & Potatoes Meat & Potatoes Restaurant Week Menu $35.18 Dinner First Course: Crunchy Winter Salad Serenity farm greens/radicchio/radish/apple vinaigrette Second Course: Meatloaf onion rings/smashed potatoes/broccoli rabe/sauce Diane Third Course: Cranberry Thyme Parfait cranberry jam/thyme cake/olive oil cookie/candied orange
 
-================================================================================
+
 
 <Generated>Question: What are the dessert selections available in the menu?  
 Answer: The dessert selections available are Double Chocolate Mousse, Key Lime Pie, New York Cheesecake, Individual Souffle, and Crème Brulee.
 Context: Appetizer (choice of one) Baked Five Onion Soup Ahi Tuna Tower Choice of Any Salad Entree Selections (choice of one) 6 oz. Center-Cut Filet Mignon 16 oz. Pork Chop Baked Stuffed Shrimp Chicken Bianco, Artichokes, Capers & White Wine Sauce Honey-Chili Glzed Salmon Fillet, Vegetable Relish Accompaniment Selections (choice of one) Mashed Potatoes Steamed Fresh Broccoli Creamed Corn Lyonnaise Potatoes Dessert Selections (choice of one) Double Chocolate Mousse Key Lime Pie New York Cheesecake Individual Souffle Crème Brulee
 
-================================================================================
+
 
 URL: https://pittsburghrestaurantweek.com/restaurants/winter-2014-restaurants/nine-on-nine TITLE: Nine on Nine – Pittsburgh Restaurant Week CONTENT: Nine on Nine Nine on Nine Restaurant Week Special:
 

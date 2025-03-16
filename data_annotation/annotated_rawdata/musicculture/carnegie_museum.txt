@@ -43,7 +43,7 @@ This beloved display features hundreds of wonderfully realistic scenes that brin
 Warhol Studio Sessions
 Groove to intimate, stripped-down studio sessions by Sound Series artists.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/#visit
 TITLE: Home - Carnegie Museums of Pittsburgh
@@ -90,7 +90,7 @@ This beloved display features hundreds of wonderfully realistic scenes that brin
 Warhol Studio Sessions
 Groove to intimate, stripped-down studio sessions by Sound Series artists.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/about-us
 TITLE: About Us - Carnegie Museums of Pittsburgh
@@ -114,7 +114,7 @@ As the region’s largest cultural organization, Carnegie Museums of Pittsburgh 
 Contact Us
 We'd love to hear from you.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/about-us/contact-us
 TITLE: Contact Us - Carnegie Museums of Pittsburgh
@@ -134,7 +134,7 @@ Donation Requests: Learn more about our membership donation process.
 Carnegie magazine: Email: carnegiemagazine@carnegiemuseums.org
 Follow Us
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/about-us/leadership
 TITLE: Leadership - Carnegie Museums of Pittsburgh
@@ -182,7 +182,7 @@ Our Volunteer Leaders: Carnegie Museums Board of Trustees and Museum Advisory Bo
 Carnegie Museums has a rich history of dedicated volunteer leaders who have been instrumental in our development and dynamic growth. They are community leaders from arts and culture, business, education, and government.
 See the current list of Carnegie Museums of Pittsburgh Trustees and members of the four Museum Advisory Boards.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/about-us/our-history
 TITLE: Our History - Carnegie Museums of Pittsburgh
@@ -205,7 +205,7 @@ The Andy Warhol Museum
 Today’s ever-changing experiences By the year 2000, the four Carnegie Museums became known as “Carnegie Museums of Pittsburgh.” The following two decades included the debut of Carnegie Museum of Natural History’s blockbuster Dinosaurs in Their Time exhibit, which is nearly three times the size of the original dinosaur hall and the first exhibit in the world to feature scientifically accurate, immersive environments spanning the Age of Dinosaurs. In 2003 and again in 2012, Carnegie Museum of Art accomplished its most important and most visitor-focused transformations since the opening of the Scaife wing with the reopening of its Scaife Galleries after year-long renovations, which included new presentations of its vast collections and the display of more artwork. In 2014, The Andy Warhol Museum rehung its collection, telling the story of Andy Warhol’s life and artwork chronologically for the first time to spectacular effect. In 2017, Carnegie Museums launched a collaborative event series, Carnegie Nexus , that reaches across the arts and sciences to design experiences that animate pressing issues of our time and instigate new ways to examine our world through live performance, the visual and literary arts, and thoughtful conversation. And in 2018, Carnegie Science Center completed a major expansion: PPG Science Pavilion , which houses a suite of STEM Learning Labs; a Special Exhibitions Gallery for large-scale changing exhibitions; a laser digital giant-screen theater; and outdoor learning spaces on the riverfront.
 Click above for visual snapshots from our 125 year story in the making.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/about-us/our-impact
 TITLE: Our Impact - Carnegie Museums of Pittsburgh
@@ -233,7 +233,7 @@ receive free admission
 37,500 schoolchildren receive free or discounted  programming, transportation
 52,500 ACCESS card holders pay $1-$3 for admissions
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/about-us/our-museums
 TITLE: Our Museums - Carnegie Museums of Pittsburgh
@@ -249,7 +249,7 @@ Carnegie Science Center, soon to be the Daniel G. and Carole L. Kamin Science Ce
 The Andy Warhol Museum
 The most comprehensive single-artist museum in the world, The Andy Warhol Museum illuminates the art, life, and times of one of the most influential American artists of the 20th century. Combining artworks, images, and objects from Warhol's colorful life, the museum takes visitors on a tour of Andy Warhol's personal and professional life—from Andy Warhol the Pittsburgh art student to Andy Warhol the Pop icon. With some 500,000 artworks and objects, the museum is the global keeper of Warhol's legacy.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/accessibility
 TITLE: Accessibility - Carnegie Museums of Pittsburgh
@@ -263,7 +263,7 @@ Carnegie Museums of Art and Natural History
 Carnegie Science Center
 The Andy Warhol Museum
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine
 TITLE: Carnegie magazine - Carnegie Museums of Pittsburgh
@@ -313,7 +313,7 @@ Photo: Sean Eaton
 Inside the Museums
 Conservators play a critical role in not only the preservation of art but also its creation. They are partners with artists to realize their vision, even as they are stewards of it and the museum where it will be exhibited.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/advertise
 TITLE: Advertise - Carnegie Museums of Pittsburgh
@@ -337,7 +337,7 @@ Readership: 100,000
 Mailed to: 39,000 households
 TO ADVERTISE, CONTACT: Susie Rosenberg susie@printmanagementonline.com 412.298.6698 -or- Lee Ann Bernardo leeann@printmanagementonline.com 412.848.7835
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/carnegie-magazine-archive
 TITLE: Carnegie magazine Archive - Carnegie Museums of Pittsburgh
@@ -400,7 +400,7 @@ Past Issues
 1997
 1996
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/contact-us
 TITLE: Contact Us - Carnegie Museums of Pittsburgh
@@ -412,7 +412,7 @@ Or Call Us:
 Mike Kainaroi Art Director 412.578.2244
 Please send ADDRESS CHANGES to: membership@carnegiemuseums.org Or Membership Department 4400 Forbes Avenue Pittsburgh, PA 15213
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/current-issue
 TITLE: Winter 2024 - Carnegie Museums of Pittsburgh
@@ -427,7 +427,7 @@ Fall 2024
 Summer 2024
 Receive more stories in your email
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/subscribe
 TITLE: Subscribe - Carnegie Museums of Pittsburgh
@@ -438,7 +438,7 @@ IN PRINT. The quarterly print edition of Carnegie magazine is a unique perk of m
 You can also purchase a subscription , send one as a gift , or request a back issue.
 GET THE LATEST STORIES IN YOUR INBOX. Make your inbox more interesting. Sign up today to have new stories delivered each month
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/summer-2023/walking-the-walk-in-patagonia
 TITLE: Walking the Walk in Patagonia - Carnegie Magazine
@@ -525,7 +525,7 @@ The museum’s collections are “alive and evolving,” she notes, as scientist
 Receive more stories in your email
 Tags:
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/summer-2024-carnegie-magazine/a-living-archive
 TITLE: A Living Archive - Carnegie Magazine
@@ -576,7 +576,7 @@ Find more information at www.carnegieart.org
 Receive more stories in your email
 Tags:
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/summer-2024-carnegie-magazine/the-dinosaur-that-changed-the-world
 TITLE: The Dinosaur that Changed the World - Carnegie Magazine
@@ -668,7 +668,7 @@ Support the museum’s paleontology research with a gift.
 Receive more stories in your email
 Tags:
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-magazine/winter-2020/125-years-objects-stories
 TITLE: 125 Years: A History in Objects - Carnegie Museums of Pittsburgh
@@ -983,7 +983,7 @@ Lion Attacking a Dromedary
 One of Carnegie Museum of Natural History’s oldest dioramas, Lion Attacking a Dromedary depicts a figure riding on a camel being attacked by a male lion; a female lion lies nearby, lifeless. It’s a brutal scene. Created by French taxidermists Jules and Èdouard Verreaux for the 1867 Paris International Exposition, it was on view at the American Museum of Natural History for decades before it fell out of favor for being too strong on theatrics. The New York museum had plans to discard it before selling it to Carnegie Museum in 1898. Well over a century later, museum curators and educators are engaging visitors in discussions about what’s depicted in the diorama: the lion—a symbol of imperial power—pouncing on a person of color, which reinforces colonialist views and minimizes deeply rooted violence; and the clothing in the display, which inaccurately groups a number of distinct North African cultures together, reinforcing stereotypes. The museum also plans to remove the figure’s head, which is sculpted around the skull of an unidentified human being, and will place the remains in a sanctuary space in the museum’s care.
 Receive more stories in your email
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-museums-in-oakland
 TITLE: Carnegie Museums in Oakland - Carnegie Museums of Pittsburgh
@@ -1037,7 +1037,7 @@ This state-of-the-art theater houses a 14 x14-foot screen, wood-paneled walls, a
 Capacity: Seating – 178
 Note: Carnegie Museums reserves the right to decline or cancel bookings for our Event Spaces because of concerns regarding property damage, safety risks, legal liability and/or reputational harm to Carnegie Museums.  Further, Carnegie Museums does not accept bookings for partisan political events or fundraisers, including voter education, registration and get-out-the-vote drives led by partisan groups.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegie-science-center
 TITLE: Carnegie Science Center - Carnegie Museums of Pittsburgh
@@ -1080,7 +1080,7 @@ From Birthday celebrations, showers, or corporate meetings, the PPG Science Pavi
 Capacity: Meeting – Up To 75
 Note: Carnegie Museums reserves the right to decline or cancel bookings for our Event Spaces because of concerns regarding property damage, safety risks, legal liability and/or reputational harm to Carnegie Museums.  Further, Carnegie Museums does not accept bookings for partisan political events or fundraisers, including voter education, registration and get-out-the-vote drives led by partisan groups.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/carnegieconnectors
 TITLE: Carnegie Connectors - Carnegie Museums of Pittsburgh
@@ -1103,7 +1103,7 @@ Carnegie Connectors Premium
 $295/$24.60 monthly
 Benefits valued at $115
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/connect-with-us
 TITLE: Connect With Us - Carnegie Museums of Pittsburgh
@@ -1119,7 +1119,7 @@ The Andy Warhol Museum
 Facebook Twitter Instagram YouTube
 Carnegie Museums Members
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/contact-us
 TITLE: Contact Us - Carnegie Museums of Pittsburgh
@@ -1131,7 +1131,7 @@ At our Oakland Museums, call 412.622.3393 or email us .
 At Carnegie Science Center, call 412.237.3431 or e-mail us .
 At The Andy Warhol Museum, call 412.237.1640 or email us .
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/envisioning-a-just-pittsburgh-2024
 TITLE: Winners of the 2024 Inclusive Call for Art - Carnegie Museums of Pittsburgh
@@ -1170,7 +1170,7 @@ Contact:  Gina Winstead at winsteadg@carnegiemuseums.org or 412.622.6578.
 Previous Winners
 See 2023’s Winners
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/events
 TITLE: Events Archive - Carnegie Museums of Pittsburgh
@@ -1187,7 +1187,7 @@ The Factory – Saturdays
 The Factory – Sundays
 Fab Lab Flash Workshop
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/great-event-spaces
 TITLE: Great Event Spaces - Carnegie Museums of Pittsburgh
@@ -1207,7 +1207,7 @@ Weddings at the Museums
 Make your wedding day truly memorable by celebrating it at one of the distinctively special Carnegie Museums. Our events and catering teams will work with you to create just the right atmosphere in just the right space, large or small.
 Note: Carnegie Museums reserves the right to decline or cancel bookings for our Event Spaces because of concerns regarding property damage, safety risks, legal liability and/or reputational harm to Carnegie Museums.  Further, Carnegie Museums does not accept bookings for partisan political events or fundraisers, including voter education, registration and get-out-the-vote drives led by partisan groups.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support
 TITLE: Join & Support - Carnegie Museums of Pittsburgh
@@ -1226,7 +1226,7 @@ Contact Us
 The Advancement & Community Engagement Team is glad to answer your questions or update your contact information. We’re available every Monday through Friday from 8:30 a.m. to 5 p.m., so please feel free to email, call, or tweet at us. We strive to answer every call personally and to respond to all emails within one business day.
 Email : membership@carnegiemuseums.org Phone : 412.622.3314
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/donate
 TITLE: Support - Carnegie Museums of Pittsburgh
@@ -1243,7 +1243,7 @@ Partner with Carnegie Museums of Pittsburgh to benefit your business, employees,
 Giving Societies
 Matching Gifts
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/donate/corporate-gifts
 TITLE: Corporate Giving - Carnegie Museums of Pittsburgh
@@ -1275,7 +1275,7 @@ Supporters of Carnegie Museums of Pittsburgh can customize partnership platforms
 Our reputation, community reach, unique spaces, and world-class experts (scientists, curators, and educators) can greatly assist your company’s needs. Discover today how we can help your company highlight its role in supporting the arts, culture and science!
 For additional information about Corporate Giving, call 412.622.5771 or email CorporateGiving@carnegiemuseums.org .
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership
 TITLE: Membership - Carnegie Museums of Pittsburgh
@@ -1291,7 +1291,7 @@ Community Access Memberships
 Member Events
 Contact Us
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/access-for-all
 TITLE: Access for All - Carnegie Museums of Pittsburgh
@@ -1307,7 +1307,7 @@ and supported by Giant Eagle Foundation
 Teen Membership is generously supported by The Grable Foundation and the Robert and Mary Weisbrod Foundation
 *Carnegie Museums of Pittsburgh reserves the right to cancel any Teen Membership, Family Access Membership or Organizational Access Membership should an applicant submit incomplete or false information.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/benefits
 TITLE: Benefits - Carnegie Museums of Pittsburgh
@@ -1321,7 +1321,7 @@ Member Events
 Reciprocal Privileges
 FAQs
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/faq
 TITLE: Membership FAQs - Carnegie Museums of Pittsburgh
@@ -1415,7 +1415,7 @@ You will receive your membership cards within 15 business days of your purchase.
 What if my card is lost, stolen, or has errors?
 Please contact us to request a new card. If your card is lost or stolen, your membership is still secure.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/joinrenew
 TITLE: Become a Member - Carnegie Museums of Pittsburgh
@@ -1472,7 +1472,7 @@ Carnegie Founders Society
 $25,000 or more
 Benefits valued at $ 395
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/members-only-events
 TITLE: Member Events - Carnegie Museums of Pittsburgh
@@ -1785,7 +1785,7 @@ Is a T-rex’s vision based on movement? Were velociraptors really that deadly? 
 Secrets Behind the Science Center’s Flip Clock
 Join Mechatronics Engineer Doug DeHaven on a journey from design to construction of the largest binary flip clock every created. Learn how all the letters in STEAM were used to bring this project to life. Recorded on May 6, 2020
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/reciprocal-privileges
 TITLE: Reciprocal Privileges - Carnegie Museums of Pittsburgh
@@ -1800,7 +1800,7 @@ Member Events
 Gift Memberships
 FAQs
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/join-support/membership/teen-membership
 TITLE: A Free Membership Just for Teens - Carnegie Museums of Pittsburgh
@@ -1836,7 +1836,7 @@ Youth Art Initiative Carnegie Museum of Art Ongoing Free for teens ages 14-19! I
 Youth Art Initiative (YAI) is a museum advisory group focused on the engagement, advancement, and support of local Pittsburgh-area teens. Members collaborate with museum staff to plan their own Carnegie Museum of Art programs and events, and can also meet with and learn from a wide range of museum professionals and working artists.
 REGISTER NOW
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/mission-and-core-values
 TITLE: Mission and Core Values - Carnegie Museums of Pittsburgh
@@ -1855,7 +1855,7 @@ Stewardship Optimizing our collections and other assets for the benefit of the p
 Sustainability Considering the impact of our actions on the environment and on the long-term viability of our facilities and finances
 Our Vision for Impact
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/opportunities
 TITLE: Opportunities - Carnegie Museums of Pittsburgh
@@ -1878,7 +1878,7 @@ Find answers to your Carnegie Museums hiring questions, including help with the 
 Volunteer or Intern
 Interested in joining our dedicated volunteers? Searching for an internship experience? Here’s how to get involved.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/plan-a-visit
 TITLE: Plan a Visit - Carnegie Museums of Pittsburgh
@@ -1915,7 +1915,7 @@ PARKING: Museum parking is located one block north of the museum on Sandusky Str
 DINING: The Warhol Café is open during museum hours and accessible without museum admission.
 ACCESSIBILITY: The museums are committed to providing excellent experiences for all visitors. Learn more about accessibility accommodations .
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/policy-on-non-discrimination-and-non-harassment
 TITLE: Notice of Compliance with Title VI, Title IX, Section 504, and the ADA - Carnegie Museums of Pittsburgh
@@ -1971,7 +1971,7 @@ Once a report is finalized, the investigator will determine whether the responde
 Either party has the right to appeal the adjudicatory action letter submitted by the Coordinator. A party must appeal the letter in writing within ten (10) days and must state one of three limited grounds: 1) a procedural error which materially affected the outcome of the investigation; 2) the existence of new information unavailable to the investigators during the investigation which could have materially affected the outcome; or 3) the recommendation of the investigators and/or adjudicatory action taken by the Coordinator was clearly erroneous based on the evidence gathered during the investigation.
 Appeals must be heard by an Appeal Officer. The Appeal Officer may be any Coordinator or Deputy Coordinator not involved in the original proceeding. The Appeal Officer will review the findings of fact, investigation record, investigator recommendations, and adjudication letter to determine whether the appealed decision should be affirmed or reversed. The Appeal Officer must submit a written determination within fifteen (15) days of an appeal.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/press
 TITLE: Press - Carnegie Museums of Pittsburgh
@@ -2052,7 +2052,7 @@ Carnegie Museum of Natural History Katie DelVerne Scarano Associate Director of 
 Carnegie Science Center Ned Schano Senior Director of Marketing and Community Affairs 412.237.1657
 The Andy Warhol Museum Charlene Bidula Communications Manager 412.237.8351
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/privacy-policy
 TITLE: Privacy Policy - Carnegie Museums of Pittsburgh
@@ -2127,7 +2127,7 @@ Email: membership@carnegiemuseums.org Call: 412.622.3314
 Mail: Carnegie Museums of Pittsburgh 4400 Forbes Avenue Pittsburgh, PA  15213 Attention: Membership
 If you believe there has been some violation of this Policy, please contact us.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/art
 TITLE: Art Archives - Carnegie Museums of Pittsburgh
@@ -2144,7 +2144,7 @@ A new gallery reinstallation at Carnegie Museum of Art will give visitors unprec
 A citywide contest explores how art is a pathway to a more equitable Pittsburgh.
 Edith ‘Toto’ Fisher will be remembered most for the example she set for supporting—and leading—the museums she loved.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/behind-scenes
 TITLE: Behind the Scenes Archives - Carnegie Museums of Pittsburgh
@@ -2161,7 +2161,7 @@ The missing travelog of Gordon Bailey Washburn makes its way back to the museum 
 Andy Warhol’s dental molds and the spark for hair-raising science. Artwork anyone can borrow and a dapper dinosaur with its own accessories. A celebration of 125 years of Carnegie Museums continues through the remarkable stories of pieces of museum history.
 The visitor services leaders at the four museums reflect on a year like no other.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/carnegie-international
 TITLE: Carnegie International Archives - Carnegie Museums of Pittsburgh
@@ -2178,7 +2178,7 @@ Whether using canvas, ceramics, or textiles, today’s contemporary artists are 
 Reflecting a world in transition, artists use their stage to wrestle with the past and confront contemporary issues of borders, boundaries, and labor.
 Nearly all of the artwork for this year’s Carnegie International is being created new for the exhibition—and, in turn, for Pittsburgh. Curator Ingrid Schaffner started her travel research in 2016, right after the United Kingdom voted to leave the European Union, known as Brexit, and not long before Donald Trump was elected president. “International has … Continued
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/community
 TITLE: Community Archives - Carnegie Museums of Pittsburgh
@@ -2195,7 +2195,7 @@ A new gallery reinstallation at Carnegie Museum of Art will give visitors unprec
 A citywide contest explores how art is a pathway to a more equitable Pittsburgh.
 Edith ‘Toto’ Fisher will be remembered most for the example she set for supporting—and leading—the museums she loved.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/face-time
 TITLE: Facetime Q&A Archives - Carnegie Museums of Pittsburgh
@@ -2212,7 +2212,7 @@ In conversation with the manager of the Buhl Planetarium & Observatory.
 In conversation with the chair of the Carnegie Museums of Pittsburgh’s Board of Trustees
 In conversation with Carnegie Museum of Art’s director of education and public programs.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/science-nature
 TITLE: Science & Nature Archives - Carnegie Museums of Pittsburgh
@@ -2228,7 +2228,7 @@ The Science Center’s popular sub is now one of Pittsburgh’s most popular esc
 Fascinated by outer space, one couple wants to keep inspiring young people to look at stars.
 In conversation with the director of collections care and access at Carnegie Museum of Natural History.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/stem
 TITLE: STEM Archives - Carnegie Museums of Pittsburgh
@@ -2245,7 +2245,7 @@ The next-level Buhl Planetarium is more immersive, more realistic, and more awe-
 Carnegie Science Center pairs local high schoolers with STEM professionals in a program designed to teach both new skills.
 The Science Center’s new PPG Science Pavilion will welcome more young learners, expand the kinds of science fun they can cook up, and bring large-scale traveling shows to the region.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/the-inclusive-museum
 TITLE: The Inclusive Museum Archives - Carnegie Museums of Pittsburgh
@@ -2262,7 +2262,7 @@ The Warhol’s School of Drag is the museum’s latest effort to provide more in
 In a photo essay, artist Aleem Hurst explores domestic spaces and the call for social change.
 A recounting of adventures in artmaking at The Warhol.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/tag/where-art-science-meet
 TITLE: Where Art & Science Meet Archives - Carnegie Museums of Pittsburgh
@@ -2274,7 +2274,7 @@ Carnegie Museums is home to some of the most significant collections in the worl
 The chemical reaction that produced Andy Warhol’s ‘Oxidation’ series means it continues to change, raising issues for how to conserve it for future generations.
 The new Pixar exhibition at Carnegie Science Center offers insights into how the animation studio created some of its most iconic films.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/terms-of-use
 TITLE: Terms of Use - Carnegie Museums of Pittsburgh
@@ -2328,7 +2328,7 @@ Reservation of Rights
 CMP reserves the right to change these Terms and the Privacy Policy at any time and for any reason at its sole discretion. Such changes may be made without notice and are effective immediately upon posting, and continued use of the Site constitutes acceptance of such changes. Users of the Site should visit this page periodically to review the most current Terms.
 EFFECTIVE DATE: December 8, 2017
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/the-andy-warhol-museum
 TITLE: The Andy Warhol Museum - Carnegie Museums of Pittsburgh
@@ -2349,7 +2349,7 @@ Capacity: Seated – 98*
 *Additional/Standing Room Available
 Note: Carnegie Museums reserves the right to decline or cancel bookings for our Event Spaces because of concerns regarding property damage, safety risks, legal liability and/or reputational harm to Carnegie Museums.  Further, Carnegie Museums does not accept bookings for partisan political events or fundraisers, including voter education, registration and get-out-the-vote drives led by partisan groups.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/things-to-do
 TITLE: Things to Do - Carnegie Museums of Pittsburgh
@@ -2365,7 +2365,7 @@ Millions of scientific specimens and 40,000 art objects are the inspiration for 
 Members-Only
 Join our member family and gain insider access.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/things-to-do/explore-our-collections
 TITLE: Explore Our Collections - Carnegie Museums of Pittsburgh
@@ -2388,7 +2388,7 @@ Dinosaurs and the art of Andy Warhol. A World War II sub, original Monets, and t
 Super Science Saturdays
 Get up-close with dinosaurs, discover secrets of DNA, and learn what it’s like to be a scientist in the field.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/things-to-do/learn-with-us
 TITLE: Learn With Us - Carnegie Museums of Pittsburgh
@@ -2409,7 +2409,7 @@ Some 22 million scientific specimens and 40,000 art objects are the inspiration 
 Carnegie Museums From Home
 Your museums are here for you. We have so many creative resources you can access anytime, anywhere.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/things-to-do/view-our-exhibitions
 TITLE: View Our Exhibitions - Carnegie Museums of Pittsburgh
@@ -2434,7 +2434,7 @@ Some 22 million scientific specimens and 40,000 art objects are the inspiration 
 Carnegie Museums From Home
 Your museums are here for you. We have so many creative resources you can access anytime, anywhere.
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/timed-tickets
 TITLE: Timed Tickets - Carnegie Museums of Pittsburgh
@@ -2448,7 +2448,7 @@ Carnegie Museum of Art
 Carnegie Science Center
 The Andy Warhol Museum
 
-================================================================================
+
 
 URL: https://carnegiemuseums.org/weddings-at-the-museums
 TITLE: Weddings at the Museums - Carnegie Museums of Pittsburgh
@@ -2534,5 +2534,5 @@ Carnegie Museums in Oakland: Wedding Catering Packages
 Carnegie Science Center: Wedding Catering Packages
 Tell us about your event and let us get back to you with ideas. Complete an About my Event form .
 
-================================================================================
+
 

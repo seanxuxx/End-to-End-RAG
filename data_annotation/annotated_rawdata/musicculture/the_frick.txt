@@ -4,7 +4,7 @@ CONTENT:
 Qualified Charitable Distributions
 Qualified charitable distributions from your Individual Retirement Account (IRA) are current gifts with an immediate impact. Often referred to as "IRA Charitable Rollover Gifts," these gifts are distributions paid directly from an IRA to a nonprofit. If you are 70½ or older, you can transfer as much as $100,000 per year from an IRA directly to the Frick—without counting this transfer as taxable income. If you were 70½ before January 1, 2020, the qualified charitable distribution counts toward your required minimum distribution (RMD). If you are 70½ after January 1, 2020, you do not have required minimum distribution until age 72. If you do not meet your RMDs, IRA owners face a large tax penalty. This means you would either withdraw those amounts (increasing your taxable income) or donate them as a qualified charitable distribution. The most common way to make this gift is to submit a request to your IRA custodian. For more information on Qualified Charitable Distributions to the Frick, contact: Advancement & Engagement staff at 412-342-4086 or Membership@TheFrickPittsburgh.org .
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/collection
 TITLE: Collection | The Frick Pittsburgh Museums & Gardens
@@ -15,7 +15,7 @@ Collection Highlights
 Our Collection on Google Arts & Culture
 Welcome to our online collections. We are pleased to offer multiple opportunities to explore the objects in our collection. Browse our collection categories below to search our detailed database or enjoy an interactive experience through Google Arts & Culture. Collection Highlights Our Collection on Google Arts & Culture
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/corporate-giving
 TITLE: Corporate Giving | The Frick Pittsburgh Museums & Gardens
@@ -23,7 +23,7 @@ CONTENT:
 Corporate Giving
 Extend your reach to new customers, receive public recognition, and build community goodwill through sponsorship at the Frick.  The options listed below provide promotional opportunities for your company to benefit from name placement in front of a premium audience.  Build your brand, receive valuable recognition, and support great events and educational programming for our community. Contact Manager of Institutional Support Jodi Golomb for details at 412-342-4089 or JGolomb@TheFrickPittsburgh.org .
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/donate
 TITLE: Donate | The Frick Pittsburgh Museums & Gardens
@@ -34,7 +34,7 @@ With just a few weeks remaining in our fiscal year, we are asking for your help 
 The Frick Art & Historical Center is a non-profit 501(c)3 charitable organization. Contributions are tax-deductible as allowed by law. (Tax exempt number 25-1596285.)
 Donate Make A Donation With just a few weeks remaining in our fiscal year, we are asking for your help to reach our annual fund goal! As a non-profit organization, we rely upon the kindness of our community members to help us provide engaging experiences, educational programs, and inspiring exhibitions from year to year. Thank you for supporting the Frick Pittsburgh! The Frick Art & Historical Center is a non-profit 501(c)3 charitable organization. Contributions are tax-deductible as allowed by law. (Tax exempt number 25-1596285.)
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/eitc
 TITLE: EITC | The Frick Pittsburgh Museums & Gardens
@@ -42,7 +42,7 @@ CONTENT:
 Educational Improvement Tax Credit Program (EITC)
 The Educational Improvement Tax Credit Program is a Pennsylvania tax credit for businesses who make a donation to an approved nonprofit organization.  The Frick Art Pittsburgh, a valuable source of innovative learning and inspiration, is an approved Educational Improvement Organization. Companies making a contribution to the Frick through EITC can receive significant tax benefits.  Approved corporations can receive tax credits equal to 75 percent of its contribution up to a maximum of $750,000 per taxable year.  Businesses who agree to provide the same amount for two consecutive tax years can receive 90% of the contribution as a tax credit.  This can mean you receive up to 90% of your gift total as a tax credit: your $10,000 gift could result in a credit as high as $9,000. Contact Manager of Insitutional Support Jodi Golomb for details at 412-342-4089 or JGolomb@TheFrickPittsburgh.org .
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/exhibitions
 TITLE: Exhibitions | The Frick Pittsburgh Museums & Gardens
@@ -51,7 +51,7 @@ The Frick Pittsburgh Museums and Gardens
 Exhibitions
 The Frick offers an exciting schedule of special exhibitions featuring art and artists from the Renaissance to the present.
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/gifts-of-stock
 TITLE: Gifts of Stock | The Frick Pittsburgh Museums & Gardens
@@ -62,7 +62,7 @@ Gifts of stock or appreciated assets Many donors choose to make gifts of appreci
 PNC Bank DTC # 2616 Account Name: FAHC STOCK GIFTS Account Number: 21-10-001-3738193 Attention: Christina Hritz, 412-768-6324 For more information on making a gift of stock, contact: Advancement & Engagement staff at 412-342-4086 or membership@TheFrickPittsburgh.org .
 Using appreciated stock is an excellent way to make a gift to the Frick because it offers significant tax benefits without affecting your cash flow. Gifts of stock or appreciated assets Many donors choose to make gifts of appreciated stocks or mutual funds to offset an anticipated capital gains tax. Even better, you can take a sizeable charitable deduction on your taxes—a deduction that can be used to offset other taxes. Stock or other appreciated assets can also be used to fund a charitable trust or life income agreement. Transfer of Stock Before transferring stock to the Frick, please notify us of your intentions and the details of your gift, including stock type and number of shares to be transferred.  We will need this information to properly credit you and issue a receipt for tax purposes.  Below is the information to provide to your broker for an electronic transfer of your gift: PNC Bank DTC # 2616 Account Name: FAHC STOCK GIFTS Account Number: 21-10-001-3738193 Attention: Christina Hritz, 412-768-6324 For more information on making a gift of stock, contact: Advancement & Engagement staff at 412-342-4086 or membership@TheFrickPittsburgh.org .
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/learn
 TITLE: Learning | The Frick Pittsburgh Museums & Gardens
@@ -92,7 +92,7 @@ Our hands-on learning programs for students K-12 are teacher friendly, address a
 We offer a variety of multi-disciplinary resources designed to support educators at every grade level, regardless of whether they are teaching remotely or in the classroom. View Resources
 The Frick Pittsburgh is a wonderful place to spend time with your family.  We offer programs throughout the year that give families the opportunity to engage together in hands-on learning through museum visits, art making, and outdoor activities on our grounds. Our learning activities are for children of all ages. View Calendar Workshops Nurture your creativity at The Frick! Young artists ages 11-14 will cultivate their imaginations with The Frick's teaching artists during monthly hands-on workshops. Each session is inspired by The Frick's museums or grounds, and includes a short tour experience followed by a guided art workshop. View Calendar
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/oursupporters
 TITLE: Our Supporters | The Frick Pittsburgh Museums & Gardens
@@ -100,7 +100,7 @@ CONTENT:
 Our Supporters
 84 Lumber Company Arthur J. Gallagher & Co. Babst Calland Bank of America Bennett Supply Company Big Burrito Restaurant Group BilkeyKatz Investment Consultants, Inc. C.S. McKee, LP Centimark Corporation Chubb The Davey Tree Expert Company Dollar Bank The Dollar Bank Foundation Donnelly-Boland and Associates Eat'n Park Hospitality Group, Inc. Eckert Seamans Cherin & Mellot LLC Education Management Corporation First National Bank of Pennsylvania Greco Gas, Inc. Hefren-Tillotson, Inc. Henderson Brothers, Inc. Howard Hanna Real Estate Services Huntington National Bank KeyBank Koppers Inc. Levin Furniture The Lockhart Company MacLachlan Cornelius & Filoni McCutcheon Enterprises, Inc. Meyer, Unkovic & Scott LLP Modany & Falcone MSA Safety Inc. Near Earth Autonomy NexTier Bank Orbital Engineering Inc. OsteoStrong Pittsburgh East PartySavvy Peoples Natural Gas PJ Dick & Trumbull PNC Porter Wright Morris & Arthur LLP Rania's Catering RR Donnelley Pittsburgh Schneider Downs Shiloh Services, Inc. Smithfield Trust Company Supercuts UPMC Health Plan Worgul, Sarna & Ness, Criminal Defense Attorneys, LLC
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/plan-your-visit
 TITLE: Plan Your Visit | The Frick Pittsburgh Museums & Gardens
@@ -110,7 +110,7 @@ Ready to explore?
 At The Frick Pittsburgh, get ready to experience art, history, and nature. To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance. Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center. A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available.
 At The Frick Pittsburgh, get ready to experience art, history, and nature. To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance. Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center. A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available. Tickets
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/reciprocal-museums
 TITLE: Reciprocal Museums | The Frick Pittsburgh Museums & Gardens
@@ -122,7 +122,7 @@ Art Museum Reciprocal Network
 Academy Art Museum – Easton, MD Albright-Knox Art Gallery – Buffalo, NY American Folk Art Museum – Long Island City, NY Art Gallery of Ontario – Toronto, Ontario (Canada) The Barnes Foundation – Philadelphia, PA Blanton Museum of Art – Austin, TX Chrysler Museum of Art – Norfolk, VA The Cleveland Museum of Art – Cleveland, OH Columbus Museum of Art – Columbus, OH Cooper Hewitt, Smithsonian Design Museum – New York, NY Crocker Art Museum – Sacramento, CA Delaware Art Museum – Wilmington, DE Denver Art Museum – Denver, CO Des Moines Art Center – Des Moines, IA Everhart Museum of Natural History, Science, and Art – Scranton, Pennsylvania Farnsworth Art Museum – Rockland, ME The Frick Collection – New York, NY Frist Center for the Visual Arts – Nashville, TN The George Washington University Museum and The Textile Museum – Washington, District of Columbia Georgia O’Keeffe Museum – Santa Fe, NM Hill-Stead Museum – Farmington, CT Isabella Stewart Gardner Museum – Boston, MA Milwaukee Art Museum – Milwaukee, WI Montclair Art Museum – Montclair, New Jersey National Portrait Gallery – Washington, District of Columbia The Nelson-Atkins Museum of Art – Kansas City, MO New Jersey State Museum Foundation – Trenton, NJ New Orleans Museum of Art – New Orleans, LA Newark Museum – Newark, NJ North Carolina Museum of Art – Raleigh, NC Norton Museum of Art – West Palm Beach, FL Peabody Essex Museum – Salem, MA Philadelphia Museum of Art – Philadelphia, PA The Phillips Collection – Washington, DC Portland Museum of Art – Portland, ME Poster House – New York, NY Princeton University Art Museum – Princeton, NJ Rhode Island School of Design Museum of Art – Providence, RI Smith College Museum of Art – Northampton, MA Smithsonian American Art Museum and its Renwick Gallery – Washington, DC Swope Art Museum – Terre Haute, IN Taft Museum of Art – Cincinnati, OH Wadsworth Atheneum Museum of Art – Hartford, CT Walker Art Center – Minneapolis, Minnesota The Walters Art Museum – Baltimore, MD
 Frick Pittsburgh members at the Fellow ($125) level and above can experience more than 1,000 museums across North America with reciprocal museum benefits. Members will enjoy free general admission, discounts at museum shops and restaurants as well as on concert tickets and lecture registrations* through the North American Reciprocal Museum (NARM) Association and the Reciprocal Organization of Associated Museums (ROAM) reciprocal programs, in addition to the Art Museum Reciprocal Network museums listed below. *Reciprocal benefits vary by organization.  Please contact the organization(s) you plan to visit to verify the benefits offered to reciprocal members.
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/see-and-do
 TITLE: See and Do | The Frick Pittsburgh Museums & Gardens
@@ -131,7 +131,7 @@ See and Do
 Customize Your Frick Experience
 With so much to see and do, every visit to the Frick can be different. Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer. .
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/support
 TITLE: Support | The Frick Pittsburgh Museums & Gardens
@@ -140,7 +140,7 @@ Help preserve our past and shape the future.
 Support The Frick Pittsburgh
 When you make a gift to The Frick Pittsburgh, you play an essential role in our mission to continue the legacy of Helen Clay Frick by offering one of the best experiences of art, history and nature in a welcoming environment that inspires and delights. Discover the many ways that your gift to the Frick builds a lasting legacy.  Whether you’re interested in supporting a specific exhibition or program, becoming an Individual or Corporate Member, making an Annual Fund gift or including us in your estate plans, know that your gift helps us to inspire and educate audiences of all ages through world-class exhibitions, meaningful educational programming and continued care of our museum and gardens.
 
-================================================================================
+
 
 URL: http://www.thefrickpittsburgh.org/the-frick-societies
 TITLE: The Frick Societies | The Frick Pittsburgh Museums & Gardens
@@ -148,7 +148,7 @@ CONTENT:
 The Frick Societies
 Be a part of a special group that plays an incomparable role in sustaining the Frick and shaping an inspiring future fueled by curiosity, equity, and inclusion! Combined annual giving of $1,000 or more will enable you to become a member of this leadership group as well as provide vital ongoing philanthropic support for exhibitions, programming, and the care and growth of the Frick’s diverse collections for all to enjoy. There are many simple and creative ways to support the Frick at this level. You can make a gift online today or mail a check to: The Frick Pittsburgh Advancement & Engagement Department 7227 Reynolds St. Pittsburgh, PA 15208 Other methods of giving include gifts of appreciated stock or mutual funds , which offer significant tax benefits without affecting your cash flow. Additionally, qualified charitable distributions from your Individual Retirement Account (IRA) are current gifts with an immediate impact. See below for a full list of the benefits associated with supporting the museum as a member of The Frick Societies. For more information, contact Advancement & Engagement staff at 412-342-4086 or Membership@TheFrickPittsburgh.org .
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org
 TITLE: Home | The Frick Pittsburgh Museums & Gardens
@@ -157,7 +157,7 @@ Get Cozy at the Frick
 Take a break from the winter weather and enjoy art, history, and nature! This season there's something for everyone: enjoy Kara Walker: Harper's Pictorial History of the Civil War (Annotated) , transport yourself back to 1892 with our signature Gilded, Not Golden tour of Clayton, and travel through time at the Car and Carriage Museum . Plus, keep yourself warm with seasonal drinks from The Café at the Frick and a stroll through our picturesque greenhouse.
 Monday, March 10 Campus Closed
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Book-Talk-Dr-Edda-Fields-Black-on-Harriet-Tubman-and-the-Combahee-River-Raid
 TITLE: Book Talk: Dr. Edda Fields-Black on Harriet Tubman and the Combahee River Raid | The Frick Pittsburgh Museums & Gardens
@@ -167,7 +167,7 @@ Join Dr. Edda Fields-Black for an examination of untold stories and reclaimed hi
 Following the book talk, enjoy a light reception and book signing with the author as well as access to Kara Walker: Harper’s Pictorial History of the Civil War (Annotated) . Ticket price includes exhibition admission, advanced registration required.
 Dr. Edda L. Fields-Black is a Professor in the Department of History and the Director of the Dietrich College Humanities Center at Carnegie Mellon University.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Echoes-An-Evening-of-Music-with-KEA
 TITLE: Echoes: An Evening of Music with KEA | The Frick Pittsburgh Museums & Gardens
@@ -199,7 +199,7 @@ Check in with Kai back in 2009 and you’ll have found him recording 8 tracks on
 Since arriving in the City of Bridges, Kai has played with Mike Sheer, Craig King, Eric Johnson (jazz), Tony Campbell, and others at Backstage Bar, Thunderbird, R Bar, and James Street. You’ll find him teaching drumming at Nstuff Music where he continues to share his passion with the next generation.
 Performers KEA — vocals Gary Kalinoski — guitar Kai Ballard — percussion About KEA Raised in Pittsburgh to a singer/guitarist father and a violinist mother, KEA has had an intimate relationship with music all her life. With her love for literature, her first writings were in the realm of poetry. KEA's love for singing blossomed following vocal training from Elayne Kitay and the local Jazz Workshop. KEA was always sensitive and deeply affected by the ebb and flow of personal relationships — the sweet beginnings, the steamy evolutions, the work put in to sustain them, and all too often, the endings. Her insights became poems and later songs, each helping her shape her unique outlet of soul with a touch of jazz. A debut single, "iLove You," came to her one inspirational night in 2015 when she sat down to write a poem-like lullaby for one of her daughters. She later turned that poem into a song about an older daughter battling kidney hydro-nephrosis since birth. When the opportunity presented itself, KEA recorded "iLove You" and independently released it to the world on July 28, 2017, where it garnered profound international support on the BBC and Radiovolna and peaked at #1 on four U.K. Soul charts. smoothjazz.com even chose it as 'Song of the Month' by influential music site SoulTracks. To keep up the momentum, KEA had a beautiful video shot in high definition 4K. From the pages of her life struggles, the storyline was the years that KEA placed romance on the backburner to focus on her daughter's health. The “iLove You” video was directed and edited by Deon Smalley (Smalley Films), and KEA, who also cast the clip and handled the production and costume design. It was vital to KEA for the key locations around Pittsburgh to serve as backdrops, in-cluding Andrew Carnegie Free Library and Music Hall, Airbnb Historic Day House, and Dorsey’s Records shop. Most poignantly, the video starred KEA and her children Au-hneyah (6) and Alyssa (16) (playing one child over ten years), solidifying the intimate single-parent family portrait of unshakable love between a mother and daughter. KEA returned with her second single. “Not My Friend,” a smooth, engaging groove with a pretty melody about a woman disconnecting from an unhealthy relationship. This song addressed a man who was verbally and emotionally abusive, controlling, non-communicative and self-centered. As a holiday treat for her increasing number of fans, KEA showcased her unique interpretive skills with a haunting rendition of Motown legend William “Smokey” Robinson’s winter of 1980 classic, “Being with You.” Where Robinson's rendition took a deceptively breezy musical approach about a man desper-ate to keep a lover, KEA dug into the darker psychological impact of the words. KEA’s version of "Being with You" is known on the charts of America and the U.K. and she has achieved success on Digital Radio Tracker, Top 30 on the Urban Influencer urban chart, coveted streams on I-Heart radio, and supportive U.S. stations such as WFSK in Nashville, KCCB in Corning, Arkansas, and Top 10 status at Buffalo, New York's WUFO. Promising more provocative songs with intriguing titles such as “Black Man,” “Black Beauty”, and “Pieces of a Man,” KEA’s goals are for mainstream and international suc-cess. She has performed at hometown Pittsburgh events and venues such as the Channel 11 News Holiday Parade, Stars at Riverview Jazz Series, The Birthright of Pittsburgh, the Explore East Liberty 2018 Wine Festival, the Harambe Black Arts Festi-val, the Christine Fréchard Gallery, and the Carnegie Arts Initiative (Jazz On 3rd). The Black Lives Matter movement inspired "Holla if You Hear Me” and it quickly be-came one of Amazon’s hottest new releases. KEA also achieved success on the UK Soul chart and the ‘National Indie Soul Chart’ platforms ranking in the top #30. She was even invited to perform for their BMMAC (Black Music Month Award Ceremony in Buffalo, New York. During the ceremony, she met Gary Hines, Music Director and Pro-ducer of the 3-time Grammy Award-Winning Sounds of Blackness. In the words of Gary Hines, he said about her performance, "She killed tonight; she is amazing." He told KEA, "You are a phenomenal woman." Her success continued with “We made it thru” and “Turn it Around” — two releases that continued to show her ever-expanded range of lyric skills and ability to get to the heart of issues that really matter. But there is more to KEA than writing and recording. She is an artist who knows what it means to connect in-person with real people. Always close to her community, she has been something of a staple in Pittsburgh's en-tertainment scene. The Downtown Pittsburgh Partnership and Walnut Capital and opening the Picklesburgh three-day festival held at the iconic Andy Warhol Bridge are all on her list of achievements. She even performed at “The Biggest Party of the Year”, Pittsburgh's Light Up Night festival. KEA has been booked throughout the year and is always excited to connect with a new crowd with lyrics and sounds that are always raw, real, and straight from the heart. About Kai Ballard Kai is a trained drummer who mastered his craft while studying at Florissant Valley Community College followed by a stint at Indiana University School of Music, Bloomington, IN. It was at I.U. where his passion fully took hold and he played in a plethora of bands, operas, symphonies and musicals. Notable productions include Barber of Seville , Cabaret , Working , Meet Me In St. Louis and Phantom of the Opera . He has also toured with Krystol who had a top ten billboard hit with “Passion for a Woman” writ-ten by Randy Jackson and opened for Morris Day, ConFunkShun and the Jetts. A year later and he toured with Hank Ballard and the Midnighters, followed by performances with Miki Howard and Jean Carne across a range of LA venues. A notable career highlight was having the opportunity to rehearse with Stevie Wonder for sev-eral months in his Wonderland studio. Big things continued when Kai toured with L.L. Cool J on the Budweiser Tour alongside Whitney Houston, Keith Sweat, Digital Underground and many more. This was all before his passion for music took him to Japan with members of Earth, Wind & Fire, as well as several other groups of that era. Jump forward to 1994 and you may remember seeing him perform on Saturday Night Live with the one and only Snoop Doggy Dogg. Hot off the back of that he received a full cymbal, stick and merchandise endorsement from Zildjian and continued to do his thing like no one else. Along the way he took instruction at UCLA where Randy Jackson (then A&R VP at A&M Rec-ords) and Barry Squire (then A&R manager at Columbia Records) taught him like only they can. He soon headed over to Capitol Records where he would work on the iconic Paul McCartney’s “Back in the U.S.” tour in 2001. Check in with Kai back in 2009 and you’ll have found him recording 8 tracks on Bone Thugs-N-Harmony’s “The World’s Enemy” CD. He was based in LA during this part of his career and worked on everything from heavy metal to country, before making the move to Pittsburgh 4 years ago. Since arriving in the City of Bridges, Kai has played with Mike Sheer, Craig King, Eric Johnson (jazz), Tony Campbell, and others at Backstage Bar, Thunderbird, R Bar, and James Street. You’ll find him teaching drumming at Nstuff Music where he continues to share his passion with the next generation.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Gallery-Conversations-in-Kara-Walker-Harpers-Pictorial-History-of-the-Civil-War-Annotated-1
 TITLE: Gallery Conversations in Kara Walker | 1:30 PM | The Frick Pittsburgh Museums & Gardens
@@ -209,7 +209,7 @@ Join a gallery facilitator for a close-looking exploration of selected works in 
 Gallery conversations are also held at 2:30 p.m. on Wednesdays, Fridays, and Saturdays
 Gallery conversations available at 1:30 p.m. on Wednesdays, Fridays, and Saturdays
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Gallery-Conversations-in-Kara-Walker-Harpers-Pictorial-History-of-the-Civil-War-Annotated-2
 TITLE: Gallery Conversations in Kara Walker | 2:30 PM | The Frick Pittsburgh Museums & Gardens
@@ -219,7 +219,7 @@ Join a gallery facilitator for a close-looking exploration of selected works in 
 Gallery conversations are also held at 1:30 p.m. on Wednesdays, Fridays, and Saturdays
 Gallery conversations available at 2:30 p.m. on Wednesdays, Fridays, and Saturdays
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Guest-Label-Writers-in-Conversation
 TITLE: Guest Label Writers in Conversation | The Frick Pittsburgh Museums & Gardens
@@ -230,7 +230,7 @@ Guest Labelists
 The Kara Walker exhibition features the contributions of guest labelists from the Pittsburgh community. Guest contributors as of January 30 include:
 Guest Labelists The Kara Walker exhibition features the contributions of guest labelists from the Pittsburgh community. Guest contributors as of January 30 include: Amanda Boston, Assistant Professor, Department of Africana Studies, University of Pittsburgh Tara Fay Coleman, mother, conceptual artist, curator, writer, and arts worker Madeline Gent, Executive Director, Associated Artists of Pittsburgh Jasmine Green, Black Girl Absolute Jim Griffin, Director of Equity and Community Engagement, University of Pittsburgh Michael Kraus, Curator, Soldiers & Sailors Memorial Hall and Museum Bryanna McDaniel, MPH, Public Health Professional Shaun Myers, Assistant Professor, Department of English, University of Pittsburgh Alaina E. Roberts, Associate Professor of History, University of Pittsburgh Kirk Savage, William S. Dietrich II Professor, History of Art and Architecture, University of Pittsburgh Haifa Subay, artist Heather White, Artist and Director of Learning, The Andy Warhol Museum Quaishawn Whitlock, Artist and Educator Imin Yeh, Associate Professor of Art and Director of Foundational Studies, Carnegie Mellon University
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Guided-Evening-Tour-of-Kara-Walker-Harpers-Pictorial-History-of-the-Civil-War-Annotated-April
 TITLE: Guided Evening Tour of Kara Walker: Harper's Pictorial History of the Civil War (Annotated) | April 16 | The Frick Pittsburgh Museums & Gardens
@@ -241,7 +241,7 @@ Tickets for this program must be purchased in advance; tickets will not be avail
 Tour Duration: Each tour lasts one hour. Two tours will be offered, with start times at 6:00 p.m. and 6:30 p.m. Guided tours will also be available on May 7, 2025 .
 Tours available at 6:00 p.m. and 6:30 p.m.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Guided-Evening-Tour-of-Kara-Walker-Harpers-Pictorial-History-of-the-Civil-War-Annotated-May
 TITLE: Guided Evening Tour of Kara Walker: Harper's Pictorial History of the Civil War (Annotated) | May 7 | The Frick Pittsburgh Museums & Gardens
@@ -252,7 +252,7 @@ Tickets for this program must be purchased in advance; tickets will not be avail
 Tour Duration: Each tour lasts one hour. Two tours will be offered, with start times at 6:00 p.m. and 6:30 p.m. Guided tours will also be available on April 16, 2025 .
 Tours available at 6:00 p.m. and 6:30 p.m.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-Signature-Clayton-Tour-Experience-Gilded-Not-Golden
 TITLE: Clayton Guided Tours | The Frick Pittsburgh Museums & Gardens
@@ -269,7 +269,7 @@ Cost:
 Plan Your Visit:
 Just announced! Gilded, Not Golden , the newly reinterpreted tour of Clayton, won a 2024 Leadership in History Award from the American Association for State and Local History . Look beneath the “gilded” surface of the late 19th century to reveal the era's more complicated truths. Discover Pittsburgh’s influence as an industrial powerhouse through a shared dialogue about the ongoing legacies of the Gilded Age. "The tour guide did an excellent job of explaining the house details, decorative arts, family history & Gilded Age, in general. I particularly liked how history of the working class was woven in as a counterpoint to the lavish lifestyle of the wealthy." - Claire L. The Gilded Age was an era not only of immense wealth and progress, but also rapid industrialization, unprecedented immigration, and labor strife. Explore this pivotal time in our nation’s history at Clayton, the only remaining fully preserved Gilded Age mansion in Pittsburgh. Join your guide and other visitors for a conversational experience that shares the stories of the Frick family and other Pittsburghers, and considers how the legacy of the Gilded Age continues to affect us today. MORE ABOUT THE TOUR Content advisory: 1892 was a tumultuous year for the Frick family and the Pittsburgh steel industry. For this reason, tours of Clayton deal with potentially challenging subject matter, including discussions of violence, grief, and child loss. SCHEDULE A TOUR Members are encouraged to call the Members Hotline at 412-342-4086 Cost: Free for members $22 for non-members $18 for Seniors aged 65+, post-secondary Students, Veteran/Active Military/National Guard/Reserves, people with disabilities (ADA), pre-K-12 Teachers, First Responders $12 for youth 17 and under $1 for Museums for All (SNAP benefits recipients) with Electronic Benefit Transfer (EBT) card Free for babies held in arms Free for Corporate Partners, Reciprocal Museum Members (NARM/ROAM) Plan Your Visit: Clayton tours include the first and second floors. The first floor of the house is wheelchair accessible. Click for more information about accessibility . All Clayton tours begin at the Grable Visitor Center. Advance reservations are highly recommended. Group tours are available for groups of 11 or more. Learn more about reserving group tours.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Event-The-Art-of-the-Crucifixion-From-Anguish-to-Absurdity
 TITLE: The Art of the Crucifixion: From Anguish to Absurdity | The Frick Pittsburgh Museums & Gardens
@@ -280,7 +280,7 @@ Arcangelo Cola da Camerino, Italian, The Madonna and Child, Enthroned; Crucifixi
 Dr. Arbitman received both an MA and Ph.D. in art history from the University of Pittsburgh with a specialization in seventeenth-century Dutch art, more specifically, Rembrandt. After serving as the first curator-in-charge of The Frick Art Museum in 1985, she went on to become the director of the Palmer Museum of Art at Penn State University and the Executive Director of the Cummer Museum of Art & Gardens in Florida.
 Depictions of the crucified Christ are common in both churches and art museums, though the specifics can vary widely. The Bible gives scant details and leaves a lot of room for imagination, and artists of every era have been quick to add their own creative touches. From Byzantine works that adhered closely to theological doctrine, to Western wealthy patrons with their own ideas about how the crucifixion should be shown, to modern artists creating passionate testaments to their personal beliefs as well as their views on politics and social justice, there is much to examine through visual representations of this singular, profound event. Arcangelo Cola da Camerino, Italian, The Madonna and Child, Enthroned; Crucifixion , circa 1420-1422, tempera on panel, 20 x 23 1/4 in. Frick Art & Historical Center. Dr. Arbitman received both an MA and Ph.D. in art history from the University of Pittsburgh with a specialization in seventeenth-century Dutch art, more specifically, Rembrandt. After serving as the first curator-in-charge of The Frick Art Museum in 1985, she went on to become the director of the Palmer Museum of Art at Penn State University and the Executive Director of the Cummer Museum of Art & Gardens in Florida.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/Exhibition-Kara-Walker-Harpers-Pictorial-History-of-the-Civil-War-Annotated
 TITLE: Kara Walker: Harper's Pictorial History of the Civil War (Annotated) | The Frick Pittsburgh Museums & Gardens
@@ -302,7 +302,7 @@ Wednesday, April 2, 2025 — Highmark Bright Blue Futures Free Admission Day spo
 Guest Labelists The Kara Walker exhibition features the contributions of guest labelists from the Pittsburgh community. Guest contributors include: – Amanda Boston , Assistant Professor, Department of Africana Studies, University of Pittsburgh – Tara Fay Coleman , artist, curator, and writer committed to fostering critical dialogue in the arts – Madeline Gent , Executive Director, Associated Artists of Pittsburgh – Jasmine Green , Black Girl Absolute – Jim Griffin , Director of Equity and Community Engagement, University of Pittsburgh – Michael Kraus , Curator, Soldiers & Sailors Memorial Hall and Museum – Bryanna McDaniel , MPH, Public Health Professional – Shaun Myers , Assistant Professor, Department of English, University of Pittsburgh – Alaina E. Roberts , Associate Professor of History, University of Pittsburgh – Kirk Savage , William S. Dietrich II Professor, History of Art and Architecture, University of Pittsburgh – Haifa Subay , artist – Heather White , Artist and Director of Learning, The Andy Warhol Museum – Quaishawn Whitlock , Artist and Educator – Imin Yeh , Associate Professor of Art and Director of Foundational Studies, Carnegie Mellon University Hear from a select number of labelists in conversation on May 1, when we host a lively discussion about the pieces that inspired their labels. Learn More → Supporters Kara Walker: Harper's Pictorial History of the Civil War (Annotated) is made possible by many generous supporters. If you would like to join the list of supporters, click here to make a gift in support of this milestone exhibition . View Exhibition Supporters
 Experience Kara Walker: Harper's Pictorial History of the Civil War (Annotated) from March 1 through May 25, 2025. Tickets are not timed. You may enter the exhibition at any time between 10:00 a.m. and 4:00 p.m. during the day of your ticket. Members : Free General Admission: $15 Seniors 65+, Military/Veterans, Adults w/ Disabilities, Teachers: $13 Students w/ ID: $10 Museums for All (EBT): $1 Youth 17 & under: $5 Group admission of $13 per person is available for groups of 10 people or more. To reserve group admission tickets, please email education@thefrickpittsburgh.org . Get Tickets Members are encouraged to call the Members Hotline at 412-342-4086 Free Admission Day Enjoy free admission to Kara Walker: Harper's Pictorial History of the Civil War (Annotated) thanks to generous support from Highmark Blue Cross Blue Shield. Registration is required for entry. Wednesday, April 2, 2025 — Highmark Bright Blue Futures Free Admission Day sponsored by Highmark Blue Cross Blue Shield
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/LegacyPlanning
 TITLE: Legacy Planning | The Frick Pittsburgh Museums & Gardens
@@ -310,7 +310,7 @@ CONTENT:
 Legacy Planning
 The Frick Pittsburgh is an exceptional example of a planned gift at its most generous—Helen Clay Frick left provisions in her will for Clayton, her childhood family home, to be restored and opened to the public along with The Frick Art Museum and the family’s car and carriage collection. That foresight has enabled The Frick Pittsburgh to evolve into the unique museum we have today. You, too, can create a legacy that will help ensure that the Frick continues to serve students and families well into the future. In addition to making a difference in the lives of others, a planned gift can provide tax savings or income benefits for you and your family. There are many ways to make such a gift—simple methods include gifts in your will or living trust, gifts of life insurance, gifts of retirement assets, and more. To make the process of legacy giving easy, The Frick has partnered with FreeWill for our community to create an estate plan for free. FreeWill’s secure online tool empowers you to write a legally valid will or trust in about 20 minutes. As you write your will, FreeWill presents you with the opportunity to make a planned gift to The Frick on your terms. If you have ‘non-probate’ assets like a life insurance policy that you’d like to donate, you can use this FreeWill tool to log all of these assets and name The Frick as a beneficiary. If you have already created a legacy by including a gift in your estate plan, will you please complete this form to let us know? This helps us update our records and thank you for building a legacy to support The Frick’s authentic experiences with art, history, and nature.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/accessibility
 TITLE: Accessibility | The Frick Pittsburgh Museums & Gardens
@@ -340,7 +340,7 @@ The Frick offers an ADA Membership for $30 per year for one person and one aide.
 The Frick welcomes all visitors and strives to provide the best possible experience for everyone who visits the site. If you have questions about accessibility or navigating the site that are not addressed below please contact us at 412-371-0600 or by email at info@TheFrickPittsburgh.org.
 Parking ADA compliant parking is available in our Reynolds Street parking lot both near The Frick Art Museum and the Grable Visitors' Center. Navigating the Site Visiting the various museums on site requires moving from building to building throughout our 10-acre campus. (View a site map here .) Tours of Clayton require walking from the Grable Visitor Center to Clayton, where a lift is available for first floor access. Estimated walk times from the Grable Visitor Center to buildings on the Frick site follow: Grable Visitor Center to The Frick Art Museum: estimated walk time 2 – 4 minutes Grable Visitor Center to Education Center: estimated walk time 1 minute Grable Visitor Center to Car and Carriage Museum: estimated walk time 1 minute Grable Visitor Center to The Café at The Frick:  estimated walk time 1 – 2 minutes Grable Visitor Center to Greenhouse : estimated walk time 1 – 2 minutes Grable Visitor Center to Clayton:  estimated walk time 3 – 5 minutes Wheelchairs and Motorized Scooters A drop off area for wheelchairs is located along Homewood Avenue, near the Car and Carriage Museum. Wheelchair accessible buildings include The Frick Art Museum, the Café, the Car and Carriage Museum, the Grable Visitor Center, the Education Center, and the first floor of Clayton. We also welcome personal wheelchairs, walkers, and motorized scooters. Please note that motorized scooters greater than 30" wide cannot navigate the doorways of Clayton. A narrated video tour of Clayton’s second floor is provided for visitors unable to visit the second floor. Wheelchairs are available for visitor use on a first-come, first-served basis at the Grable Visitor Center, The Frick Art Museum and the Car and Carriage Museum. Restrooms Accessible restrooms are available in the Grable Visitor Center, The Frick Art Museum, the Car and Carriage Museum and the Education Center. Restrooms are not available in Clayton. Private all gender restrooms are located in the Grable Visitor Center, the Education Center, and the Café. Opened in April of 2024, the Frick Art Museum now features an Americans with Disabilities Act (ADA)-compliant restroom — an all-gender accessible family space intended to better serve Frick visitors of all ages, identities, and abilities Doors Power-assist doors can be found at the Frick Art Museum, the Grable Visitor Center, the Car and Carriage Museum, and the Community Room. Families The Scott Family Infant Care Room New at the Frick, the Scott Family Infant Care Room was designed as a space for caregivers to tend to their young children during their visit in comfort and privacy. Located in the Grable Visitor Center, the Scott Family Infant Care Room is decorated cheerfully with custom wallpaper designed by local artist Clinton van Gemert, and features a cozy armchair, white noise machine, changing table, and toys for little ones to enjoy. Baby changing stations are located in the Grable Visitor Center, The Frick Art Museum and the Car and Carriage Museum. Strollers are welcome in all buildings on site except Clayton. Service Animals Service animals are permitted in all public areas of the museum. Service animals are trained to perform specific tasks for an individual with a disability as defined by the Americans with Disabilities Act. Comfort animals, therapy animals, companion animals, or emotional support animals are not service animals as defined by the ADA and are not allowed. The ADA guidelines regarding service animals can be accessed here. Aides Professional aides accompanying visitors are admitted to Clayton and to ticketed exhibitions at no charge (one aide per guest). To make a reservation for a professional aide, please call us at 412-371-0600 in advance of your visit. Sign Language American Sign Language interpreters are available at no charge for tours and programs with advance notice to ensure availability. Requests for an ASL interpreter must be made at least two weeks in advance of the date of the visit by contacting Kelsie Torrenti Paul, Manager of Interpretation and Engagement, at 412-342-4063 or kpaul@thefrickpittsburgh.org .  Payment for the tour or program must be made in advance. Large Print Large print labels are available for visitors to special exhibitions.  Labels can be requested at the admissions desk in The Frick Art Museum. Membership The Frick offers an ADA Membership for $30 per year for one person and one aide. For a full list of benefits or to join, visit our Membership page here or call the membership office at 412-342-4086 or email us .
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/boardoftrustees
 TITLE: Board of Trustees | The Frick Pittsburgh Museums & Gardens
@@ -350,7 +350,7 @@ Robert M. Hernandez, Chair
 Trustees Emeriti
 Edward H. Dane, Vice Chair Chief Strategy Officer, Aidentified, LLC Steven M. Pavsner, Vice Chair Attorney, shareholder and former Managing Director of Joseph, Greenwald & Laake, P.A. in Maryland Kelly K. Miller, Treasurer Vice President, General Manager, Life Science Fluidics, IDEX Health & Science Laura N.K. Miller, Secretary Senior Associate Counsel and Vice President of Government Programs and Provider Contracting, UPMC Health Plan Mary Louise Babst Community Volunteer Alice F. Burden Physician Assistant Bernard E. Carter Managing Director of Investments at Hapanowicz & Associates (H&A) Stephen Casey Stephen Casey Architects James P. Cassaro Professor, Emeritus Head, Theodore M. Finney Music Library, University of Pittsburgh Natalie Della Rosa Community Volunteer Margot B. Dermody Artist William Donovan Community Volunteer Kate Freed Nonprofit Management Consultant Bartley P. Griffith, Jr. President, Shady Side Academy Leon E. Haynes, III Founding Director, Hosanna House Barbara Noble Howard Executive Director, Impact Young Lives Foundation Susan Hunter Chairman, Hunter Associates Kirk J. Johnson Managing Director, Merrill Wealth Management Jonathan D. Kessler Executive Vice President and Managing Director, Head of Private Banking, PNC Asset Management Group Carol MacPhail Associate Professor, School of Business, Robert Morris University Whitney S. Morgan Community Volunteer Michael Ruck Tax Office Managing Partner, BDO Pittsburgh Office Robert J. Schuetz President of RS Solutions, LLC Brian Sloan Chief Financial Officer, Sloan Lubrication, Inc. Maureen M. Staley Co-owner, The Picket Fence Dr. Scott Symington Clinical Psychologist Isabel Trafton Community Volunteer Bonnie VanKirk Community Volunteer Britton P. Wean Stewardship Officer, Shady Side Academy David Werner Ophthalmologist (retired) Brian Wongchaowart Senior Software Engineer, Google Trustees Emeriti David A. Brownlee Partner, K&L Gates LLP Charles "Chip" Burke Chairman, The Grable Foundation David Burstin Partner, Burstin, Burstin & Frantz Danforth P. Fales Community Volunteer Thomas J. Gillespie, Jr. President and CEO, The Lockhart Company Carolyn B. Reed Community Volunteer Nancy D. Washington Community Volunteer Betsy H. Watkins Community Volunteer
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/cafe
 TITLE: The Cafe at the Frick | The Frick Pittsburgh Museums & Gardens
@@ -381,7 +381,7 @@ CRAFTED COCKTAILS RED CAP SANGRIA Red wine sangria with cherry liqueur, lemon, o
 We’ve received a lot of inquiries about the current business model and future of the Café. We thank you for your continued support and hope to answer some of your questions below. Why did you change the Café? Wasn’t it already perfect? The atmosphere is magical, and we are committed to keeping it so. But certain aspects of the Café’s pre-COVID business model didn't serve all of our visitors as well as they should. The adjustments we've made address some specific challenges: In the past, the Café served a small number of people very well, but the great majority of our visitors not at all. During our busiest months, from April to December, the Café was been fully booked at lunchtime days in advance. We routinely turned away two, three, and even four times as many people as we could seat. Without an opportunity for rest and refreshment, many visitors left the Frick before they could experience all we have to offer. By expanding our open hours, we hope to increase the number of visitors we can serve. From quick-and-easy delights to special-occasion indulgences, we are aiming to meet the needs of as many of our visitors as possible.
 Tuesday–Sunday 9:30 AM–3 PM Reservations not accepted The Café is wheelchair-accessible and has single-stall all-gender restrooms. We're hiring! Learn more here .
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/calendar
 TITLE: Calendar of Events | The Frick Pittsburgh Museums & Gardens
@@ -395,7 +395,7 @@ From Carriages to Cars
 Duquesne SoundWalk at the Frick
 Today at the Frick
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/carandcarriagemuseum
 TITLE: Car and Carriage Museum | The Frick Pittsburgh Museums & Gardens
@@ -403,7 +403,7 @@ CONTENT:
 The Car and Carriage Museum
 At the turn of the 20th century, the development of the automobile profoundly changed American life. In the Car and Carriage Museum, visitors can travel back to the time of horse-drawn carriages, see some of the first horseless carriages to have an impact on Pittsburgh, and learn about Pittsburgh’s role in the developing automobile industry. The Car and Carriage Museum houses the Frick's collection of historic carriages and automobiles dating back to the turn of the 20th century. The museum also hosts temporary exhibitions. Enhance your visit with a free guided tour of the Car and Carriage Museum. Tours are held at 1 p.m. and 3 p.m. on Wednesdays and Saturdays.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/employment
 TITLE: Employment | The Frick Pittsburgh Museums & Gardens
@@ -422,7 +422,7 @@ Summary: Responsible for maintaining an environment within our museum facilities
 Summary: Through excellent customer service, provide visitors to The Café at the Frick with an excellent dining experience.  Become familiar with and perform all aspects of the front side of the Café; this includes: cashier, host, server, busser, sales, stocking, opening/closing, and cleaning.  Some additional back of house duties also required.  The Café Service Staff will foster positive internal and external relationships, bring energy, enthusiasm to the café and work in a collaborative environment in order to maintain and grow the reputation of the Café. The Café Service Staff will be joining the Frick during an exciting period of renewal and change, as the museum seeks to become an actively anti-racist organization that can serve as a vital resource for our entire community. Must have a commitment to fostering a workplace culture of Equity and Inclusion. Reports to: Café Manager Hours: Tuesday through Friday, daylight, no set schedule. Some weekend and evening hours. Status: Part-time, hourly Hourly Rate: $14.33, plus shared tips Responsibilities: Become familiar with daily features, lunch and dessert items Assist with food preparation Have a working knowledge of the current menu and be able to explain all menu items to guests Service tables in a professional efficient and friendly manner Welcome guests, answer questions and direct guests to counter to order Working knowledge of POS systems, ability to process payments and handle cash Opening and closing sidework Assist with dishwashing Cleaning - clean kitchen and front of house Keep beverage areas stocked and organized Service bar duties Stock supplies and inform the Café Manager if low on any items Work with the Café Manager to handle any problems arising with visitors to ensure customer satisfaction Treat visitors and colleagues with respect and courtesy at all times Other duties, as requested by management Qualifications: Commitment to fostering a workplace culture of inclusion and belonging, anti-racist values and education practices Possess an enthusiastic, professional and positive attitude Serving experience preferred Flexibility in working a varied schedule Excellent interpersonal skills Clearance of a criminal background check Become RAMP and servsafe certified if not already (paid by Frick) The Frick Pittsburgh is an Equal Opportunity Employer that is committed to fostering a workplace culture of accessibility, inclusion, diversity, and racial equality and urges all qualified diverse applicants to apply.
 Competitive salary and benefits Open and collaborative environment Discounts in both The Museum Store and The Café at the Frick Free on-site parking Employee Assistance Program Free museum privileges and guest passes to share with family and friends Regularly scheduled employee appreciation events, and much more
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/exhibitions
 TITLE: Exhibitions | The Frick Pittsburgh Museums & Gardens
@@ -431,7 +431,7 @@ The Frick Pittsburgh Museums and Gardens
 Exhibitions
 The Frick offers an exciting schedule of special exhibitions featuring art and artists from the Renaissance to the present.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/familyandlegacy
 TITLE: Family and Legacy | The Frick Pittsburgh Museums & Gardens
@@ -447,7 +447,7 @@ The Frick Pittsburgh is the legacy of Helen Clay Frick, daughter of industrialis
 (1883-1965) The eldest of the Frick family’s four children, the family moved into their Point Breeze home (later called Clayton) shortly before his birth in March 1883. Childs demonstrated an early interest in natural science—identifying, catching, and tagging animals such as rabbits and raccoons, examining rocks with his geology kit, and studying taxidermy. He also experimented with photography. After attending Princeton University, Childs began the first of many expeditions to Africa and the American West to collect animal specimens and fossils for study, many of which were donated to the Carnegie Museum in Pittsburgh. In 1913 Childs married Frances Dixon and they eventually settled in Roslyn, Long Island. As a gift for his son and daughter-in-law, Henry Clay Frick purchased the former estate of William Cullen Bryant and renovated a Georgian mansion on the property for the young couple. Childs and Frances renamed the house Clayton and made it their home for almost 50 years. They raised four children–Adelaide, Frances, Martha, and Clay. The home is now the Nassau County Museum of Art. After the family’s interests and investments transferred to New York, much of Childs’ research and collecting efforts were done in conjunction with the American Museum of Natural History, where he established the Frick Laboratory of Vertebrate Paleontology. He also was named honorary curator of Late Tertiary and Quaternary Mammals, and served as a trustee from 1921 until his death. During that time, he also served as president of the board of trustees of The Frick Collection, New York.
 (1859-1931) Adelaide Howard Childs was born in Pittsburgh on December 16, 1859, to Asa P. Childs and his second wife Martha Howard Childs. (She had five siblings from her father’s first marriage.) The Childs family was well established in Pittsburgh as manufacturers and importers of boots and shoes. Adelaide Childs met Henry Clay Frick in the spring of 1881, and they were married December 15 of that year. After her husband’s death in 1919, Adelaide divided her time between their New York home (now The Frick Collection), their summer home Eagle Rock, and their Pittsburgh home, Clayton. Upon her death, October 4, 1931, her daughter Helen inherited the Pittsburgh home and the summer home and its contents.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/groupvisits
 TITLE: Group Visits | The Frick Pittsburgh Museums & Gardens
@@ -474,7 +474,7 @@ All large groups are divided into subgroups of 8 to 10, which depart at 10-minut
 Guided tours of the Car and Carriage Museum explore America's transition from carriage to car through the Frick Pittsburgh's collection of 19th-century carriages and early automobiles. Groups of ten or more people interested in a guided tour of the museum are encouraged to reserve a private group tour. Available for groups of 10 to 20, Tuesday through Friday. COST: $7 per person Payment in full is required one month before your visit. Reservations required. Contact 412-342-4087 or email education@thefrickpittsburgh.org .
 When should I make my reservation? Where may we park our bus? How much time should we allow for touring... Review Group Tour FAQs
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/historichome
 TITLE: Historic Home and Gardens | The Frick Pittsburgh Museums & Gardens
@@ -490,7 +490,7 @@ The home of the Henry Clay Frick family from 1882–1905, this meticulously rest
 The restoration of Clayton began soon after Helen Clay Frick’s death in November 1984. The home’s historic significance was assessed in terms of its importance as an example of domestic architecture of the period, its furnishings, and its status as one of the few intact homes from Pittsburgh’s lost “Millionaire’s Row.” Since the home had been the family’s primary residence from 1883-1905, this time period was selected for the restoration and the basis for historic interpretation. With an established budget of $6 million, the staff began to assemble a team of structural engineers, architects, architectural historians and history and decorative arts experts to undertake the project. The Office of Thierry W. Despont developed the initial planning document and was the supervising architectural firm. Urban Design Associates of Pittsburgh and Peters Building Co. were the local supervising architects and general contractor, respectively. There were numerous specialty subcontractors, most of whom were local to Pittsburgh, who did the roofing, painting, plastering, and restoration of stone and wood details. Decorative arts consultants from the Preservation Society of Newport and Winterthur examined the interiors and furnishings of Clayton. Their efforts were supported by documentary photographs and invoices, public documentation, and records from vendors who had worked on Clayton through the years, all of which were used to create an interior furnishing plan. The physical work was begun in February 1989 and completed in October of the same year.
 The path that winds through the Frick’s 10-acre site is lined with lush gardens and a diverse selection of trees. Our active greenhouse is a renovation and partial reconstruction of one that served the Frick family from 1897 through the 1970s. The original greenhouse, designed by architects Alden & Harlow, was used to grow flowers and tropical plants for Clayton year-round, as well as annuals from seed for outdoor beds, vegetables, and mushrooms. In the late 19th century, greenhouses and conservatories were common additions to the homes or estates of wealthy families. The Fricks’ greenhouse supplied them with year-round fresh flowers and seedlings for their gardens. The Frick family built their first greenhouse between August 1882 and June 1883. In 1897, the Fricks replaced their original greenhouse with one built by Alden & Harlow, an architecture firm based in Pittsburgh and Boston, and the firm employed by Andrew Carnegie to design Pittsburgh’s Carnegie Library and Museum complex. The greenhouse that exists today was rebuilt based on the 1897 Alden & Harlow structure. Through the Frick’s partnership with Grow Pittsburgh, a community group that promotes sustainable agriculture, a wide variety of vegetable and flowers are grown. Many are used to prepare foods in the Café.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/leadership
 TITLE: Leadership | The Frick Pittsburgh Museums & Gardens
@@ -516,7 +516,7 @@ Rob joined the Frick as Director of Operations in October 2022 and manages the m
 Mark joined the Frick in March 2025, bringing a strong foundation in both security management and law enforcement. He most recently served as Director of Business Development for Am-Gard and has also worked with GardaWorld Security Services and Black Knight Security. He is well-versed in policy and procedure and brings a strong sense of leadership and collaboration to the role.
 Suzanne joined the Frick as the Director of Advancement & Engagement in March of 2024. With a distinguished career spanning various cultural and educational institutions, Suzanne returns to her Pittsburgh roots from eastern Pennsylvania and New Jersey, where she made significant contributions to organizations such as the New Jersey State Aquarium, Free Library of Philadelphia, and the Philadelphia Orchestra. Most recently, she served as the Director of Development at the Princeton Symphony Orchestra, where she spearheaded successful fundraising campaigns and played a pivotal role in establishing the organization's Diversity, Equity, and Inclusion (DEI) task force. Suzanne began her career in Pittsburgh, serving in development roles at the Pittsburgh Opera and the Bach Choir of Pittsburgh. She holds a Bachelor’s degree in Music Performance and Music Education, as well as a Master of Arts Management degree, all from Carnegie Mellon University.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/learn
 TITLE: Learning | The Frick Pittsburgh Museums & Gardens
@@ -546,7 +546,7 @@ Our hands-on learning programs for students K-12 are teacher friendly, address a
 We offer a variety of multi-disciplinary resources designed to support educators at every grade level, regardless of whether they are teaching remotely or in the classroom. View Resources
 The Frick Pittsburgh is a wonderful place to spend time with your family.  We offer programs throughout the year that give families the opportunity to engage together in hands-on learning through museum visits, art making, and outdoor activities on our grounds. Our learning activities are for children of all ages. View Calendar Workshops Nurture your creativity at The Frick! Young artists ages 11-14 will cultivate their imaginations with The Frick's teaching artists during monthly hands-on workshops. Each session is inspired by The Frick's museums or grounds, and includes a short tour experience followed by a guided art workshop. View Calendar
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/mediainquiries
 TITLE: Media Inquiries | The Frick Pittsburgh Museums & Gardens
@@ -564,7 +564,7 @@ Welcome to the Media Room of The Frick Pittsburgh’s website. Here, you can acc
 General Press Releases Exhibition-Related
 Kristin Garbarino Director of Marketing & Communications Phone: 412-342-4075 Media@TheFrickPittsburgh.org
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/membership
 TITLE: Membership | The Frick Pittsburgh Museums & Gardens
@@ -572,7 +572,7 @@ CONTENT:
 Membership
 You can make a difference. The Frick depends on our members and donors to help us continue to offer vibrant cultural programming to our region. Thanks to you, we can continue to be a place where audiences of all ages can discover the art, history, and nature that make the Frick such a special place. Members are provided with enhanced opportunities to enjoy all that the Frick has to offer through free admission, discounts, events, and much more. And now, you are able to make a virtual visit to the Frick at any time through our online experiences and activities . Questions about Membership? Having trouble reserving a ticket on our website? Please call the MEMBERS HOTLINE at 412-342-4086. THANK YOU FOR BEING A MEMBER! Join Frequently Asked Questions
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/mission
 TITLE: Mission | The Frick Pittsburgh Museums & Gardens
@@ -586,7 +586,7 @@ Our organization's statement of purpose Furthering the vision of Helen Clay Fric
 What we aspire to achieve Our experiences of discovery, inspiration and learning will be essential to people’s lives and to the cultural fabric of our region.
 The core principles that guide our actions Curiosity Authenticity Empathy Service
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/photography-policy
 TITLE: Photography Policy | The Frick Pittsburgh Museums & Gardens
@@ -594,7 +594,7 @@ CONTENT:
 Photography Policy
 Still photography without flash for private, non-commercial use by means of phones, hand-held cameras and tablet devices, is permitted only in the permanent collection galleries of The Frick Art Museum and Car and Carriage Museum, provided 18” distance is maintained from any art or artifacts. Personal photography is also permitted at the Greenhouse, and on the grounds of The Frick Pittsburgh. Photography is prohibited inside the historic mansion, Clayton, and is not allowed in specified special exhibition galleries at The Frick Art Museum. Selfie sticks are permitted outside on the grounds, but not indoors. Videography and use of a tripod or other camera equipment is not permitted at any time. Photographs cannot be published, sold, reproduced, or otherwise commercially exploited in any manner whatsoever. The Frick Pittsburgh is not responsible for any uses of visitor photography that infringe upon third-party copyrights or other rights. Visitors taking photos are asked to please be courteous to other museum visitors by not blocking their view or impeding their movement.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/plan-your-visit
 TITLE: Plan Your Visit | The Frick Pittsburgh Museums & Gardens
@@ -604,7 +604,7 @@ Ready to explore?
 At The Frick Pittsburgh, get ready to experience art, history, and nature. To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance. Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center. A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available.
 At The Frick Pittsburgh, get ready to experience art, history, and nature. To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance. Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center. A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available. Tickets
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/pressreleases
 TITLE: Press Releases | The Frick Pittsburgh Museums & Gardens
@@ -625,7 +625,7 @@ January 3, 2025 Family-Friendly Winterfest Continues in 2025 at The Frick Pittsb
 December 10, 2018 The Frick Pittsburgh Presents Street Photography to Surrealism: The Golden Age of Photography in France, 1900-1945 December 10, 2018 Frick Executive Director Robin Nicholson to Become Executive Director/CEO of Telfair Museums October 10, 2018 The Frick Pittsburgh Presents Isabelle de Borchgrave: Fashioning Art from Paper September 19, 2018 The Frick Pittsburgh Announces the Election of New Trustees August 30, 2018 The Frick Pittsburgh Announces Let's Move! Family Fun Day at the Frick brought to you by UPMC Health Plan August 8, 2018 Van Gogh, Monet, Degas Sets All-Time Exhibition Attendance Record at The Frick Pittsburgh July 25, 2018 The Frick Pittsburgh Announces Election of Carol MacPhail to Board of Trustees July 10, 2018 The Frick Pittsburgh Presents Driving the Disenfranchised: The Automobile’s Role in Women’s Suffrage July 5, 2018 Van Gogh, Monet, Degas to remain open an extra week at The Frick Pittsburgh June 26, 2018 The Frick Pittsburgh Announces Spaces for Work and Play, a New Public Tour Featuring the Frick Children's Playhouse May 17, 2018 The Frick Pittsburgh Announces Summer Fridays at the Frick presented by UPMC Health Plan May 18, 2018 The Frick Pittsburgh Celebrates Art Museum Day on May 18, 2018 March 13, 2018 The Frick Pittsburgh presents Van Gogh, Monet, Degas April 27, 2018 The Frick Pittsburgh Presents the Roy A. Hunt Foundation Award for Commitment to Education in the Arts and Humanities to Heather King February 5, 2018 The Frick Pittsburgh Announces Revive, Remix, Respond: Contemporary Ceramic Artists and The Frick Pittsburgh January 24, 2018 The Frick Pittsburgh announces the election of Susan Hunter to the Board of Trustees January 2, 2018 Undressed: A History of Fashion in Underwear to remain open an extra week at The Frick Pittsburgh October 16, 2017 The Frick Pittsburgh Presents Undressed: A History of Fashion in Underwear October 5, 2017 The Frick Pittsburgh Announces 2018 Presentation of Van Gogh, Monet, Degas: The Mellon Collection of French Art from the Virginia Museum of Fine Arts September 27, 2017 The Frick Pittsburgh Launches New Mobile Landscape App August 25, 2017 The Frick Pittsburgh Announces Let’s Move! Family Fun Day at the Frick brought to you by UPMC Health Plan July 25, 2017 Six Pittsburgh Museums Partner on Social Media Initiative July 20, 2017 The Frick Pittsburgh Announces Election of Barbara Noble Howard to Board of Trustees June 21, 2017 The Frick Pittsburgh Announces Adoption of Five-Year Strategic Plan and Initiation of New Acquisition Progra m June 9, 2017 The Frick Pittsburgh Presents Irving Penn: Beyond Beauty June 9, 2017 The Frick Pittsburgh Announces Programs Related to the Exhibition Irving Penn: Beyond Beauty June 8, 2017 The Frick Pittsburgh Collaborates with Google in Exploring Fashion in New Virtual Exhibition May 11, 2017 The Frick Pittsburgh To Celebrate Art Museum Day on May 18, 2017 May 10, 2017 The Frick Pittsburgh Presents the Roy A. Hunt Foundation Award for Commitment to Education in the Arts and Humanities to Jubilee Christian School of Mt. Lebanon May 5, 2017 The Frick Pittsburgh Announces Summer Fridays at the Frick 2017 supported by KeyBank March 27, 2017 The Frick Pittsburgh Announces Exhibition-Related Programs for Elise Adibi: Respiration Paintings March 16, 2017 Charles L. (“Chip”) Burke, Jr. Elected Chair of The Frick Pittsburgh’s Board of Trustees February 1, 2017 The Frick Pittsburgh Announces Election of Mary Louise Babst to Board of Trustees January 10, 2017 The Frick Pittsburgh Announces Advance Schedule of Exhibitions Through Winter 2019 December 8, 2016 The Frick Pittsburgh’s World-Class Collection Highlighted in New Exhibition and Book November 14, 2016 The Frick Pittsburgh Awarded Bank of America Art Conservation Project Grant October 31, 2016 The Frick Pittsburgh Announces Holidays at the Frick 2016-2017 October 21, 2016 The Frick Collects: From Rubens to Monet on view at The Frick Pittsburgh October 29, 2016 through May 14, 2017 October 21, 2016 The Frick Pittsburgh Announces Exhibition Programs for The Frick Collects: From Rubens to Monet September 30, 2016 The Frick Pittsburgh Announces Election of New Trustees September 22, 2016 Stepped-up Killer Heels Attendance Has The Frick Pittsburgh Poised for Its Next Leap in Fashion June 2, 2016 Killer Heels: The Art of the High-Heeled Shoe on view at The Frick Pittsburgh June 11 through September 4, 2016 June 2, 2016 The Frick Pittsburgh announces exhibition programs related to the exhibition Killer Heels: The Art of the High-Heeled Shoe May 17, 2016 Richard King Mellon Foundation Grant Award Supports Series of Fashion-focused Exhibitions at The Frick Pittsburgh May 6, 2016 The Frick Pittsburgh Presents the Roy A. Hunt Foundation Award for Commitment to Education in the Arts and Humanities to Mr. Alphonse A. Rapa May 5, 2016 The Frick Pittsburgh Announces Summer Fridays at the Frick 2016 May 1, 2016 The Frick Pittsburgh To Celebrate Art Museum Day on May 18, 2016 April 6, 2016 The Frick Pittsburgh to Present Killer Heels: The Art of the High-Heeled Shoe in Summer 2016 March 29, 2016 The Frick Pittsburgh Announces Extended Hours of Operation, New Pedestrian Entrance and Paths, and Expanded Summer Programming March 10, 2016 The Frick Pittsburgh Joins Google Cultural Institute
 Kristin Garbarino Director of Marketing & Communications Phone: 412-342-4075 Media@TheFrickPittsburgh.org
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/programmatic-collaborations
 TITLE: Home | The Frick Pittsburgh Museums & Gardens
@@ -634,7 +634,7 @@ Get Cozy at the Frick
 Take a break from the winter weather and enjoy art, history, and nature! This season there's something for everyone: enjoy Kara Walker: Harper's Pictorial History of the Civil War (Annotated) , transport yourself back to 1892 with our signature Gilded, Not Golden tour of Clayton, and travel through time at the Car and Carriage Museum . Plus, keep yourself warm with seasonal drinks from The Café at the Frick and a stroll through our picturesque greenhouse.
 Monday, March 10 Campus Closed
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/rentals
 TITLE: Rental Events | The Frick Pittsburgh Museums & Gardens
@@ -643,7 +643,7 @@ Event rentals for 2025 are completely full.
 New event rental inquiries are not being accepted at this time. Please check back to this website to receive updated information on when the 2026 season will open for inquiries.
 Event rentals for 2025 are completely full. New event rental inquiries are not being accepted at this time. Please check back to this website to receive updated information on when the 2026 season will open for inquiries.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/see-and-do
 TITLE: See and Do | The Frick Pittsburgh Museums & Gardens
@@ -652,7 +652,7 @@ See and Do
 Customize Your Frick Experience
 With so much to see and do, every visit to the Frick can be different. Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer. .
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/staff
 TITLE: Staff | The Frick Pittsburgh Museums & Gardens
@@ -678,7 +678,7 @@ Operations
 Daria Pigg, Frick Facilities Housekeeping Manager 412-342-4088 Operations and Facilities Coordinator Travell McKines Lead Maintenance Technicians Daniel Martinac Eric Sullivan Grounds Crew Veronica Buckmaster John Payne Noah Snizik Frick Facilities Housekeeping Team Keiaire Eutsey Sara Stankiewicz
 Director’s Office Amanda Dunyak Gillen, Interim Executive Director Natalie Watson, Executive Assistant 412-342-4069 Advancement & Engagement Suzanne Wray, Director of Advancement & Engagement 412-342-4079 Jodi Golomb, Assistant Director of Advancement & Engagement and Institutional Support Lead 412-342-4089 Diane Totten, Manager of Individual Support 412-342-4098 Erin Serena, Advancement Database Administrator 412-342-4035 Val Richards, Membership Manager 412-342-4084 Pierce Mitchell, Advancement Assistant Collections / Curatorial Dawn Reid Brean, Chief Curator & Director of Collections 412-342-4066 Lauryn Smith, Assistant Curator 412-342-402 0 Morgan Lawrence, Manager of Collections & Exhibitions / Exhibitions Project Manager 412-342-4071 Christina Cichra, Collections Technician 412-342-4074 Bella Hanley, Collections & Exhibitions Assistant Enterprise & Visitor Services Alexa Patsey, Museum Experience & Admissions Manager 412-342-4039 Dalena Collins, Interim Manager of Museum Experience and Admissions 412-342-4087 Amanda Crytzer, Manager of the Frick Museum Store 412-342-4077 Paul Lauteri, General Manager of Café Services 412-342-4085 Event Support Janet DeAngelo Ginger Ellis Museum Experience Associates Bradley Britvich Chrissy Condon Emily French Ollie Gratzinger Danielle Grentz Tessa Kilby Naomi Knolle Adylade Krimmel Aleeshyah Lightfoot Joy Militello Kathryn Shriver Grey Weatherford-Brown Madison Wise Abby Young Café Service Front of House Lead Trenny Bivens Jhona Streeter Café Service Associates Megan Adgate Shay Berry Shannon Curry Ezra Eppler Shawn Hogan Lydia Newlin Andrew Patton Connor Scott Enrique Talavera Ellie Walker-Wintruba Emily Yeager Safety & Security Mark Springer, Director of Safety & Security 412-342-4037 Tony Brandstetter, Museum Safety & Gallery Lead Katrina Murphy, Site Safety Lead Eric Rucker, Public Safety Coordinator Public Safety Officers Donald Henderson Richard Lockyer, Jr. Scott Mayhew Joe Newcome Gallery Attendants Andy Basta Brad Britvitch Will Frechione Jane Heuer Elizabeth Scott Elizabeth Sickles Pam Stone Cathlean Suzensky Meg Wolfe Finance Lisa Gehring, Director of Finance 412-342-4068 Maureen DeFabio, Senior Finance Associate 412-342-4078 Tori Trimble, Finance Associate 412-342-4095 Human Resources Barry Adams, Director of Human Resources 412-342-4065 Jennifer Forster, Human Resources Manager 412-342-4038 Michelle Panasiuk, Human Resources Assistant 412-342-4067 Learning & Visitor Experience Kelsie Torrenti Paul, Interim Director of Learning & Visitor Experience 412-342-4063 Caito Amorose, Curator of Performance Events 412-342-4091 Stacey McSorley, Manager of Youth & Family Programs 412-342-4062 Dalena Collins, Learning and Interpretive Coordinator 412-342-4087 Alyse Hanna, Youth Program Assistant 412-342-4044 Arts Facilitator Carly DiPaolo Clayton Tour Facilitators Charles Altman Karen Crenshaw Jane Grabowski William Griffith Eliza Grimm Isabella Hanley Karen Ieong Anne Isaac Linda Lewis Malcolm MacKenzie Donald MacLeod Jr. Terri McKenzie Joan Miles Eden Munday Megan O'Keefe Julie Silverman Cassandra Skweres Elizabeth Staab Deborah Talarico Barney Terrell Dennis Wickline Frick Art Museum Tour Facilitators & Gallery Facilitators Kathy Dax Cynthia Lackey Malcolm MacKenzie Eden Munday Julie Silverman Jasmine Singh Elizabeth Wilkinson Car and Carriage Museum Tour Facilitators Steve Cicero Bella Hanley Karen Ieong Dallas Knight Donald MacLeod Jr. Julie Silverman Barney Terrell Dennis Wickline Educators Susan Bails Sophia Celdrán Stephen Cicero Karen Cornell Nancy Craft Seth Graziani Melida Hernandez Denise Humphrey Linda Johnson Julie King Susan Knight Cynthia Lackey Malcolm MacKenzie Lori McDermott Catie Rogan Lauren Schricker June Schultz Carol Schurman Deborah Talarico Elizabeth Wilkinson Elisa Yukstas Lead Studio Arts Educators C.J.  Dawson Elizabeth Wells Studio Arts Educators Nora Lopez Marketing & Communications Kristin Garbarino, Director of Marketing & Communications 412-342-4075 Seth Culp-Ressler, Digital Marketing & Design Manager 412-342-4094 Stephanie Mirah, Marketing & Communications Manager 412-342-4047 Operations Robert Henninger, Director of Operations 412-342-4082 Jeff Checcio, Facilities Manager 412-342-4081 Kim Rothert, Grounds Manager 412-342-4083 Daria Pigg, Frick Facilities Housekeeping Manager 412-342-4088 Operations and Facilities Coordinator Travell McKines Lead Maintenance Technicians Daniel Martinac Eric Sullivan Grounds Crew Veronica Buckmaster John Payne Noah Snizik Frick Facilities Housekeeping Team Keiaire Eutsey Sara Stankiewicz
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/store
 TITLE: Store | The Frick Pittsburgh Museums & Gardens
@@ -692,7 +692,7 @@ Benefits also include free admission, discounts, events, and much more. Join Now
 Located in the Grable Visitor Center, the Frick Museum Store offers a carefully curated product line reflecting the distinctive character of the Frick. Shop Our Online Store
 Members of the Frick receive a 10% discount on all Museum Store purchases! Benefits also include free admission, discounts, events, and much more. Join Now
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/strategicplan
 TITLE: Annual Reports & Strategic Plan | The Frick Pittsburgh Museums & Gardens
@@ -707,7 +707,7 @@ Strategic Plan
 Looking back on the momentous fiscal year that began on April 1, 2020—marked by the global pandemic of Covid-19, the national reckoning with racial justice, the launch of our new Strategic Plan, the 30th anniversary of Clayton’s restoration and public opening, and the 50th anniversary of The Frick Art Museum’s founding—we have much to be thankful for. Our staff, members, and visitors found new ways to engage with our collections and eachother; individuals and funders in our community stepped forward with support when we needed it most; and the Frick has emerged from this year a more flexible, humble, and socially committed organization. Click Here
 2019 was a pivotal year for the Frick, we successfully completed a strategic plan adopted in 2016, and Elizabeth Barker joined the Frick with a mandate to lead a planning process that would establish goals for our next chapter. Gounded in mindset of radical empathy for our visitors, we reviewed our mission statement, penned our first vision statement, and identified our organizational values. Click Here
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/support-detail
 TITLE: Home | The Frick Pittsburgh Museums & Gardens
@@ -716,7 +716,7 @@ Get Cozy at the Frick
 Take a break from the winter weather and enjoy art, history, and nature! This season there's something for everyone: enjoy Kara Walker: Harper's Pictorial History of the Civil War (Annotated) , transport yourself back to 1892 with our signature Gilded, Not Golden tour of Clayton, and travel through time at the Car and Carriage Museum . Plus, keep yourself warm with seasonal drinks from The Café at the Frick and a stroll through our picturesque greenhouse.
 Monday, March 10 Campus Closed
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/tickets
 TITLE: Tickets | The Frick Pittsburgh Museums & Gardens
@@ -737,7 +737,7 @@ Free Admission
 Tickets are not required to visit the Car and Carriage Museum or the Frick Art Museum's permanent collection .
 From historic home tours and stunning art exhibitions to educational opportunities and community events, there's something for everyone at The Frick Pittsburgh. Clayton Tours of Clayton are currently offered Tuesdays through Sundays. Advance reservations are strongly recommended. Gilded, Not Golden SCHEDULE A TOUR Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family. Learn more about the Gilded, Not Golden tour . The Frick Art Museum Kara Walker: Harper's Pictorial History of the Civil War (Annotated) comes to the Frick Art Museum from March 1 through May 25, 2025. Comprised of 15 large scale prints, the exhibition revisits the historical representations found in the two-volume anthology published in 1866, "Harper's Pictorial History of the Civil War." BUY TICKETS Other Events In addition to long-term exhibitions and signature tour experiences, the Frick also offers numerous other ticketed events, workshops, activities, and more. Browse the full calendar below. UPCOMING EVENTS Free Admission Tickets are not required to visit the Car and Carriage Museum or the Frick Art Museum's permanent collection .
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/tours
 TITLE: Tours | The Frick Pittsburgh Museums & Gardens
@@ -757,7 +757,7 @@ For groups of ten or more people, please email Education@thefrickpittsburgh.org 
 Gilded, Not Golden SCHEDULE A TOUR Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family. Learn more about the Gilded, Not Golden tour . "Our tour guide was excellent! Her knowledge and command of the history was excellent. It was clear that she has a love of her job. That's engaging. We had a youngster (about 10 - 12 years old) in our group. He was very bright and was not shy. Our guide did an excellent job of responding to him while not losing track of her objective. She integrated his quizzical mind into the interaction. It was actually amusing to the entire group. I really appreciate the efforts that the museum put into the development of the new tours." - William S.
 Guided Tours of the Car and Carriage Museum Dates: Saturdays Time: 1:00 p.m. and 3:00 p.m. Duration: Approximately one hour Location: The Car and Carriage Museum Cost: Free Join a guided tour of the Car and Carriage Museum and discover the impact of a transportation revolution as you explore the story of America's transition from carriage to car. Tour participation is free and registration is not required. Meet your guide at the entrance to the Car and Carriage Museum. For groups of ten or more people, please email Education@thefrickpittsburgh.org for information about a guided group tour.
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/virtual
 TITLE: Virtual Experiences | The Frick Pittsburgh Museums & Gardens
@@ -786,7 +786,7 @@ Follow along step-by-step as museum educator Stacey McSorley completes an art pr
 See if you can recreate one of our favorite paintings or a scene from our beautiful grounds! Try a digital Frick jigsaw puzzle here .
 Have fun with art and history! Early Childhood Frick Grounds Bingo Feather Racing Paper Beads Artist Trading Cards Keith Haring Creative Color Wheels Explore with Watercolors Windsocks Neighborhood Bingo Environmental Art Fun with Lines House Scavenger Hunt Recycled Planters Parlor Games A Still Life of Your Own Fun with Shapes Fun with Color We Are Family Sock Bunny Art Project Paper Kite Project Afternoon Tea Elementary Frick Grounds Bingo Paper Collage Sculptures Feather Racing Paper Beads Be a Fan of Fans Artist Trading Cards Practice Makes Perfect ABCs Scavenger Hunt Keith Haring Creative Color Wheels Explore with Watercolors Windsocks More Parlor Games Neighborhood Bingo Take an Imaginary Road Trip What's New Environmental Art Fun with Lines Letter Writing House Scavenger Hunt A Description of My Bedroom Geniuses at Work Color Mixing Design a Coat of Arms Cinquain Poem Recycled Planters Parlor Games A Still Life of Your Own Upcycled Stained Glass Model T-riffic Pose for a Portrait Landscape Collage Afternoon Tea Automobile Timeline Car of the Future Winter Green Stories in Stained Glass Picasso Portraits Fun with Shapes History Mystery Draw Like Degas Paper People We Are Family Fun with Foil The Secret Language of Flowers Fun with Color Silly Art Mad Lib Sock Bunny Art Project Paper Kite Project Middle School Frick Grounds Bingo Paper Collage Sculptures Feather Racing Paper Beads Be a Fan of Fans Artist Trading Cards Practice Makes Perfect ABCs Scavenger Hunt Keith Haring Explore with Watercolors Windsocks Personification More Parlor Games Neighborhood Bingo Take an Imaginary Road Trip What's New Environmental Art Letter Writing House Scavenger Hunt A Description of My Bedroom Geniuses at Work Color Mixing Design a Coat of Arms Cinquain Poem Recycled Planters Parlor Games A Still Life of Your Own Upcycled Stained Glass Model T-riffic Pose for a Portrait Landscape Collage Automobile Timeline Car of the Future Winter Green Stories in Stained Glass Who's Who Picasso Portraits Household Helpers History Mystery Draw Like Degas Paper People We Are Family Fun with Foil The Secret Language of Flowers Fun with Color Mystery in the Masterpiece Vive la France Silly Art Mad Lib Sock Bunny Art Project Paper Kite Project High School Frick Grounds Bingo Paper Collage Sculptures Feather Racing Be a Fan of Fans Artist Trading Cards Practice Makes Perfect Explore with Watercolors Personification More Parlor Games Take an Imaginary Road Trip What's New Environmental Art Letter Writing A Description of My Bedroom Geniuses at Work Color Mixing Design a Coat of Arms Cinquain Poem Recycled Planters Parlor Games A Still Life of Your Own Upcycled Stained Glass Pose for a Portrait Landscape Collage Who's Who Household Helpers History Mystery We Are Family Fun with Foil Vive la France Silly Art Mad Lib Automobile Timeline Car of the Future Art Projects Paper Collage Sculptures Paper Beads Artist Trading Cards Keith Haring Explore with Watercolors Windsocks Environmental Art Color Mixing Recycled Planters Upcycled Stained Glass Landscape Collage Picasso Portraits Car of the Future Paper People Fun with Foil Sock Bunny Art Project Paper Kite Project
 
-================================================================================
+
 
 URL: https://www.thefrickpittsburgh.org/virtualexhibitions
 TITLE: Virtual Exhibitions | The Frick Pittsburgh Museums & Gardens
@@ -794,5 +794,5 @@ CONTENT:
 Virtual Exhibitions
 The Frick is excited to be the first cultural institution in Western Pennsylvania to partner with the Google Cultural Institute to join the Google Arts & Culture platform. Through this partnership, we invite you to explore our virtual exhibitions – including Gilded Age Fashion, Entertaining at Home, Vive La France!, Collecting Millet, Around the World as well as Collection Highlights and Portraits & Personalities.
 
-================================================================================
+
 

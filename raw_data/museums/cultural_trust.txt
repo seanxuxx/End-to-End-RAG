@@ -213,7 +213,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/blog/accessibility-in-action-using-a-wheelchair-in-the-benedum-center
 TITLE: Accessibility in Action: Using a Wheelchair in the Benedum Center | The Pittsburgh Cultural Trust | @CulturalTrust
@@ -294,7 +294,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/blog/two-ways-to-extend-your-broadway-experience
 TITLE: Two Ways to Extend Your Broadway Experience | The Pittsburgh Cultural Trust | @CulturalTrust
@@ -335,7 +335,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/blog/valentines-day-in-pittsburgh-celebrate-love-with-dinner-and-a-show
 TITLE: Valentine’s Day in Pittsburgh: Celebrate Love with Dinner and a Show | The Pittsburgh Cultural Trust | @CulturalTrust
@@ -390,7 +390,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/calendar
 TITLE: Calendar and Event Schedule for Pittsburgh Cultural Trust
@@ -426,7 +426,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home
 TITLE: The Pittsburgh Cultural Trust
@@ -461,7 +461,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/about
 TITLE: About
@@ -485,7 +485,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/about/email-signup
 TITLE: Email Signup
@@ -503,7 +503,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/about/volunteering
 TITLE: Volunteer
@@ -746,7 +746,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/blog
 TITLE: Blog
@@ -836,7 +836,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/education
 TITLE: Arts Education
@@ -863,7 +863,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/engagement
 TITLE: Community Engagement
@@ -891,7 +891,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/events
 TITLE: Tickets & Events
@@ -932,7 +932,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/events/seating-charts
 TITLE: Seating Charts
@@ -967,7 +967,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/events/series
 TITLE: Series & Packages
@@ -1000,7 +1000,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/events/series/pittsburgh-dance-council
 TITLE: Pittsburgh Dance Council
@@ -1021,7 +1021,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/events/series/pnc-broadway-in-pittsburgh
 TITLE: PNC Broadway in Pittsburgh
@@ -1047,7 +1047,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/privacy-policy
 TITLE: Privacy Policy
@@ -1064,7 +1064,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/rent
 TITLE: Rent a Space
@@ -1098,7 +1098,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/support
 TITLE: Support
@@ -1136,7 +1136,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/support/individual-giving
 TITLE: Individual Giving
@@ -1171,7 +1171,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/visit
 TITLE: Visit
@@ -1205,7 +1205,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/visit/directions-parking
 TITLE: Directions & Parking
@@ -1235,7 +1235,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/visit/facilities
 TITLE: Facilities & Spaces
@@ -1284,7 +1284,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/visual-arts
 TITLE: Visual Arts
@@ -1356,7 +1356,7 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 
 URL: https://trustarts.org/pct_home/visual-arts/galleries
 TITLE: Visual Arts
@@ -1428,5 +1428,5 @@ Administrative Offices:
 Pittsburgh Cultural Trust
 Copyright 2025. All rights reserved.
 
-================================================================================
+
 

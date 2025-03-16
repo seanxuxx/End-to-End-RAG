@@ -69,7 +69,7 @@ Friday, January 31, 2025
 
 ©2025 PITTSBURGH OPERA
 
-================================================================================
+
 
 URL: https://pittsburghopera.org/calendar?timequery=month&prev=-9+&start=1738396800000&end=1740797940000
 TITLE: Pittsburgh Opera's Calendar | Pittsburgh Opera
@@ -124,7 +124,7 @@ Bitz Opera Factory
 
 ©2025 PITTSBURGH OPERA
 
-================================================================================
+
 
 URL: https://pittsburghopera.org/calendar?timequery=month&prev=-9+&start=1740816000000&end=1743472740000
 TITLE: Pittsburgh Opera's Calendar | Pittsburgh Opera
@@ -218,7 +218,7 @@ Sunday, March 30, 2025
 
 ©2025 PITTSBURGH OPERA
 
-================================================================================
+
 
 URL: https://pittsburghopera.org/calendar?timequery=month&prev=-9+&start=1743490800000&end=1746064740000
 TITLE: Pittsburgh Opera's Calendar | Pittsburgh Opera
@@ -272,7 +272,7 @@ Bitz Opera Factory
 
 ©2025 PITTSBURGH OPERA
 
-================================================================================
+
 
 URL: https://pittsburghopera.org/calendar?timequery=month&prev=-9+&start=1746082800000&end=1748743140000
 TITLE: Pittsburgh Opera's Calendar | Pittsburgh Opera
@@ -318,7 +318,7 @@ Monterey Bay Fish Grotto
 
 ©2025 PITTSBURGH OPERA
 
-================================================================================
+
 
 URL: https://pittsburghopera.org/calendar?timequery=month&prev=-9+&start=1751353200000&end=1754013540000
 TITLE: Pittsburgh Opera's Calendar | Pittsburgh Opera
@@ -356,5 +356,5 @@ Bitz Opera Factory
 
 ©2025 PITTSBURGH OPERA
 
-================================================================================
+
 

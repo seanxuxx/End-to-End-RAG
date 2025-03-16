@@ -6,7 +6,7 @@ The Pittsburgh Taco Festival ® is an annual food festival aimed at celebrating 
 address: 2875 Railroad St, Pittsburgh, PA 15222
 Stay Tuned on Social Media for official announcements
 email: PR@pghtacofest.com
-================================================================================
+
 
 URL: https://www.pghtacofest.com/faqs
 TITLE: FAQs | 2024 Taco Festival in Pittsburgh, PA  | September 14th, 2024
@@ -15,14 +15,14 @@ faqs
 The Pittsburgh Taco Festival ® exists to celebrate the finest handfood known to mankind! September, 14th, 2024 12:30pm - 7:00pm
 The Pittsburgh Taco Festival exists to celebrate the finest handfood known to mankind! September 10, 2022 12:00-7:00pm
 
-================================================================================
+
 
 URL: https://www.pghtacofest.com/vendors
 TITLE: Pittsburgh Taco Festival Vendors | 2024 Taco Festival in Pittsburgh, PA
 CONTENT:
 Stay tuned for more great 2024 vendors which will be added as they are approved!
 
-================================================================================
+
 
 URL: https://www.pghtacofest.com/privacy-policy
 TITLE: Privacy Policy

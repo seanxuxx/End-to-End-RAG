@@ -8,7 +8,7 @@ Guide Dogs: Guide dogs and service animals are welcome throughout the event. Ple
 Parking: Handicapped parking is available at all nearby garages, providing convenient access to the event area.
 Vendor and Stage Areas: All vendor areas and stage viewing areas are wheelchair accessible, ensuring that all attendees can access all amenities on the footprint.
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/contact
 TITLE: Contact Us - Picklesburgh
@@ -28,7 +28,7 @@ For all other comments or questions related to Picklesburgh, please use the form
 Please note that this form is not being actively monitored during the event. Responses may take 24-48 hours.
 Notifications
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/entertainment
 TITLE: Entertainment - Picklesburgh
@@ -42,7 +42,7 @@ Friday, July 19
 Saturday, July 20
 Sunday, July 21
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/festival-schedule/lil-gherkins-activity-area
 TITLE: Li’l Gherkins KidsPlay Activity Area - Picklesburgh
@@ -54,7 +54,7 @@ Sunday 12 – 6 p.m.
 Li’l Gherkins Activity Area Guidelines:
 Presented by
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/games
 TITLE: Gherkin Games - Picklesburgh
@@ -70,7 +70,7 @@ Bobbing for Pickles – New!
 No hands are allowed in this pickled take on the peculiar party pastime. Whoever can retrieve the most pickles by weight in 90 seconds using only their mouth will win the round and face-off in the finals to become Picklesburgh’s first Baron of Bobbing !
 General Contest Rules & Regulations
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/get-involved
 TITLE: Get Involved - Picklesburgh
@@ -81,7 +81,7 @@ Do you have a bottomless stomach, competitive spirit and love of pickles? Sign u
 Want to support an award-winning event in Downtown Pittsburgh that showcases all things pickled? Well then, you’re in the right place.
 Creative, ready-to-eat, pickle menu items are encouraged, along with vendors of a wide variety of pickled and fermented products. Creative pickle-themed merchandise is also encouraged.
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/news
 TITLE: News - Picklesburgh
@@ -93,14 +93,14 @@ Voted #1 Food Festival in America for the three consecutive years, Picklesburgh 
 Three-Time Champ Picklesburgh Nominated Again for ‘Best Specialty Food Festival in America’!
 Voting is now open for Picklesburgh fans to defend its #1 status. The festival will make its dill-ightful return to Downtown Pittsburgh on July…
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/photo-gallery
 TITLE: Photo Gallery - Picklesburgh
 CONTENT:
 Photos: Courtesy of Pittsburgh Downtown Partnership. Photographers: Renee Rosensteel & Emery Meyer .
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/taste-of-picklesburgh
 TITLE: Taste of Picklesburgh - Picklesburgh
@@ -164,7 +164,7 @@ Waffles INCaffeinated
 Forbes Tavern
 310 Forbes Ave
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/vendors
 TITLE: Vendors - Picklesburgh
@@ -176,7 +176,7 @@ Picklesburgh Vendors
 Search for vendors by description or location (see map below):
 Information on this page may be updated at any time.
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/visit
 TITLE: Visit - Picklesburgh
@@ -194,14 +194,14 @@ No matter where you’re coming from there are lots of convenient parking option
 Accessibility
 Click here to learn more about accessibility accommodations.
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/visit/festival-map
 TITLE: Festival Maps - Picklesburgh
 CONTENT:
 Picklesburgh will return July 2025. Check back soon for updated maps.
 
-================================================================================
+
 
 URL: https://www.picklesburgh.com/visit/getting-here
 TITLE: Getting Here - Picklesburgh
@@ -218,5 +218,5 @@ No matter where you’re coming from there are lots of convenient parking option
 Accommodations
 With numerous options that are an easy walk to and from the festival, it’s easier than ever to make a weekend out of Picklesburgh! View a full listing of local hotels at on our Downtown hotel directory .
 
-================================================================================
+
 

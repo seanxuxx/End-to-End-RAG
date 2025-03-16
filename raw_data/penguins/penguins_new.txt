@@ -20,7 +20,7 @@ And no one knows that better than Sullivan, who greatly respects Crosby, what he
 Sullivan led Team USA to a win in the first matchup with Canada during round-robin play, and the Americans outplayed their rival for much of the night tonight. While the result was disappointing, Sullivan understands the bigger picture when it comes to the excitement that’s been generated around the game of hockey in the U.S., North America, and even the world.
 “These best-on-best tournaments, I think, bring out the best of the best,” Sullivan said. “And the commitment, the investment that all these teams have displayed every night, in my mind, has been an unbelievable celebration of hockey. From a hockey purist or a hockey fan in general, it's hard not to get excited about what we're witnessing.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/dewar-timmins-embracing-great-opportunity-in-pittsburgh
 TITLE: Dewar, Timmins Embracing "Great Opportunity" in Pittsburgh | Pittsburgh Penguins
@@ -53,7 +53,7 @@ Dewar speaks to the media.
 Dubas called the next few weeks a great opportunity for the new additions to assert themselves and get into a good spot for next season, with both players looking forward to the opportunity – and to play alongside the likes of Sidney Crosby, of course.
 “Yeah, of course that’s the first thing that comes to mind. I think my phone probably blew up more about that than anything about myself. So, it’s exciting,” Dewar said with a grin. “It’s a franchise that’s been successful and has a track record of developing players. So, it’s a great opportunity."
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/emotional-nedeljkovic-inspires-penguins-to-rally-past-flyers
 TITLE: Emotional Nedeljkovic Inspires Penguins to Rally Past Flyers | Pittsburgh Penguins
@@ -94,7 +94,7 @@ Coming out of the second intermission, Malkin broke through for a big goal. He�
 Sullivan was complementary of Blomqvist’s play as well, saying it was a big step forward for the rookie goaltender. Both netminders will likely see action this weekend, with a back-to-back set on the weekend, and their teammates know they need to tighten up in front of them.
 “We need to play right, because if we give them 2-on-1’s, 3-on-1’s, breakaways, not one goalie saves every shot,” Malkin said. “We need to block shots a little bit more. We need (to be) better in D-zone. Just help each one, Ned too. He’s trying to play hard, too. We need to help each goalie. Not a perfect night for everybody, but we take two points and just keep going. We play back-to-back against Boston, Toronto, it’s good teams. It's good challenge for us. Just play hard.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/fleury-plays-pittsburgh-for-the-final-time
 TITLE: Fleury Plays Pittsburgh for the Final Time | Pittsburgh Penguins
@@ -130,7 +130,7 @@ Another fitting part of today was Fleury moving into second place for all-time s
 The plan is for Fleury to play the rest of this season, and then officially hang them up. With the Wild in the playoff mix and looking to make a run, Fleury couldn’t let himself get too caught up in the significance of this game. At least, not right now.
 “Honestly, I tried to not make it too emotional... I just tried to stay in the moment, play the game,” Fleury said. “I think it's something I will think about and look back in the years to come.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-02-22-25-vs-washington-capitals
 TITLE: Game Preview: 02.22.25 vs. Washington Capitals | Pittsburgh Penguins
@@ -186,7 +186,7 @@ Meet the Penguins
 As part of the Penguins Pledge, and in partnership with the National Aviary, Aviary experts and some of their live penguin ambassadors will visit PPG Paints Arena for tonight's game. A permanent display on the FedEx Level of PPG Paints Arena will be home to the visiting penguins and also feature footage of the National Aviary’s Penguin Point habitat for the games when the birds aren't at the arena. The National Aviary is a global leader in the conservation efforts to save endangered African Penguins from extinction. More info can be found here .
 Home Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-02-23-25-vs-new-york-rangers
 TITLE: Game Preview: 02.23.25 vs. New York Rangers | Pittsburgh Penguins
@@ -221,7 +221,7 @@ Meet the Penguins
 As part of the Penguins Pledge, and in partnership with the National Aviary, Aviary experts and some of their live penguin ambassadors will visit PPG Paints Arena for tonight's game. A permanent display on the FedEx Level of PPG Paints Arena will be home to the visiting penguins and also feature footage of the National Aviary’s Penguin Point habitat for the games when the birds aren't at the arena. The National Aviary is a global leader in the conservation efforts to save endangered African Penguins from extinction. More info can be found here .
 Home Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-02-25-25-at-philadelphia-flyers
 TITLE: Game Preview: 02.25.25 at Philadelphia Flyers | Pittsburgh Penguins
@@ -253,7 +253,7 @@ Quick Hits
 5) The Penguins own an overall record of 399-92-49 when both Sidney Crosby and Evgeni Malkin record a point in a game.
 Away Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-02-27-25-vs-philadelphia-flyers
 TITLE: Game Preview: 02.27.25 vs. Philadelphia Flyers | Pittsburgh Penguins
@@ -284,7 +284,7 @@ Pittsburgh has allowed just two power-play goals over its last seven games.
 The Penguins own an overall record of 399-92-49 when both Sidney Crosby and Evgeni Malkin record a point in a game.
 Home Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-03-01-25-vs-boston-bruins
 TITLE: Game Preview: 03.01.25 vs. Boston Bruins | Pittsburgh Penguins
@@ -318,7 +318,7 @@ Rakell enters today’s game just one point away from reaching 500 career NHL po
 Defensemen Kris Letang and Erik Karlsson have had success against Boston in their careers. Letang is tied for third and Karlsson ranks fifth in points among active defensemen against the Bruins. Letang leads all active defensemen in assists (24) against the Bruins.
 Home Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-03-02-25-vs-toronto-maple-leafs
 TITLE: Game Preview: 03.02.25 vs. Toronto Maple Leafs | Pittsburgh Penguins
@@ -348,7 +348,7 @@ Rickard Rakell has been having a career year with the Penguins, leading the team
 Bryan Rust will be suiting up for his 619th game as a Pittsburgh Penguins this afternoon versus the Toronto Maple Leafs, which will tie Ron Schock for 10th-most games played in franchise history. Rust currently ranks ninth in goals (192), 16th in assists (223), and 14th in points (415) in franchise history.
 Home Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-03-04-25-at-colorado-avalanche
 TITLE: Game Preview: 03.04.25 at Colorado Avalanche | Pittsburgh Penguins
@@ -379,7 +379,7 @@ Ryan Shea ’s 23:48 of time on ice Sunday against Toronto was a single-game car
 The Penguins own an overall record of 400-92-49 when both Sidney Crosby and Evgeni Malkin record a point in a game.
 Away Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-03-07-25-at-vegas-golden-knights
 TITLE: Game Preview: 03.07.25 at Vegas Golden Knights | Pittsburgh Penguins
@@ -411,7 +411,7 @@ QUICK HITS
 5) The Penguins own an overall record of 400-92-49 when both Sidney Crosby and Evgeni Malkin record a point in a game.
 Away Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-03-09-25-at-minnesota-wild
 TITLE: Game Preview: 03.09.25 at Minnesota Wild | Pittsburgh Penguins
@@ -450,7 +450,7 @@ Quick Hits
 5) The Penguins own an overall record of 400-92-49 when both Sidney Crosby and Evgeni Malkin record a point in a game.
 Away Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/game-preview-03-11-25-vs-vegas-golden-knights
 TITLE: Game Preview: 03.11.25 vs. Vegas Golden Knights | Pittsburgh Penguins
@@ -479,7 +479,7 @@ Quick Hits
 5) The Penguins own an overall record of 401-92-49 when both Sidney Crosby and Evgeni Malkin record a point in a game.
 Home Game Triggers
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/how-the-penguins-unwound-during-the-4-nations-break
 TITLE: How the Penguins Unwound During the 4 Nations Break | Pittsburgh Penguins
@@ -497,7 +497,7 @@ Cody Glass obtained a legendary tan in Mexico: “Caught some rays. That was pre
 Ryan Graves went home to Nova Scotia and enjoyed the tranquility: “Winter things, skating, outdoor rink once. A lot of walks, you can walk on the beach, you can walk in the snow. It's nice. There's no one out there, we live in a cottage area. In the winter there's like, no one around.”
 Anthony Beauvillier took on some roller coasters: “I went to Cocoa Beach, chilled, went to Disney for a day, Universal for a day. I’m a big Harry Potter fan. Other than that, it was pretty quiet.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-14th-annual-charity-game-on-sportsnet-pittsburgh-to-be-held-on-march-21
 TITLE: Penguins’ 14th Annual Charity Game on SportsNet Pittsburgh to be Held on March 21 | Pittsburgh Penguins
@@ -513,7 +513,7 @@ Platinum Charity Bags include Black Charity Bag items plus:
 For more information on the Penguins Charity Game and to see a full list of everything included in each bag, visit https://pittsburghpenguinsfoundation.org/charity-game-preview .
 Penguins Charity Games on SportsNet Pittsburgh have raised nearly $20 million for the Penguins Foundation and the Mario Lemieux Foundation over the past 13 seasons.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-acquire-2025-second-round-draft-pick-from-washington-in-exchange-for-anthony-beauvillier
 TITLE: Penguins Acquire 2025 Second-Round Draft Pick from Washington in Exchange for Anthony Beauvillier | Pittsburgh Penguins
@@ -521,7 +521,7 @@ CONTENT:
 The Pittsburgh Penguins have acquired a 2025 second-round draft pick from the Washington Capitals in exchange for forward Anthony Beauvillier, it was announced today by President of Hockey Operations and General Manager Kyle Dubas.
 The acquisition of Washington’s second-round selection this year gives Pittsburgh 28 draft picks over the next three NHL Drafts, which includes four first-round selections and 16 picks in the first three rounds. No team has more draft picks, or selections in the first three rounds, over the next three NHL Drafts than Pittsburgh.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-acquire-2028-fifth-round-draft-pick-from-san-jose-in-exchange-for-vincent-desharnais
 TITLE: Penguins Acquire 2028 Fifth-Round Draft Pick from San Jose in exchange for Vincent Desharnais | Pittsburgh Penguins
@@ -529,7 +529,7 @@ CONTENT:
 The Pittsburgh Penguins have acquired a 2028 fifth-round draft pick from the San Jose Sharks in exchange for defenseman Vincent Desharnais, it was announced today by President of Hockey Operations and General Manager Kyle Dubas.
 The acquisition of the fifth-round draft pick gives the Penguins eight selections in the 2028 NHL Draft. They own each of their picks in all seven rounds plus the newly-acquired fifth-round selection.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-acquire-a-2026-second-round-draft-pick-and-2027-fourth-round-draft-pick-from-winnipeg-in-exchange-for-luke-schenn
 TITLE: Penguins Acquire a 2026 Second-Round Draft Pick and 2027 Fourth-Round Draft Pick from Winnipeg in Exchange for Luke Schenn | Pittsburgh Penguins
@@ -537,7 +537,7 @@ CONTENT:
 The Pittsburgh Penguins have acquired a 2026 second-round draft pick and a 2027 fourth-round draft pick from the Winnipeg Jets in exchange for defenseman Luke Schenn, it was announced today by President of Hockey Operations and General Manager Kyle Dubas.
 The acquisition of Winnipeg’s two selections gives Pittsburgh 30 draft picks over the next three NHL Drafts, which includes four first-round selections and 17 picks in the first three rounds. No team has more draft picks, or selections in the first three rounds, over the next three NHL Drafts than Pittsburgh.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-acquire-defenseman-conor-timmins-and-forward-connor-dewar-from-toronto-in-exchange-for-a-2025-fifth-round-pick
 TITLE: Penguins Acquire Defenseman Conor Timmins and Forward Connor Dewar from Toronto in Exchange for a 2025 Fifth-Round Pick | Pittsburgh Penguins
@@ -552,7 +552,7 @@ Dewar, 25, has spent the 2024-25 season with the Maple Leafs and the Toronto Mar
 The 5-foot-10, 192-pound forward has played parts of four NHL seasons with Toronto and the Minnesota Wild from 2021-25. The forward has recorded 19 goals, 27 assists and 46 points in 221 career NHL games. He has also spent parts of four seasons in the AHL with the Iowa Wild and Toronto Marlies, recording 61 points (27G-34A) in 104 career AHL games.
 A native of The Pas, Manitoba, Dewar was originally drafted in the third round (92nd overall) of the 2018 NHL Draft by Minnesota.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-acquire-defenseman-luke-schenn-and-forward-tommy-novak-from-nashville-in-exchange-for-michael-bunting-and-a-2026-fourth-round-draft-pick
 TITLE: Penguins Acquire Defenseman Luke Schenn and Forward Tommy Novak from Nashville in Exchange for Michael Bunting and a 2026 Fourth-Round Draft Pick | Pittsburgh Penguins
@@ -569,7 +569,7 @@ In 201 career NHL contests, Novak has recorded 49 goals, 68 assists, 117 points 
 The native of St. Paul, Minnesota was drafted by Nashville in the third round (85 th overall) of the 2015 NHL Draft. Prior to being drafted, Novak played four seasons of collegiate hockey at the University of Minnesota from 2015-19.
 After sending its 2026 fourth-round draft pick to Nashville, Pittsburgh has 27 selections over the next three NHL drafts, which includes four first-round selections and 15 picks in the first three rounds. No team has more draft picks, or selections in the first three rounds, over the next three NHL Drafts than Pittsburgh.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-acquire-forwards-chase-stillman-max-graham-and-a-2027-third-round-draft-pick-from-new-jersey-in-exchange-for-cody-glass-and-jonathan-gruden
 TITLE: Penguins Acquire Forwards Chase Stillman, Max Graham and a 2027 Third-Round Draft Pick from New Jersey in Exchange for Cody Glass and Jonathan Gruden | Pittsburgh Penguins
@@ -583,7 +583,7 @@ Graham, 20, has spent the 2024-25 season as captain for the Kelowna Rockets of t
 Graham was originally drafted in the fifth round (139 th overall) of the 2024 NHL Draft by New Jersey.
 The acquisition of New Jersey’s selection gives Pittsburgh 31 draft picks over the next three NHL Drafts, which includes four first-round selections and 18 picks in the first three rounds. No team has more draft picks, or selections in the first three rounds, over the next three NHL Drafts than Pittsburgh.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-can-t-overcome-early-deficit-against-boston
 TITLE: Penguins Can’t Overcome Early Deficit against Boston | Pittsburgh Penguins
@@ -602,7 +602,7 @@ Anthony Beauvillier then scored shorthanded to cut the deficit to 2-1 before Ric
 “I think we’re just kind of hesitating a little bit and holding onto pucks,” Grzelcyk said. “I think we got into a good groove there for a while, just because we were moving pucks quick, no matter if it was obvious the guy was open. It kind of throws the PK off. It seems like we’re kind of dragging it a little bit and it’s easy for the penalty kill to set up in the structure that they want. So we’ve got to move pucks quick and also attack more down low. I think we’re playing in the high ice a little bit too much.”
 The Penguins will look to bounce back Sunday against the Toronto Maple Leafs at 1 p.m. to cap off their three-game homestand.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-fight-hard-fall-short-against-rangers
 TITLE: Penguins Fight Hard, Fall Short Against Rangers | Pittsburgh Penguins
@@ -623,7 +623,7 @@ As Hayes said, losing two in a row coming off the break wasn’t the plan. The P
 “Listen, we understand where we're at,” Sullivan said. “We know that every game is important. Every two points are important. We're just going to stay in the moment and keep fighting, and we're going to fight till the very end. We're going to do everything we can to stay in the race here.
 “I thought we fought hard tonight. We didn't get the result. We got to figure out where we go from here. But it's not doom and gloom. I think this group understands that that type of an attitude doesn't get us anywhere. So, we're going to have to dig in here. We'll keep fighting. We'll keep battling. We'll try to get the result the next game.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-gain-skilled-forward-in-tommy-novak
 TITLE: Penguins Gain Skilled Forward in Tommy Novak | Pittsburgh Penguins
@@ -642,7 +642,7 @@ While Sullivan said they were looking forward to familiarizing themselves even m
 Tomasino reached out to Novak right away, as his trade to Pittsburgh back in November was also the first of his career. But just like Tomasino, he’s looking forward to a fresh start after some tough sledding.
 “Obviously, things didn't go to plan at all. So, changes were made. I'm in Pittsburgh now, and I'm excited to be here for sure,” Novak said. “Coming to such a storied franchise and to play with such great players – it's an honor to play for this franchise. I'm really excited to get going.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-re-sign-defenseman-ryan-shea-to-a-one-year-contract-extension
 TITLE: Penguins Re-Sign Defenseman Ryan Shea to a One-Year Contract Extension | Pittsburgh Penguins
@@ -654,7 +654,7 @@ Shea has played in 59 career NHL games, all with Pittsburgh over the past two se
 The 6-foot-2, 200-pound defenseman has appeared in 186 career American Hockey League games between the Texas Stars and Wilkes-Barre/Scranton Penguins, totaling 72 points (12G-60A).
 The Milton, Massachusetts native played four seasons (2016-20) with Northeastern University (NCAA). Shea was originally drafted by Chicago in the fourth round (121st overall) of the 2015 NHL Draft.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-ready-to-shift-from-asset-collection-to-execution
 TITLE: Penguins Ready to Shift from Asset Collection to Execution | Pittsburgh Penguins
@@ -683,7 +683,7 @@ End of dialog window.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 Kyle Dubas Speaks to the Media Following the Trade Deadline
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-show-resilience-but-leafs-win-in-overtime
 TITLE: Penguins Show Resilience, But Leafs Win in Overtime | Pittsburgh Penguins
@@ -712,7 +712,7 @@ Crosby’s 611th career goal allowed him to surpass Bobby Hull (610) for sole po
 “He's incredible,” said Maple Leafs forward William Nylander, who ranks second in the NHL with 35 goals on the season. “He's one of the best players to ever play. I'm not surprised that he's playing the way he is. He's an incredible player."
 “He's still just as skilled. It was hard defending him today,” Knies said. “He was making plays. I think he's been remarkable for their team and their success. So, it's fun to play against him, for sure."
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-sign-defenseman-chase-pietila-to-a-three-year-entry-level-contract
 TITLE: Penguins Sign Defenseman Chase Pietila to a Three-Year Entry-Level Contract | Pittsburgh Penguins
@@ -723,7 +723,7 @@ Pietila, 21, spent the 2024-25 season as an alternate captain of Michigan Tech (
 The Howell, Michigan native played two seasons of collegiate hockey for Michigan Tech from 2023-25, tallying 44 points (10G-34A) in 76 career NCAA games. Prior to his collegiate experience, the defenseman spent three seasons in the United States Hockey League with the Youngstown Phantoms and Lincoln Stars from 2020-23. In 2023, Pietila earned a USHL Clark Cup Championship as an alternate captain of Youngstown.
 Pietila was originally drafted by Pittsburgh in the fourth round (111th overall) of the 2024 NHL Draft.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-sign-defenseman-daniel-laatsch-to-a-two-year-entry-level-contract
 TITLE: Penguins Sign Defenseman Daniel Laatsch to a Two-Year Entry-Level Contract | Pittsburgh Penguins
@@ -735,7 +735,7 @@ Laatsch’s best season with Wisconsin came during the 2023-24 NCAA season, wher
 Prior to his collegiate career, the Altoona, Wisconsin native played for the Sioux City Musketeers of the United States Hockey League during the 2020-21 season where he scored 19 points (2G-17A). Laatsch is also a product of the US National Team Development Program, spending two seasons from 2018-20 with the program and scoring 14 points (4G-10A).
 Laatsch was originally selected by Pittsburgh in the seventh round (215 th overall) of the 2021 NHL Draft.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-sign-defenseman-finn-harding-to-a-three-year-entry-level-contract
 TITLE: Penguins Sign Defenseman Finn Harding to a Three-Year Entry-Level Contract | Pittsburgh Penguins
@@ -745,7 +745,7 @@ Harding, 20, has spent the 2024-25 season as an alternate captain for the Brampt
 The Toronto, Ontario native has played 190 games for the Steelheads over the course of three seasons from 2022-25. During that span, he has recorded 19 goals, 80 assists, 99 points and is plus-90. He has one goal and two assists for three points in 11 playoff games with the Steelheads.
 Harding was originally selected by Pittsburgh in the seventh round (223rd overall) of the 2024 NHL Draft.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-simply-weren-t-good-enough-in-philadelphia
 TITLE: Penguins "Simply Weren't Good Enough" in Philadelphia | Pittsburgh Penguins
@@ -765,7 +765,7 @@ Lineup Notes
 *Matt Grzelcyk was good to go following a hit from Matt Rempe in the first period of Sunday’s matchup with the Rangers that sent Penguins defenseman to the locker room for the remainder of the day.
 “It was kind of just like a scary kind of incident, probably more just caught me by surprise than anything,” Grzelcyk said. “I never touched the puck, I never had possession of the puck. So, in that spot, I don’t think I’m really expecting to get finished there. If anything, maybe rubbed out. I think his teammate had the puck the whole time through the neutral zone and dumped it in. I chased it from the other corner. I know he’s a big man, but probably think you’ve got to have a little bit more awareness in situations. He’s coming from my blind side there, so I’m not really expecting to take a big hit in that position.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/penguins-strong-effort-not-enough-against-avs
 TITLE: Penguins' Strong Effort Not Enough Against Avs | Pittsburgh Penguins
@@ -785,7 +785,7 @@ They couldn’t find a power-play goal on two tries in the second period, and af
 Note: Defenseman Vladislav Kolyachonok made his Penguins debut tonight after being claimed off of waivers from Utah last month. The coaching staff had been trying to familiarize themselves with his game before inserting him into the lineup.
 “I thought Vlady was good,” Sullivan said. “His mobility was evident. It was hard to get a read on his overall game, because we haven't had too many practices, and the ones we've had have been more recovery skates than anything. It was nice to see him in a game, and I thought he was getting back to pucks. I thought he made some really nice plays with the puck. He defended well with his stick, but his mobility was probably the thing that jumped out at me the most.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/pittsburgh-celebrates-mike-lange-s-life-and-legacy
 TITLE: Pittsburgh Celebrates Mike Lange's Life and Legacy | Pittsburgh Penguins
@@ -816,7 +816,7 @@ Lange had a special saying for the captain, “Slap me silly, Sidney!” – so 
 “I think everyone in Pittsburgh knows his voice, you know? He’s probably the most popular voice in Pittsburgh,” Malkin said. “He’s a great guy. I know he is sick the last couple of years. Tough loss for the whole organization. It’s hard to say anything right now... I met him a couple times, he say, ‘Malkin, make me a milkshake!’ It’s great words for me. It’s a tough loss, but I hope his family is good.”
 Sean O'Donnell contributed to this story.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/pittsburgh-penguins-contribute-500-000-to-renovate-ammon-recreation-center-in-hill-district
 TITLE: Pittsburgh Penguins Contribute $500,000 to Renovate Ammon Recreation Center in Hill District | Pittsburgh Penguins
@@ -827,7 +827,7 @@ Located just a few blocks from PPG Paints Arena, the Ammon Recreation Center has
 This latest investment builds on the Penguins’ previous $100,000 contribution in 2020, which helped establish a Rec2Tech computer lab to bridge the digital divide for local students and families.
 The Penguins’ commitment to Ammon is part of a broader strategy to support economic and community development in the region. Over the years, the team has worked with partners to help secure funding for Frankie Pace Park, contribute millions to the Greater Hill District Reinvestment Fund, and allocate significant contracts to minority- and women-owned businesses through major projects like the recently-opened FNB Financial Center and the forthcoming Music Venue development.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/pittsburgh-pennies-legacy-lives-on
 TITLE: Pittsburgh Pennies Legacy Lives On | Pittsburgh Penguins
@@ -846,7 +846,7 @@ That process was one fueled by passion from Gaab and her teammates, to play the 
 Now, years later, Gaab and her crew were down at ice level at PPG Paints Arena in December for the skills clinic that officially launched this iteration of the Pittsburgh Pennies , before heading up to a suite on Sunday. Seeing the Pittsburgh Pennies legacy live on through such an initiative, centered around creating opportunities for girls to enjoy the sport, is a full-circle moment for Gaab and her former teammates, who at one point were their only advocates.
 “I just feel proud and honored that I had some small part in girls playing hockey, from the past to the future,” Gaab said. “I can't even imagine what it's going to be like 10 years from now.”
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/players-coaches-broadcasters-pay-tribute-to-mike-lange
 TITLE: Players, Coaches, Broadcasters Pay Tribute to Mike Lange | Pittsburgh Penguins
@@ -888,7 +888,7 @@ So, it got into overtime, and future Hall of Famers were all over the ice. Marti
 After the game was over, Mike and I are down on the loading dock. Mike is waiting for the team bus, and I'm about to get in the car and go home. I said, “it was a lot of fun, wasn't it?” He said, “It's a blessing.” And then there was a pause, and then he said, “Why is it always so cold in here?!” And I said, “Well I don't know, management seems to think it makes for better ice.” But anyway, we had that moment where we shared the joy of doing our work and then there came the reality, “why am I standing here shivering?"
 Bourque joined Lange as his color analyst in the radio booth in the 2006-07 season. They were broadcast partners until Lange retired in 2021. The Hall of Famer and the Old 29er were close friends and had such a bond. Bourque went on WDVE to share all sorts of reflections on Lange, both professionally and personally. It’s fantastic stuff that will make you both smile like a butcher's dog and cry instead of winding your watch. The full interview is here .
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/the-penguins-mourn-the-passing-of-legendary-broadcaster-mike-lange
 TITLE: The Voice of the Penguins: Remembering Mike Lange | Pittsburgh Penguins
@@ -935,7 +935,7 @@ That night was a reminder for Lange that your greatest legacy will be based on h
 And as for the people of this city – they revered Mike Lange. He understood them, and they understood him. He once said it’s not the Cups or individual magic on the ice that would stick with him forever. “I think, God, was I lucky to get to know some of these great people. God, was this whole town lucky.”
 But we were the lucky ones.
 
-================================================================================
+
 
 URL: https://www.nhl.com/penguins/news/tristan-jarry-talks-returning-to-pittsburgh
 TITLE: Tristan Jarry Talks Returning to Pittsburgh | Pittsburgh Penguins
@@ -967,7 +967,7 @@ Sullivan said he’s heard so many great things about Schenn, a two-time Stanley
 As for Novak, Sullivan said he anticipates the 27-year-old lining up at center.
 “We're excited about getting to know his game a little bit more closely. But obviously, our Hockey Operations group is really excited about this guy,” Sullivan said. “He's a younger player. He has good size. He's had a couple of pretty good years in Nashville. Maybe a little bit of a down year this year, but prior to that, he's played pretty well. So, he's a guy that we're going to explore where we think he might best fit.”
 
-================================================================================
+
 
 The official website of the Pittsburgh Penguins  
 www.nhl.com/penguins

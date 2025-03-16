@@ -130,6 +130,7 @@ if __name__ == '__main__':
     set_logger('rag_pipeline', file_mode='w')
     logging.info(f'Configuration:\n{vars(args)}')
 
+    # Load dataset
     questions, reference_answers = load_data(args.experiment_file,
                                              args.no_reference_answers)
 
@@ -177,6 +178,7 @@ if __name__ == '__main__':
         torch.cuda.ipc_collect()
         torch.cuda.empty_cache()
 
+    # Save result
     result = convert_query_responses(queries, reference_answers)
     configuration = vars(args)
     variant_name = format_variant_name(

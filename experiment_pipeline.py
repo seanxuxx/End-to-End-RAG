@@ -28,9 +28,10 @@ def load_data(question_filepath: str, no_reference_answers: bool)-> tuple[list[s
                                              'reference_answers.json')
         with open(reference_answer_file, 'r') as f:
             reference_answers = json.load(f)
+        logging.info(
+            f'Load {len(reference_answers)} reference answers from: {reference_answer_file}')
     else:
         reference_answers = {}
-    logging.info(f'Load {len(reference_answers)} reference answers from: {reference_answer_file}')
 
     return questions, reference_answers
 

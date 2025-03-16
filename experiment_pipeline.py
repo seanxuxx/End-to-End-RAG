@@ -43,10 +43,13 @@ def convert_query_responses(queries: List[Query], reference_answers: dict) -> Li
 
 
 def format_variant_name(*args) -> str:
-    variant_name_component = list(args)
+    variant_name_component = []
+    for item in args:
+        s = str(item).split('/')[-1]  # Remove potential path
+        s = re.sub(r'[^\w]', '_', s)  # Remove special characters
+        variant_name_component.append(s)
     variant_name_component.append(datetime.now().strftime("%m%d%H%M"))
-    variant_name = '-'.join([re.sub(r'[^\w]', '_', str(item))
-                             for item in variant_name_component])
+    variant_name = '-'.join(variant_name_component)
     return variant_name
 
 

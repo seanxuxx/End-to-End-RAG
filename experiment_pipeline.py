@@ -22,6 +22,7 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           TextGenerationPipeline, pipeline)
 
 from rag_pipeline import *
+from evaluation_pipeline import *
 from utils import get_chunk_max_length, set_logger
 
 # Experiment hyperparameters
@@ -29,10 +30,10 @@ from utils import get_chunk_max_length, set_logger
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument('experiment_type', type=str, help='train/test/test_set')
-    parser.add_argument('--data_dir', type=str, default='raw_data')
-    parser.add_argument('--experiment_folder', type=str, default='Annotation/train_testdata')
+    parser.add_argument('experiment_type', type=str, help='withreference/noreference')
+    parser.add_argument('--experiment_file', type=str, default='Annotation/train_testdata/test.json')
     parser.add_argument('--result_folder', type=str, default='Annotation/experiment_result')
+    parser.add_argument('--data_dir', type=str, default='raw_data')
     # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
     parser.add_argument('--chunk_size', type=int, default=500)
@@ -76,10 +77,10 @@ if __name__ == '__main__':
                            task=args.task, model_name=args.llm_model)
 
     # Run RAG
-    with open(os.path.join(args.experiment_folder, args.experiment_type+'.json'), 'r') as f:
+    with open(args.experiment_file, 'r') as f:
         content = json.load(f)
-    questions = [item['Question'] for item in content][:10]
-    # questions = random.sample(questions, 30)
+    questions = [item['Question'] for item in content]
+    questions = questions[:10] #cmt when running the whole dataset
     generated_answer = []
     context = []
     for question in questions:
@@ -87,7 +88,7 @@ if __name__ == '__main__':
         rag_model.qa(query, **generation_config.to_dict())
         generated_answer.append(query['answer'])
         context.append(query['context'])
-    if args.experiment_type != 'test_set':
+    if args.experiment_type == 'withreference':
         reference_answer = [item['Answer'] for item in content]
         result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
                    '<Reference>Answer': reference_answer[i], '<Retrived>context': context[i]} for i in range(len(questions))]
@@ -95,8 +96,18 @@ if __name__ == '__main__':
         result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
                    '<Retrived>context': context[i]} for i in range(len(questions))]
 
-    with open(os.path.join(args.result_folder, args.experiment_type+'.json'), 'w') as f:
+    chunk_method = 'semantic' if args.is_semantic_chunking else 'character'
+    with open(os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}.json'), 'w') as f:
         json.dump(result, f, indent=4)
 
-    with open(os.path.join(args.result_folder, args.experiment_type+'config.json'), 'w') as f:
+    with open(os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}-config.json'), 'w') as f:
         json.dump(vars(args) | generation_config.to_dict(), f, indent=4)
+    #evaluation
+    model_outputs = [{'Question': item['Question'], 'Answer': item['<Generated>Answer']} for item in result]
+    annotated_data = [{'Question': item['Question'], 'Answer': item['<Reference>Answer']} for item in result]
+    if args.experiment_type == 'withreference':
+        evaluation = QAEvaluator(model_outputs, annotated_data)
+        evaluation.evaluate()
+        metrics_output = os.path.join(args.result_folder, f'{args.experiment_type}-{chunk_method}-{args.chunk_size}-metrics.json')
+        evaluation.save_logs_to_json(metrics_output)
+        

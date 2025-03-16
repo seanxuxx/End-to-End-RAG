@@ -61,9 +61,9 @@ class Query(TypedDict):
 
 class DataStore():
     def __init__(self, model_name: str, data_dir: str,
-                 chunk_size=500, chunk_overlap=100,
+                 chunk_size=1000, chunk_overlap=100,
                  filename_pattern='**/*.txt',
-                 is_semantic_chunking=False, is_upsert_data=False):
+                 is_semantic_chunking=True, is_new_index=True):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
@@ -72,45 +72,43 @@ class DataStore():
             chunk_overlap (int, optional): Defaults to 100.
             filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
             is_semantic_chunking (bool, optional):
-                True for using SemanticChunker, otherwise RecursiveCharacterTextSplitter. Defaults to False.
-            is_upsert_data (bool, optional):
-                Whether to upsert documents to vector store. Defaults to False.
+                True for mainly using SemanticChunker and False for RecursiveCharacterTextSplitter.
+                Defaults to True.
+            is_new_index (bool, optional):
+                Whether to load, chunk, and upsert documents to vector store.
+                Defaults to True.
         """
         # Data config
         self.data_dir = data_dir
         self.filename_pattern = filename_pattern
 
         # Chunking config
-        chunker_name = 'semantic' if is_semantic_chunking else 'recursive'
         self.is_semantic_chunking = is_semantic_chunking
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
         # Index config
-        index_name = f'{model_name}-{chunker_name}-{chunk_size}-{chunk_overlap}'.lower()
         self.index_name = re.sub(r'[^a-zA-Z0-9]', '-',
-                                 index_name)  # Rename for Pinecone index name requirement
-        self.is_upsert_data = is_upsert_data
+                                 f'{model_name}-{chunk_size}-{chunk_overlap}'.lower())
 
         # Embedding model config
         self.embeddings = HuggingFaceEmbeddings(model_name=model_name,
                                                 model_kwargs={'device': DEVICE})
         self.dimension = len(self.embeddings.embed_documents(['test'])[0])
 
-        # Initialize Pinecone Index and Vector Store
-        self.pc_index = self.get_pinecone_index()
-        self.vector_store = PineconeVectorStore(index=self.pc_index, embedding=self.embeddings)
-        self.retriever = self.vector_store.as_retriever()
+        # Initialize Vector Store
+        if is_new_index:  # Create new index and vector store and upsert documents
+            self.vector_store = self.get_vector_store()
+            chunks = self.chunk_documents()
+            logging.info(f'Upserting {len(chunks)} chunks to Index "{self.index_name}"...')
+            self.vector_store.add_documents(chunks)
+        else:  # Load existing vector store
+            pc_index = pc.Index(self.index_name)
+            self.vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
 
-        if self.is_upsert_data:
-            self.upsert_vector_store()
-
-    def get_pinecone_index(self) -> Index:
+    def get_vector_store(self) -> PineconeVectorStore:
         """
-        Set up Pinecone Index with mathing dimension and similarity score.
-
-        Returns:
-            Index
+            PineconeVectorStore
         """
         if self.index_name in pc.list_indexes().names():
             pc.delete_index(self.index_name)
@@ -118,12 +116,11 @@ class DataStore():
         pc.create_index(name=self.index_name, dimension=self.dimension,
                         spec=ServerlessSpec(cloud="aws", region="us-east-1"))
         pc_index = pc.Index(self.index_name)
-        return pc_index
+        vector_store = PineconeVectorStore(index=pc_index, embedding=self.embeddings)
+        return vector_store
 
-    def upsert_vector_store(self):
+    def chunk_documents(self) -> List[Document]:
         """
-        Update and insert chunked documents to vector store.
-
         Returns:
             list[Document]
         """
@@ -134,23 +131,19 @@ class DataStore():
         docs = loader.load()
 
         # Chunk documents
-        if self.is_semantic_chunking:  # SemanticChunker + potentail RecursiveCharacterTextSplitter
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
+                                                       chunk_overlap=self.chunk_overlap)
+        if self.is_semantic_chunking:  # SemanticChunker + RecursiveCharacterTextSplitter
             semantic_splitter = SemanticChunker(self.embeddings)
             semantic_chunks = [chunk for doc in tqdm(docs, desc='Chunk docs')
                                for chunk in semantic_splitter.split_documents([doc])]
-            # Sub-chunk long documents where the document length falls in the upper outlier range
-            max_length = min(get_chunk_max_length(semantic_chunks), 40000)
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=max_length,
-                                                           chunk_overlap=int(max_length*0.1))
             chunks = []
             for chunk in semantic_chunks:
-                if len(chunk.page_content) < max_length:
+                if len(chunk.page_content) <= self.chunk_size:
                     chunks.append(chunk)
-                else:  # Document length outliers
+                else:  # Sub-chunk documents with length larger than chunk_size
                     chunks.extend(text_splitter.split_documents([chunk]))
         else:  # Pure RecursiveCharacterTextSplitter
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
-                                                           chunk_overlap=self.chunk_overlap)
             chunks = text_splitter.split_documents(docs)
 
         # Add IDs for the documents
@@ -159,10 +152,7 @@ class DataStore():
             id_text = re.sub(r'[^\w]', '_', id_text).lower()
             doc.id = id_text
 
-        # Index documents
-        logging.info(f'Upserting {len(chunks)} chunks to Index "{self.index_name}"...')
-        self.vector_store.add_documents(chunks)
-        logging.info("Done")
+        return chunks
 
 
 class RetrivalLM():
@@ -225,13 +215,13 @@ class RetrivalLM():
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     # Required parameters
-    parser.add_argument('data_dir', type=str, help='Raw data directory')
+    parser.add_argument('--data_dir', type=str, default='raw_data',
+                        help='Raw data directory')
     # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
-    parser.add_argument('--chunk_size', type=int, default=500)
+    parser.add_argument('--chunk_size', type=int, default=1000)
     parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--is_semantic_chunking', type=bool, default=False)
-    parser.add_argument('--search_type', type=str, default='similarity')
+    parser.add_argument('--is_semantic_chunking', type=bool, default=True)
     # LLM parameters
     parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
     parser.add_argument('--task', type=str, default='text-generation')

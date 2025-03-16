@@ -2,25 +2,12 @@ import argparse
 import json
 import logging
 import os
-import random
 import re
 from datetime import datetime
-from typing import List, Tuple, TypedDict
+from typing import List
 
 import torch
-from dotenv import load_dotenv
-from langchain_community.document_loaders import DirectoryLoader
-from langchain_core.documents import Document
-from langchain_experimental.text_splitter import SemanticChunker
-from langchain_huggingface.embeddings.huggingface import HuggingFaceEmbeddings
-from langchain_pinecone import PineconeVectorStore
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pinecone import Pinecone, ServerlessSpec
-from pinecone.data.index import Index
 from tqdm import tqdm
-from transformers import (AutoModelForCausalLM, AutoTokenizer,
-                          BitsAndBytesConfig, GenerationConfig,
-                          TextGenerationPipeline, pipeline)
 
 from evaluation_pipeline import *
 from rag_pipeline import *
@@ -54,28 +41,31 @@ def convert_query_responses(queries: List[Query], reference_answers: dict) -> Li
     return result
 
 
-def get_output_filepaths(embedding_model: str, generator_model: str, search_type: str) -> Tuple[str, str, str]:
-    variant_name_component = [embedding_model, generator_model, search_type,
-                              datetime.now().strftime("%m%d%H%M")]
-    variant_name = '-'.join([str(item) for item in variant_name_component])
-    variant_folder = os.path.join(args.output_folder, variant_name)
-    os.makedirs(variant_folder, exist_ok=True)
-    result_filepath = os.path.join(variant_folder, 'results.json')
-    config_filepath = os.path.join(variant_folder, 'config.json')
-    eval_filepath = os.path.join(variant_folder, 'evaluation.json')
-    return result_filepath, config_filepath, eval_filepath
+def format_variant_name(*args) -> str:
+    variant_name_component = list(args)
+    variant_name_component.append(datetime.now().strftime("%m%d%H%M"))
+    variant_name = '-'.join([re.sub(r'[^\w]', '_', str(item))
+                             for item in variant_name_component])
+    return variant_name
 
 
-def save_outputs(result_filepath: str, config_filepath: str, eval_filepath: str):
-    with open(result_filepath, 'w') as f:
+def save_outputs(result: List[dict], configuration: dict, evaluate: bool,
+                 output_dir: str, sub_dir: str):
+    dir_path = os.path.join(output_dir, sub_dir)
+    os.makedirs(dir_path, exist_ok=True)
+
+    qa_filepath = os.path.join(dir_path, 'results.json')
+    with open(qa_filepath, 'w') as f:
         json.dump(result, f, indent=2)
-        logging.info(f'Save {len(result)} results to {result_filepath}')
+        logging.info(f'Save {len(result)} results to {qa_filepath}')
 
+    config_filepath = os.path.join(dir_path, 'config.json')
     with open(config_filepath, 'w') as f:
-        json.dump(vars(args), f, indent=2)
+        json.dump(configuration, f, indent=2)
         logging.info(f'Save model configuration to {config_filepath}')
 
-    if eval_filepath:  # Evaluation
+    if evaluate:  # Evaluation
+        eval_filepath = os.path.join(dir_path, 'evaluation.json')
         model_outputs = [{'Question': item['question'],
                           'Answer': item['answer']} for item in result]
         annotated_data = [{'Question': item['question'],
@@ -157,9 +147,13 @@ if __name__ == '__main__':
         torch.cuda.empty_cache()
 
     result = convert_query_responses(queries, reference_answers)
-
-    result_filepath, config_filepath, eval_filepath = get_output_filepaths(
-        args.embedding_model, args.generator_model, args.search_type)
-    eval_filepath = '' if args.no_reference_answers else eval_filepath
-
-    save_outputs(result_filepath, config_filepath, eval_filepath)
+    configuration = vars(args)
+    variant_name = format_variant_name(
+        args.embedding_model,
+        args.chunk_size,
+        args.chunk_overlap,
+        args.search_type,
+        args.generator_model
+    )
+    save_outputs(result, configuration, evaluate=not args.no_reference_answers,
+                 output_dir=args.output_folder, sub_dir=variant_name)

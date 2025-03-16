@@ -166,8 +166,7 @@ class RetrivalLM():
                  search_type: str = 'similarity',
                  search_kwargs: dict = {'k': 3},
                  task='text-generation',
-                 model_name='mistralai/Mistral-7B-Instruct-v0.2',
-                 max_new_token_length=100):
+                 model_name='mistralai/Mistral-7B-Instruct-v0.2'):
         """
         Args:
             data_store (DataStore): DataStore storing chunked documents.
@@ -182,7 +181,6 @@ class RetrivalLM():
                 Defaults to 'text-generation'.
                 Options: 'text-geneartion', 'text2text-generation'.
             model_name (str, optional): Model name for pipeline(). Should be consistent with the pipeline task.
-            max_new_token_length (int, optional): Maximum number of tokens to generate. Defaults to 100.
         """
         # Retriever config
         self.retriever = data_store.vector_store.as_retriever(
@@ -192,7 +190,7 @@ class RetrivalLM():
 
         # LLM config
         torch.cuda.empty_cache()
-        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name, model_max_length=4096)
         if not self.tokenizer.pad_token:
             self.tokenizer.pad_token = self.tokenizer.eos_token
         self.task = task
@@ -200,7 +198,6 @@ class RetrivalLM():
             task=task,
             model=model_name,
             tokenizer=self.tokenizer,
-            max_new_tokens=max_new_token_length,
             torch_dtype=torch.bfloat16,
             device=DEVICE
         )
@@ -274,16 +271,14 @@ if __name__ == '__main__':
     )
 
     # Set up generator
-    generation_config = GenerationConfig(
-        max_new_tokens=100,
-        do_sample=True,
-        temperature=0.01,
-        top_p=0.95,
-        repetition_penalty=1.2,
-        use_cache=True,
-        eos_token_id=rag_model.tokenizer.eos_token_id,
-        pad_token_id=rag_model.tokenizer.pad_token_id,
-    )
+    generation_config = {
+        'max_new_tokens': 50,
+        'do_sample': True,
+        'temperature': 0.01,
+        'top_p': 0.95,
+        'repetition_penalty': 1.2,
+        'use_cache': True,
+    }
 
     # Run RAG
     question = [
@@ -294,7 +289,7 @@ if __name__ == '__main__':
     queries = []
     for question in tqdm(question):
         query = Query(question=question, context=[], answer="")
-        rag_model.qa(query, **generation_config.to_dict())
+        rag_model.qa(query, **generation_config)
         queries.append(query)
 
     with open('output.json', 'w') as f:

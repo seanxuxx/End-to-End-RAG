@@ -10,26 +10,30 @@ def write_data_files(data: List[str], output_dir: str, sub_dir: str):
     os.makedirs(data_dir, exist_ok=True)
 
     questions = []
-    answers = []
+    answers = {}
     for i, qa_text in enumerate(data):
         lines = qa_text.split('\n')
         curr_q = lines[0].removeprefix('<Generated>Question: ').strip()
         curr_a_list = ' '.join(lines[1:]).split('Answer:')
         curr_a = '; '.join([a.strip() for a in curr_a_list if a.strip()])
         questions.append(curr_q)
-        answers.append({f"{i+1}": curr_a})
+        answers[f"{i+1}"] = curr_a
 
-    with open(os.path.join(data_dir, 'questions.txt'), 'w') as f:
+    question_filepath = os.path.join(data_dir, 'questions.txt')
+    answer_filepath = os.path.join(data_dir, 'reference_answers.json')
+
+    with open(question_filepath, 'w') as f:
         f.write('\n'.join(questions))
+        print(f"{sub_dir} questions written to {question_filepath}")
 
-    with open(os.path.join(data_dir, 'reference_answers.json'), 'w') as f:
+    with open(answer_filepath, 'w') as f:
         json.dump(answers, f, indent=4)
+        print(f"{sub_dir} answers written to {answer_filepath}")
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--input_folder', type=str, required=True)
-    parser.add_argument('--output_folder', type=str, required=True)
     args = parser.parse_args()
 
     os.chdir(os.path.dirname(__file__))
@@ -47,26 +51,6 @@ if __name__ == '__main__':
                 train.extend(train_list)
                 test.extend(test_list)
 
-    write_data_files(train, args.output_folder, 'train')
-    write_data_files(test, args.output_folder, 'test')
-    # os.path.dirname(os.getcwd())
-
-    # os.path.dirname(__file__)
-
-    # #write the data into json
-    # output_folder = '/home/ubuntu/11711-anlp-spring2025-hw2/data'
-
-    # train_content = [{'Question': x.split('\n')[0].removeprefix('<Generated>Question: ').strip(),
-    #                   'Answer': x.split('\n')[1].removeprefix('Answer: ').strip()} for x in train]
-    # test_content = [{'Question': x.split('\n')[0].removeprefix('<Generated>Question: ').strip(),
-    #                 'Answer': x.split('\n')[1].removeprefix('Answer: ').strip()} for x in test]
-    # folder = 'Annotation/train_testdata'
-    # with open(os.path.join(folder, 'train.json'), 'w') as f:
-    #     json.dump(train_content, f)
-    # with open(os.path.join(folder, 'test.json'), 'w') as f:
-    #     json.dump(test_content, f)
-
-    # qualitycheck_test = random.sample(test_content, 50)
-
-    # with open(os.path.join(folder, 'qualitycheck_test.json'), 'w') as f:
-    #     json.dump(qualitycheck_test, f)
+    output_folder = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
+    write_data_files(train, output_folder, 'train')
+    write_data_files(test, output_folder, 'test')

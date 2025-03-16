@@ -1,0 +1,441 @@
+Title: Lift Every Voice
+Event_link: https://www.pittsburghsymphony.org//production/94617/lift-every-voice
+Date: Sat, Mar 15, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Lang Lang with the PSO
+Event_link: https://www.pittsburghsymphony.org//production/94078/lang-lang-with-the-pso
+Date: Wed, Mar 19, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Concert']
+
+Title: Kanneh-Mason Performs Shostakovich
+Event_link: https://www.pittsburghsymphony.org//production/92959/kanneh-mason-performs-shostakovich
+Date: Fri, Mar 21 - Sun, Mar 23, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: PSO360: Soul of the Cello
+Event_link: https://www.pittsburghsymphony.org//production/93550/pso360-soul-of-the-cello
+Date: Sat, Mar 22, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Speakers Series: Chris Wallace
+Event_link: https://www.pittsburghsymphony.org//production/94258/speakers-series-chris-wallace
+Date: Wed, Mar 26, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Talks & Poetry']
+
+Title: Beethoven’s Pastoral
+Event_link: https://www.pittsburghsymphony.org//production/92960/beethovens-pastoral
+Date: Fri, Mar 28 - Sun, Mar 30, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Student Side-by-Side
+Event_link: https://www.pittsburghsymphony.org//production/99069/student-side-by-side
+Date: Wed, Apr  2, 2025
+Venue: See Event Description
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Discovery & Drinks: Music & Cinema 2
+Event_link: https://www.pittsburghsymphony.org//production/98705/discovery-and-drinks-music-and-cinema-2
+Date: Thu, Apr  3, 2025
+Venue: See Event Description
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Total Eclipse of the Chart: Music of the 80s
+Event_link: https://www.pittsburghsymphony.org//production/93245/total-eclipse-of-the-chart-music-of-the-80s
+Date: Fri, Apr  4 - Sun, Apr  6, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: Fiddlesticks: Imagine That!
+Event_link: https://www.pittsburghsymphony.org//production/94089/fiddlesticks-imagine-that
+Date: Sat, Apr  5, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert', 'Family']
+
+Title: Boy Band Symphony
+Event_link: https://www.pittsburghsymphony.org//production/98471/boy-band-symphony
+Date: Mon, Apr  7, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: Speakers Series: Andrew Lloyd Webber
+Event_link: https://www.pittsburghsymphony.org//production/94259/speakers-series-andrew-lloyd-webber
+Date: Wed, Apr  9, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Talks & Poetry']
+
+Title: PSO Disrupt: Lovestruck
+Event_link: https://www.pittsburghsymphony.org//production/93522/pso-disrupt-lovestruck
+Date: Thu, Apr 10, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Gerstein Plays Tchaikovsky
+Event_link: https://www.pittsburghsymphony.org//production/92961/gerstein-plays-tchaikovsky
+Date: Fri, Apr 11 - Sun, Apr 13, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Maestro's Wine Dinner
+Event_link: https://www.pittsburghsymphony.org//event/29329-2025/maestros-wine-dinner
+Date: Wed, Apr 23, 2025
+Venue: See Event Description
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Beethoven and Brahms
+Event_link: https://www.pittsburghsymphony.org//production/92962/beethoven-and-brahms
+Date: Fri, Apr 25 - Sun, Apr 27, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Music of Star Wars
+Event_link: https://www.pittsburghsymphony.org//production/99102/music-of-star-wars
+Date: Sat, May  3, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: Clouds in my Coffee: Music of Joni Mitchell, Carole King & Carly Simon
+Event_link: https://www.pittsburghsymphony.org//production/93246/clouds-in-my-coffee-music-of-joni-mitchell-carole-king-and-carly-simon
+Date: Fri, May  9 - Sun, May 11, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: Bronfman Plays Beethoven
+Event_link: https://www.pittsburghsymphony.org//production/92963/bronfman-plays-beethoven
+Date: Fri, May 16 - Sun, May 18, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Brahms’ Fourth Symphony
+Event_link: https://www.pittsburghsymphony.org//production/92964/brahms-fourth-symphony
+Date: Fri, May 30 - Sun, Jun  1, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Yo-Yo Ma
+Event_link: https://www.pittsburghsymphony.org//production/94082/yo-yo-ma
+Date: Wed, Jun  4, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Beethoven and Mahler
+Event_link: https://www.pittsburghsymphony.org//production/92965/beethoven-and-mahler
+Date: Fri, Jun  6 - Sun, Jun  8, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: PSO360: Alice Sara Ott, piano
+Event_link: https://www.pittsburghsymphony.org//production/93551/pso360-alice-sara-ott-piano
+Date: Sat, Jun  7, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Rana Plays Mendelssohn
+Event_link: https://www.pittsburghsymphony.org//production/92966/rana-plays-mendelssohn
+Date: Fri, Jun 13 - Sun, Jun 15, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Classical', 'Live Music']
+
+Title: Dolly Parton's Threads: My Songs in Symphony
+Event_link: https://www.pittsburghsymphony.org//production/98293/dolly-partons-threads-my-songs-in-symphony
+Date: Wed, Jun 18, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: Adam Ray is Dr. Phil
+Event_link: https://www.pittsburghsymphony.org//production/99241/adam-ray-is-dr-phil
+Date: Thu, Jun 19, 2025
+Venue: Heinz Hall
+Organization: Drusky Entertainment
+Categories: ['Comedy']
+
+Title: Kings of Soul
+Event_link: https://www.pittsburghsymphony.org//production/93247/kings-of-soul
+Date: Fri, Jun 20 - Sun, Jun 22, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: The Lord of the Rings: The Fellowship of the Ring
+Event_link: https://www.pittsburghsymphony.org//production/94962/the-lord-of-the-rings-the-fellowship-of-the-ring
+Date: Fri, Jun 27 - Sun, Jun 29, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Film']
+
+Title: Diana Krall
+Event_link: https://www.pittsburghsymphony.org//production/98602/diana-krall
+Date: Wed, Jul  2, 2025
+Venue: Heinz Hall
+Organization: National Artists / Heinz Hall Presents
+Categories: ['Live Music', 'Concert']
+
+Title: Vince Gill
+Event_link: https://www.pittsburghsymphony.org//production/100181/vince-gill
+Date: Sat, Jul 12, 2025
+Venue: Heinz Hall
+Organization: Outback Presents
+Categories: ['Live Music', 'Concert']
+
+Title: Marvel Infinity Saga
+Event_link: https://www.pittsburghsymphony.org//production/98530/marvel-infinity-saga
+Date: Sat, Aug  2 - Sun, Aug  3, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: ['Live Music', 'Concert']
+
+Title: Louis C.K.
+Event_link: https://www.pittsburghsymphony.org//production/100249/louis-ck
+Date: Sat, Aug 23, 2025
+Venue: Heinz Hall
+Organization: Upfront Inc. Presents
+Categories: ['Comedy']
+
+Title: Opening Night Gala
+Event_link: https://www.pittsburghsymphony.org//production/100217/opening-night-gala
+Date: Sat, Sep 20, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Dvořák's Eighth
+Event_link: https://www.pittsburghsymphony.org//production/98984/dvoraks-eighth
+Date: Fri, Sep 26 - Sun, Sep 28, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Symphonie Fantastique
+Event_link: https://www.pittsburghsymphony.org//production/98987/symphonie-fantastique
+Date: Fri, Oct 10 - Sun, Oct 12, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Sibelius' Finlandia
+Event_link: https://www.pittsburghsymphony.org//production/98991/sibelius-finlandia
+Date: Fri, Oct 17 - Sun, Oct 19, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Disrupt 1
+Event_link: https://www.pittsburghsymphony.org//production/100207/disrupt-1
+Date: Sat, Oct 18, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Grimaud Plays Gershwin
+Event_link: https://www.pittsburghsymphony.org//production/98994/grimaud-plays-gershwin
+Date: Fri, Nov  7 - Sun, Nov  9, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Ferrández Plays Saint-Saëns
+Event_link: https://www.pittsburghsymphony.org//production/98997/ferrandez-plays-saint-saens
+Date: Fri, Nov 14 - Sun, Nov 16, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: PSO360: Pablo Ferrández
+Event_link: https://www.pittsburghsymphony.org//production/100116/pso360-pablo-ferrandez
+Date: Sat, Nov 15, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Himari Plays Bruch
+Event_link: https://www.pittsburghsymphony.org//production/99000/himari-plays-bruch
+Date: Fri, Nov 28 - Sun, Nov 30, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Carnegie Hall Preview
+Event_link: https://www.pittsburghsymphony.org//production/99107/carnegie-hall-preview
+Date: Tue, Dec  2, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Shostakovich's Fifth
+Event_link: https://www.pittsburghsymphony.org//production/99003/shostakovichs-fifth
+Date: Fri, Dec  5 - Sun, Dec  7, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Messiah
+Event_link: https://www.pittsburghsymphony.org//production/100221/messiah
+Date: Tue, Dec  9, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Sensory Friendly Concert: Holiday Pops
+Event_link: https://www.pittsburghsymphony.org//production/99142/sensory-friendly-concert-holiday-pops
+Date: Sat, Dec 13, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Holiday Brass Spectacular
+Event_link: https://www.pittsburghsymphony.org//production/100224/holiday-brass-spectacular
+Date: Tue, Dec 16, 2025
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Sibelius' Second
+Event_link: https://www.pittsburghsymphony.org//production/99007/sibelius-second
+Date: Fri, Jan 16 - Sun, Jan 18, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Špaček Plays Dvořák
+Event_link: https://www.pittsburghsymphony.org//production/99010/spacek-plays-dvorak
+Date: Fri, Jan 23 - Sun, Jan 25, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Disrupt 2
+Event_link: https://www.pittsburghsymphony.org//production/100209/disrupt-2
+Date: Sat, Jan 24, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Brahms' Third
+Event_link: https://www.pittsburghsymphony.org//production/99013/brahms-third
+Date: Fri, Feb  6 - Sun, Feb  8, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: PSO360: Gautier Capuçon
+Event_link: https://www.pittsburghsymphony.org//production/100118/pso360-gautier-capucon
+Date: Sat, Feb  7, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Symphonic Dances from West Side Story
+Event_link: https://www.pittsburghsymphony.org//production/99016/symphonic-dances-from-west-side-story
+Date: Fri, Feb 13 - Sun, Feb 15, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Bruckner's Eighth
+Event_link: https://www.pittsburghsymphony.org//production/99020/bruckners-eighth
+Date: Fri, Feb 20 - Sun, Feb 22, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Ax Plays Brahms
+Event_link: https://www.pittsburghsymphony.org//production/99023/ax-plays-brahms
+Date: Fri, Mar  6 - Sun, Mar  8, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Mahler's Resurrection
+Event_link: https://www.pittsburghsymphony.org//production/99027/mahlers-resurrection
+Date: Fri, Mar 13 - Sun, Mar 15, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Beethoven's Eroica
+Event_link: https://www.pittsburghsymphony.org//production/99031/beethovens-eroica
+Date: Fri, Mar 27 - Sun, Mar 29, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: The Rite of Spring
+Event_link: https://www.pittsburghsymphony.org//production/99035/the-rite-of-spring
+Date: Fri, Apr 10 - Sun, Apr 12, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Tchaikovsky's Pathetique
+Event_link: https://www.pittsburghsymphony.org//production/99038/tchaikovskys-pathetique
+Date: Fri, May 15 - Sun, May 17, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Disrupt 3
+Event_link: https://www.pittsburghsymphony.org//production/100213/disrupt-3
+Date: Sat, May 16, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Scheherazade
+Event_link: https://www.pittsburghsymphony.org//production/99041/scheherazade
+Date: Fri, May 29 - Sun, May 31, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: PSO360: Stefan Jackiw
+Event_link: https://www.pittsburghsymphony.org//production/100120/pso360-stefan-jackiw
+Date: Sat, May 30, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Lincoln Portrait
+Event_link: https://www.pittsburghsymphony.org//production/99044/lincoln-portrait
+Date: Fri, Jun 12 - Sun, Jun 14, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+
+Title: Appalachian Spring
+Event_link: https://www.pittsburghsymphony.org//production/99048/appalachian-spring
+Date: Fri, Jun 19 - Sun, Jun 21, 2026
+Venue: Heinz Hall
+Organization: Pittsburgh Symphony Orchestra
+Categories: []
+

@@ -1,0 +1,371 @@
+Position: Pitchers
+
+
+Name: Braxton Ashcraft
+Jersey: 67
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/677952/headshot/silo/current
+Bat/Throw: L/R
+Height: 6' 5"
+Weight: 220
+Date of Birth: 10/05/1999
+Roster: Roster Players
+
+Name: David Bednar
+Jersey: 51
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/670280/headshot/silo/current
+Bat/Throw: L/R
+Height: 6' 1"
+Weight: 250
+Date of Birth: 10/10/1994
+Roster: Roster Players
+
+Name: Mike Burrows
+Jersey: 53
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/681347/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 1"
+Weight: 200
+Date of Birth: 11/08/1999
+Roster: Roster Players
+
+Name: Bailey Falter
+Jersey: 6
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/663559/headshot/silo/current
+Bat/Throw: R/L
+Height: 6' 4"
+Weight: 205
+Date of Birth: 04/24/1997
+Roster: Roster Players
+
+Name: Caleb Ferguson
+Jersey: 64
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/657571/headshot/silo/current
+Bat/Throw: R/L
+Height: 6' 3"
+Weight: 225
+Date of Birth: 07/02/1996
+Roster: Roster Players
+
+Name: Andrew Heaney
+Jersey: 0
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/571760/headshot/silo/current
+Bat/Throw: L/L
+Height: 6' 2"
+Weight: 200
+Date of Birth: 06/05/1991
+Roster: Roster Players
+
+Name: Colin Holderman
+Jersey: 35
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/670059/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 6"
+Weight: 230
+Date of Birth: 10/08/1995
+Roster: Roster Players
+
+Name: Jared Jones
+Jersey: 37
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/683003/headshot/silo/current
+Bat/Throw: L/R
+Height: 6' 0"
+Weight: 190
+Date of Birth: 08/06/2001
+Roster: Roster Players
+
+Name: Mitch Keller
+Jersey: 23
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/656605/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 3"
+Weight: 212
+Date of Birth: 04/04/1996
+Roster: Roster Players
+
+Name: Justin Lawrence
+Jersey: 62
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/664875/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 3"
+Weight: 213
+Date of Birth: 11/25/1994
+Roster: Roster Players
+
+Name: Tim Mayza
+Jersey: 18
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/641835/headshot/silo/current
+Bat/Throw: L/L
+Height: 6' 3"
+Weight: 215
+Date of Birth: 01/15/1992
+Roster: Roster Players
+
+Name: Carmen Mlodzinski
+Jersey: 50
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669387/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 2"
+Weight: 220
+Date of Birth: 02/19/1999
+Roster: Roster Players
+
+Name: Kyle Nicolas
+Jersey: 66
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/693312/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 3"
+Weight: 225
+Date of Birth: 02/22/1999
+Roster: Roster Players
+
+Name: Dennis Santana
+Jersey: 60
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/642701/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 2"
+Weight: 190
+Date of Birth: 04/12/1996
+Roster: Roster Players
+
+Name: Chase Shugart
+Jersey: 84
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/663767/headshot/silo/current
+Bat/Throw: L/R
+Height: 5' 11"
+Weight: 200
+Date of Birth: 10/24/1996
+Roster: Roster Players
+
+Name: Paul Skenes
+Jersey: 30
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/694973/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 6"
+Weight: 260
+Date of Birth: 05/29/2002
+Roster: Roster Players
+
+Name: Peter Strzelecki
+Jersey: 44
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/657265/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 2"
+Weight: 215
+Date of Birth: 10/24/1994
+Roster: Roster Players
+
+Name: Joey Wentz
+Jersey: 34
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/666214/headshot/silo/current
+Bat/Throw: L/L
+Height: 6' 5"
+Weight: 220
+Date of Birth: 10/06/1997
+Roster: Roster Players
+
+Position: Catchers
+
+
+Name: Joey Bart
+Jersey: 14
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/663698/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 2"
+Weight: 235
+Date of Birth: 12/15/1996
+Roster: Roster Players
+
+Name: Henry Davis
+Jersey: 32
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/680779/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 1"
+Weight: 225
+Date of Birth: 09/21/1999
+Roster: Roster Players
+
+Name: Jason Delay
+Jersey: 55
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/641511/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 0"
+Weight: 200
+Date of Birth: 03/07/1995
+Roster: Roster Players
+
+Name: Endy Rodríguez
+Jersey: 5
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/682848/headshot/silo/current
+Bat/Throw: S/R
+Height: 6' 0"
+Weight: 210
+Date of Birth: 05/26/2000
+Roster: Roster Players
+
+Position: Infielders
+
+
+Name: Tsung-Che Cheng
+Jersey: 71
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/691907/headshot/silo/current
+Bat/Throw: L/R
+Height: 5' 8"
+Weight: 180
+Date of Birth: 07/26/2001
+Roster: Roster Players
+
+Name: Billy Cook
+Jersey: 25
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/695257/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 1"
+Weight: 200
+Date of Birth: 01/07/1999
+Roster: Roster Players
+
+Name: Adam Frazier
+Jersey: 26
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/624428/headshot/silo/current
+Bat/Throw: L/R
+Height: 5' 10"
+Weight: 190
+Date of Birth: 12/14/1991
+Roster: Roster Players
+
+Name: Nick Gonzales
+Jersey: 39
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/693304/headshot/silo/current
+Bat/Throw: R/R
+Height: 5' 10"
+Weight: 200
+Date of Birth: 05/27/1999
+Roster: Roster Players
+
+Name: Ke'Bryan Hayes
+Jersey: 13
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/663647/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 0"
+Weight: 215
+Date of Birth: 01/28/1997
+Roster: Roster Players
+
+Name: Spencer Horwitz
+Jersey: 2
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/687462/headshot/silo/current
+Bat/Throw: L/R
+Height: 6' 0"
+Weight: 200
+Date of Birth: 11/14/1997
+Roster: Roster Players
+
+Name: Isiah Kiner-Falefa
+Jersey: 7
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/643396/headshot/silo/current
+Bat/Throw: R/R
+Height: 5' 10"
+Weight: 195
+Date of Birth: 03/23/1995
+Roster: Roster Players
+
+Name: Liover Peguero
+Jersey: 31
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/678894/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 0"
+Weight: 200
+Date of Birth: 12/31/2000
+Roster: Roster Players
+
+Name: Jared Triolo
+Jersey: 19
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669707/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 3"
+Weight: 210
+Date of Birth: 02/08/1998
+Roster: Roster Players
+
+Name: Enmanuel Valdez
+Jersey: 48
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/665839/headshot/silo/current
+Bat/Throw: L/R
+Height: 5' 8"
+Weight: 190
+Date of Birth: 12/28/1998
+Roster: Roster Players
+
+Name: Nick Yorke
+Jersey: 38
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/694377/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 0"
+Weight: 210
+Date of Birth: 04/02/2002
+Roster: Roster Players
+
+Position: Outfielders
+
+
+Name: Ji Hwan Bae
+Jersey: 3
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/678225/headshot/silo/current
+Bat/Throw: L/R
+Height: 5' 11"
+Weight: 185
+Date of Birth: 07/26/1999
+Roster: Roster Players
+
+Name: Oneil Cruz
+Jersey: 15
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/665833/headshot/silo/current
+Bat/Throw: L/R
+Height: 6' 7"
+Weight: 240
+Date of Birth: 10/04/1998
+Roster: Roster Players
+
+Name: Andrew McCutchen
+Jersey: 22
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/457705/headshot/silo/current
+Bat/Throw: R/R
+Height: 5' 11"
+Weight: 190
+Date of Birth: 10/10/1986
+Roster: Roster Players
+
+Name: Joshua Palacios
+Jersey: 77
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/641943/headshot/silo/current
+Bat/Throw: L/R
+Height: 6' 1"
+Weight: 210
+Date of Birth: 07/30/1995
+Roster: Roster Players
+
+Name: Tommy Pham
+Jersey: 28
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/502054/headshot/silo/current
+Bat/Throw: R/R
+Height: 6' 2"
+Weight: 225
+Date of Birth: 03/08/1988
+Roster: Roster Players
+
+Name: Bryan Reynolds
+Jersey: 10
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/668804/headshot/silo/current
+Bat/Throw: S/R
+Height: 6' 2"
+Weight: 205
+Date of Birth: 01/27/1995
+Roster: Roster Players
+
+Name: Jack Suwinski
+Jersey: 65
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669261/headshot/silo/current
+Bat/Throw: L/L
+Height: 6' 2"
+Weight: 215
+Date of Birth: 07/29/1998
+Roster: Roster Players

@@ -1,0 +1,50 @@
+Jump to Header: #global-header
+Jump to Main Content: #main
+Jump to Footer: #global-footer
+About: https://www.cmu.edu/about/
+School of Information Systems & Management: https://www.cmu.edu/about/information-systems-management
+School of Public Policy & Management: https://www.cmu.edu/about/public-policy-management
+College of Fine Arts Joint Degree Programs: https://www.cmu.edu/about/fine-arts
+Diversity & Inclusion: https://www.cmu.edu/about/diversity-inclusion-climate-equity
+Heinz College Policy Impact: https://www.cmu.edu/about/heinz-college-policy-impact
+Heinz College in Washington D.C.: https://www.cmu.edu/about/policy-in-dc
+Artificial Intelligence Leadership: https://www.cmu.edu/about/artificial-intelligence-leadership
+Trillion Dollar Questions: https://www.cmu.edu/about/trillion-dollar-questions
+Public Interest Technology: https://www.cmu.edu/about/public-interest-technology/
+History: https://www.cmu.edu/about/history
+Rankings: https://www.cmu.edu/about/rankings
+Contact Us: https://www.cmu.edu/contact/
+Programs: https://www.cmu.edu/programs/index
+Admissions: https://www.cmu.edu/admissions/index
+Faculty & Research: https://www.cmu.edu/faculty-research/index
+Faculty Experts: https://www.cmu.edu/faculty-research/profiles/index
+Our Faculty In The News: https://www.cmu.edu/faculty-research/our-faculty-in-the-news
+Research Centers: https://www.cmu.edu/faculty-research/research-centers
+Life at Heinz College: https://www.cmu.edu/life-at-heinz/index
+Employers & Corporate Partners: https://www.cmu.edu/employers-partners/index
+Alumni: https://www.cmu.edu/alumni/index
+Current Students: https://www.cmu.edu/current-students/index
+GIVE: https://www.heinz.cmu.edu/give/
+APPLY: https://apply.heinz.cmu.edu/apply/
+Empowered Public Sector Leaders Leverage Evidence-Based Policy
+Featured: ?cat=Featured
+In the Public Interest: ?cat=In the Public Interest
+EMPOWERING STUDENTS: ?cat=EMPOWERING STUDENTS
+SOCIETAL IMPACT OF AI: ?cat=SOCIETAL IMPACT OF AI
+Recent News: ?cat=Recent News
+View All News: https://www.cmu.edu/media/
+Many institutions have jumped on the data analytics bandwagon in recent years. But we've been here for decades. The Heinz College of Information Systems and Public Policy at Carnegie Mellon University is a graduate school without boundaries, using the latest in analytical methods to solve problems at the critical nexus of technology and society.
+Learn More About Our Programs: https://www.cmu.edu/programs/
+Join us for this university-wide initiative to promote the power of civil discourse; this year's events are designed to explore critical topics related to democracy and the election.
+Civil discourse promotes mutual understanding. "Deliberative Discourse" takes the conversation one step further, into action.
+Visit: https://www.heinz.cmu.edu/admissions/connect-with-us/visit-campus
+Info: https://www.heinz.cmu.edu/admissions/admissions_embedded_form
+Give: https://www.heinz.cmu.edu/give/index
+Media: https://www.heinz.cmu.edu/contact/media-relations
+Legal Info: https://www.cmu.edu/legal/
+Contact Us: https://www.heinz.cmu.edu/contact/index
+Accessibility: https://www.cmu.edu/disability-resources/
+Directory: https://www.heinz.cmu.edu/directory/index
+5000 Forbes Ave, Hamburg Hall, Pittsburgh, PA 15213-3890 ·412.268.2159
+412.268.2159: tel:4122682159
+©2020 Carnegie Mellon University. All Rights Reserved.

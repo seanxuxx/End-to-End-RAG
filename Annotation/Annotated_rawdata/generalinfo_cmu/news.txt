@@ -1,0 +1,231 @@
+Carnegie Mellon University homepage: https://www.cmu.edu
+News: https://www.cmu.edu/news/
+Stories: https://www.cmu.edu/news/stories
+College of Engineering: https://www.cmu.edu/news/stories/college-of-engineering
+College of Fine Arts: https://www.cmu.edu/news/stories/college-of-fine-arts
+Dietrich College of Humanities & Social Sciences: https://www.cmu.edu/news/stories/dietrich-college-of-humanities-social-sciences
+Heinz College of Information Systems and Public Policy: https://www.cmu.edu/news/stories/heinz-college-of-information-systems-and-public-policy
+Mellon College of Science: https://www.cmu.edu/news/stories/mellon-college-of-science
+School of Computer Science: https://www.cmu.edu/news/stories/school-of-computer-science
+Tepper School of Business: https://www.cmu.edu/news/stories/tepper-school-of-business
+Archives: https://www.cmu.edu/news/stories/archives
+2025: https://www.cmu.edu/news/stories/archives/2025
+January: https://www.cmu.edu/news/stories/archives/2025/january
+February: https://www.cmu.edu/news/stories/archives/2025/february
+March: https://www.cmu.edu/news/stories/archives/2025/march
+2024: https://www.cmu.edu/news/stories/archives/2024
+January: https://www.cmu.edu/news/stories/archives/2024/january
+February: https://www.cmu.edu/news/stories/archives/2024/february
+March: https://www.cmu.edu/news/stories/archives/2024/march
+April: https://www.cmu.edu/news/stories/archives/2024/april
+May: https://www.cmu.edu/news/stories/archives/2024/may
+June: https://www.cmu.edu/news/stories/archives/2024/june
+July: https://www.cmu.edu/news/stories/archives/2024/july
+August: https://www.cmu.edu/news/stories/archives/2024/august
+September: https://www.cmu.edu/news/stories/archives/2024/september
+October: https://www.cmu.edu/news/stories/archives/2024/october
+November: https://www.cmu.edu/news/stories/archives/2024/november
+December: https://www.cmu.edu/news/stories/archives/2024/december
+2023: https://www.cmu.edu/news/stories/archives/2023
+January: https://www.cmu.edu/news/stories/archives/2023/january
+February: https://www.cmu.edu/news/stories/archives/2023/february
+March: https://www.cmu.edu/news/stories/archives/2023/march
+April: https://www.cmu.edu/news/stories/archives/2023/april
+May: https://www.cmu.edu/news/stories/archives/2023/may
+June: https://www.cmu.edu/news/stories/archives/2023/june
+July: https://www.cmu.edu/news/stories/archives/2023/july
+August: https://www.cmu.edu/news/stories/archives/2023/august
+September: https://www.cmu.edu/news/stories/archives/2023/september
+October: https://www.cmu.edu/news/stories/archives/2023/october
+November: https://www.cmu.edu/news/stories/archives/2023/november
+December: https://www.cmu.edu/news/stories/archives/2023/december
+2022: https://www.cmu.edu/news/stories/archives/2022
+January: https://www.cmu.edu/news/stories/archives/2022/january
+February: https://www.cmu.edu/news/stories/archives/2022/february
+March: https://www.cmu.edu/news/stories/archives/2022/march
+April: https://www.cmu.edu/news/stories/archives/2022/april
+May: https://www.cmu.edu/news/stories/archives/2022/may
+June: https://www.cmu.edu/news/stories/archives/2022/june
+July: https://www.cmu.edu/news/stories/archives/2022/july
+August: https://www.cmu.edu/news/stories/archives/2022/august
+September: https://www.cmu.edu/news/stories/archives/2022/september
+October: https://www.cmu.edu/news/stories/archives/2022/october
+November: https://www.cmu.edu/news/stories/archives/2022/november
+December: https://www.cmu.edu/news/stories/archives/2022/december
+2021: https://www.cmu.edu/news/stories/archives/2021
+January: https://www.cmu.edu/news/stories/archives/2021/january
+February: https://www.cmu.edu/news/stories/archives/2021/february
+March: https://www.cmu.edu/news/stories/archives/2021/march
+April: https://www.cmu.edu/news/stories/archives/2021/april
+May: https://www.cmu.edu/news/stories/archives/2021/may
+June: https://www.cmu.edu/news/stories/archives/2021/june
+July: https://www.cmu.edu/news/stories/archives/2021/july
+August: https://www.cmu.edu/news/stories/archives/2021/august
+September: https://www.cmu.edu/news/stories/archives/2021/september
+October: https://www.cmu.edu/news/stories/archives/2021/october
+November: https://www.cmu.edu/news/stories/archives/2021/november
+December: https://www.cmu.edu/news/stories/archives/2021/december
+2020: https://www.cmu.edu/news/stories/archives/2020
+January: https://www.cmu.edu/news/stories/archives/2020/january
+February: https://www.cmu.edu/news/stories/archives/2020/february
+March: https://www.cmu.edu/news/stories/archives/2020/march
+April: https://www.cmu.edu/news/stories/archives/2020/april
+May: https://www.cmu.edu/news/stories/archives/2020/may
+June: https://www.cmu.edu/news/stories/archives/2020/june
+July: https://www.cmu.edu/news/stories/archives/2020/july
+August: https://www.cmu.edu/news/stories/archives/2020/august
+September: https://www.cmu.edu/news/stories/archives/2020/september
+October: https://www.cmu.edu/news/stories/archives/2020/october
+November: https://www.cmu.edu/news/stories/archives/2020/november
+December: https://www.cmu.edu/news/stories/archives/2020/december
+2019: https://www.cmu.edu/news/stories/archives/2019
+January: https://www.cmu.edu/news/stories/archives/2019/january
+February: https://www.cmu.edu/news/stories/archives/2019/february
+March: https://www.cmu.edu/news/stories/archives/2019/march
+April: https://www.cmu.edu/news/stories/archives/2019/april
+May: https://www.cmu.edu/news/stories/archives/2019/may
+June: https://www.cmu.edu/news/stories/archives/2019/june
+July: https://www.cmu.edu/news/stories/archives/2019/july
+August: https://www.cmu.edu/news/stories/archives/2019/august
+September: https://www.cmu.edu/news/stories/archives/2019/september
+October: https://www.cmu.edu/news/stories/archives/2019/october
+November: https://www.cmu.edu/news/stories/archives/2019/november
+December: https://www.cmu.edu/news/stories/archives/2019/december
+2018: https://www.cmu.edu/news/stories/archives/2018
+January: https://www.cmu.edu/news/stories/archives/2018/january
+February: https://www.cmu.edu/news/stories/archives/2018/february
+March: https://www.cmu.edu/news/stories/archives/2018/march
+April: https://www.cmu.edu/news/stories/archives/2018/april
+May: https://www.cmu.edu/news/stories/archives/2018/may
+June: https://www.cmu.edu/news/stories/archives/2018/june
+July: https://www.cmu.edu/news/stories/archives/2018/july
+August: https://www.cmu.edu/news/stories/archives/2018/august
+September: https://www.cmu.edu/news/stories/archives/2018/september
+October: https://www.cmu.edu/news/stories/archives/2018/october
+November: https://www.cmu.edu/news/stories/archives/2018/november
+December: https://www.cmu.edu/news/stories/archives/2018/december
+2017: https://www.cmu.edu/news/stories/archives/2017
+January: https://www.cmu.edu/news/stories/archives/2017/january
+February: https://www.cmu.edu/news/stories/archives/2017/february
+March: https://www.cmu.edu/news/stories/archives/2017/march
+April: https://www.cmu.edu/news/stories/archives/2017/april
+May: https://www.cmu.edu/news/stories/archives/2017/may
+June: https://www.cmu.edu/news/stories/archives/2017/june
+July: https://www.cmu.edu/news/stories/archives/2017/july
+August: https://www.cmu.edu/news/stories/archives/2017/august
+September: https://www.cmu.edu/news/stories/archives/2017/september
+October: https://www.cmu.edu/news/stories/archives/2017/october
+November: https://www.cmu.edu/news/stories/archives/2017/november
+December: https://www.cmu.edu/news/stories/archives/2017/december
+2016: https://www.cmu.edu/news/stories/archives/2016
+January: https://www.cmu.edu/news/stories/archives/2016/january
+February: https://www.cmu.edu/news/stories/archives/2016/february
+March: https://www.cmu.edu/news/stories/archives/2016/march
+April: https://www.cmu.edu/news/stories/archives/2016/april
+May: https://www.cmu.edu/news/stories/archives/2016/may
+June: https://www.cmu.edu/news/stories/archives/2016/june
+July: https://www.cmu.edu/news/stories/archives/2016/july
+August: https://www.cmu.edu/news/stories/archives/2016/august
+September: https://www.cmu.edu/news/stories/archives/2016/september
+October: https://www.cmu.edu/news/stories/archives/2016/october
+November: https://www.cmu.edu/news/stories/archives/2016/november
+December: https://www.cmu.edu/news/stories/archives/2016/december
+2015: https://www.cmu.edu/news/stories/archives/2015
+January: https://www.cmu.edu/news/stories/archives/2015/january
+February: https://www.cmu.edu/news/stories/archives/2015/february
+March: https://www.cmu.edu/news/stories/archives/2015/march
+April: https://www.cmu.edu/news/stories/archives/2015/april
+May: https://www.cmu.edu/news/stories/archives/2015/may
+June: https://www.cmu.edu/news/stories/archives/2015/june
+July: https://www.cmu.edu/news/stories/archives/2015/july
+August: https://www.cmu.edu/news/stories/archives/2015/august
+September: https://www.cmu.edu/news/stories/archives/2015/september
+October: https://www.cmu.edu/news/stories/archives/2015/october
+November: https://www.cmu.edu/news/stories/archives/2015/november
+December: https://www.cmu.edu/news/stories/archives/2015/december
+2014: https://www.cmu.edu/news/stories/archives/2014
+January: https://www.cmu.edu/news/stories/archives/2014/january
+February: https://www.cmu.edu/news/stories/archives/2014/february
+March: https://www.cmu.edu/news/stories/archives/2014/march
+April: https://www.cmu.edu/news/stories/archives/2014/april
+May: https://www.cmu.edu/news/stories/archives/2014/may
+June: https://www.cmu.edu/news/stories/archives/2014/june
+July: https://www.cmu.edu/news/stories/archives/2014/july
+August: https://www.cmu.edu/news/stories/archives/2014/august
+September: https://www.cmu.edu/news/stories/archives/2014/september
+October: https://www.cmu.edu/news/stories/archives/2014/october
+November: https://www.cmu.edu/news/stories/archives/2014/november
+December: https://www.cmu.edu/news/stories/archives/2014/december
+2013: https://www.cmu.edu/news/stories/archives/2013
+January: https://www.cmu.edu/news/stories/archives/2013/january
+February: https://www.cmu.edu/news/stories/archives/2013/february
+March: https://www.cmu.edu/news/stories/archives/2013/march
+April: https://www.cmu.edu/news/stories/archives/2013/april
+May: https://www.cmu.edu/news/stories/archives/2013/may
+June: https://www.cmu.edu/news/stories/archives/2013/june
+July: https://www.cmu.edu/news/stories/archives/2013/july
+August: https://www.cmu.edu/news/stories/archives/2013/august
+September: https://www.cmu.edu/news/stories/archives/2013/september
+October: https://www.cmu.edu/news/stories/archives/2013/october
+November: https://www.cmu.edu/news/stories/archives/2013/november
+December: https://www.cmu.edu/news/stories/archives/2013/december
+2012: https://www.cmu.edu/news/stories/archives/2012
+January: https://www.cmu.edu/news/stories/archives/2012/january
+February: https://www.cmu.edu/news/stories/archives/2012/february
+March: https://www.cmu.edu/news/stories/archives/2012/march
+April: https://www.cmu.edu/news/stories/archives/2012/april
+May: https://www.cmu.edu/news/stories/archives/2012/may
+June: https://www.cmu.edu/news/stories/archives/2012/june
+July: https://www.cmu.edu/news/stories/archives/2012/july
+August: https://www.cmu.edu/news/stories/archives/2012/august
+September: https://www.cmu.edu/news/stories/archives/2012/september
+October: https://www.cmu.edu/news/stories/archives/2012/october
+November: https://www.cmu.edu/news/stories/archives/2012/november
+December: https://www.cmu.edu/news/stories/archives/2012/december
+2011: https://www.cmu.edu/news/stories/archives/2011
+January: https://www.cmu.edu/news/stories/archives/2011/january
+February: https://www.cmu.edu/news/stories/archives/2011/february
+March: https://www.cmu.edu/news/stories/archives/2011/march
+April: https://www.cmu.edu/news/stories/archives/2011/april
+May: https://www.cmu.edu/news/stories/archives/2011/may
+June: https://www.cmu.edu/news/stories/archives/2011/june
+July: https://www.cmu.edu/news/stories/archives/2011/july
+August: https://www.cmu.edu/news/stories/archives/2011/august
+September: https://www.cmu.edu/news/stories/archives/2011/september
+October: https://www.cmu.edu/news/stories/archives/2011/october
+November: https://www.cmu.edu/news/stories/archives/2011/november
+December: https://www.cmu.edu/news/stories/archives/2011/december
+Experts: https://www.cmu.edu/news/experts
+Media Contacts: https://www.cmu.edu/news/media-contacts
+Podcasts: https://www.cmu.edu/news/podcasts
+The Piper: Campus & Community News: http://www.cmu.edu/piper/
+Women in Science Highlight Mentorship, Outreach as Integral to Career Success: https://www.cmu.edu/news/stories/archives/2025/march/women-in-science-highlight-mentorship-outreach-as-integral-to-career-success
+For Women's History Month, Carnegie Mellon is featuring the work of women across the science, technology, engineering and mathematics fields.(opens in new window)(opens in new window)
+Carnegie Mellon University: https://www.twitter.com/CarnegieMellon
+@USNavy: https://twitter.com/USNavy
+https://t.co/CJc0vUX31B: https://t.co/CJc0vUX31B
+https://t.co/Ch5gHl2CDI: https://t.co/Ch5gHl2CDI
+Feb 6, 2025: https://twitter.com/CarnegieMellon/status/1887614580123386265
+Share
+Powered by Curator.io: https://curator.io
+Rales Fellows Revolutionize Artificial IntelligenceTwo Rales Fellows focus on artificial intelligence and machine learning in their studies: master’s degree candidate Nicole Villavicencio-Garduño and doctoral candidate Maxwell Jones.March 7, 2025: https://www.cmu.edu/news/stories/archives/2025/march/rales-fellows-revolutionize-artificial-intelligence
+Two Rales Fellows focus on artificial intelligence and machine learning in their studies: master’s degree candidate Nicole Villavicencio-Garduño and doctoral candidate Maxwell Jones.
+Researchers Use Computer Science To Save BeesCMU and UC Riverside researchers have created a system to help beekeepers monitor and analyze the health of their beehives and take corrective actions to prevent colony collapse.March 5, 2025: https://www.cmu.edu/news/stories/archives/2025/march/researchers-use-computer-science-to-save-bees
+CMU and UC Riverside researchers have created a system to help beekeepers monitor and analyze the health of their beehives and take corrective actions to prevent colony collapse.
+Through 3MT, Doctoral Students Share Accessible ResearchBack for its 10th year at Carnegie Mellon University, Three Minute Thesis (3MT) is a celebration of research.March 3, 2025: https://www.cmu.edu/news/stories/archives/2025/march/through-3mt-doctoral-students-share-accessible-research
+Back for its 10th year at Carnegie Mellon University, Three Minute Thesis (3MT) is a celebration of research.
+Josh Gad Returns to the School of DramaJosh Gad returned to Carnegie Mellon's campus to work with current acting students and to take a stroll down memory lane.February 26, 2025: https://www.cmu.edu/news/stories/archives/2025/february/josh-gad-returns-to-the-school-of-drama
+Josh Gad returned to Carnegie Mellon's campus to work with current acting students and to take a stroll down memory lane.
+Researchers Propose Framework To Identify Food Selectivity Origins in the BrainCMU researchers have identified a region in the brain's visual cortex that responds to food and have developed a theoretical framework that could explain the origins of this selectivity.February 25, 2025: https://www.cmu.edu/news/stories/archives/2025/february/researchers-propose-framework-to-identify-food-selectivity-origins-in-the-brain
+CMU researchers have identified a region in the brain's visual cortex that responds to food and have developed a theoretical framework that could explain the origins of this selectivity.
+CMU Researchers Investigate YouTube Giveaway ScamsA team of Carnegie Mellon researchers has sought learn more about the nature of certain scams, and determine whether teens are more susceptible to them.February 25, 2025: https://www.cmu.edu/news/stories/archives/2025/february/cmu-researchers-investigate-youtube-giveaway-scams
+A team of Carnegie Mellon researchers has sought learn more about the nature of certain scams, and determine whether teens are more susceptible to them.
+Read more stories
+Official Events Calendar(opens in new window): https://events.cmu.edu/
+facebook (opens in a new window): https://www.facebook.com/carnegiemellonu
+twitter (opens in a new window): https://www.twitter.com/carnegiemellon
+linkedin (opens in a new window): https://www.linkedin.com/edu/school?id=19232
+youtube (opens in a new window): https://www.youtube.com/cmu
+rss (opens in a new window): https://www.cmu.edu/news/feeds/news.rss
+instagram (opens in a new window): https://www.instagram.com/carnegiemellon/
+more (opens in a new window): https://www.cmu.edu/social-media/

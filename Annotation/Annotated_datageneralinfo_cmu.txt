@@ -1,0 +1,118 @@
+<Generated>Question: When is the Three Minute Thesis Championship taking place?
+Answer: The Three Minute Thesis Championship is taking place on March 12, 2025 at 3:30 PM ET.
+
+<Generated>Question: Who founded CMU and in which field was it known for initially?
+Answer: CMU was founded by industrialist Andrew Carnegie and was initially known for industrial research.
+
+<Generated>Question: In which college is the Statistics & Data Science major located?
+Answer: Mellon College of Science
+
+<Generated>Question: Who is the Vice President for Diversity and Inclusion at Carnegie Mellon University?
+Answer: Dr. Wanda Heading-Grant
+
+<Generated>Question: In which city is Carnegie Mellon University located?
+Answer: Pittsburgh
+
+<Generated>Question: In which school is the Artificial Intelligence major located?
+Answer: The Artificial Intelligence major is located in the School of Computer Science.
+
+<Generated>Question: In which college is the Biomedical Engineering major located at Carnegie M Mellon University?
+Answer: The Biomedical Engineering major is located in the College of Engineering at Carnegie Mellon University.
+
+<Generated>Question: When was Carnegie Mellon University established?
+Answer: Carnegie Mellon University was established in Pittsburgh, PA in 1900.
+
+<Generated>Question: Who is the Program Director for Research Information Management Services at Carnegie Mellon University?
+Answer: Jason Glenn
+
+<Generated>Question: Which professor at Carnegie Mellon introduced the first Girl Scout badge for negotiation?
+Answer: Professor Linda Babcock introduced the first Girl Scout badge for negotiation.
+
+<Generated>Question: In which year was the first Intersect@CMU conference held?
+Answer: The first Intersect@CMU conference was held in 2018.
+
+<Generated>Question: Which organization is responsible for connecting businesses with CMU faculty and students?
+Answer: The Center for Business Engagement
+
+<Generated>Question: Which organization provides services against rape?
+Answer: Pennsylvania Coalition Against Rape (PCAR)
+
+<Generated>Question: Who was the first person to create a smiley in email?
+Answer: Scott Fahlman, a Carnegie Mellon research professor, was the first person to create a smiley in email on September 19, 1982.
+
+<Generated>Question: When is the Siemens Tech for Sustainability Campaign 2025 kick-off event?
+Answer: The Siemens Tech for Sustainability Campaign 2025 kick-off event was on 27 January 2025.
+
+<Generated>Question: What must a party provide when they wish to introduce Expert Witness testimony?  
+Answer: A party must provide written notice of the intent to introduce Expert Witness testimony no later than thirty (30) calendar days after receiving the Notice of Investigation or no later than ten (10) calendar days after receiving notification that the other party intends to introduce Expert Witness Testimony, whichever date is later.
+Context: for cases involving Staff Respondents under Section VI.E, or (iv) the Hearing Officer appointed for cases involving Faculty Respondents under Section VI.E. Notice of Intent to Introduce Expert Witness Testimony 3. A party who wishes to introduce Expert Witness testimony must provide written notice of the intent to introduce Expert Witness testimony no later than thirty (30) calendar days after receiving the Notice of Investigation issued under Section VI.B or no later than ten (10) calendar days after receiving notification that the other party intends to introduce Expert Witness Testimony, whichever date is later. 4. After receiving Notice of Intent to Introduce Expert Witness Testimony, the Investigator shall provide written notice of such to all other Complainant(s) or Respondent(s) in the investigation. 5. A party seeking to introduce Expert Witness Testimony must submit the name of the proposed Expert Witness and a copy of the Expert Witness’s Curriculum Vitae to the Investigator no later than ten (10)
+
+<Generated>Question: What are self-scheduled examinations?  
+Answer: Self-scheduled examinations are exams where an instructor allows each student to choose the examination time instead of fixing a schedule.
+
+<Generated>Question: What is the contact number for the Washington Coalition of Sexual Assault Programs?
+Answer: The contact number for the Washington Coalition of Sexual Assault Programs is 360-754-7583.
+
+<Generated>Question: What should students do if they need assistance with hoverboard shipping or storage?
+Answer: Students should contact their Housing Services Facility Coordinator (FC) as soon as possible.
+
+<Generated>Question: What is the maximum number of days a student can be absent for a sport or organization annually?
+Answer: The total number of days of absence shall not exceed six per sport or per organization annually.
+
+<Generated>Question: Under what conditions will amnesty from university disciplinary action be granted to students seeking medical assistance?
+Answer: Amnesty will be granted when an individual contacts emergency services based on a reasonable belief that another individual needs immediate medical attention, provides their own name to emergency services, and remains with the individual in need until emergency services arrive and their presence is no longer needed.
+
+<Generated>Question: Who must approve an event deploying games of chance on campus?
+Answer: The director of student leadership, involvement and civic engagement must approve an event deploying games of chance on campus.
+
+<Generated>Question: Who must approve all banners?
+Answer: All banners must be approved by the Office of Student Activities.
+
+<Generated>Question: Which colleges at Carnegie Mellon record W grades for graduate students?  
+Answer: Only Tepper and MCS record W grades.
+
+<Generated>Question: What will be recorded on a student's academic record for work below D?
+Answer: Work below D will receive no credit and will be recorded as N on the student's academic record.
+
+<Generated>Question: Who manages the Academic Disciplinary Process at the university?  
+Answer: The Office of Community Standards and Integrity manages the Academic Disciplinary Process.
+
+<Generated>Question: What is the email address for Carnegie Mellon's admission office?  
+Answer: The email address for Carnegie Mellon's admission office is admission@andrew.cmu.edu.
+
+<Generated>Question: Who may direct that a degree not be certified by the university registrar?
+Answer: The dean of students or designee may direct that a degree not be certified by the university registrar.
+
+<Generated>Question: What is the address of Carnegie Mellon University?  
+Answer: The address of Carnegie Mellon University is 5000 Forbes Avenue, Pittsburgh, PA 15213-3890.
+
+<Generated>Question: Where must gifts designated to a specific organization be made to ensure compliance with tax laws?
+Answer: Gifts designated to a specific organization must be made through the University’s annual giving website or by deposit to the Office of Student Leadership, Involvement and Civic Engagement.
+
+<Generated>Question: What must a student submit to elect a course as pass/fail?
+Answer: A student must submit a Grade Option Request Form to Enrollment Services.
+
+<Generated>Question: Where are emotional support animals approved by the Office of Disability Resources not permitted on campus?  
+Answer: Emotional support animals approved by the Office of Disability Resources are not permitted inside other campus buildings.
+
+<Generated>Question: When was the Trademark Licensing Office at Carnegie Mellon established?  
+Answer: The Trademark Licensing Office was established in 1994.
+
+<Generated>Question: What should users do if they believe someone has made unauthorized use of their account at Carnegie Mellon?
+Answer: Users should change their password immediately and report the incident to the Information Security Office.
+
+<Generated>Question: During what hours is disruptive activity restricted on Saturday and Sunday?  
+Answer: Disruptive activity is restricted on Saturday and Sunday before 7:00 a.m. and after 10:00 p.m.
+
+<Generated>Question: What condition would impair the university's ability to provide the Supportive Measures?
+Answer: Maintaining confidentiality would impair the university's ability to provide the Supportive Measures.
+
+<Generated>Question: What is the name of the college at Carnegie Mellon University that offers programs in Biological Sciences, Chemistry, Mathematical Sciences, and Physics?
+Answer: The name of the college is the Mellon College of Science.
+
+<Generated>Question: Who should a staff member report to if they believe their electronic data has been inappropriately accessed by another staff member?  
+Answer: The incident should be reported to Human Resources.
+
+<Generated>Question: Who should the Office of Community Standards and Integrity notify regarding a student's academic integrity violations?  
+Answer: The Office of Community Standards and Integrity should notify the head of the student’s home department.
+

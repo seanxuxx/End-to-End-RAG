@@ -1,4 +1,8 @@
 import argparse
+<<<<<<< HEAD
+=======
+import json
+>>>>>>> main
 import logging
 import os
 import re
@@ -6,6 +10,7 @@ from typing import List, TypedDict
 
 import torch
 from dotenv import load_dotenv
+from huggingface_hub import login
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_core.documents import Document
 from langchain_experimental.text_splitter import SemanticChunker
@@ -22,16 +27,20 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer,
 from utils import get_chunk_max_length, set_logger
 
 load_dotenv()
-pinecone_api_key = os.getenv('PINECONE_API_KEY')
-if not pinecone_api_key:
-    raise ValueError("PINECONE_API_KEY is missing. Set it as an environment variable.")
-pc = Pinecone(api_key=pinecone_api_key)
 
+# Check if required api keys are written to the environment
+for api_key in ['PINECONE_API_KEY', 'HF_TOKEN', 'LANGSMITH_API_KEY', 'LANGSMITH_TRACING']:
+    if not os.getenv(api_key):
+        raise ValueError(f"{api_key} is missing. Set it as an environment variable.")
 
+# Login in Pinecone
+pc = Pinecone()
+
+# Set device
 DEVICE = ('cuda' if torch.cuda.is_available() else
           'mps' if torch.backends.mps.is_available() else 'cpu')
 
-
+# Set prompt template
 PROMPT_IN_CHAT_FORMAT = """\
 {context}
 ----------
@@ -40,6 +49,17 @@ give a concise, accurate answer to the question.
 Question: {question}
 """
 
+<<<<<<< HEAD
+PROMPT_IN_CHAT_FORMAT = """\
+{context}
+----------
+Using the information contained in the context,
+give a concise, accurate answer to the question.
+Question: {question}
+"""
+
+=======
+>>>>>>> main
 
 class Query(TypedDict):
     """
@@ -49,7 +69,11 @@ class Query(TypedDict):
     https://python.langchain.com/docs/tutorials/rag/
     """
     question: str
+<<<<<<< HEAD
     context: List[Document]
+=======
+    context: List[str]
+>>>>>>> main
     answer: str
 
 
@@ -216,8 +240,14 @@ class RetrivalLM():
             query (Query): Query dictionary with "question", "context", and "answer".
         **kwargs: for calling pipeline()
         """
+<<<<<<< HEAD
         query['context'] = self.retriever.invoke(query['question'])
         context = '\n----------\n'.join([f'Context {i+1}:\n{doc.page_content}'
+=======
+        retrieved_docs = self.retriever.invoke(query['question'])
+        query['context'] = [doc.page_content for doc in retrieved_docs]
+        context = '\n----------\n'.join([f'Context {i+1}:\n{doc}'
+>>>>>>> main
                                          for i, doc in enumerate(query['context'])])
         prompt = PROMPT_IN_CHAT_FORMAT.format(context=context, question=query['question'])
         if self.task == 'text-generation':
@@ -254,7 +284,10 @@ if __name__ == '__main__':
     logging.info(f'Configuration:\n{vars(args)}')
     logging.info(f'Device: {DEVICE}')
 
+<<<<<<< HEAD
     # Experiment hyperparameters
+=======
+>>>>>>> main
     search_config = {'k': 3}
     generation_config = GenerationConfig(
         max_new_tokens=100,
@@ -278,7 +311,18 @@ if __name__ == '__main__':
         "What type of artworks can one explore at The Andy Warhol Museum in Pittsburgh?",
         "When is the Vintage Pittsburgh retro fair taking place?"
     ]
+<<<<<<< HEAD
     for question in question:
         query = Query(question=question, context=[], answer="")
         rag_model.qa(query, **generation_config.to_dict())
         print(f"\n{question}\n{query['answer']}\n")
+=======
+    queries = []
+    for question in question:
+        query = Query(question=question, context=[], answer="")
+        rag_model.qa(query, **generation_config.to_dict())
+        queries.append(query)
+
+    with open('output.json', 'w') as f:
+        json.dump(queries, f, indent=4)
+>>>>>>> main

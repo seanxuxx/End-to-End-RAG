@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What organization sponsors the Sensory Friendly Afternoon program at the Children's Museum of Pittsburgh?",
+    "model_answer": "The Pittsburgh History and Landmarks Foundation",
+    "true_answers": [
+      "PA Leadership Charter School"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When did the inaugural festival of Oktoberfest Pittsburgh take place?",
+    "model_answer": "2025",
+    "true_answers": [
+      "October 3rd-13th, 2024"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Where did the inaugural festival of Oktoberfest Pittsburgh take place?",
+    "model_answer": "Downtown Pittsburgh. ----------",
+    "true_answers": [
+      "Downtown\u2019s iconic Market Square"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What are some appetizer options at Cenacolo Restaurant in Pittsburgh?",
+    "model_answer": "Carciofini Fritti Fried Artichokes, Lemon & Basil Burrino Fresh Mozzarella, Butter & Grilled Bread Polpette Meatballs made with Prosciutto, Mortadella & Marinara Entr\u00e9e (Choice of One) Rigatoni  Hot Sausage, Hot Soppressata, Pancetta, Banana Peppers &",
+    "true_answers": [
+      "Meatballs, Burrino, Beans & Greens, Risotto, Flat Bread, Roasted Brussel Sprouts."
+    ],
+    "exact_match": false,
+    "max_recall": 0.09,
+    "max_f1": 0.04
+  },
+  {
+    "question": "What does Abbots Cross perform at City Winery Pittsburgh in 2025?",
+    "model_answer": "Celtic musical ensemble",
+    "true_answers": [
+      "St. Patrick's Day celebration"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When does Abbots Cross perform St. Patrick's Day celebration at City Winery Pittsburgh?",
+    "model_answer": "Monday, March 17th, 2025, at 7:00 PM",
+    "true_answers": [
+      "March 17, 2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.2
+  },
+  {
+    "question": "What event is being held at the National Aviary in March?",
+    "model_answer": "Owl-O-Ween",
+    "true_answers": [
+      "Penguin-Palooza"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What performances can attendees expect to see at the Entertainment Extravaganza?",
+    "model_answer": "Back In Black Mass. The True AC/DC Experience.",
+    "true_answers": [
+      "Traditional dances"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which proteins are available for selection in Piada Italian Street Food?",
+    "model_answer": "Italian Sausage, Grilled Chicken, Grilled Steak, Crispy Chicken, Hot Fried Chicken, Grass-fed Meatballs, Calamari & Hot Peppers, or Grilled Salmon",
+    "true_answers": [
+      "Italian Sausage, Grilled Chicken, Grilled Steak, Crispy Chicken, Hot Fried Chicken, Grass-fed Meatballs, Calamari & Hot Peppers, or Grilled Salmon."
+    ],
+    "exact_match": false,
+    "max_recall": 0.95,
+    "max_f1": 0.95
+  },
+  {
+    "question": "What pasta is used in the Roasted Eggplant Pasta?",
+    "model_answer": "penne ----------",
+    "true_answers": [
+      "Fettuccini"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  }
+]

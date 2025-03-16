@@ -1,11 +1,10 @@
-import json
-from rag_pipeline import *
 import argparse
+import json
 import logging
 import os
+import random
 import re
 from typing import List, TypedDict
-import random
 
 import torch
 from dotenv import load_dotenv
@@ -21,36 +20,43 @@ from tqdm import tqdm
 from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           BitsAndBytesConfig, GenerationConfig,
                           TextGenerationPipeline, pipeline)
+
+from rag_pipeline import *
 from utils import get_chunk_max_length, set_logger
 
 # Experiment hyperparameters
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument('experiment_type', type=str, help='train/test/test_set')
     parser.add_argument('--data_dir', type=str, default='raw_data')
-    parser.add_argument('--experiment_folder',type=str, default='Annotation/train_testdata')
-    parser.add_argument('--result_folder',type=str, default='Annotation/experiment_result')
+    parser.add_argument('--experiment_folder', type=str, default='Annotation/train_testdata')
+    parser.add_argument('--result_folder', type=str, default='Annotation/experiment_result')
     # Retriver parameters
     parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
     parser.add_argument('--chunk_size', type=int, default=500)
     parser.add_argument('--chunk_overlap', type=int, default=100)
     parser.add_argument('--is_semantic_chunking', type=bool, default=False)
     parser.add_argument('--search_type', type=str, default='similarity')
-    parser.add_argument('--search_num',type=int, default=3)
+    parser.add_argument('--search_num', type=int, default=3)
     # LLM parameters
-    parser.add_argument('--llm_model', type=str, default='mistralai/Mistral-7B-Instruct-v0.2')
-    parser.add_argument('--task', type=str, default='text-generation')
+    parser.add_argument('--llm_model', type=str, default='google/flan-t5-large')
+    parser.add_argument('--task', type=str, default='text2text-generation')
     parser.add_argument('--max_new_token_length', type=int, default=100)
-    parser.add_argument('--temperature',type=float,default=0.01)
-    parser.add_argument('--top_p',type=float,default=0.95)
-    parser.add_argument('--repetition_penalty',type=float,default=1.2)
+    parser.add_argument('--temperature', type=float, default=0.01)
+    parser.add_argument('--top_p', type=float, default=0.95)
+    parser.add_argument('--repetition_penalty', type=float, default=1.2)
 
     return parser.parse_args()
 
 
 if __name__ == '__main__':
-    args =parse_args()
+
+    args = parse_args()
+    set_logger('rag_pipeline', file_mode='w')
+    logging.info(f'Configuration:\n{vars(args)}')
+
     search_config = {'k': args.search_num}
     generation_config = GenerationConfig(
         max_new_tokens=args.max_new_token_length,
@@ -62,18 +68,18 @@ if __name__ == '__main__':
 
     # Set up models
     data_store = DataStore(model_name=args.embedding_model, data_dir=args.data_dir,
-                            chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
-                            is_semantic_chunking=args.is_semantic_chunking)
+                           chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap,
+                           is_semantic_chunking=args.is_semantic_chunking)
     rag_model = RetrivalLM(data_store=data_store,
-                            search_type=args.search_type,
-                            search_kwargs=search_config,
-                            task=args.task, model_name=args.llm_model)
+                           search_type=args.search_type,
+                           search_kwargs=search_config,
+                           task=args.task, model_name=args.llm_model)
 
     # Run RAG
-    with open(os.path.join(args.experiment_folder,args.experiment_type+'.json'),'r') as f:
+    with open(os.path.join(args.experiment_folder, args.experiment_type+'.json'), 'r') as f:
         content = json.load(f)
-    questions = [item['Question'] for item in content]
-    questions = random.sample(questions,30)
+    questions = [item['Question'] for item in content][:10]
+    # questions = random.sample(questions, 30)
     generated_answer = []
     context = []
     for question in questions:
@@ -83,8 +89,14 @@ if __name__ == '__main__':
         context.append(query['context'])
     if args.experiment_type != 'test_set':
         reference_answer = [item['Answer'] for item in content]
-        result = [{'Question': questions[i],'<Generated>Answer': generated_answer[i],'<Reference>Answer':reference_answer[i], '<Retrived>context': context[i]} for i in range(len(questions))]
-    else: 
-        result = [{'Question': questions[i],'<Generated>Answer': generated_answer[i],'<Retrived>context': context[i]} for i in range(len(questions))]
-    with open(os.path.join(args.result_folder,args.experiment_type+'.json'),'w') as f:
-        json.dump(result,f)
+        result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
+                   '<Reference>Answer': reference_answer[i], '<Retrived>context': context[i]} for i in range(len(questions))]
+    else:
+        result = [{'Question': questions[i], '<Generated>Answer': generated_answer[i],
+                   '<Retrived>context': context[i]} for i in range(len(questions))]
+
+    with open(os.path.join(args.result_folder, args.experiment_type+'.json'), 'w') as f:
+        json.dump(result, f, indent=4)
+
+    with open(os.path.join(args.result_folder, args.experiment_type+'config.json'), 'w') as f:
+        json.dump(vars(args) | generation_config.to_dict(), f, indent=4)

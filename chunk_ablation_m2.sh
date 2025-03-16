@@ -1,6 +1,6 @@
 #!/bin/bash
 
-embedding_models=("GIST-large-Embedding-v0" "bge-large-en-v1.5")
+embedding_models=("avsolatorio/GIST-large-Embedding-v0" "BAAI/bge-large-en-v1.5")
 chunk_sizes=(500 1000 1500)
 chunk_overlaps=(50 100 200)
 

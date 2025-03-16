@@ -116,3 +116,6 @@ News: ../about-us/news/index.html
 Working in University Advancement: ../about-us/work-here.html
 University Advancement Policies: ../about-us/policies.html
 Donor Bill of Rights: ../about-us/donor-bor.html
+
+For the CMU 50th Reunion Dinner Celebration, adult tickets cost $94 or $99 depending on the specific event or package. 
+Carnegie Mellon University's Reunion Weekend, which is part of the Spring Carnival, will be held on April 3-5, 2025

@@ -1,70 +1,92 @@
-
+Pittsburgh Pirates Coach Info
 Name: Derek Shelton
 Jersey: 17
 Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/486359/headshot/83/coach/current
 Position: Manager
+
+Pittsburgh Pirates Coach Info
+Name: Don Kelly
+Jersey: 12
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/430603/headshot/83/coach/current
+Position: Bench Coach
+
+Pittsburgh Pirates Coach Info
+Name: Matt Hague
+Jersey: 52
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/518755/headshot/83/coach/current
+Position: Major League Hitting Coach
+
+Pittsburgh Pirates Coach Info
+Name: Christian Marrero
+Jersey: 88
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/461842/headshot/83/coach/current
+Position: Assistant Hitting Coach
+
+Pittsburgh Pirates Coach Info
+Name: Oscar Marin
+Position: Pitching Coach
+Jersey: 47
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/599909/headshot/83/coach/current
+
+Pittsburgh Pirates Coach Info
+Name: Brent Strom
+Jersey: 56
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/122884/headshot/83/coach/current
+Position: Assistant Pitching Coach
+
+Pittsburgh Pirates Coach Info
+Name: Tarrik Brock
+Jersey: 16
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/150031/headshot/83/coach/current
+Position: First Base Coach
+
+Pittsburgh Pirates Coach Info
+Name: Mike Rabelo
+Jersey: 58
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/430958/headshot/83/coach/current
+Position: Third Base Coach
+
+Pittsburgh Pirates Coach Info
+Name: Mendy López
+Jersey: 96
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/133741/headshot/83/coach/current
+Position: Infield Coach
+
+Pittsburgh Pirates Coach Info
+Name: Miguel Perez
+Jersey: 87
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/430952/headshot/83/coach/current
+Position: Bullpen Coach
+
+Pittsburgh Pirates Coach Info
+Name: Radley Haddad
+Jersey: 86
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/645080/headshot/83/coach/current
+Position: Game Planning Coach
+
+Pittsburgh Pirates Coach Info
+Name: Jordan Comadena
+Jersey: 82
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/548089/headshot/83/coach/current
+Position: Bullpen Catcher
+
+Pittsburgh Pirates Coach Info
+Name: Raúl Hernández
+Jersey: 90
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/660556/headshot/83/coach/current
+Position: Bullpen Catcher
+
+Pittsburgh Pirates Coach Info
+Name: Jonny Tucker
+Jersey: 98
+Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/458568/headshot/83/coach/current
+Position: Coach
 
 Name: Don Kelly
 Jersey: 12
 Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/430603/headshot/83/coach/current
 Position: Bench Coach
 
-Name: Matt Hague
-Jersey: 52
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/518755/headshot/83/coach/current
-Position: Major League Hitting Coach
+Christian Marrero 88	Assistant Hitting Coach
 
-Name: Christian Marrero
-Jersey: 88
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/461842/headshot/83/coach/current
-Position: Assistant Hitting Coach
-
-Name: Oscar Marin
-Position: Pitching Coach
-Jersey: 47
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/599909/headshot/83/coach/current
-
-Name: Brent Strom
-Jersey: 56
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/122884/headshot/83/coach/current
-Position: Assistant Pitching Coach
-
-Name: Tarrik Brock
-Jersey: 16
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/150031/headshot/83/coach/current
-Position: First Base Coach
-
-Name: Mike Rabelo
-Jersey: 58
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/430958/headshot/83/coach/current
-Position: Third Base Coach
-
-Name: Mendy López
-Jersey: 96
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/133741/headshot/83/coach/current
-Position: Infield Coach
-
-Name: Miguel Perez
-Jersey: 87
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/430952/headshot/83/coach/current
-Position: Bullpen Coach
-
-Name: Radley Haddad
-Jersey: 86
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/645080/headshot/83/coach/current
-Position: Game Planning Coach
-
-Name: Jordan Comadena
-Jersey: 82
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/548089/headshot/83/coach/current
-Position: Bullpen Catcher
-
-Name: Raúl Hernández
-Jersey: 90
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/660556/headshot/83/coach/current
-Position: Bullpen Catcher
-
-Name: Jonny Tucker
-Jersey: 98
-Image URL: https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:83:current.png/ar_1:1,c_pad,b_auto:border/r_max/w_180,q_auto:best/v1/people/458568/headshot/83/coach/current
-Position: Coach
+Derek Shelton. Derek Lee Shelton (born July 30, 1970) is an American former minor league catcher and first baseman and professional baseball coach. He is the current manager of the Pittsburgh Pirates of Major League Baseball (MLB).

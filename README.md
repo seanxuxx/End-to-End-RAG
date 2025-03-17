@@ -2,7 +2,7 @@
 
 Team members:
 
-* **Sean Xu** (`*xiaoxu*)
+* **Sean Xu** (*xiaoxu*)
 * **Natallie Yang** (*xiaoton3*)
 * **Lexa Zhong** (*huiruzho*)
 

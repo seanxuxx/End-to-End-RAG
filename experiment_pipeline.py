@@ -56,14 +56,23 @@ def format_variant_name(*args) -> str:
 
 
 def save_outputs(result: List[dict], configuration: dict, evaluate: bool,
-                 output_dir: str, sub_dir: str):
+                 submit: bool, output_dir: str, sub_dir: str):
     dir_path = os.path.join(output_dir, sub_dir)
     os.makedirs(dir_path, exist_ok=True)
 
     qa_filepath = os.path.join(dir_path, 'results.json')
-    with open(qa_filepath, 'w') as f:
-        json.dump(result, f, indent=2)
-        logging.info(f'Save {len(result)} results to: {qa_filepath}')
+    if submit:
+        submission = {}
+        for i in range(len(result)):
+            curr_a = result[i]['answer']
+            submission[f"{i+1}"] = curr_a
+        with open(qa_filepath, 'w') as f:
+            json.dump(submission, f, indent=2)
+            logging.info(f'Save {len(result)} results to: {qa_filepath}')
+    else:
+        with open(qa_filepath, 'w') as f:
+            json.dump(result, f, indent=2)
+            logging.info(f'Save {len(result)} results to: {qa_filepath}')
 
     config_filepath = os.path.join(dir_path, 'config.json')
     with open(config_filepath, 'w') as f:
@@ -215,6 +224,6 @@ if __name__ == '__main__':
     result = convert_query_responses(queries, reference_answers)
     configuration = vars(args)
     save_outputs(result, configuration, evaluate=not args.no_reference_answers,
-                 output_dir=args.output_folder, sub_dir=variant_name)
+                 submit=args.no_reference_answers,output_dir=args.output_folder, sub_dir=variant_name)
 
     logging.info('\n')  # Done!!!

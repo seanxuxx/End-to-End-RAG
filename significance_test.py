@@ -1,7 +1,7 @@
 import numpy as np
 from statsmodels.stats.power import NormalIndPower, TTestPower
 from statsmodels.stats.proportion import proportion_effectsize
-from scipy.stats import mcnemar, ttest_rel, wilcoxon
+from scipy.stats import ttest_rel, wilcoxon
 
 class PowerAnalyzer:
     @staticmethod
@@ -46,25 +46,6 @@ class PowerAnalyzer:
         )
         return int(np.ceil(sample_size))
 
-    @staticmethod
-    def test_proportion_significance(baseline, improved, alpha=0.05):
-        """
-        Perform McNemar's test for paired nominal data.
-        baseline: List of 0/1 for baseline model (1=correct)
-        improved: List of 0/1 for improved model (1=correct)
-        alpha: Significance level (default 0.05)
-        Returns p-value and whether result is significant.
-        """
-        # Build contingency matrix
-        a = sum(1 for b, i in zip(baseline, improved) if (b == 1 and i == 1))
-        b_ = sum(1 for b, i in zip(baseline, improved) if (b == 1 and i == 0))
-        c_ = sum(1 for b, i in zip(baseline, improved) if (b == 0 and i == 1))
-        d_ = sum(1 for b, i in zip(baseline, improved) if (b == 0 and i == 0))
-        contingency_table = [[a, b_], [c_, d_]]
-        result = mcnemar(contingency_table, exact=False)
-        p_value = result.pvalue
-        significant = p_value < alpha
-        return p_value, significant
 
     @staticmethod
     def test_continuous_significance(baseline, improved, alpha=0.05, test_type='t-test'):

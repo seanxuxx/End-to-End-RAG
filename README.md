@@ -2,7 +2,7 @@
 
 # End-to-end NLP System Building
 
-Sean Xu (xiaoxu), NatalieXiaotong Yang (xiaoton3), Lexa Zhong (huiruzho)
+Sean Xu (xiaoxu), Natalie Yang (xiaoton3), Lexa Zhong (huiruzho)
 
 Our team used 2 late days. We received the `data/test_set.csv` on Saturday, Mar 15 and submitted this assignment on Sunday, Mar 16.
 

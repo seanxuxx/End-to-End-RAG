@@ -1,28 +1,92 @@
 # CMU Advanced NLP Assignment 2: End-to-end NLP System Building
 
-## Script to Run Test Inference
+Team members:
+
+* **Sean Xu** (xiaoxu)
+* **Natallie Yang** (xiaoton3)
+* **Lexa Zhong** (huiruzho)
+
+## How to Use
+
+### Set Up Environment
+
+```
+pip install -r requirements.txt
+```
+
+### Add API Keys
+
+Write `HF_TOKEN` to the environment profile, such as `.zshrc` or `.bashrc`
+
+### Script to Run Test Inference
 
 ```
 python experiment_pipeline.py \
-    --embedding_model "avsolatorio/GIST-large-Embedding-v0" \
-    --output_name "system_output_2" \
-    --chunk_size 500  \
-    --chunk_overlap 100 \
-    --add_few_shot \
-    --no_reference_answers \
-    --experiment_file "data/test_set.txt" \
-    --search_type "mmr"
+  --embedding_model "avsolatorio/GIST-large-Embedding-v0" \
+  --output_name "system_output_2" \
+  --chunk_size 500  \
+  --chunk_overlap 100 \
+  --add_few_shot \
+  --no_reference_answers \
+  --experiment_file "data/test_set.txt" \
+  --search_type "mmr"
 ```
 
-## Script to Test Set Evaluation
+### Script to Test Set Evaluation
+
 ```
 python experiment_pipeline.py \
-    --embedding_model "avsolatorio/GIST-large-Embedding-v0"\
-    --experiment_file "data/validation/questions.txt" \
-    --output_name "validation_best" \
-    --chunk_size 500 \
-    --chunk_overlap 100
+  --embedding_model "avsolatorio/GIST-large-Embedding-v0"\
+  --experiment_file "data/validation/questions.txt" \
+  --output_name "validation_best" \
+  --chunk_size 500 \
+  --chunk_overlap 100
 ```
+
+
+## Pipeline Script Help
+
+```
+python experiment_pipeline.py \
+  --experiment_file EXPERIMENT_FILE
+                        Relative filepath of the txt file for inference
+                        Default to 'data/test/questions.txt'
+  --output_folder OUTPUT_FOLDER
+  --output_name OUTPUT_NAME
+                        Name of a subfolder under the output_folder to store result files
+                        Default to '' where will format based on the model configuration
+  --no_reference_answers
+                        Include this flag if only running on the final test set
+  --data_dir DATA_DIR   Relative filepath of the raw text data directory
+  --embedding_model EMBEDDING_MODEL
+                        sentence-transformers model for embeddings
+  --chunk_size CHUNK_SIZE
+  --chunk_overlap CHUNK_OVERLAP
+  --is_semantic_chunking IS_SEMANTIC_CHUNKING
+                        Nothing will happen when including this flag
+                        Default to use hybrid semantic chunking
+  --not_semantic_chunking
+                        Include this flag to enable RecursiveCharacterTextSplitter only
+  --search_type {similarity,similarity_score_threshold,mmr}
+  --search_k SEARCH_K
+  --fetch_k FETCH_K
+  --lambda_mult LAMBDA_MULT
+  --score_threshold SCORE_THRESHOLD
+  --task {text-generation,text2text-generation}
+  --generator_model GENERATOR_MODEL
+                        transformer model supporting the specified task
+  --max_new_tokens MAX_NEW_TOKENS
+  --temperature TEMPERATURE
+  --top_p TOP_P
+  --repetition_penalty REPETITION_PENALTY
+  --do_sample           Nothing will happen when including this flag
+  --not_do_sample       Include this flag to disable do_sampling for pipeline generation
+  --few_shot            Nothing will happen when including this flag
+  --add_few_shot        Include this flag to enable few-shot learning
+```
+
+
+# Assignment Handout
 
 Large language models (LLMs) such as Llama2 have been shown effective for question-answering ([Touvron et al., 2023](https://arxiv.org/abs/2307.09288)), however, they are often limited by their knowledge in certain domains. A common technique here is to augment LLM's knowledge with documents that are relevant to the question. In this assignment, you will *develop a retrieval augmented generation system (RAG)* ([Lewis et al., 2021](https://arxiv.org/abs/2005.11401)) that's capable of answering questions about Pittsburgh and CMU, including history, culture, trivia, and upcoming events.
 
@@ -304,11 +368,11 @@ This assignment was based on the Spring 2024 version of this assignment by Graha
 + Vu et al., 2023. [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
 
 [^1]: See the [assignment policies](http://www.phontron.com/class/anlp2024/assignments/#assignment-policies) for this class, including submission information, late day policy and more.
-    
+
 [^2]: See the [lecture notes](http://www.phontron.com/class/anlp2024/lectures/#experimental-design-and-human-annotation-feb-13) on experimental design and human annotation for guidance on annotation, size of test/train data, and general experimental design.
-    
+
 [^3]: Create a private GitHub repo and give access to the TAs in charge of this assignment by the deadline. See piazza announcement post for our GitHub usernames.
-    
+
 [^4]: Grading policy: http://www.phontron.com/class/anlp2024/course_details/#grading
-    
+
 [^5]: In general, if your system is generating answers that are relevant to the question, it would be considered non-trivial. This could be achieved with a basic RAG system.

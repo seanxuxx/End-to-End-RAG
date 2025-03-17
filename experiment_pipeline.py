@@ -93,13 +93,16 @@ def save_outputs(result: List[dict], configuration: dict, evaluate: bool,
 
 def parse_datastore_args(parser: argparse.ArgumentParser):
     parser.add_argument('--data_dir', type=str, default='raw_data',
-                        help='Directory of raw text files')
-    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2')
+                        help='Relative filepath of the raw text data directory')
+    parser.add_argument('--embedding_model', type=str, default='all-mpnet-base-v2',
+                        help='sentence-transformers model for embeddings')
     parser.add_argument('--chunk_size', type=int, default=1000)
     parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--is_semantic_chunking', action='store_true', default=True)
+    parser.add_argument('--is_semantic_chunking', default=True,
+                        help='Nothing will happen when including this flag. Default to use hybrid semantic chunking')
     parser.add_argument('--not_semantic_chunking', action='store_false',
-                        dest='is_semantic_chunking')
+                        dest='is_semantic_chunking',
+                        help='Include this flag to enable RecursiveCharacterTextSplitter only')
 
 
 def parse_retriever_args(parser: argparse.ArgumentParser):
@@ -114,28 +117,27 @@ def parse_retriever_args(parser: argparse.ArgumentParser):
 def parse_generator_args(parser: argparse.ArgumentParser):
     parser.add_argument('--task', type=str, default='text2text-generation',
                         choices=['text-generation', 'text2text-generation'])
-    parser.add_argument('--generator_model', type=str, default='google/flan-t5-large')
+    parser.add_argument('--generator_model', type=str, default='google/flan-t5-large',
+                        help='transformer model supporting the specified task')
     parser.add_argument('--max_new_tokens', type=int, default=50)
     parser.add_argument('--temperature', type=float, default=0.01)
     parser.add_argument('--top_p', type=float, default=0.95)
     parser.add_argument('--repetition_penalty', type=float, default=1.2)
-    parser.add_argument('--do_sample', action='store_true', default=True,
-                        help="Enable do_sample when calling pipeline (default: True)")
+    parser.add_argument('--do_sample', action='store_true', default=True)
     parser.add_argument('--not_do_sample', action='store_false', dest='do_sample',
-                        help="Disable do_sample when calling pipeline")
-    parser.add_argument('--few_shot',action='store_false', default=False)
-    parser.add_argument('--add_few_shot',action = 'store_true',
-                        dest='few_shot')
+                        help='Include this flag to disable do_sampling for pipeline generation')
+    parser.add_argument('--few_shot', action='store_false', default=False)
+    parser.add_argument('--add_few_shot', action='store_true', dest='few_shot',
+                        help='Include this flag to enable few-shot learning')
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument('--experiment_file', type=str,
-                        default='data/test/questions.txt')
-    parser.add_argument('--output_folder', type=str,
-                        default='system_outputs')
-    parser.add_argument('--output_name', type=str,
-                        default='')
+    parser.add_argument('--experiment_file', type=str, default='data/test/questions.txt',
+                        help='Relative filepath of the txt file for inference')
+    parser.add_argument('--output_folder', type=str, default='system_outputs')
+    parser.add_argument('--output_name', type=str, default='',
+                        help='Name of a subfolder under the output_folder to store result files')
     parser.add_argument('--no_reference_answers', action='store_true', default=False,
                         help='Include this flag if only running on the final test set')
     parse_datastore_args(parser)
@@ -191,7 +193,7 @@ if __name__ == '__main__':
         task=args.task,
         model_name=args.generator_model,
         few_shot=args.few_shot,
-        training_path= 'data/train'
+        training_path='data/train'
     )
 
     # Set up generator
@@ -224,6 +226,6 @@ if __name__ == '__main__':
     result = convert_query_responses(queries, reference_answers)
     configuration = vars(args)
     save_outputs(result, configuration, evaluate=not args.no_reference_answers,
-                 submit=args.no_reference_answers,output_dir=args.output_folder, sub_dir=variant_name)
+                 submit=args.no_reference_answers, output_dir=args.output_folder, sub_dir=variant_name)
 
     logging.info('\n')  # Done!!!

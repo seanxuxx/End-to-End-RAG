@@ -1,5 +1,21 @@
 # CMU Advanced NLP Assignment 2: End-to-end NLP System Building
 
+## Script to Run Test Inference
+
+```
+python experiment_pipeline.py \
+    --embedding_model "avsolatorio/GIST-large-Embedding-v0" \
+    --output_name "system_output_2" \
+    --chunk_size 500  \
+    --chunk_overlap 100 \
+    --add_few_shot \
+    --no_reference_answers \
+    --experiment_file "data/test_set.txt" \
+    --search_type "mmr"
+```
+
+## Script to Test Set Evaluation
+
 Large language models (LLMs) such as Llama2 have been shown effective for question-answering ([Touvron et al., 2023](https://arxiv.org/abs/2307.09288)), however, they are often limited by their knowledge in certain domains. A common technique here is to augment LLM's knowledge with documents that are relevant to the question. In this assignment, you will *develop a retrieval augmented generation system (RAG)* ([Lewis et al., 2021](https://arxiv.org/abs/2005.11401)) that's capable of answering questions about Pittsburgh and CMU, including history, culture, trivia, and upcoming events.
 
 ```
@@ -19,13 +35,13 @@ Please note that you'll be building your own system end-to-end for this assignme
 
 The key checkpoints for this assignment are,
 
-- [ ] [Understand the task specification](#task-retrieval-augmented-generation-rag)
-- [ ] [Prepare your raw data](#preparing-raw-data)
-- [ ] [Annotate data for model development](#annotating-data)
-- [ ] [Develop a retrieval augmented generation system](#developing-your-rag-system)
-- [ ] [Generating results](#generating-results)
-- [ ] [Write a report](#writing-report)
-- [ ] [Submit your work](#submission--grading)
+- [ ]  [Understand the task specification](#task-retrieval-augmented-generation-rag)
+- [ ]  [Prepare your raw data](#preparing-raw-data)
+- [ ]  [Annotate data for model development](#annotating-data)
+- [ ]  [Develop a retrieval augmented generation system](#developing-your-rag-system)
+- [ ]  [Generating results](#generating-results)
+- [ ]  [Write a report](#writing-report)
+- [ ]  [Submit your work](#submission--grading)
 
 All deliverables are due by **Friday, March 14th**. This is a group assignment, see the assignment policies for this class.[^1]
 
@@ -50,31 +66,31 @@ Read our [model and data policy](#model-and-data-policy) for this assignment.
 For your test set and the RAG systems, you will first need to compile a knowledge resource of relevant documents. You are free to use any publicly available resource, but we *highly recommend* including the websites below. Note that we can also ask you questions from relevant subpages (e.g. "about", "schedule", "history", "upcoming events", "vendors", etc.) from these websites:
 
 + General Info and History of Pittsburgh/CMU
-    - Wikipedia pages ([Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh), [History of Pittsburgh](https://en.wikipedia.org/wiki/History_of_Pittsburgh)).
-    - [City of Pittsburgh webpage](https://pittsburghpa.gov/index.html)
-    - [Encyclopedia Brittanica page](https://www.britannica.com/place/Pittsburgh)
-    - [Visit Pittsburgh webpage](https://www.visitpittsburgh.com): This website also contains subpages that would be useful for other topics (see below), like events, sports, music, food, etc.
-    - City of Pittsburgh [Tax Regulations](https://pittsburghpa.gov/finance/tax-forms): See the links under the "Regulations" column of the table
-    - City of Pittsburgh [2024 Operating Budget](https://apps.pittsburghpa.gov/redtail/images/23255_2024_Operating_Budget.pdf)
-    - [About CMU & CMU History](https://www.cmu.edu/about/)
+  - Wikipedia pages ([Pittsburgh](https://en.wikipedia.org/wiki/Pittsburgh), [History of Pittsburgh](https://en.wikipedia.org/wiki/History_of_Pittsburgh)).
+  - [City of Pittsburgh webpage](https://pittsburghpa.gov/index.html)
+  - [Encyclopedia Brittanica page](https://www.britannica.com/place/Pittsburgh)
+  - [Visit Pittsburgh webpage](https://www.visitpittsburgh.com): This website also contains subpages that would be useful for other topics (see below), like events, sports, music, food, etc.
+  - City of Pittsburgh [Tax Regulations](https://pittsburghpa.gov/finance/tax-forms): See the links under the "Regulations" column of the table
+  - City of Pittsburgh [2024 Operating Budget](https://apps.pittsburghpa.gov/redtail/images/23255_2024_Operating_Budget.pdf)
+  - [About CMU & CMU History](https://www.cmu.edu/about/)
 + Events in Pittsburgh and CMU (We will only ask about annual/recurring events and events happening **after** March 19th.)
-    - [Pittsburgh events calendar](https://pittsburgh.events): Navigate to month-specific pages for easier scraping
-    - [Downtown Pittsburgh events calendar](https://downtownpittsburgh.com/events/)
-    - [Pittsburgh City Paper events](https://www.pghcitypaper.com/pittsburgh/EventSearch?v=d)
-    - [CMU events calendar](https://events.cmu.edu) and [campus events page](https://www.cmu.edu/engage/alumni/events/campus/index.html)
+  - [Pittsburgh events calendar](https://pittsburgh.events): Navigate to month-specific pages for easier scraping
+  - [Downtown Pittsburgh events calendar](https://downtownpittsburgh.com/events/)
+  - [Pittsburgh City Paper events](https://www.pghcitypaper.com/pittsburgh/EventSearch?v=d)
+  - [CMU events calendar](https://events.cmu.edu) and [campus events page](https://www.cmu.edu/engage/alumni/events/campus/index.html)
 + Music and Culture (Note that many of these pages also contain upcoming events, also see Wikipedia pages for each.)
-    - Pittsburgh [Symphony](https://www.pittsburghsymphony.org), [Opera](https://pittsburghopera.org), and [Cultural Trust](https://trustarts.org)
-    - Pittsburgh Museums ([Carnegie Museums](https://carnegiemuseums.org), [Heinz History Center](https://www.heinzhistorycenter.org)), [The Frick](https://www.thefrickpittsburgh.org), and [more](https://en.wikipedia.org/wiki/List_of_museums_in_Pittsburgh))
-    - Food-related events 
-        - [Food Festivals](https://www.visitpittsburgh.com/events-festivals/food-festivals/)
-        - [Picklesburgh](https://www.picklesburgh.com/)
-        - [Pittsburgh Taco Fest](https://www.pghtacofest.com/)
-        - [Pittsburgh Restaurant Week](https://pittsburghrestaurantweek.com/)
-        - [Little Italy Days](https://littleitalydays.com)
-        - [Banana Split Fest](https://bananasplitfest.com)
+  - Pittsburgh [Symphony](https://www.pittsburghsymphony.org), [Opera](https://pittsburghopera.org), and [Cultural Trust](https://trustarts.org)
+  - Pittsburgh Museums ([Carnegie Museums](https://carnegiemuseums.org), [Heinz History Center](https://www.heinzhistorycenter.org)), [The Frick](https://www.thefrickpittsburgh.org), and [more](https://en.wikipedia.org/wiki/List_of_museums_in_Pittsburgh))
+  - Food-related events
+    - [Food Festivals](https://www.visitpittsburgh.com/events-festivals/food-festivals/)
+    - [Picklesburgh](https://www.picklesburgh.com/)
+    - [Pittsburgh Taco Fest](https://www.pghtacofest.com/)
+    - [Pittsburgh Restaurant Week](https://pittsburghrestaurantweek.com/)
+    - [Little Italy Days](https://littleitalydays.com)
+    - [Banana Split Fest](https://bananasplitfest.com)
 + Sports (Note that many of these pages also contain upcoming events, also see Wikipedia pages for each. Don't worry about scraping news/scores/recent stats from these sites.)
-    - General info ([Visit Pittsburgh](https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/))
-    - Pittsburgh [Pirates](https://www.mlb.com/pirates), [Steelers](https://www.steelers.com), and [Penguins](https://www.nhl.com/penguins/)
+  - General info ([Visit Pittsburgh](https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/))
+  - Pittsburgh [Pirates](https://www.mlb.com/pirates), [Steelers](https://www.steelers.com), and [Penguins](https://www.nhl.com/penguins/)
 
 ### Collecting raw data
 
@@ -101,13 +117,13 @@ The testing (and analysis) data will be the data that you use to make sure that 
 To help you get started, here are some example questions,
 
 + Questions that could be answered by just prompting a LLM
-    - When was Carnegie Mellon University founded?
+  - When was Carnegie Mellon University founded?
 + Questions that can be better answered by augmenting LLM with relevant documents
-    - What is the name of the annual pickle festival held in Pittsburgh?
+  - What is the name of the annual pickle festival held in Pittsburgh?
 + Questions that are likely answered only through augmentation
-    - When was the Pittsburgh Soul Food Festival established?
+  - When was the Pittsburgh Soul Food Festival established?
 + Questions that are sensitive to temporal signals
-    - Who is performing at X venue on Y date?
+  - Who is performing at X venue on Y date?
 
 See [Vu et al., 2023](https://arxiv.org/abs/2310.03214) for ideas about questions to prompt LLMs. For questions with multiple valid answers, you can include multiple reference answers per line in `reference_answers.json` (separated by a semicolon `;`). As long as your system generates one of the valid answers, it will be considered correct.
 
@@ -162,6 +178,7 @@ Finally, you will run your systems on our test set (questions only) and submit y
 This test set will be curated by the course staff and will evaluate your system's ability to respond to a variety of questions about Pittsburgh and CMU. Because the goal of this assignment is not to perform hyperparameter optimization on this private test set, we ask you to not overfit to this test set. You are allowed to submit up to *three* output files (`system_outputs/system_output_{1,2,3}.json`). We will use the best performing file for grading.
 
 The json file should be in the following format:
+
 ```
 {
     "1": "Answer 1",
@@ -195,13 +212,13 @@ There will be a 7 page limit for the report, and there is no required template. 
 
 Submit all deliverables on Canvas. Your submission checklist is below,
 
-- [ ] Your report.
-- [ ] A link to your GitHub repository containing your code.[^3]
-- [ ] A file listing contributions of each team member,
-    - [ ] data annotation contributions from each team member (e.g. teammate A: instances 1-X; teammate B: instances X-Y, teammate C: instances Y-Z).
-    - [ ] data collection (scraping, processing) and modeling contributions from each team member (e.g. teammate A: writing scripts to ..., implementing ...; teammate B:...; teammate C:...;)
-- [ ] Testing and training data you annotated for this assignment.
-- [ ] Your system outputs on our test set.
+- [ ]  Your report.
+- [ ]  A link to your GitHub repository containing your code.[^3]
+- [ ]  A file listing contributions of each team member,
+  - [ ]  data annotation contributions from each team member (e.g. teammate A: instances 1-X; teammate B: instances X-Y, teammate C: instances Y-Z).
+  - [ ]  data collection (scraping, processing) and modeling contributions from each team member (e.g. teammate A: writing scripts to ..., implementing ...; teammate B:...; teammate C:...;)
+- [ ]  Testing and training data you annotated for this assignment.
+- [ ]  Your system outputs on our test set.
 
 Your submission should be a zip file with the following structure (assuming the lowercase Andrew ID is ANDREWID). Make one submission per team.
 
@@ -229,28 +246,28 @@ ANDREWID/
 The following points (max. 100 points) are derived from the results and your report. See course grading policy.[^4]
 
 + **Submit data** (15 points): submit testing/training data of your creation.
-+ **Submit code** (15 points): submit your code for preprocessing and model development in the form of a GitHub repo. We may not necessarily run your code, but we will look at it. So please ensure that it contains up-to-date code with a README file outlining the steps to run it. Your repo 
++ **Submit code** (15 points): submit your code for preprocessing and model development in the form of a GitHub repo. We may not necessarily run your code, but we will look at it. So please ensure that it contains up-to-date code with a README file outlining the steps to run it. Your repo
 + **Results** (30 points): points based on your system's performance on our private test set. 20 points based on your performance using our metrics,[^5] plus up to 10 points based on level of performance relative to other submissions from the class.
 + **Report**: below points are awarded based on your report.
-    + **Data creation** (10 points): clearly describe how you created your data. Please include the following details,
-        - How did you compile your knowledge resource, and how did you decide which documents to include?
-        - How did you extract raw data? What tools did you use?
-        - What data was annotated for testing and training (what kind and how much)?
-        - How did you decide what kind and how much data to annotate?
-        - What sort of annotation interface did you use?
-        - How did you estimate the quality of your annotations? (IAA)
-        - For training data that you did not annotate, did you use any extra data and in what way?
-    + **Model details** (10 points): clearly describe your model(s). Please include the following details,
-        - What kind of methods (including baselines) did you try? Explain at least two variations (more is welcome). This can include variations of models, which data it was trained on, training strategy, embedding models, retrievers, re-rankers, etc.
-        - What was your justification for trying these methods?
-    + **Results** (10 points): report raw numbers from your experiments. Please include the following details,        
-        - What was the result of each model that you tried on the testing data that you created?
-        - Are the results statistically significant?
-    + **Analysis** (10 points): perform quantitative/qualitative analysis and present your findings,
-        - Perform a comparison of the outputs on a more fine-grained level than just holistic accuracy numbers, and report the results. For instance, how did your models perform across various types of questions?
-        - Perform an analysis that evaluates the effectiveness of retrieve-and-augment strategy vs closed-book use of your models.
-        - Show examples of outputs from at least two of the systems you created. Ideally, these examples could be representative of the quantitative differences that you found above.
- 
+  + **Data creation** (10 points): clearly describe how you created your data. Please include the following details,
+    - How did you compile your knowledge resource, and how did you decide which documents to include?
+    - How did you extract raw data? What tools did you use?
+    - What data was annotated for testing and training (what kind and how much)?
+    - How did you decide what kind and how much data to annotate?
+    - What sort of annotation interface did you use?
+    - How did you estimate the quality of your annotations? (IAA)
+    - For training data that you did not annotate, did you use any extra data and in what way?
+  + **Model details** (10 points): clearly describe your model(s). Please include the following details,
+    - What kind of methods (including baselines) did you try? Explain at least two variations (more is welcome). This can include variations of models, which data it was trained on, training strategy, embedding models, retrievers, re-rankers, etc.
+    - What was your justification for trying these methods?
+  + **Results** (10 points): report raw numbers from your experiments. Please include the following details,
+    - What was the result of each model that you tried on the testing data that you created?
+    - Are the results statistically significant?
+  + **Analysis** (10 points): perform quantitative/qualitative analysis and present your findings,
+    - Perform a comparison of the outputs on a more fine-grained level than just holistic accuracy numbers, and report the results. For instance, how did your models perform across various types of questions?
+    - Perform an analysis that evaluates the effectiveness of retrieve-and-augment strategy vs closed-book use of your models.
+    - Show examples of outputs from at least two of the systems you created. Ideally, these examples could be representative of the quantitative differences that you found above.
+
 ## Model and Data Policy
 
 To make the assignment accessible to everyone,
@@ -262,10 +279,11 @@ To make the assignment accessible to everyone,
 If you have any questions about whether a model or data is allowed, please ask on Piazza.
 
 ## FAQ
+
 + Q) "*There are lots of links and subpages in the webpages, what is exactly the scope for this assignment?*"
-    - A) The scope includes the links on the readme and their descendant pages that are specifically relevant to the topics we have listed (e.g. history, events, music, food, sports). In addition, you may also include some PDFs that can be reached from those websites, even if they are not technically descendant pages, e.g., See the links under the "Regulations" column of the table. Use your best judgment to determine whether a webpage is relevant—a good heuristic is whether we can ask questions about factual content included in those pages.
+  - A) The scope includes the links on the readme and their descendant pages that are specifically relevant to the topics we have listed (e.g. history, events, music, food, sports). In addition, you may also include some PDFs that can be reached from those websites, even if they are not technically descendant pages, e.g., See the links under the "Regulations" column of the table. Use your best judgment to determine whether a webpage is relevant—a good heuristic is whether we can ask questions about factual content included in those pages.
 + Q) "*Is manual scraping prohibited?*"
-    - A) Manual scraping is not prohibited. To what extent you would perform the task manually is up to you.
+  - A) Manual scraping is not prohibited. To what extent you would perform the task manually is up to you.
 
 ## Acknowledgements
 
@@ -277,14 +295,12 @@ This assignment was based on the Spring 2024 version of this assignment by Graha
 + Touvron et al., 2023. [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288).
 + Vu et al., 2023. [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214).
 
-
-
 [^1]: See the [assignment policies](http://www.phontron.com/class/anlp2024/assignments/#assignment-policies) for this class, including submission information, late day policy and more.
-
+    
 [^2]: See the [lecture notes](http://www.phontron.com/class/anlp2024/lectures/#experimental-design-and-human-annotation-feb-13) on experimental design and human annotation for guidance on annotation, size of test/train data, and general experimental design.
-
+    
 [^3]: Create a private GitHub repo and give access to the TAs in charge of this assignment by the deadline. See piazza announcement post for our GitHub usernames.
-
+    
 [^4]: Grading policy: http://www.phontron.com/class/anlp2024/course_details/#grading
-
+    
 [^5]: In general, if your system is generating answers that are relevant to the question, it would be considered non-trivial. This could be achieved with a basic RAG system.

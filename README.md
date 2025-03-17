@@ -2,9 +2,9 @@
 
 Team members:
 
-* **Sean Xu** (xiaoxu)
-* **Natallie Yang** (xiaoton3)
-* **Lexa Zhong** (huiruzho)
+* **Sean Xu** (`*xiaoxu*)
+* **Natallie Yang** (*xiaoton3*)
+* **Lexa Zhong** (*huiruzho*)
 
 ## How to Use
 
@@ -42,7 +42,6 @@ python experiment_pipeline.py \
   --chunk_size 500 \
   --chunk_overlap 100
 ```
-
 
 ## Pipeline Script Help
 
@@ -84,7 +83,6 @@ python experiment_pipeline.py \
   --few_shot            Nothing will happen when including this flag
   --add_few_shot        Include this flag to enable few-shot learning
 ```
-
 
 # Assignment Handout
 

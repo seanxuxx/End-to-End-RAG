@@ -1,7 +1,7 @@
 [
   {
     "question": "When is the opening reception for the Derek Norman exhibition at Carnegie Mellon University?",
-    "model_answer": "",
+    "model_answer": "April 15, 2025",
     "true_answers": [
       "March 13, from 5-7 p.m."
     ],
@@ -11,27 +11,27 @@
   },
   {
     "question": "In which counties and district do most CMU DC Tartans reside?",
-    "model_answer": "\nAI: Most CMU DC Tartans reside in and around Fairfax, Montgomery and Arlington counties, as well as the District of Columbia.",
+    "model_answer": "Fairfax, Montgomery and Arlington counties",
     "true_answers": [
       "Fairfax county; Montgomery county; Arlington county; District of Columbia"
     ],
     "exact_match": false,
-    "max_recall": 0.78,
-    "max_f1": 0.47
+    "max_recall": 0.44,
+    "max_f1": 0.57
   },
   {
     "question": "When does Heartfulness Weekly Meditation take place?",
-    "model_answer": "\nAI: The Heartfulness Weekly Meditation takes place every week from April 6, 2025 to May 5, 2025 at 8:30 - 11 a.m. in Room",
+    "model_answer": "April 6, 2025",
     "true_answers": [
       "8:30 to 11 a.m. every week from March 30 to May 5"
     ],
     "exact_match": false,
-    "max_recall": 0.75,
-    "max_f1": 0.51
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "What event is being held in Hamerschlag Hall C101 every week from April 7 to April 21?",
-    "model_answer": "",
+    "model_answer": "Shamrock Night",
     "true_answers": [
       "Drop in Mending Hours"
     ],
@@ -41,17 +41,17 @@
   },
   {
     "question": "What is the start date for the Summer One & Mini-5 Faculty Course Evaluations?",
-    "model_answer": "",
+    "model_answer": "May 12, 2025",
     "true_answers": [
       "June 13, 2025"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.33,
+    "max_f1": 0.33
   },
   {
     "question": "Who is co-hosting and sponsoring the CMBAA - Juneteenth Party?",
-    "model_answer": "",
+    "model_answer": "KANSAS",
     "true_answers": [
       "Carnegie Mellon Trustee Larry Jennings"
     ],
@@ -61,67 +61,67 @@
   },
   {
     "question": "Who organizes the LGBTQIA+ Support and Social Group at Carnegie Mellon University?",
-    "model_answer": "\nAI: The LGBTQIA+ Support and Social Group is organized by Dr. Jayme Jenkins, who can be reached via email at [jaymej@andrew.cmu.edu](mailto:jaymej",
+    "model_answer": "Jayme Jenkins",
     "true_answers": [
       "Jayme Jenkins"
     ],
-    "exact_match": false,
+    "exact_match": true,
     "max_recall": 1.0,
-    "max_f1": 0.15
+    "max_f1": 1.0
   },
   {
     "question": "When is the Spring Carnival taking place at Carnegie Mellon University?",
-    "model_answer": "\nAI: The Spring Carnival at Carnegie Mellon University is taking place from April 3-6, 2025.",
+    "model_answer": "April 3-6, 2025",
     "true_answers": [
       "From April 3 to 5, 2025"
     ],
     "exact_match": false,
-    "max_recall": 0.5,
-    "max_f1": 0.29
+    "max_recall": 0.33,
+    "max_f1": 0.44
   },
   {
     "question": "What organization provides the volunteers for the weekly pet therapy program at Carnegie Mellon University?",
-    "model_answer": "",
+    "model_answer": "Animal Friend\u2019s Therapet program",
     "true_answers": [
       "Animal Friend\u2019s Therapet program"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "When is the exhibition of Derek Norman's work opening?",
-    "model_answer": "",
+    "model_answer": "Thursday, 13 March",
     "true_answers": [
       "March 13, 2025"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.67,
+    "max_f1": 0.67
   },
   {
     "question": "In which year did Laura Fuller join the Pittsburgh Symphony Orchestra?",
-    "model_answer": "\nAI: Laura Fuller joined the Pittsburgh Symphony Orchestra in 2017.",
+    "model_answer": "2017",
     "true_answers": [
       "2017"
     ],
-    "exact_match": false,
+    "exact_match": true,
     "max_recall": 1.0,
-    "max_f1": 0.18
+    "max_f1": 1.0
   },
   {
     "question": "When did Cecee Pantikian join the Pittsburgh Symphony Orchestra?",
-    "model_answer": "",
+    "model_answer": "September 2020",
     "true_answers": [
       "September 2020"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "What did Lamanna consider his colleagues during his first international dinosaur expedition?",
-    "model_answer": "",
+    "model_answer": "brothers",
     "true_answers": [
       "Argentinian paleontologists"
     ],
@@ -131,17 +131,17 @@
   },
   {
     "question": "Which orchestra did DeAlmeida record Bach's concerto with?",
-    "model_answer": "",
+    "model_answer": "Pittsburgh Symphony Orchestra",
     "true_answers": [
       "Pittsburgh Symphony Orchestra"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "Who helped Count Almaviva win Rosina's heart?",
-    "model_answer": "",
+    "model_answer": "a poor student named Lindoro",
     "true_answers": [
       "Figaro"
     ],
@@ -151,7 +151,7 @@
   },
   {
     "question": "In which year did Carnegie Museums in Pittsburgh become known as \"The Carnegie\"?",
-    "model_answer": "",
+    "model_answer": "1895",
     "true_answers": [
       "1986"
     ],
@@ -161,47 +161,47 @@
   },
   {
     "question": "When is the Vintage Pittsburgh retro fair taking place?",
-    "model_answer": "",
+    "model_answer": "April 28",
     "true_answers": [
       "April 5, 2025."
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.33,
+    "max_f1": 0.4
   },
   {
     "question": "Which music festivals did Douglas attend as a student?",
-    "model_answer": "",
+    "model_answer": "Aspen, Roundtop, the National Orchestral Institute, Music Academy of the West, and Tanglewood",
     "true_answers": [
       "Summer music festivals at Aspen, Roundtop, the National Orchestral Institute, Music Academy of the West, and Tanglewood."
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.76,
+    "max_f1": 0.87
   },
   {
     "question": "In which year was the University of Pittsburgh established?",
-    "model_answer": "\nAI: The University of Pittsburgh was established in 1787.",
+    "model_answer": "1787",
     "true_answers": [
       "1787"
     ],
-    "exact_match": false,
+    "exact_match": true,
     "max_recall": 1.0,
-    "max_f1": 0.2
+    "max_f1": 1.0
   },
   {
     "question": "Who did the Count suspect Cherubino of having a crush on?",
-    "model_answer": "",
+    "model_answer": "the Countess",
     "true_answers": [
       "Countess, Rosina"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.5,
+    "max_f1": 0.5
   },
   {
     "question": "What is the phone number of Network Deposition Services in Department of City Planning?",
-    "model_answer": "\n\nAI: I'm sorry but I couldn't find any information about a \"Network Deposition Services\" within the Department of City Planning. Could you please provide more details or clarify your question?",
+    "model_answer": "141",
     "true_answers": [
       "412-281-7908"
     ],
@@ -211,27 +211,27 @@
   },
   {
     "question": "In which year was the first coke-fire smelting introduced in Pittsburgh?",
-    "model_answer": "",
+    "model_answer": "1859",
     "true_answers": [
       "1859"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "What organization is accepting donations for Public Safety personnel and equipment?",
-    "model_answer": "",
+    "model_answer": "Department of Public Safety",
     "true_answers": [
       "Public Safety Support Trust Fund"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.4,
+    "max_f1": 0.44
   },
   {
     "question": "What resources can someone turn to for drug treatment in Pittsburgh?",
-    "model_answer": "\n\nAI: Someone can turn to Allegheny County Substance Abuse Management for information about substance abuse services in the Pittsburgh area. They can call their toll-free phone number at 412.350.33",
+    "model_answer": "Allegheny County Substance Abuse Management",
     "true_answers": [
       "PA Get Help Now; UPMC Recovery Engagement Program; AHN Addiction Medicine Center of Excellence"
     ],
@@ -241,7 +241,7 @@
   },
   {
     "question": "Who was the National Negro Opera Company founded?",
-    "model_answer": "",
+    "model_answer": "Mary Cardwell Dawson",
     "true_answers": [
       "Miriam White and Jonnet Solomon."
     ],
@@ -251,17 +251,17 @@
   },
   {
     "question": "What Law Enforcement partners does DAAT have?",
-    "model_answer": "",
+    "model_answer": "Pittsburgh Police has great working relationships with many agencies, including the District Attorney\u2019s Office, US Attorney\u2019s Office, FBI Pittsburgh, University police departments, county law enforcement agencies and neighboring regional agencies",
     "true_answers": [
       "Pittsburgh Bureau of Police; Allegheny County District Attorney\u2019s Office; Allegheny County Police; Allegheny County Sheriff\u2019s Department; Pennsylvania Attorney General\u2019s Office; Pennsylvania State Police; FBI Pittsburgh; US Attorneys Office; Bureau of Alcohol, Tobacco, Firearms and Explosives."
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.44,
+    "max_f1": 0.48
   },
   {
     "question": "Who is the new acting EMS Chief of Pittsburgh?",
-    "model_answer": "",
+    "model_answer": "Assistant Chief Mark Pinchalk",
     "true_answers": [
       "Ronald Romano"
     ],
@@ -271,17 +271,17 @@
   },
   {
     "question": "What do the the Executive Orders support that Mayor William Peduto signed on May 29, 2018?",
-    "model_answer": "",
+    "model_answer": "growth of the construction industry and access to family-supporting union jobs for city residents",
     "true_answers": [
       "Growth of the construction industry; Access to family-supporting union jobs for city residents"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 1.0,
+    "max_f1": 0.96
   },
   {
     "question": "What is the phone number of UPMC Recovery Engagement Program?",
-    "model_answer": "",
+    "model_answer": "412-268- 2129",
     "true_answers": [
       "412-232-6275"
     ],
@@ -291,7 +291,7 @@
   },
   {
     "question": "What is the phone number of PA Get Help Now?",
-    "model_answer": "",
+    "model_answer": "412.350.5205",
     "true_answers": [
       "1-800-662-HELP"
     ],
@@ -301,17 +301,17 @@
   },
   {
     "question": "Why is Black History Month important to Miles Boykin?",
-    "model_answer": "",
+    "model_answer": "\"Black culture is such a part of American culture,\" said Boykin. \"I think we need to relay that to everybody and recognize its importance in the United States today.",
     "true_answers": [
       "Miles Boykin considers Black History Month important as it provides a time for reflection on the thoughts and contributions of members of the Steelers organization who have come before him."
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.23,
+    "max_f1": 0.23
   },
   {
     "question": "Who inspired Charlie and LaTasha Batch to give back and share lessons during Black History Month?",
-    "model_answer": "",
+    "model_answer": "Bill Nunn",
     "true_answers": [
       "The legacy and sacrifices of individuals"
     ],
@@ -321,17 +321,17 @@
   },
   {
     "question": "In which year was Ryan Shea drafted?",
-    "model_answer": "",
+    "model_answer": "2015",
     "true_answers": [
       "2015"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "When is the deadline for clubs to exercise their right of first refusal to restricted free agents who signed offer sheets?",
-    "model_answer": "",
+    "model_answer": "2024",
     "true_answers": [
       "April 23"
     ],
@@ -341,7 +341,7 @@
   },
   {
     "question": "Question: Which team is the Pittsburgh Pirates playing on April 1, 2025?",
-    "model_answer": "\n\nAnswer: The Pittsburgh Pirates are not scheduled to play any event on April 1, 2025 according to the provided context.",
+    "model_answer": "Houston Astros",
     "true_answers": [
       "Tampa Bay Rays"
     ],
@@ -351,7 +351,7 @@
   },
   {
     "question": "What is the best 40-yard dash time recorded by a defensive lineman at the pro day in 2025?",
-    "model_answer": "",
+    "model_answer": "Kalon Barnes Baylor 4.23",
     "true_answers": [
       "4.47 seconds"
     ],
@@ -361,7 +361,7 @@
   },
   {
     "question": "Question: Which player was assigned to Pittsburgh Pirates on March 13, 2025?",
-    "model_answer": "",
+    "model_answer": "Matt Hague",
     "true_answers": [
       "C Derek Berg"
     ],
@@ -371,57 +371,57 @@
   },
   {
     "question": "When did the first baseball game over the radio broadcast occur?",
-    "model_answer": "",
+    "model_answer": "August 5, 1921",
     "true_answers": [
       "August 5, 1921"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "Who is the current running backs coach for the Pittsburgh Steelers?",
-    "model_answer": "",
+    "model_answer": "Eddie Faulkner",
     "true_answers": [
       "Eddie Faulkner"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "Which player started the whole season for his team as a rookie in Steelers in 2025?",
-    "model_answer": "",
+    "model_answer": "Mason McCormick",
     "true_answers": [
       "McCormick"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 1.0,
+    "max_f1": 0.67
   },
   {
     "question": "Who should the Office of Community Standards and Integrity notify regarding a student's academic integrity violations?",
-    "model_answer": "",
+    "model_answer": "the head of the student\u2019s home department",
     "true_answers": [
       "Head of the student\u2019s home department"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 1.0,
+    "max_f1": 0.94
   },
   {
     "question": "Who must approve all banners?",
-    "model_answer": "",
+    "model_answer": "Office of Student Activities",
     "true_answers": [
       "Office of Student Activities"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "What condition would impair the university's ability to provide the Supportive Measures?",
-    "model_answer": "",
+    "model_answer": "unreasonably burden",
     "true_answers": [
       "Maintaining confidentiality"
     ],
@@ -431,47 +431,47 @@
   },
   {
     "question": "Which organization is responsible for connecting businesses with CMU faculty and students?",
-    "model_answer": "",
+    "model_answer": "Center for Business Engagement",
     "true_answers": [
       "The Center for Business Engagement"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.8,
+    "max_f1": 0.89
   },
   {
     "question": "Who is the Vice President for Diversity and Inclusion at Carnegie Mellon University?",
-    "model_answer": "",
+    "model_answer": "Wanda Heading-Grant",
     "true_answers": [
       "Dr. Wanda Heading-Grant"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.67,
+    "max_f1": 0.8
   },
   {
     "question": "In which field was it known for the initial foundation of CMU?",
-    "model_answer": "\n\nAI Assistant: The initial foundation of CMU is known for being in the field of industrial engineering.",
+    "model_answer": "business education",
     "true_answers": [
       "Industrial research"
     ],
     "exact_match": false,
-    "max_recall": 0.5,
-    "max_f1": 0.11
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "Who was the first person to create a smiley in email?",
-    "model_answer": "\n\nAI: The first person to create a smiley in email was Carnegie Mellon research professor Scott Fahlman on September 19, 1982.",
+    "model_answer": "Scott Fahlman",
     "true_answers": [
       "Scott Fahlman"
     ],
-    "exact_match": false,
+    "exact_match": true,
     "max_recall": 1.0,
-    "max_f1": 0.17
+    "max_f1": 1.0
   },
   {
     "question": "What is the contact number for the Washington Coalition of Sexual Assault Programs?",
-    "model_answer": "\n\nAI: The contact number for the Washington Coalition of Sexual Assault Programs is 360.754.7583.",
+    "model_answer": "360.754.7583",
     "true_answers": [
       "360-754-7583"
     ],
@@ -481,17 +481,17 @@
   },
   {
     "question": "In which city is Carnegie Mellon University located?",
-    "model_answer": "",
+    "model_answer": "Pittsburgh",
     "true_answers": [
       "Pittsburgh"
     ],
-    "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "What is the email address for Carnegie Mellon's admission office?",
-    "model_answer": "",
+    "model_answer": "412-268-2000",
     "true_answers": [
       "admission@andrew.cmu.edu"
     ],
@@ -500,8 +500,8 @@
     "max_f1": 0.0
   },
   {
-    "exact_match": 0.0,
-    "answer_recall": 0.1306,
-    "macro_f1": 0.0416
+    "exact_match": 0.26,
+    "answer_recall": 0.4383,
+    "macro_f1": 0.4438
   }
 ]

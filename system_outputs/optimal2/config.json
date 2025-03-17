@@ -1,7 +1,7 @@
 {
   "experiment_file": "data/test/questions.txt",
   "output_folder": "system_outputs",
-  "output_name": "few_shot",
+  "output_name": "",
   "no_reference_answers": false,
   "data_dir": "raw_data",
   "embedding_model": "avsolatorio/GIST-large-Embedding-v0",
@@ -19,6 +19,5 @@
   "temperature": 0.01,
   "top_p": 0.95,
   "repetition_penalty": 1.2,
-  "do_sample": true,
-  "few_shot": true
+  "do_sample": true
 }

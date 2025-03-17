@@ -1,23 +1,23 @@
 [
   {
     "question": "What are the choices for the lunch starter at McCormick & Schmick\u2019s Seafood in downtown Pittsburgh?",
-    "model_answer": "Field Greens Salad Blue Cheese, Glazed Walnuts, White Balsamic Dressing Gazpacho* Zesty Chilled Vegetable Soup, Cucumber, Sour Cream Roasted Red",
+    "model_answer": "Field Greens Salad Blue Cheese, Glazed Walnuts, White Balsamic Dressing Baked Potato Soup Mixed cheese, Bacon, Chives Kung Pao Calamari Sweet",
     "true_answers": [
       "Chilled Asparagus & Potato Soup; Crab and Asparagus Salad; Basil Oil; Mixed Greens Salad; Blue Cheese Crumbles; Candied Walnuts; White Balsamic Vinaigrette"
     ],
     "exact_match": false,
-    "max_recall": 0.43,
-    "max_f1": 0.44
+    "max_recall": 0.48,
+    "max_f1": 0.48
   },
   {
     "question": "When did the inaugural festival of Oktoberfest Pittsburgh take place?",
-    "model_answer": "Oct. 3-13, 2024",
+    "model_answer": "2024",
     "true_answers": [
       "October 3rd-13th, 2024"
     ],
     "exact_match": false,
     "max_recall": 0.33,
-    "max_f1": 0.33
+    "max_f1": 0.5
   },
   {
     "question": "Where did the inaugural festival of Oktoberfest Pittsburgh take place?",
@@ -31,13 +31,13 @@
   },
   {
     "question": "What are some appetizer options at Cenacolo Restaurant in Pittsburgh?",
-    "model_answer": "Crispy Brussels Parmesan Cheese / Toasted Almonds / Lemon Aioli",
+    "model_answer": "Crispy Brussels Parmesan Cheese / Toasted Almonds / Lemon Aioli Calabrian Lamb Meatballs* W/ Pita Charcuterie Board* Ask your server about today\u2019s selection",
     "true_answers": [
       "Meatballs; Burrino; Beans & Greens; Risotto; Flat Bread; Roasted Brussel Sprouts"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.1,
+    "max_f1": 0.06
   },
   {
     "question": "Which proteins are available for selection in Piada Italian Street Food?",
@@ -81,7 +81,7 @@
   },
   {
     "question": "What are the dates and times for the St. Louis Cardinals event in Pittsburgh?",
-    "model_answer": "APR 07 2025, 1:00 PM MON. 15212, Pittsburgh, Pennsylvania, US. PNC Park. Prices from $22",
+    "model_answer": "APR 07 2025, 1:00 PM MON. 15212, Pittsburgh, Pennsylvania, US. PNC Park. Prices from $22.",
     "true_answers": [
       "APR 08 2025, 6:40 PM TUE"
     ],
@@ -91,13 +91,13 @@
   },
   {
     "question": "Who is the artist performing at New Hazlett Theater in Pittsburgh on March 22, 2025?",
-    "model_answer": "Brandee Younger",
+    "model_answer": "Matt Rife",
     "true_answers": [
       "Brandee Younger"
     ],
-    "exact_match": true,
-    "max_recall": 1.0,
-    "max_f1": 1.0
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "What cooking styles are offered at the Melting Pot Pittsburgh for their entr\u00e9es?",
@@ -141,13 +141,13 @@
   },
   {
     "question": "When is the National History Day Pittsburgh competition taking place in 2025?",
-    "model_answer": "Mar 15, 2025 , 7:30 am - 2:30 pm",
+    "model_answer": "March 15",
     "true_answers": [
       "March 15-16, 2025"
     ],
     "exact_match": false,
     "max_recall": 0.33,
-    "max_f1": 0.2
+    "max_f1": 0.4
   },
   {
     "question": "What is the name of the church where Emotions Anonymous meetings occur?",
@@ -251,13 +251,13 @@
   },
   {
     "question": "Where does the Carnegie Museum of Natural History host the Family Nature Hike event?",
-    "model_answer": "Powdermill Nature Reserve",
+    "model_answer": "Pittsburgh Oakland",
     "true_answers": [
       "Powdermill Nature Reserve, 1795 Route 381, Rector Downtown"
     ],
     "exact_match": false,
-    "max_recall": 0.38,
-    "max_f1": 0.55
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "What type of cuisine is featured in the Vue 412's Moroccan Sheppard's Pie?",
@@ -291,7 +291,7 @@
   },
   {
     "question": "What event will occur at Heinz History Center on March 28, 2025?",
-    "model_answer": "National History Day competition",
+    "model_answer": "American Girlhood: A Window into History",
     "true_answers": [
       "IIDA Pittsburgh Fashion Meets Finish"
     ],
@@ -301,23 +301,23 @@
   },
   {
     "question": "When is IIDA Pittsburgh Fashion Meets Finish at Heinz History Center?",
-    "model_answer": "March 28, 2025",
+    "model_answer": "March 28",
     "true_answers": [
       "March 28, 2025"
     ],
-    "exact_match": true,
-    "max_recall": 1.0,
-    "max_f1": 1.0
+    "exact_match": false,
+    "max_recall": 0.67,
+    "max_f1": 0.8
   },
   {
     "question": "What is included in Carmella's 2024 Summer Restaurant Week menu?",
-    "model_answer": "elote pierogi filled with cotija cheese and potato and topped with a fire-grilled corn salsa and chipotle crema",
+    "model_answer": "fresh flavors perfect for the season",
     "true_answers": [
       "Elote pierogi; Jerked chicken served with rice and peas and crispy plantains"
     ],
     "exact_match": false,
-    "max_recall": 0.42,
-    "max_f1": 0.33
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "When is the EDIE Makeathon taking place?",
@@ -331,13 +331,13 @@
   },
   {
     "question": "Who organizes the Master\u2019s Student Support Group?",
-    "model_answer": "Adrijana Vukelic",
+    "model_answer": "Adrijana Vukelic, MSCP",
     "true_answers": [
       "Adrijana Vukelic"
     ],
-    "exact_match": true,
+    "exact_match": false,
     "max_recall": 1.0,
-    "max_f1": 1.0
+    "max_f1": 0.8
   },
   {
     "question": "What is the purpose of the Day of Silence event at Carnegie Mellon University?",
@@ -361,13 +361,13 @@
   },
   {
     "question": "What is the purpose of the Academic Calendar web page at Carnegie Mellon University?",
-    "model_answer": "add/drop deadlines, exam dates, and more",
+    "model_answer": "includes registration dates, class start dates, add/drop deadlines, exam dates, and more",
     "true_answers": [
       "Provide access to calendars for various CMU programs and locations, including registration dates, class start dates, add/drop deadlines, exam dates, and more."
     ],
     "exact_match": false,
-    "max_recall": 0.27,
-    "max_f1": 0.43
+    "max_recall": 0.5,
+    "max_f1": 0.65
   },
   {
     "question": "What day of the week and time is the University Archives open for drop-ins?",
@@ -431,13 +431,13 @@
   },
   {
     "question": "What is the significance of National Arab American Heritage Month?",
-    "model_answer": "celebrates the cultural and leadership contributions of Arab Americans",
+    "model_answer": "the U.S. celebrates the cultural and leadership contributions of Arab Americans",
     "true_answers": [
       "Celebrate the cultural and leadership contributions of Arab Americans."
     ],
     "exact_match": false,
     "max_recall": 0.89,
-    "max_f1": 0.89
+    "max_f1": 0.8
   },
   {
     "question": "Who organizes the Virtual Gratitude Gathering?",
@@ -451,13 +451,13 @@
   },
   {
     "question": "What is the purpose of the Black Women\u2019s Support Group (Graduate Students)?",
-    "model_answer": "This weekly, unstructured group provides an opportunity to discuss stress and coping, misogynoir, oppression and privilege, intersectional identities, self-esteem, relationships, colorism, family, internalized racism and",
+    "model_answer": "to discuss stress and coping, misogynoir, oppression and privilege, intersectional identities, self-esteem, relationships, colorism, family, internalized racism and other topics",
     "true_answers": [
       "Discuss various topics of interest including stress and coping, misogynoir, oppression and privilege, intersectional identities, self-esteem, relationships, colorism, family, and internalized racism."
     ],
     "exact_match": false,
-    "max_recall": 0.77,
-    "max_f1": 0.72
+    "max_recall": 0.82,
+    "max_f1": 0.86
   },
   {
     "question": "Who is the director of Carnegie Mellon\u2019s Entertainment Technology Center?",
@@ -481,7 +481,7 @@
   },
   {
     "question": "Who organizes the Monthly Crafternoon event at Carnegie Mellon University?",
-    "model_answer": "Alumni Association",
+    "model_answer": "Center for Student Diversity & Inclusion",
     "true_answers": [
       "Harsh Agarwal"
     ],
@@ -741,13 +741,13 @@
   },
   {
     "question": "What services are available for visitors with mobility issues at the Heinz History Center and Sports Museum?",
-    "model_answer": "A limited number of manual wheelchairs and baby strollers are available to visitors on a first come, first served basis located in the first floor coat room",
+    "model_answer": "Wheelchairs: A limited number of manual wheelchairs and baby strollers are available to visitors on a first come, first served basis located in the first floor coat room",
     "true_answers": [
       "A limited number of manual wheelchairs and baby strollers are available to visitors on a first come, first served basis located in the first floor coat room."
     ],
     "exact_match": false,
     "max_recall": 1.0,
-    "max_f1": 1.0
+    "max_f1": 0.98
   },
   {
     "question": "In which year was the Heinz History Center's Rauh Jewish History Program & Archives established?",
@@ -881,7 +881,7 @@
   },
   {
     "question": "What is the contact number for the Manager of Institutional Support at The Frick Pittsburgh?",
-    "model_answer": "412-342-4088",
+    "model_answer": "412-342-4083",
     "true_answers": [
       "412-342-4089"
     ],
@@ -891,7 +891,7 @@
   },
   {
     "question": "Which vendor sells pickled cabbage?",
-    "model_answer": "Jersey Pickle",
+    "model_answer": "Cinnaroast & Pickle Pirate",
     "true_answers": [
       "Mancini's"
     ],
@@ -1131,13 +1131,13 @@
   },
   {
     "question": "Which music academy did Stephanie Tretick attend before Indiana University/Bloomington?",
-    "model_answer": "Vassar College",
+    "model_answer": "Interlochen Arts Academy",
     "true_answers": [
       "Vassar College"
     ],
-    "exact_match": true,
-    "max_recall": 1.0,
-    "max_f1": 1.0
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "When is the Vince Gill concert presented at Pitteburgh Symphony Orchestra?",
@@ -1201,13 +1201,13 @@
   },
   {
     "question": "Who will evaluate the applications for the Food Justice Fund?",
-    "model_answer": "The City",
+    "model_answer": "City residents",
     "true_answers": [
       "The City of Pittsburgh"
     ],
     "exact_match": false,
-    "max_recall": 0.5,
-    "max_f1": 0.67
+    "max_recall": 0.25,
+    "max_f1": 0.33
   },
   {
     "question": "What statute classifies a person as an employer under the Pennsylvania Personal Income Tax regulations?",
@@ -1241,7 +1241,7 @@
   },
   {
     "question": "When was Light Up Night held in 2024?",
-    "model_answer": "November 16",
+    "model_answer": "November 20",
     "true_answers": [
       "November 23, 2024"
     ],
@@ -1391,13 +1391,13 @@
   },
   {
     "question": "Who founded Carnegie Mellon University?",
-    "model_answer": "Andrew Carnegie and Andrew Mellon",
+    "model_answer": "Andrew Carnegie",
     "true_answers": [
       "Andrew Carnegie and Andrew Mellon"
     ],
-    "exact_match": true,
-    "max_recall": 1.0,
-    "max_f1": 1.0
+    "exact_match": false,
+    "max_recall": 0.4,
+    "max_f1": 0.57
   },
   {
     "question": "When will the no parking measures be enforced on East Carson Street?",
@@ -1591,13 +1591,13 @@
   },
   {
     "question": "Where can applications for the Police Officer position in Pittsburgh be submitted?",
-    "model_answer": "www.pghjobs.net",
+    "model_answer": "online",
     "true_answers": [
       "www.pghjobs.net"
     ],
-    "exact_match": true,
-    "max_recall": 1.0,
-    "max_f1": 1.0
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "Where can I find the registration form for the Pittsburgh COPS Kids program?",
@@ -1791,13 +1791,13 @@
   },
   {
     "question": "Which Pittsburgh organization provides opportunities for seniors to engage in various activities and community events?",
-    "model_answer": "Senior Community Centers",
+    "model_answer": "Citiparks",
     "true_answers": [
       "The Pittsburgh Parks and Recreation Department's Senior Community Centers program"
     ],
     "exact_match": false,
-    "max_recall": 0.27,
-    "max_f1": 0.43
+    "max_recall": 0.0,
+    "max_f1": 0.0
   },
   {
     "question": "How can someone contact CDAP via email?",
@@ -1901,13 +1901,13 @@
   },
   {
     "question": "What are some possible remedies for a violation of this Policy?",
-    "model_answer": "A no contact order; \u2022 Academic adjustments or accommodations; and \u2022 Workplace adjustments or accommodations",
+    "model_answer": "Possible Remedies \u2022 A no contact order; \u2022 Academic adjustments or accommodations; and \u2022 Workplace adjustments or accommodations",
     "true_answers": [
       "No contact order; Academic adjustments or accommodations; Workplace adjustments or accommodations"
     ],
     "exact_match": false,
     "max_recall": 1.0,
-    "max_f1": 0.85
+    "max_f1": 0.76
   },
   {
     "question": "What is the contact phone number for the City of Pittsburgh?",
@@ -1921,13 +1921,13 @@
   },
   {
     "question": "What is the mission of the Pittsburgh Bureau of Fire?",
-    "model_answer": "protect life, property and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service and domestic preparedness",
+    "model_answer": "to protect life, property and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service and domestic preparedness",
     "true_answers": [
       "Protect life, property, and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service, and domestic preparedness."
     ],
     "exact_match": false,
     "max_recall": 1.0,
-    "max_f1": 1.0
+    "max_f1": 0.98
   },
   {
     "question": "In which year was the original ReelAbilities Film Festival initiated in New York?",
@@ -1941,13 +1941,13 @@
   },
   {
     "question": "Where was the original ReelAbilities Film Festival initiated in 2007?",
-    "model_answer": "New York at the JCC Manhattan",
+    "model_answer": "New York",
     "true_answers": [
       "New York"
     ],
-    "exact_match": false,
+    "exact_match": true,
     "max_recall": 1.0,
-    "max_f1": 0.5
+    "max_f1": 1.0
   },
   {
     "question": "In which year was coke-fire smelting introduced in Pittsburgh?",
@@ -2021,13 +2021,13 @@
   },
   {
     "question": "In which countries does Steelers World Photo Day take place?",
-    "model_answer": "11 countries",
+    "model_answer": "the United States, Mexico, Argentina, the U.K., Ireland, Germany, and more",
     "true_answers": [
       "Mexico, the United States, Argentina, the U.K., Germany, and Australia, among others."
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.75,
+    "max_f1": 0.78
   },
   {
     "question": "Which NFL analyst did Dale and Matt interview on SNR Drive on February 25?",
@@ -2151,23 +2151,23 @@
   },
   {
     "question": "What injury did Cameron Johnston sustain in the 2022 season?",
-    "model_answer": "significant knee injury",
+    "model_answer": "knee",
     "true_answers": [
       "Knee injury"
     ],
     "exact_match": false,
-    "max_recall": 1.0,
-    "max_f1": 0.8
+    "max_recall": 0.5,
+    "max_f1": 0.67
   },
   {
     "question": "Who was being honored in the Pittsburgh arena?",
-    "model_answer": "Mike Lange",
+    "model_answer": "legendary Hall of Fame broadcaster Mike Lange",
     "true_answers": [
       "Mike Lange"
     ],
-    "exact_match": true,
+    "exact_match": false,
     "max_recall": 1.0,
-    "max_f1": 1.0
+    "max_f1": 0.44
   },
   {
     "question": "Who is the most famous Steelers radio color commentator?",
@@ -2211,7 +2211,7 @@
   },
   {
     "question": "Which Pittsburgh Pirates player was born on October 8, 1995?",
-    "model_answer": "Chase Anderson",
+    "model_answer": "CYasmani Grandal",
     "true_answers": [
       "Colin Holderman"
     ],
@@ -2251,7 +2251,7 @@
   },
   {
     "question": "Question: Which team is the Pittsburgh Penguins playing on April 3, 2025?",
-    "model_answer": "Nashville Predators",
+    "model_answer": "Washington Capitals",
     "true_answers": [
       "St. Louis Blues"
     ],
@@ -2291,13 +2291,13 @@
   },
   {
     "question": "In which college is the Statistics & Data Science major located?",
-    "model_answer": "Dietrich-college-of-humanities-social-sciences",
+    "model_answer": "Dietrich College",
     "true_answers": [
       "Mellon College of Science"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 0.25,
+    "max_f1": 0.33
   },
   {
     "question": "In which school is the Artificial Intelligence major located?",
@@ -2331,7 +2331,7 @@
   },
   {
     "question": "Who is the Program Director for Research Information Management Services at Carnegie Mellon University?",
-    "model_answer": "Brock Meier",
+    "model_answer": "Brock Meyer",
     "true_answers": [
       "Jason Glenn"
     ],
@@ -2381,13 +2381,13 @@
   },
   {
     "question": "What must a party provide when they wish to introduce Expert Witness testimony?",
-    "model_answer": "written notice of the intent to introduce Expert Witness testimony",
+    "model_answer": "written notice",
     "true_answers": [
       "Written notice of the intent"
     ],
     "exact_match": false,
-    "max_recall": 1.0,
-    "max_f1": 0.67
+    "max_recall": 0.4,
+    "max_f1": 0.57
   },
   {
     "question": "What are self-scheduled examinations?",
@@ -2441,17 +2441,17 @@
   },
   {
     "question": "Which colleges at Carnegie Mellon record W grades for graduate students?",
-    "model_answer": "Carnegie Institute of Technology, the Heinz College, the Mellon College of Science and the Tepper School of Business",
+    "model_answer": "the Carnegie Institute of Technology, the Heinz College, the Mellon College of Science and the Tepper School of Business",
     "true_answers": [
       "Tepper and MCS"
     ],
     "exact_match": false,
     "max_recall": 0.67,
-    "max_f1": 0.19
+    "max_f1": 0.18
   },
   {
     "question": "How many free-elective courses may undergraduate students at CMU elect to take a pass/fail grade?",
-    "model_answer": "unless precluded by the course, the course's department or the student's home department/college",
+    "model_answer": "53",
     "true_answers": [
       "1"
     ],
@@ -2511,13 +2511,13 @@
   },
   {
     "question": "Where are emotional support animals approved by the Office of Disability Resources not permitted on campus?",
-    "model_answer": "university residence facilities",
+    "model_answer": "inside other campus buildings",
     "true_answers": [
       "Inside other campus buildings"
     ],
     "exact_match": false,
-    "max_recall": 0.0,
-    "max_f1": 0.0
+    "max_recall": 1.0,
+    "max_f1": 1.0
   },
   {
     "question": "In which year was the Trademark Licensing Office at Carnegie Mellon established?",
@@ -2570,8 +2570,8 @@
     "max_f1": 1.0
   },
   {
-    "exact_match": 0.3113,
-    "answer_recall": 0.605,
-    "macro_f1": 0.612
+    "exact_match": 0.2879,
+    "answer_recall": 0.5897,
+    "macro_f1": 0.6001
   }
 ]

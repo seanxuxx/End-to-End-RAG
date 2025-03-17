@@ -1,7 +1,7 @@
 {
-  "experiment_file": "data/test/questions.txt",
+  "experiment_file": "data/validation/questions.txt",
   "output_folder": "system_outputs",
-  "output_name": "few_shot",
+  "output_name": "few_shot_validation",
   "no_reference_answers": false,
   "data_dir": "raw_data",
   "embedding_model": "avsolatorio/GIST-large-Embedding-v0",

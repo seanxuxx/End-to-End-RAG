@@ -115,7 +115,7 @@ def parse_generator_args(parser: argparse.ArgumentParser):
     parser.add_argument('--not_do_sample', action='store_false', dest='do_sample',
                         help="Disable do_sample when calling pipeline")
     parser.add_argument('--few_shot',action='store_false', default=False)
-    parser.add_argument('--not_few_shot',action = 'store_true',
+    parser.add_argument('--add_few_shot',action = 'store_true',
                         dest='few_shot')
 
 

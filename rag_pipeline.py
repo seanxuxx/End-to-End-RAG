@@ -23,7 +23,7 @@ from utils import get_chunk_max_length, set_logger
 load_dotenv()
 
 # Check if required api keys are written to the environment
-for api_key in ['PINECONE_API_KEY', 'HF_TOKEN', 'LANGSMITH_API_KEY', 'LANGSMITH_TRACING']:
+for api_key in ['HF_TOKEN']:
     if not os.getenv(api_key):
         raise ValueError(f"{api_key} is missing. Set it as an environment variable.")
 
@@ -148,7 +148,7 @@ class RetrivalLM():
                  task='text-generation',
                  model_name='mistralai/Mistral-7B-Instruct-v0.2',
                  few_shot=False,
-                 training_path = 'data/train'):
+                 training_path='data/train'):
         """
         Args:
             data_store (DataStore): DataStore storing chunked documents.
@@ -184,17 +184,18 @@ class RetrivalLM():
             device=DEVICE
         )
         if few_shot:
-            with open(os.path.join(training_path,'questions.txt'),'r') as f:
+            with open(os.path.join(training_path, 'questions.txt'), 'r') as f:
                 top_5_questions = f.readlines()[:5]
-            top_5_questions = [item.replace('\n','') for item in top_5_questions]
-            with open(os.path.join(training_path,'reference_answers.json'),'r') as f:
+            top_5_questions = [item.replace('\n', '') for item in top_5_questions]
+            with open(os.path.join(training_path, 'reference_answers.json'), 'r') as f:
                 content = json.load(f)
                 top_5_answers = [content[str(i+1)] for i in range(5)]
             example_text = "\n".join(
-                [f"{i+1}. **Question:** \"{q}\"\n   **Answer:** \"{a}\"" for i, (q, a) in enumerate(zip(top_5_questions, top_5_answers))]
+                [f"{i+1}. **Question:** \"{q}\"\n   **Answer:** \"{a}\"" for i,
+                    (q, a) in enumerate(zip(top_5_questions, top_5_answers))]
             )
             self.prompt_template = f"""\
-    System: Answer user questions based solely on the context below. 
+    System: Answer user questions based solely on the context below.
     Only use the provided information and do not make up any details.
 
     <context>
@@ -208,7 +209,7 @@ class RetrivalLM():
     Now, based on the context above, answer the following question:
 
     User: {{question}}"""
-        else:             
+        else:
             self.prompt_template = """\
     System: Answer user questions based solely on the context below:
 
@@ -216,8 +217,6 @@ class RetrivalLM():
     {context}
     </context>
     User: {question}"""
-        
-
 
     def qa(self, query: Query, **kwargs):
         """

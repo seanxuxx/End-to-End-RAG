@@ -1,0 +1,2577 @@
+[
+  {
+    "question": "What are the choices for the lunch starter at McCormick & Schmick\u2019s Seafood in downtown Pittsburgh?",
+    "model_answer": "Field Greens Salad Blue Cheese, Glazed Walnuts, White Balsamic Vinaigrette",
+    "true_answers": [
+      "Chilled Asparagus & Potato Soup; Crab and Asparagus Salad; Basil Oil; Mixed Greens Salad; Blue Cheese Crumbles; Candied Walnuts; White Balsamic Vinaigrette"
+    ],
+    "exact_match": false,
+    "max_recall": 0.38,
+    "max_f1": 0.52
+  },
+  {
+    "question": "When did the inaugural festival of Oktoberfest Pittsburgh take place?",
+    "model_answer": "Oct. 3-13, 2024",
+    "true_answers": [
+      "October 3rd-13th, 2024"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.33
+  },
+  {
+    "question": "Where did the inaugural festival of Oktoberfest Pittsburgh take place?",
+    "model_answer": "Penn Brewery",
+    "true_answers": [
+      "Downtown\u2019s iconic Market Square"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What are some appetizer options at Cenacolo Restaurant in Pittsburgh?",
+    "model_answer": "Carciofini Fritti Fried Artichokes, Lemon & Basil Burrino Fresh Mozzarella, Butter & Grilled Bread Polpette",
+    "true_answers": [
+      "Meatballs; Burrino; Beans & Greens; Risotto; Flat Bread; Roasted Brussel Sprouts"
+    ],
+    "exact_match": false,
+    "max_recall": 0.2,
+    "max_f1": 0.17
+  },
+  {
+    "question": "Which proteins are available for selection in Piada Italian Street Food?",
+    "model_answer": "Italian Sausage, Grilled Chicken, Grilled Steak, Crispy Chicken, Hot Fried Chicken, Grass-fed Meatballs, Calamari & Hot Peppers, or Grilled Salmon",
+    "true_answers": [
+      "Italian Sausage; Grilled Chicken; Grilled Steak; Crispy Chicken; Hot Fried Chicken; Grass-fed Meatballs; Calamari & Hot Peppers; Grilled Salmon"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.97
+  },
+  {
+    "question": "What pasta is used in the Roasted Eggplant Pasta?",
+    "model_answer": "fettuccini",
+    "true_answers": [
+      "Fettuccini"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the location of the Milwaukee Brewers games?",
+    "model_answer": "15212, Pittsburgh, Pennsylvania, US. PNC Park",
+    "true_answers": [
+      "PNC Park, 15212, Pittsburgh, PA"
+    ],
+    "exact_match": false,
+    "max_recall": 0.8,
+    "max_f1": 0.73
+  },
+  {
+    "question": "In which year was the first coke-fire smelting introduced in Pittsburgh?",
+    "model_answer": "1859",
+    "true_answers": [
+      "1859"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What are the dates and times for the St. Louis Cardinals event in Pittsburgh?",
+    "model_answer": "APR 07 2025, 1:00 PM MON. 15212, Pittsburgh, Pennsylvania, US. PNC Park. Prices from $22.",
+    "true_answers": [
+      "APR 08 2025, 6:40 PM TUE"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.29
+  },
+  {
+    "question": "Who is the artist performing at New Hazlett Theater in Pittsburgh on March 22, 2025?",
+    "model_answer": "Poppy",
+    "true_answers": [
+      "Brandee Younger"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What cooking styles are offered at the Melting Pot Pittsburgh for their entr\u00e9es?",
+    "model_answer": "Cast Iron Grill Tabletop Grilling Coq au Vin Burgundy Wine, Mushrooms, Scallions, Garlic Mojo Caribbean-Inspired, Garlic, Cilantro, Citrus Seasoned Court Bou",
+    "true_answers": [
+      "Cast Iron Grill Tabletop Grilling; Seasoned Court.; Coq au Vin, Mojo"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.69
+  },
+  {
+    "question": "Which dish at Hyde Park Prime Steakhouse comes with roasted garlic whipped potatoes?",
+    "model_answer": "Filet Mignon",
+    "true_answers": [
+      "Dry Aged Sirloin Chop Steak; Chicken Milanese; Filet Mignon; Salmon Filet"
+    ],
+    "exact_match": false,
+    "max_recall": 0.18,
+    "max_f1": 0.31
+  },
+  {
+    "question": "Which composers' works will be performed in the concert by Piano 4te at August Wilson Center in Pittsburgh?",
+    "model_answer": "Liszt and Paganini",
+    "true_answers": [
+      "Liszt, Paganini, Graham Fitkin, Douwe Eisenga, Brayden Peppo, Chad Twedt, and Eric Barndollar."
+    ],
+    "exact_match": false,
+    "max_recall": 0.23,
+    "max_f1": 0.38
+  },
+  {
+    "question": "Where can you find Bella Sera Urban Trattoria?",
+    "model_answer": "22 Market Square Pittsburgh, PA 15222",
+    "true_answers": [
+      "22 Market Square in Pittsburgh"
+    ],
+    "exact_match": false,
+    "max_recall": 0.8,
+    "max_f1": 0.73
+  },
+  {
+    "question": "When is the National History Day Pittsburgh competition taking place in 2025?",
+    "model_answer": "Mar 16, 2025",
+    "true_answers": [
+      "March 15-16, 2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.33
+  },
+  {
+    "question": "What is the name of the church where Emotions Anonymous meetings occur?",
+    "model_answer": "Grandview United Presbyterian Church",
+    "true_answers": [
+      "Grandview United Presbyterian Church"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Where is the church where Emotions Anonymous meetings occur?",
+    "model_answer": "301 Grandview Ave, Pittsburgh Mt. Washington",
+    "true_answers": [
+      "301 Grandview Ave, Pittsburgh Mt. Washington"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is one of the courses offered in the Restaurant Week Special Menu at Andrew's Steak and Seafood?",
+    "model_answer": "Charred Endive Salad Grapes, White Balsamic Vinaigrette, White Cheddar, Red Wine Derby Jumbo Lump Crab cake Marinated Fennel and Arugula, Buttermilk Cre",
+    "true_answers": [
+      "Pineapple Carpaccio"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which type of gin is used in the White Linen cocktail?",
+    "model_answer": "Hendricks",
+    "true_answers": [
+      "Hendricks Gin"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "In which theater is 'The Latchkey Kids' improv show taking place?",
+    "model_answer": "Arcade Comedy Theater",
+    "true_answers": [
+      "Arcade Comedy Theater"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the Pittsburgh Insider's Guide first published?",
+    "model_answer": "2022",
+    "true_answers": [
+      "2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What type of dance is taught at Lot 17 in Pittsburgh on Tuesday nights?",
+    "model_answer": "Blues",
+    "true_answers": [
+      "Blues dancing"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "What type of bread is used for the Briskey Cheesesteak?",
+    "model_answer": "brioche",
+    "true_answers": [
+      "Toasted Breadworks roll"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which Pittsburgh festival takes place in July and benefits the Autism Society of Pittsburgh and Band Together Pittsburgh?",
+    "model_answer": "Pittsburgh Blues and Roots Festival",
+    "true_answers": [
+      "Pittsburgh Blues and Roots Festival"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who is the Canadian composer, producer, and multi-instrumentalist behind the project Flore Laurentienne?",
+    "model_answer": "Mathieu David Gagnon",
+    "true_answers": [
+      "Mathieu David Gagnon"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Where does the Carnegie Museum of Natural History host the Family Nature Hike event?",
+    "model_answer": "Powdermill Nature Reserve",
+    "true_answers": [
+      "Powdermill Nature Reserve, 1795 Route 381, Rector Downtown"
+    ],
+    "exact_match": false,
+    "max_recall": 0.38,
+    "max_f1": 0.55
+  },
+  {
+    "question": "What type of cuisine is featured in the Vue 412's Moroccan Sheppard's Pie?",
+    "model_answer": "Moroccan",
+    "true_answers": [
+      "Moroccan cuisine"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "What is the location of the monthly Amnesty International Pittsburgh meeting?",
+    "model_answer": "First Unitarian Church 605 Morewood Avenue, Pittsburgh Shadyside",
+    "true_answers": [
+      "605 Morewood Avenue, Pittsburgh, PA 15213"
+    ],
+    "exact_match": false,
+    "max_recall": 0.67,
+    "max_f1": 0.57
+  },
+  {
+    "question": "In which neighborhood is J. Gough's Tavern?",
+    "model_answer": "Shadyside",
+    "true_answers": [
+      "Greenfield"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What event will occur at Heinz History Center on March 28, 2025?",
+    "model_answer": "Spring Educator Open House",
+    "true_answers": [
+      "IIDA Pittsburgh Fashion Meets Finish"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When is IIDA Pittsburgh Fashion Meets Finish at Heinz History Center?",
+    "model_answer": "March 28, 2025",
+    "true_answers": [
+      "March 28, 2025"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is included in Carmella's 2024 Summer Restaurant Week menu?",
+    "model_answer": "Summer SALAD mixed greens / tomato / corn / cucumber / green bean / fresh mozzarella / white balsamic vinaigrette BEANS & GREENS cannellini beans ",
+    "true_answers": [
+      "Elote pierogi; Jerked chicken served with rice and peas and crispy plantains"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When is the EDIE Makeathon taking place?",
+    "model_answer": "March 25-27 2025",
+    "true_answers": [
+      "March 21 - 22, 2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.57
+  },
+  {
+    "question": "Who organizes the Master\u2019s Student Support Group?",
+    "model_answer": "Adrijana Vukelic, MSCP",
+    "true_answers": [
+      "Adrijana Vukelic"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.8
+  },
+  {
+    "question": "What is the purpose of the Day of Silence event at Carnegie Mellon University?",
+    "model_answer": "raise awareness of ways that schools and communities can be more inclusive",
+    "true_answers": [
+      "Highlight the silencing and erasure of LGBTQ+ people"
+    ],
+    "exact_match": false,
+    "max_recall": 0.25,
+    "max_f1": 0.2
+  },
+  {
+    "question": "Who are the performers in the Carnegie Mellon Chamber Series: Schumann & Schubert event?",
+    "model_answer": "David McCarroll, violin David Harding, viola Angela Park, cello Dimitri Papadimitriou, piano Schubert String Quintet, D.956 David McCarroll, violin Marta Krech",
+    "true_answers": [
+      "David McCarroll, David Harding, Angela Park, and Dimitri Papadimitriou."
+    ],
+    "exact_match": false,
+    "max_recall": 0.89,
+    "max_f1": 0.53
+  },
+  {
+    "question": "What is the purpose of the Academic Calendar web page at Carnegie Mellon University?",
+    "model_answer": "The Academic Calendar includes registration dates, class start dates, add/drop deadlines, exam dates, and more.",
+    "true_answers": [
+      "Provide access to calendars for various CMU programs and locations, including registration dates, class start dates, add/drop deadlines, exam dates, and more."
+    ],
+    "exact_match": false,
+    "max_recall": 0.55,
+    "max_f1": 0.65
+  },
+  {
+    "question": "What day of the week and time is the University Archives open for drop-ins?",
+    "model_answer": "Thursdays between 10 a.m. and 4 p.m.",
+    "true_answers": [
+      "Thursdays from 10 a.m. to 4 p.m."
+    ],
+    "exact_match": false,
+    "max_recall": 0.71,
+    "max_f1": 0.71
+  },
+  {
+    "question": "What is the name of the Carnegie Mellon University employee resource group that advocates for and supports neurodiverse people?",
+    "model_answer": "Neurodiverse Employee Resource Group (NERG)",
+    "true_answers": [
+      "Neurodiverse Employee Resource Group (NERG)"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What time does the event, Laughs & Legacy: An Evening with CMU Alumna Paula Newman, take place?",
+    "model_answer": "5:30pm - 9:00pm",
+    "true_answers": [
+      "March 19, 2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who is the speaker for the Margaret Morrison Lecture in Women's History in 2024?",
+    "model_answer": "Anita Say Chan",
+    "true_answers": [
+      "Judith A. Houck"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who organizes the Ph.D. Student Support Group at Carnegie Mellon University?",
+    "model_answer": "Kym Jordan Simmons, PhD",
+    "true_answers": [
+      "Kym Jordan Simmons"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.86
+  },
+  {
+    "question": "What is the significance of March 20 or 21 for Bah\u00e1\u2019\u00eds and Iranians?",
+    "model_answer": "New Year celebration",
+    "true_answers": [
+      "Mark the New Year celebration for Bah\u00e1\u2019\u00eds and Iranians."
+    ],
+    "exact_match": false,
+    "max_recall": 0.27,
+    "max_f1": 0.43
+  },
+  {
+    "question": "What is the significance of National Arab American Heritage Month?",
+    "model_answer": "The Nationality Rooms also serve in a vigorous program of intercultural involvement and exchange in which the original organizing committees for the rooms remain as participants",
+    "true_answers": [
+      "Celebrate the cultural and leadership contributions of Arab Americans."
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.17
+  },
+  {
+    "question": "Who organizes the Virtual Gratitude Gathering?",
+    "model_answer": "CPDC team",
+    "true_answers": [
+      "Harsh Agarwal"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is the purpose of the Black Women\u2019s Support Group (Graduate Students)?",
+    "model_answer": "This weekly, unstructured group provides an opportunity to discuss stress and coping, misogynoir, oppression and privilege, intersectional identities,",
+    "true_answers": [
+      "Discuss various topics of interest including stress and coping, misogynoir, oppression and privilege, intersectional identities, self-esteem, relationships, colorism, family, and internalized racism."
+    ],
+    "exact_match": false,
+    "max_recall": 0.45,
+    "max_f1": 0.5
+  },
+  {
+    "question": "Who is the director of Carnegie Mellon\u2019s Entertainment Technology Center?",
+    "model_answer": "Dietrich",
+    "true_answers": [
+      "Derek Ham"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When is Yom HaShoah observed?",
+    "model_answer": "March 19 - 20, 2025. All Day (until March 20).",
+    "true_answers": [
+      "April 23, 2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who organizes the Monthly Crafternoon event at Carnegie Mellon University?",
+    "model_answer": "CMU Alumni Association",
+    "true_answers": [
+      "Harsh Agarwal"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "In the performance, Mary-Kate Olsen is in Love, In which country does the story take place, where Mary-Kate and Grace go on a quest?",
+    "model_answer": "New Zealand",
+    "true_answers": [
+      "New Zealand"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who does Grace's manifestations of Mary-Kate and Ashley Olsen represent in her life?",
+    "model_answer": "Mary",
+    "true_answers": [
+      "The ideal of perfection that Grace aspires to in her life"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is the contact email for the Academic Calendar?",
+    "model_answer": "cmuregistrar@andrew.cmu.edu",
+    "true_answers": [
+      "cmuregistrar@andrew.cmu.edu"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who is the speaker at the event, AI-SDM Webinar taking place May 9th, 2025 at Carnegie Mellon University?",
+    "model_answer": "Giacomo de Nicola",
+    "true_answers": [
+      "Giacomo de Nicola"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which team is Carnegie Mellon Men's Tennis team playing against on April 19, 2025?",
+    "model_answer": "Stevens",
+    "true_answers": [
+      "Case Western Reserve"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "How often does the AI-SDM seminar series take place?",
+    "model_answer": "biweekly",
+    "true_answers": [
+      "Biweekly"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who is the director of the play \"The Inseparables\" at CMU Drama?",
+    "model_answer": "Robert Ramirez",
+    "true_answers": [
+      "Robert Ramirez"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who facilitates the Black Women\u2019s Support Group (Graduate Students)?",
+    "model_answer": "Black female therapists",
+    "true_answers": [
+      "Black female therapists"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "How many alumni, parents, and friends does CMU have in the San Francisco Bay Area?",
+    "model_answer": "10,500 alumni, parents and friends",
+    "true_answers": [
+      "Over 10,500 alumni, parents, and friends"
+    ],
+    "exact_match": false,
+    "max_recall": 0.83,
+    "max_f1": 0.91
+  },
+  {
+    "question": "In which year was the exhibition of Gertrude Abercrombie's works held at the museum?",
+    "model_answer": "2016",
+    "true_answers": [
+      "From January 18 to June 1"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What did Tosca use to kill Scarpia?",
+    "model_answer": "knife",
+    "true_answers": [
+      "A knife"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "In which year was the Carnegie Museum of Natural History founded?",
+    "model_answer": "1896",
+    "true_answers": [
+      "1896"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the plans for the Pittsburgh Glass Center changed from Elizabeth, Pennsylvania to Pittsburgh?",
+    "model_answer": "1999",
+    "true_answers": [
+      "1999"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What email address should I contact to opt-out of promotional emails from the Carnegie Museums?",
+    "model_answer": "membership@carnegiemuseums.org",
+    "true_answers": [
+      "membership@carnegiemuseums.org"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the Fort Pitt Museum founded?",
+    "model_answer": "1969",
+    "true_answers": [
+      "1969"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the first iron furnace in Pittsburgh established?",
+    "model_answer": "1792",
+    "true_answers": [
+      "1859"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who are the community group contacts for purchasing low-price tickets to the 10:30AM matinee performance of We Shall Not Be Moved?",
+    "model_answer": "Wendy Parkulo, Manager of Group Sales and Community Initiativesvia emailor at 412-281-0912 ext.",
+    "true_answers": [
+      "Wendy Parkulo"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.27
+  },
+  {
+    "question": "In which century does the Carnegie Museum of Art have notable collections of aluminum relics and chairs?",
+    "model_answer": "1930",
+    "true_answers": [
+      "The present century"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When is the educator workshop for Madama Butterfly?",
+    "model_answer": "Thursday, March 27, 2025",
+    "true_answers": [
+      "Saturday, February 22, 2025."
+    ],
+    "exact_match": false,
+    "max_recall": 0.25,
+    "max_f1": 0.25
+  },
+  {
+    "question": "Which museum object is featured in the 125 Years at Carnegie Museums: A History in Objects publication?",
+    "model_answer": "Dinosaur Hall\u2019s T. rex Mural",
+    "true_answers": [
+      "The Dinosaur Hall\u2019s T. rex Mural."
+    ],
+    "exact_match": false,
+    "max_recall": 0.88,
+    "max_f1": 0.93
+  },
+  {
+    "question": "In which year did Mr. Lesniak make his conducting debut with Pittsburgh Opera?",
+    "model_answer": "2008-09",
+    "true_answers": [
+      "2017"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who was the composer of the famous song \"My Old Kentucky Home\"?",
+    "model_answer": "Stephen Foster",
+    "true_answers": [
+      "Stephen Foster"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who disguised themselves as the Queen of the Fairies to trick Falstaff?",
+    "model_answer": "Nannetta",
+    "true_answers": [
+      "Nannetta and Alice"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.5
+  },
+  {
+    "question": "What does the Meadowcroft Historic village feature?",
+    "model_answer": "a 16th century Eastern Woodland Indian Village",
+    "true_answers": [
+      "A massive rock overhang, the Rockshelter, used 19000 years ago."
+    ],
+    "exact_match": false,
+    "max_recall": 0.1,
+    "max_f1": 0.12
+  },
+  {
+    "question": "In Bizet's opera Carmen, Who does Carmen tell Don Jos\u00e9 that she is in love with?",
+    "model_answer": "Escamillo",
+    "true_answers": [
+      "Escamillo"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What services are available for visitors with mobility issues at the Heinz History Center and Sports Museum?",
+    "model_answer": "Wheelchairs: A limited number of manual wheelchairs and baby strollers are available to visitors on a first come, first served basis located in the first floor coat room",
+    "true_answers": [
+      "A limited number of manual wheelchairs and baby strollers are available to visitors on a first come, first served basis located in the first floor coat room."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.98
+  },
+  {
+    "question": "In which year was the Heinz History Center's Rauh Jewish History Program & Archives established?",
+    "model_answer": "1988",
+    "true_answers": [
+      "1988"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What time does Bravo Academy operate?",
+    "model_answer": "9:30 am \u2013 4:00 pm",
+    "true_answers": [
+      "From 9:30 am to 4:00 pm."
+    ],
+    "exact_match": false,
+    "max_recall": 0.67,
+    "max_f1": 0.73
+  },
+  {
+    "question": "What type of dinosaurs did the team find for Andrew Carnegie?",
+    "model_answer": "long-necked, plant-eating dinosaur",
+    "true_answers": [
+      "A sauropod dinosaur"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.33
+  },
+  {
+    "question": "Which locations around Pittsburgh were featured in KEA's \"iLove You\" music video?",
+    "model_answer": "Andrew Carnegie Free Library and Music Hall",
+    "true_answers": [
+      "Andrew Carnegie Free Library and Music Hall; Airbnb Historic Day House; Dorsey\u2019s Records shop"
+    ],
+    "exact_match": false,
+    "max_recall": 0.44,
+    "max_f1": 0.61
+  },
+  {
+    "question": "Which organization is responsible for the authentication of Andy Warhol's artworks?",
+    "model_answer": "The Andy Warhol Foundation for the Visual Arts, Inc.",
+    "true_answers": [
+      "The Andy Warhol Art Authentication Board"
+    ],
+    "exact_match": false,
+    "max_recall": 0.67,
+    "max_f1": 0.53
+  },
+  {
+    "question": "In which university did Suzanne, the SVP of Pittsburgh Symphony Orchestra, earn her Master of Arts Management degree?",
+    "model_answer": "Grand Valley State University",
+    "true_answers": [
+      "Carnegie Mellon University"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.29
+  },
+  {
+    "question": "In which year was the T. rex mural in Dinosaur Hall painted?",
+    "model_answer": "1950",
+    "true_answers": [
+      "1950"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What religious influences did Andy Warhol's personal items reveal in the 2019 exhibition?",
+    "model_answer": "Byzantine Catholic influences",
+    "true_answers": [
+      "Byzantine Catholic influences"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which city did Mike Fincke grow up near and spent his childhood hours in the Buhl Planetarium?",
+    "model_answer": "Pittsburgh",
+    "true_answers": [
+      "Pittsburgh"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What organization does the Pittsburgh's Cultural District partner with to provide ticket insurance?",
+    "model_answer": "Booking Protect",
+    "true_answers": [
+      "Booking Protect"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the first coke-fire smelting introduced in Pittsburgh?",
+    "model_answer": "1859",
+    "true_answers": [
+      "1859"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which organizations collaborated to host host the second iteration of Envisioning a Just Pittsburgh, an inclusive call for art in 2024?",
+    "model_answer": "Carnegie Museums of Pittsburgh, Carnegie Library of Pittsburgh, the University of Pittsburgh, 1Hood Media, and the August Wilson African American Cultural Center",
+    "true_answers": [
+      "Carnegie Museums of Pittsburgh, Carnegie Library of Pittsburgh, the University of Pittsburgh, 1Hood Media, and the August Wilson African American Cultural Center"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What historical installations are being preserved in the renovation of Point State Park?",
+    "model_answer": "Fort Pitt Museum",
+    "true_answers": [
+      "Fort Pitt Museum and Fort Pitt Foundry"
+    ],
+    "exact_match": false,
+    "max_recall": 0.43,
+    "max_f1": 0.6
+  },
+  {
+    "question": "What is the contact number for the Manager of Institutional Support at The Frick Pittsburgh?",
+    "model_answer": "412-342-4089",
+    "true_answers": [
+      "412-342-4089"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which vendor sells pickled cabbage?",
+    "model_answer": "Doc Pickle",
+    "true_answers": [
+      "Mancini's"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which orchestra did Jack Howell join after leaving the Pittsburgh Symphony for the second time?",
+    "model_answer": "New Zealand Symphony",
+    "true_answers": [
+      "New Zealand Symphony"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which music schools did Kristina Yoder attend for her Bachelor and Master degrees?",
+    "model_answer": "The Juilliard School",
+    "true_answers": [
+      "The Juilliard School"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which music school did Yun-Ya Lo earn her Bachelor and Master degrees?",
+    "model_answer": "Juilliard School",
+    "true_answers": [
+      "The Juilliard School"
+    ],
+    "exact_match": false,
+    "max_recall": 0.67,
+    "max_f1": 0.8
+  },
+  {
+    "question": "When is Pittsburgh Symphony Orchestra hosting the Speakers Series: Andrew Lloyd Webber event?",
+    "model_answer": "Wed, Apr 9, 2025",
+    "true_answers": [
+      "Wednesday, April 9, 2025"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.5
+  },
+  {
+    "question": "Who are some notable instructors Alison Fujito completed teacher training with for the Suzuki method of teaching violin?",
+    "model_answer": "Michele George and Ed Kreitman",
+    "true_answers": [
+      "Michele George and Ed Kreitman"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which vendors in Block 1 offer pickle margarita in Picklesburgh?",
+    "model_answer": "Pittsburgh Pickle Co.",
+    "true_answers": [
+      "Country Hammer Moonshine"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which specialty cocktails are available during Picklesburgh's happy hour?",
+    "model_answer": "Cucumber Dill Chilller",
+    "true_answers": [
+      "From 4:30 to 9:30 p.m. on Thursday, Friday, and Saturday and from 12:00 to 5:00 p.m. on Sunday."
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who is performing for the Stanwix St. Stage on Saturday, July 20, from 12:00 - 1:00 pm?",
+    "model_answer": "Anne Eliza",
+    "true_answers": [
+      "Anne Eliza."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who was personally invited by John Rutter to perform the solo from his \"Requiem\" in Carnegie Hall?",
+    "model_answer": "Bronwyn Banerdt",
+    "true_answers": [
+      "Bronwyn Banerdt"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who are the musicians David McCarroll has performed with in chamber ensembles?",
+    "model_answer": "Mitsuko Uchida, Richard Goode, Miriam Fried, Pamela Frank, Anthony Marwood, Donald Weilerstein, Kim Kashkashian, Roger Tapping, Marcy Rosen, Peter Wi",
+    "true_answers": [
+      "David McCarroll"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which orchestra has commissioned a new concerto for Rusinek?",
+    "model_answer": "Pittsburgh Symphony Orchestra",
+    "true_answers": [
+      "Pittsburgh Symphony Orchestra"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which orchestras has Sarah Clendenning performed with before joining the Pittsburgh Symphony Orchestra?",
+    "model_answer": "San Diego Symphony and the San Diego Opera",
+    "true_answers": [
+      "Sarah Clendenning"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When did Christopher Allen join the Pittsburgh Symphony?",
+    "model_answer": "September of 1997",
+    "true_answers": [
+      "September 1997"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.8
+  },
+  {
+    "question": "Who is the coach of Chamber Music Pittsburgh's competitive Montgomery Fellowship Quartet program?",
+    "model_answer": "Jeremy Black",
+    "true_answers": [
+      "Jeremy Black"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which cities has David Sogg performed recitals, chamber music, and concerti?",
+    "model_answer": "Charlotte, Pittsburgh, San Jose, Tallahassee, Tempe, and the Seattle area",
+    "true_answers": [
+      "Charlotte, Pittsburgh, San Jose, Tallahassee, Tempe, and the Seattle area."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which orchestras has Manfred Honeck conducted in the United States?",
+    "model_answer": "New York Philharmonic, The Cleveland Orchestra, Chicago Symphony Orchestra, Los Angeles Philharmonic, Philadelphia Orchestra",
+    "true_answers": [
+      "New York Philharmonic; Cleveland Orchestra; Chicago Symphony Orchestra; Los Angeles Philharmonic; Los Angeles Philharmonic; Philadelphia Orchestra; Boston Symphony Orchestra; San Francisco Symphony."
+    ],
+    "exact_match": false,
+    "max_recall": 0.59,
+    "max_f1": 0.72
+  },
+  {
+    "question": "Which vendor offers pickle vodka in Picklesburgh?",
+    "model_answer": "Excise Distillery",
+    "true_answers": [
+      "Armen's Barrels"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Under whose conduction, DeAlmeida recorded Bach's concerto with Pittsburgh Symphony Orchestra?",
+    "model_answer": "Andres Cardenes",
+    "true_answers": [
+      "Lorin Maazel"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which competition did Jeremy Black win first prize in at the age of 12?",
+    "model_answer": "Illinois Bell/WTTW Young Performers Competition",
+    "true_answers": [
+      "Illinois Bell/WTTW Young Performers Competition"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which country will Mead Chamis and Mehmari perform at the 2024 International Viola Congress?",
+    "model_answer": "Brazil",
+    "true_answers": [
+      "Brazil"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which season did Andrew Wickesberg join the Pittsburgh Symphony Orchestra?",
+    "model_answer": "2007-2008",
+    "true_answers": [
+      "2007-2008 season"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "In which city and state did Aaron White begin his musical studies?",
+    "model_answer": "Irving, Texas",
+    "true_answers": [
+      "Irving, Texas."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who are some renowned artists that Banerdt has collaborated with?",
+    "model_answer": "Kim Kashkashian and Mitsuko Uchida",
+    "true_answers": [
+      "Kim Kashkashian; Mitsuko Uchida."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.89
+  },
+  {
+    "question": "Which music academy did Stephanie Tretick attend before Indiana University/Bloomington?",
+    "model_answer": "Interlochen Arts Academy",
+    "true_answers": [
+      "Vassar College"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When is the Vince Gill concert presented at Pitteburgh Symphony Orchestra?",
+    "model_answer": "Sat, Jul 12, 2025",
+    "true_answers": [
+      "Saturday, July 12, 2025, at 7:30 pm."
+    ],
+    "exact_match": false,
+    "max_recall": 0.29,
+    "max_f1": 0.36
+  },
+  {
+    "question": "Where did Victoria Luperi study music?",
+    "model_answer": "Curtis Institute of Music",
+    "true_answers": [
+      "Curtis Institute of Music"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which vendor sells pickle flavored gummies in Picklesburgh?",
+    "model_answer": "Grandpa Joe's Candy Shop",
+    "true_answers": [
+      "Grandpa Joe's Candy Shop"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which vendor sells pickled peanuts in Picklesburgh?",
+    "model_answer": "Cinnaroast & Pickle Pirate",
+    "true_answers": [
+      "Cinnaroast; Pickle Pirate"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which neighborhoods surround McKinley Park in Pittsburgh?",
+    "model_answer": "Beltzhoover, Bon Air, and Knoxville neighborhoods",
+    "true_answers": [
+      "Beltzhoover, Bon Air, and Knoxville neighborhoods."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who are the key personnel at the Disability Resources office at Carnegie Mellon University?",
+    "model_answer": "Patrick McCue Accessibility Specialist 412-268-7537 pmccue@andrew.cmu.eduEthan Obstarczyk Senior Disability Resources Program Administrator 412-268-5940 ethano@",
+    "true_answers": [
+      "Ethan Obstarczyk"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.12
+  },
+  {
+    "question": "Who will evaluate the applications for the Food Justice Fund?",
+    "model_answer": "The City",
+    "true_answers": [
+      "The City of Pittsburgh"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "What statute classifies a person as an employer under the Pennsylvania Personal Income Tax regulations?",
+    "model_answer": "72 P.S.  7301(h)",
+    "true_answers": [
+      "An employer under the Pennsylvania Personal Income Tax statute, 72 P.S. \u00a7 7301(h)."
+    ],
+    "exact_match": false,
+    "max_recall": 0.29,
+    "max_f1": 0.44
+  },
+  {
+    "question": "Who issued an Executive Order to bring new efficiency and transparency to Pittsburgh's spending and budgeting procedures?",
+    "model_answer": "Mayor William Peduto",
+    "true_answers": [
+      "Mayor William Peduto"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Where is the Bureau of Fire Headquarters located in Pittsburgh?",
+    "model_answer": "2945 Railroad Street Pittsburgh, PA 15201",
+    "true_answers": [
+      "200 Ross Street, 5th Floor, Pittsburgh, PA 15219"
+    ],
+    "exact_match": false,
+    "max_recall": 0.38,
+    "max_f1": 0.43
+  },
+  {
+    "question": "When was Light Up Night held in 2024?",
+    "model_answer": "November 20",
+    "true_answers": [
+      "November 23, 2024"
+    ],
+    "exact_match": false,
+    "max_recall": 0.33,
+    "max_f1": 0.4
+  },
+  {
+    "question": "Who inhabited in the Pittsburgh area before European settlers?",
+    "model_answer": "Native Americans",
+    "true_answers": [
+      "Seneca; Shawnee; Mingo"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who is the Assistant Director of the Office of Community Health & Safety in the City of Pittsburgh?",
+    "model_answer": "Camila Alarcon-Chelecki",
+    "true_answers": [
+      "Camila Alarcon-Chelecki"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which location is the City of Pittsburgh's main office located?",
+    "model_answer": "Pittsburgh City-County Building",
+    "true_answers": [
+      "414 Grant St., Pittsburgh, PA 15219"
+    ],
+    "exact_match": false,
+    "max_recall": 0.17,
+    "max_f1": 0.22
+  },
+  {
+    "question": "What is DAAT comprised of?",
+    "model_answer": "multi-agency team",
+    "true_answers": [
+      "Local, state, and federal Law Enforcement partners"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What are some examples of property violations on campus?",
+    "model_answer": "\u2022 Damage to or destruction of property",
+    "true_answers": [
+      "Damage to or destruction of property; Improper placement of posters/banners; Improper possession of property; Irresponsible use of university property or services; Operation of vehicles in restricted areas; Propping open doors that are kept locked for security purposes; Repairing and storing vehicles in unauthorized university spaces; Trespassing on a roof, parapet, and/or other non-public areas"
+    ],
+    "exact_match": false,
+    "max_recall": 0.11,
+    "max_f1": 0.2
+  },
+  {
+    "question": "What program did the Department of Public Safety Office of Community Health and Safety announce during the Annual Overdose Awareness Day Resource Fair?",
+    "model_answer": "Post Overdose Support Team",
+    "true_answers": [
+      "Post Overdose Support Team (POST) Program."
+    ],
+    "exact_match": false,
+    "max_recall": 0.67,
+    "max_f1": 0.8
+  },
+  {
+    "question": "What activities does SPC combine to help the region become competitive in markets?",
+    "model_answer": "management of community assistance, financial assistance, export and government procurement assistance, and special enterprise development activities",
+    "true_answers": [
+      "Management of community assistance, financial assistance, export and government procurement assistance, and special enterprise development activities."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who is tracking and reporting the numbers of tests and confirmed cases of COVID-19 daily in Allegheny County?",
+    "model_answer": "Allegheny County Health Department",
+    "true_answers": [
+      "The Allegheny County Health Department"
+    ],
+    "exact_match": false,
+    "max_recall": 0.8,
+    "max_f1": 0.89
+  },
+  {
+    "question": "When must an employer conducting temporary, seasonal, or itinerant business in Pittsburgh file a return and pay the tax?",
+    "model_answer": "within ten (10) days of the completion of the temporary, seasonal, or itinerant business",
+    "true_answers": [
+      "Within ten days of the completion of the temporary, seasonal, or itinerant business"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.96
+  },
+  {
+    "question": "Who discovered the Pittsburgh area for Europeans?",
+    "model_answer": "European explorers",
+    "true_answers": [
+      "Robert de La Salle"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What payment methods are accepted at the farmers markets presented by CitiParks?",
+    "model_answer": "food stamps (SNAP), credit and debit cards",
+    "true_answers": [
+      "Credit and debit cards"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.73
+  },
+  {
+    "question": "What is the definition of a minor according to the given context?",
+    "model_answer": "any individual less than eighteen (18) years of age",
+    "true_answers": [
+      "Individual less than eighteen years of age"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.88
+  },
+  {
+    "question": "Which officer passed away at St. Clair Hospital following a brief illness?",
+    "model_answer": "Officer Brian Rowland",
+    "true_answers": [
+      "Officer Brian Rowland"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the main task of the Bureau of Animal Care & Control in Pittsburgh?",
+    "model_answer": "providing care, control and resolution to situations dealing with domestic animals and wildlife",
+    "true_answers": [
+      "Serve the residents of the City of Pittsburgh by providing care, control, and resolution to situations dealing with domestic animals and wildlife"
+    ],
+    "exact_match": false,
+    "max_recall": 0.59,
+    "max_f1": 0.74
+  },
+  {
+    "question": "Who founded Carnegie Mellon University?",
+    "model_answer": "Andrew Carnegie",
+    "true_answers": [
+      "Andrew Carnegie and Andrew Mellon"
+    ],
+    "exact_match": false,
+    "max_recall": 0.4,
+    "max_f1": 0.57
+  },
+  {
+    "question": "When will the no parking measures be enforced on East Carson Street?",
+    "model_answer": "starting at 8 p.m",
+    "true_answers": [
+      "Fridays and Saturdays, from 7 p.m. until 4 a.m."
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is the total number of uniformed personnel in the Department of Public Safety?",
+    "model_answer": "850",
+    "true_answers": [
+      "1155"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Where can a copy of the Taxpayer Bill of Rights be downloaded?",
+    "model_answer": "http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf",
+    "true_answers": [
+      "http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What types of businesses are required to register with the City of Pittsburgh according to the City Code?",
+    "model_answer": "Every person having an office, factory, workshop, branch, warehouse, or other place of business, including banks, schools, hospitals, non-profit, and trade associations, located in the City or outside the City, who, during any tax year",
+    "true_answers": [
+      "Banks, schools, hospitals, non-profit, and trade associations"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.33
+  },
+  {
+    "question": "What types of services does CLASS offer?",
+    "model_answer": "CLASS offers a variety of individualized services ranging from independent living skills training in the classroom to community-based case management for social, recreational, and residential supports",
+    "true_answers": [
+      "Independent living skills training in the classroom; Community-based case management for social, recreational, and residential supports."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.76
+  },
+  {
+    "question": "Why was the Civil Service Commission established in Pittsburgh?",
+    "model_answer": "to insure the maintenance of a merit personnel system to recruit, employ, promote, and retain qualified persons for employment with the City of Pittsburgh",
+    "true_answers": [
+      "Insure the maintenance of a merit personnel system"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.5
+  },
+  {
+    "question": "What organization is responsible for reviewing and approving new indoor flight spaces?",
+    "model_answer": "Unmanned Aircraft System (UAS) Committee",
+    "true_answers": [
+      "UAS Committee"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.57
+  },
+  {
+    "question": "How can you order a transcript of a meeting from City Planning?",
+    "model_answer": "You may also order a transcript of a meeting by calling Network Deposition Services at 412-281-7908.",
+    "true_answers": [
+      "Call Network Deposition Services at 412-281-7908"
+    ],
+    "exact_match": false,
+    "max_recall": 0.83,
+    "max_f1": 0.45
+  },
+  {
+    "question": "Whose approval is required for undergraduates to take a course?",
+    "model_answer": "the approval of the dean\u2019s office of the college/school offering the course",
+    "true_answers": [
+      "The dean\u2019s office of the college/school offering the course"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.88
+  },
+  {
+    "question": "When did the new Right to Know Law take effect in the Commonwealth of Pennsylvania?",
+    "model_answer": "January 1, 2009",
+    "true_answers": [
+      "January 1, 2009"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What percentage of the city's population identified as Christians according to the 2014 Pew Research Center study?",
+    "model_answer": "78%",
+    "true_answers": [
+      "78%"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What are DOMI's customer service hours for in-person and remote inquiries?",
+    "model_answer": "Monday \u2013 Friday from 9am to 3pm",
+    "true_answers": [
+      "Monday to Friday from 9am to 3pm"
+    ],
+    "exact_match": false,
+    "max_recall": 0.86,
+    "max_f1": 0.86
+  },
+  {
+    "question": "Are DOMI's customer service hours available for both in-person and remote inquiries, yes or no?",
+    "model_answer": "yes",
+    "true_answers": [
+      "yes"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "How much funding did FEMA provide through its Fire Prevention Safety Grants?",
+    "model_answer": "$ 952,381 $ 847,497 $ 104,884",
+    "true_answers": [
+      "More than $950,000"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When did MBK Pittsburgh host its Health and Wellness Summit?",
+    "model_answer": "June 20, 2024",
+    "true_answers": [
+      "June 20, 2024"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the phone number of AHN Addiction Medicine Center of Excellence?",
+    "model_answer": "412) 359-4644",
+    "true_answers": [
+      "412-359-4644"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When was the Buenos Aires Football Club founded?",
+    "model_answer": "June 20, 1867",
+    "true_answers": [
+      "June 20, 1867"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the email address for the Zoning Board of Adjustment in Pittsburgh?",
+    "model_answer": "zoningboard@pittsburghpa.gov",
+    "true_answers": [
+      "zoningboard@pittsburghpa.gov"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the mission of Autism Urban Connections Inc.?",
+    "model_answer": "Their mission is to provide education, support, advocacy, and empowerment, with an emphasis on self-care to families of those diagnosed with Autism",
+    "true_answers": [
+      "Provide education, support, advocacy, and empowerment, with an emphasis on self-care to families of those diagnosed with Autism."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.9
+  },
+  {
+    "question": "Where can applications for the Police Officer position in Pittsburgh be submitted?",
+    "model_answer": "Apply online at www.pghjobs.net",
+    "true_answers": [
+      "www.pghjobs.net"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.4
+  },
+  {
+    "question": "Where can I find the registration form for the Pittsburgh COPS Kids program?",
+    "model_answer": "http://pittsburghpa.gov/police/community-policing/cops-kids.html",
+    "true_answers": [
+      "http://pittsburghpa.gov/police/community-policing/cops-kids.html; Pick up in person at Police Headquarters at 1203 Western Avenue, Pittsburgh, PA 15233"
+    ],
+    "exact_match": false,
+    "max_recall": 0.12,
+    "max_f1": 0.22
+  },
+  {
+    "question": "Where is the Pittsburgh COPS Kids program?",
+    "model_answer": "Allegheny County Community College, Duquesne University, University of Pittsburgh, and Chatham University",
+    "true_answers": [
+      "1203 Western Avenue, Pittsburgh, PA 15233"
+    ],
+    "exact_match": false,
+    "max_recall": 0.17,
+    "max_f1": 0.11
+  },
+  {
+    "question": "What is the purpose of the PINS program?",
+    "model_answer": "to increase both the officer and community member\u2019s safety",
+    "true_answers": [
+      "Identify and refer City residents who frequently utilize 9-1-1 services to meet their basic needs, as well as individuals who may be vulnerable to harm and need follow up, and to connect them to long-term services and supports"
+    ],
+    "exact_match": false,
+    "max_recall": 0.05,
+    "max_f1": 0.08
+  },
+  {
+    "question": "When did Mayor Peduto issue the executive orders on affordable housing?",
+    "model_answer": "February 14, 2017",
+    "true_answers": [
+      "February 14, 2017"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the Local Services Tax (LST)?",
+    "model_answer": "The Local Services Tax is $52/year, collected quarterly.",
+    "true_answers": [
+      "A tax on individuals for the privilege of engaging in an occupation"
+    ],
+    "exact_match": false,
+    "max_recall": 0.17,
+    "max_f1": 0.2
+  },
+  {
+    "question": "Which university in Pittsburgh won the NIT title in 1955?",
+    "model_answer": "Duquesne",
+    "true_answers": [
+      "1955"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is the email address for the Historic Review Commission in Pittsburgh?",
+    "model_answer": "historicreview@pittsburghpa.gov",
+    "true_answers": [
+      "historicreview@pittsburghpa.gov"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "How can one register to speak at Council\u2019s Regular and Standing Committees meetings?",
+    "model_answer": "online Speaker Signup form",
+    "true_answers": [
+      "Use the online Speaker Signup form; Call the City Clerk's office at (412) 255-2138"
+    ],
+    "exact_match": false,
+    "max_recall": 0.27,
+    "max_f1": 0.42
+  },
+  {
+    "question": "What is the phone number of the City Clerk's office?",
+    "model_answer": "(412) 255-2138",
+    "true_answers": [
+      "(412) 255-2138"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the Longtime Owner Occupant Tax Exemption Program (LOOP) proposed in Pittsburgh?",
+    "model_answer": "2025",
+    "true_answers": [
+      "2023"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "How many homicides were there in Pittsburgh in 2018?",
+    "model_answer": "31",
+    "true_answers": [
+      "55"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who must approve a undergraduate student's return from an academic suspension?",
+    "model_answer": "associate dean",
+    "true_answers": [
+      "Associate dean"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who must approve a graduate student's return from an academic suspension?",
+    "model_answer": "department head",
+    "true_answers": [
+      "Department head"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What organization in Pennsylvania promotes the human rights of people with intellectual and developmental disabilities?",
+    "model_answer": "The Arc of PA",
+    "true_answers": [
+      "The Arc of Pennsylvania"
+    ],
+    "exact_match": false,
+    "max_recall": 0.75,
+    "max_f1": 0.75
+  },
+  {
+    "question": "In which year did Pittsburgh begin producing steel?",
+    "model_answer": "1875",
+    "true_answers": [
+      "1875"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the phone number for Pittsburgh-Regional-Transit?",
+    "model_answer": "412.442.2000",
+    "true_answers": [
+      "412-442-2000"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "How much was the FEMA Assistance to Firefighters Grant awarded to the Pittsburgh Bureau of Fire?",
+    "model_answer": "$1.7 million",
+    "true_answers": [
+      "$1.7"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.67
+  },
+  {
+    "question": "Who was imploring and challenging the newly-promoted personnel to be excellent?",
+    "model_answer": "Public Safety Director Lee Schmidt",
+    "true_answers": [
+      "Mayor Ed Gainey"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is the purpose of the Self-Advocacy Voices mentorship incubator program?",
+    "model_answer": "empowers people with disabilities to give voice to their interests, passions, knowledge, and experiences through public speaking",
+    "true_answers": [
+      "Empower people with disabilities to give voice to their interests, passions, knowledge, and experiences through public speaking within a supportive environment of peers and mentors."
+    ],
+    "exact_match": false,
+    "max_recall": 0.64,
+    "max_f1": 0.76
+  },
+  {
+    "question": "Which Pittsburgh organization provides opportunities for seniors to engage in various activities and community events?",
+    "model_answer": "Pittsburgh's vibrant Senior Community Centers",
+    "true_answers": [
+      "The Pittsburgh Parks and Recreation Department's Senior Community Centers program"
+    ],
+    "exact_match": false,
+    "max_recall": 0.45,
+    "max_f1": 0.59
+  },
+  {
+    "question": "How can someone contact CDAP via email?",
+    "model_answer": "pacd@pittsburghpa.gov",
+    "true_answers": [
+      "pacd@pittsburghpa.gov."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the main goal of the Public Safety department according to Mayor William Peduto?",
+    "model_answer": "to be there for people in need of help",
+    "true_answers": [
+      "For people in need of help"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.8
+  },
+  {
+    "question": "What is the income threshold for an employee to apply for a refund of the Local Services Tax?",
+    "model_answer": "Yes. Employers must discontinue withholding the Local Services Tax when (i) the total earned income from all sources within the City of Pittsburgh is less than $12,000; (ii) the employee is on active duty in the military; or",
+    "true_answers": [
+      "Less than $12,000"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.15
+  },
+  {
+    "question": "What is the role of the Naming Commission in Pittsburgh?",
+    "model_answer": "The Commission on Naming Public Properties creates guidelines and specifications for naming or changing the name of public property or facilities",
+    "true_answers": [
+      "Create guidelines and specifications for naming or changing the name of public property or facilities"
+    ],
+    "exact_match": false,
+    "max_recall": 0.93,
+    "max_f1": 0.78
+  },
+  {
+    "question": "What are the core responsibilities of the Department of City Planning in Pittsburgh?",
+    "model_answer": "The Department works at the intersection of climate change, racial justice, and social equity to ensure healthy, safe and vibrant neighborhoods for all residents",
+    "true_answers": [
+      "Review development proposals; Manage compliance with current land use policies; Develop long-range plans"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is Carnegie Mellon University committed to cultivating in its environment?",
+    "model_answer": "diverse, world-class talent",
+    "true_answers": [
+      "Cultivate an environment that supports the personal and intellectual growth of each student"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What is being asked of campers to help those in need in Pittsburgh?",
+    "model_answer": "bring a non-perishable food item or personal hygiene product on their first day of camp",
+    "true_answers": [
+      "Campers are being asked to bring a non-perishable food item or personal hygiene product on their first day of camp to help those in need in Pittsburgh."
+    ],
+    "exact_match": false,
+    "max_recall": 0.56,
+    "max_f1": 0.71
+  },
+  {
+    "question": "What is the focus of the legislation in the Black Pittsburgh Matters Policies and Programs?",
+    "model_answer": "eliminating student opportunity gaps",
+    "true_answers": [
+      "Eliminate student opportunity gaps"
+    ],
+    "exact_match": false,
+    "max_recall": 0.75,
+    "max_f1": 0.75
+  },
+  {
+    "question": "Which demographic groups are disproportionately disconnected from broadband in Southwestern Pennsylvania?",
+    "model_answer": "Seniors, Families with K-12 students, and Black citizens",
+    "true_answers": [
+      "Seniors; Families with K-12 students; Black"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.86
+  },
+  {
+    "question": "In which year was the City of Pittsburgh's Institution and Service Privilege Tax Ordinance enacted?",
+    "model_answer": "1968",
+    "true_answers": [
+      "1968"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What are some possible remedies for a violation of this Policy?",
+    "model_answer": "Possible Remedies \u2022 A no contact order; \u2022 Academic adjustments or accommodations; and \u2022 Workplace adjustments or accommodations",
+    "true_answers": [
+      "No contact order; Academic adjustments or accommodations; Workplace adjustments or accommodations"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.76
+  },
+  {
+    "question": "What is the contact phone number for the City of Pittsburgh?",
+    "model_answer": "412-255-2621",
+    "true_answers": [
+      "412-255-2621"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the mission of the Pittsburgh Bureau of Fire?",
+    "model_answer": "protect life, property and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service and domestic preparedness",
+    "true_answers": [
+      "Protect life, property, and the environment by providing effective customer and human services related to fire suppression, fire responder medical service, hazardous materials mitigation, emergency management service, and domestic preparedness."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the original ReelAbilities Film Festival initiated in New York?",
+    "model_answer": "2007",
+    "true_answers": [
+      "2007"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Where was the original ReelAbilities Film Festival initiated in 2007?",
+    "model_answer": "New York at the JCC Manhattan",
+    "true_answers": [
+      "New York"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.5
+  },
+  {
+    "question": "In which year was coke-fire smelting introduced in Pittsburgh?",
+    "model_answer": "1859",
+    "true_answers": [
+      "1859"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the mission of Environmental Services in Pittsburgh?",
+    "model_answer": "The mission of Environmental Services is to establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers",
+    "true_answers": [
+      "Establish and maintain a refuse and recycling system that promotes a safe, litter-free and environmentally friendly City for all of its residents and customers."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.87
+  },
+  {
+    "question": "What does the Independent Living Institute aim to promote for individuals with disabilities?",
+    "model_answer": "opportunities for more personal and political power, self-determination, full participation, and equality",
+    "true_answers": [
+      "Personal and political power; Self-determination; Full participation; Equality"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.8
+  },
+  {
+    "question": "Who is responsible for the development of the land between Heinz Field and PNC Park?",
+    "model_answer": "The Stadium Authority",
+    "true_answers": [
+      "The Stadium Authority"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What was the total budgeted amount for debt service in 2028?",
+    "model_answer": "$69,390,272",
+    "true_answers": [
+      "$800,000,000"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "In which year was the first recreation center built in Pittsburgh?",
+    "model_answer": "1899",
+    "true_answers": [
+      "1895"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What measures have been implemented in Public Safety to prevent the spread of COVID-19?",
+    "model_answer": "Mandatory masks and social distancing, daily screenings upon entry to any Public Safety facility, and strict quarantine/isolation procedures",
+    "true_answers": [
+      "Mandatory masks and social distancing; Daily screenings upon entry to any Public Safety facility; Strict quarantine/isolation procedures"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.97
+  },
+  {
+    "question": "In which countries does Steelers World Photo Day take place?",
+    "model_answer": "United States, Mexico, Ireland, United Kingdom, Germany, and Honduras",
+    "true_answers": [
+      "Mexico, the United States, Argentina, the U.K., Germany, and Australia, among others."
+    ],
+    "exact_match": false,
+    "max_recall": 0.42,
+    "max_f1": 0.48
+  },
+  {
+    "question": "Which NFL analyst did Dale and Matt interview on SNR Drive on February 25?",
+    "model_answer": "Greg Cosell",
+    "true_answers": [
+      "Greg Cosell"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year did Gerald Alexander start working as a undergraduate assistant at Arkansas State?",
+    "model_answer": "2013",
+    "true_answers": [
+      "2013"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which pitcher did the Pittsburgh Pirates sign to a minor league contract and invited to spring training on February 12, 2024?",
+    "model_answer": "Chase Anderson",
+    "true_answers": [
+      "Wily Peralta"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "When was it unlikely for John Mitchell to attend the University of Alabama due to segregation?",
+    "model_answer": "1963",
+    "true_answers": [
+      "1950s"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who is a sleeper pick for the third-down/complementary back role in the NFL Draft?",
+    "model_answer": "Quinshon Judkins",
+    "true_answers": [
+      "Woody Marks"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who were the first three Pittsburgh Steelers players inducted into the Pro Football Hall of Fame?",
+    "model_answer": "Jerome Bettis RB 1996\u20132005 2017 [ 206 ] 20 Rocky Bleier RB 1968, 1970\u201380 2018 [ 207 ] 47 Mel Blount CB 1970\u201383 2017 [ 206 ] 12 Terry",
+    "true_answers": [
+      "John McNally; Art Rooney Sr.; Bobby Layne"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "In which year was the first professional baseball team established in Pittsburgh, known as Allegheny?",
+    "model_answer": "1882",
+    "true_answers": [
+      "1882"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which NFL team did MyCole Pruitt play for before joining the Steelers?",
+    "model_answer": "Vikings",
+    "true_answers": [
+      "MyCole Pruitt"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who has the best 40-yard dash time recorded by a defensive lineman at the pro day in 2025?",
+    "model_answer": "Kalon Barnes Baylor 4.23 2023 DJ Turner II Michigan 4.26 2024",
+    "true_answers": [
+      "James Pearce Jr."
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who set the MLB record for triples in a single season?",
+    "model_answer": "Chief Wilson",
+    "true_answers": [
+      "Chief Wilson"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which goaltender was recalled by the Penguins from the AHL?",
+    "model_answer": "Joel Blomqvist",
+    "true_answers": [
+      "Tristan Jarry"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "What happened with 0.1 seconds left in the second period of the game between Pittsburgh and Toronto?",
+    "model_answer": "Matthew Knies capitalized on a turnover at his own blue line, went down and scored",
+    "true_answers": [
+      "Matthew Knies scored for the Toronto Maple Leafs with 0.1 seconds remaining in the second period."
+    ],
+    "exact_match": false,
+    "max_recall": 0.19,
+    "max_f1": 0.19
+  },
+  {
+    "question": "What injury did Cameron Johnston sustain in the 2022 season?",
+    "model_answer": "significant knee injury",
+    "true_answers": [
+      "Knee injury"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.8
+  },
+  {
+    "question": "Who was being honored in the Pittsburgh arena?",
+    "model_answer": "Pittsburgh Steelers Hall of Famers",
+    "true_answers": [
+      "Mike Lange"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who is the most famous Steelers radio color commentator?",
+    "model_answer": "Myron Cope",
+    "true_answers": [
+      "Myron Cope"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which runningback was signed to the Steelers practice squad?",
+    "model_answer": "Jonathan Ward",
+    "true_answers": [
+      "Jonathan Ward"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What organization did Logan Lee support with his cleats and why?",
+    "model_answer": "Athletes in Action",
+    "true_answers": [
+      "Athletes in Action"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which organization is giving away the first 7,500 \"Check Your Heart\" patterned shirts?",
+    "model_answer": "Ten Thousand Villages",
+    "true_answers": [
+      "UMPC Heart and Vascular Institute"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which Pittsburgh Pirates player was born on October 8, 1995?",
+    "model_answer": "Chase Anderson",
+    "true_answers": [
+      "Colin Holderman"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which team will the Pittsburgh Pirates face on June 18, 2025?",
+    "model_answer": "Houston Astros",
+    "true_answers": [
+      "Tigers"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which player was drafted earlier, Ryan Shea or Conor Timmins?",
+    "model_answer": "Ryan Shea",
+    "true_answers": [
+      "Ryan Shea"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was Conor Timmins drafted?",
+    "model_answer": "2017",
+    "true_answers": [
+      "2017"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Question: Which team is the Pittsburgh Penguins playing on April 3, 2025?",
+    "model_answer": "Ottawa Senators",
+    "true_answers": [
+      "St. Louis Blues"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Question: Which kind of injury happened to Tommy Novak on Sun Mar 9 2025?",
+    "model_answer": "Lower Body",
+    "true_answers": [
+      "Lower Body"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "When is the Three Minute Thesis Championship taking place?",
+    "model_answer": "March 11 2025",
+    "true_answers": [
+      "March 12, 2025 at 3:30 PM ET"
+    ],
+    "exact_match": false,
+    "max_recall": 0.29,
+    "max_f1": 0.4
+  },
+  {
+    "question": "Who founded CMU?",
+    "model_answer": "Andrew Carnegie",
+    "true_answers": [
+      "Andrew Carnegie and Andrew Mellon"
+    ],
+    "exact_match": false,
+    "max_recall": 0.4,
+    "max_f1": 0.57
+  },
+  {
+    "question": "In which college is the Statistics & Data Science major located?",
+    "model_answer": "Carnegie Mellon University",
+    "true_answers": [
+      "Mellon College of Science"
+    ],
+    "exact_match": false,
+    "max_recall": 0.25,
+    "max_f1": 0.29
+  },
+  {
+    "question": "In which school is the Artificial Intelligence major located?",
+    "model_answer": "School of Computer Science",
+    "true_answers": [
+      "School of Computer Science"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which college is the Biomedical Engineering major located at Carnegie M Mellon University?",
+    "model_answer": "College of Engineering",
+    "true_answers": [
+      "College of Engineering"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was Carnegie Mellon University established?",
+    "model_answer": "1900",
+    "true_answers": [
+      "1900"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who is the Program Director for Research Information Management Services at Carnegie Mellon University?",
+    "model_answer": "department head",
+    "true_answers": [
+      "Jason Glenn"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Which professor at Carnegie Mellon introduced the first Girl Scout badge for negotiation?",
+    "model_answer": "Linda Babcock",
+    "true_answers": [
+      "Linda Babcock"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "In which year was the first Intersect@CMU conference held?",
+    "model_answer": "2018",
+    "true_answers": [
+      "2018"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which organization provides services against rape?",
+    "model_answer": "Pennsylvania Coalition Against Rape",
+    "true_answers": [
+      "Pennsylvania Coalition Against Rape (PCAR)"
+    ],
+    "exact_match": false,
+    "max_recall": 0.8,
+    "max_f1": 0.89
+  },
+  {
+    "question": "When is the Siemens Tech for Sustainability Campaign 2025 kick-off event?",
+    "model_answer": "27 January 2025",
+    "true_answers": [
+      "27 January 2025"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What must a party provide when they wish to introduce Expert Witness testimony?",
+    "model_answer": "written notice of the intent to introduce Expert Witness testimony",
+    "true_answers": [
+      "Written notice of the intent"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 0.67
+  },
+  {
+    "question": "What are self-scheduled examinations?",
+    "model_answer": "An instructor may choose not to fix a schedule for the final examination, but instead allow each student to choose the examination time; such exams are called self-scheduled examinations",
+    "true_answers": [
+      "Exams where an instructor allows each student to choose the examination time instead of fixing a schedule."
+    ],
+    "exact_match": false,
+    "max_recall": 0.76,
+    "max_f1": 0.57
+  },
+  {
+    "question": "What should students do if they need assistance with hoverboard shipping or storage?",
+    "model_answer": "contact your Housing Services Facility Coordinator",
+    "true_answers": [
+      "Contact their Housing Services Facility Coordinator as soon as possible"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.62
+  },
+  {
+    "question": "What is the maximum number of days a student can be absent for a sport or organization annually?",
+    "model_answer": "six",
+    "true_answers": [
+      "6"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Under what conditions will amnesty from university disciplinary action be granted to students seeking medical assistance?",
+    "model_answer": "when all of the following conditions apply: 1. An individual contacted emergency services personnel based on a reasonable belief that another individual was in need of immediate medical attention, which had not otherwise been sought, to prevent death or serious bodily injury",
+    "true_answers": [
+      "A reasonable belief that another individual needs immediate medical attention, provides their own name to emergency services, and remains with the individual in need until emergency services arrive and their presence is no longer needed."
+    ],
+    "exact_match": false,
+    "max_recall": 0.46,
+    "max_f1": 0.42
+  },
+  {
+    "question": "Who must approve an event deploying games of chance on campus?",
+    "model_answer": "the director of student leadership, involvement and civic engagement",
+    "true_answers": [
+      "The director of student leadership, involvement and civic engagement"
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Which colleges at Carnegie Mellon record W grades for graduate students?",
+    "model_answer": "Tepper and MCS",
+    "true_answers": [
+      "Tepper and MCS"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "How many free-elective courses may undergraduate students at CMU elect to take a pass/fail grade?",
+    "model_answer": "unless precluded by the course, the course's department or the student's home department/college",
+    "true_answers": [
+      "1"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Who manages the Academic Disciplinary Process at the university?",
+    "model_answer": "Office of Community Standards and Integrity",
+    "true_answers": [
+      "The Office of Community Standards and Integrity"
+    ],
+    "exact_match": false,
+    "max_recall": 0.86,
+    "max_f1": 0.92
+  },
+  {
+    "question": "Who may direct that a degree not be certified by the university registrar?",
+    "model_answer": "dean of students or designee",
+    "true_answers": [
+      "The dean of students or designee"
+    ],
+    "exact_match": false,
+    "max_recall": 0.83,
+    "max_f1": 0.91
+  },
+  {
+    "question": "What is the address of Carnegie Mellon University?",
+    "model_answer": "https://www.cmu.edu",
+    "true_answers": [
+      "5000 Forbes Avenue, Pittsburgh, PA 15213"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "Where must gifts designated to a specific organization be made to ensure compliance with tax laws?",
+    "model_answer": "through the University\u2019s annual giving website",
+    "true_answers": [
+      "Through the University\u2019s annual giving website; Office of Student Leadership, Involvement and Civic Engagement"
+    ],
+    "exact_match": false,
+    "max_recall": 0.5,
+    "max_f1": 0.67
+  },
+  {
+    "question": "What must a student submit to elect a course as pass/fail?",
+    "model_answer": "Grade Option Request Form",
+    "true_answers": [
+      "Submit a Grade Option Request Form to Enrollment Services"
+    ],
+    "exact_match": false,
+    "max_recall": 0.44,
+    "max_f1": 0.62
+  },
+  {
+    "question": "Where are emotional support animals approved by the Office of Disability Resources not permitted on campus?",
+    "model_answer": "university residence facilities",
+    "true_answers": [
+      "Inside other campus buildings"
+    ],
+    "exact_match": false,
+    "max_recall": 0.0,
+    "max_f1": 0.0
+  },
+  {
+    "question": "In which year was the Trademark Licensing Office at Carnegie Mellon established?",
+    "model_answer": "1994",
+    "true_answers": [
+      "1994"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What should users do if they believe someone has made unauthorized use of their account at Carnegie Mellon?",
+    "model_answer": "change your password immediately and report the incident to the Information Security Office",
+    "true_answers": [
+      "Change their password immediately; Report the incident to the Information Security Office"
+    ],
+    "exact_match": false,
+    "max_recall": 0.92,
+    "max_f1": 0.88
+  },
+  {
+    "question": "During what hours is disruptive activity restricted on Saturday and Sunday?",
+    "model_answer": "before 7:00 a.m. and after 10:00 p.m",
+    "true_answers": [
+      "Before 7:00 a.m. and after 10:00 p.m."
+    ],
+    "exact_match": false,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "What is the name of the college at Carnegie Mellon University that offers programs in Biological Sciences, Chemistry, Mathematical Sciences, and Physics?",
+    "model_answer": "Mellon College of Science",
+    "true_answers": [
+      "Mellon College of Science"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "question": "Who should a staff member report to if they believe their electronic data has been inappropriately accessed by another staff member?",
+    "model_answer": "Human Resources",
+    "true_answers": [
+      "Human Resources"
+    ],
+    "exact_match": true,
+    "max_recall": 1.0,
+    "max_f1": 1.0
+  },
+  {
+    "exact_match": 0.2957,
+    "answer_recall": 0.6088,
+    "macro_f1": 0.5906
+  }
+]

@@ -114,6 +114,9 @@ def parse_generator_args(parser: argparse.ArgumentParser):
                         help="Enable do_sample when calling pipeline (default: True)")
     parser.add_argument('--not_do_sample', action='store_false', dest='do_sample',
                         help="Disable do_sample when calling pipeline")
+    parser.add_argument('--few_shot',action='store_false', default=False)
+    parser.add_argument('--not_few_shot',action = 'store_true',
+                        dest='few_shot')
 
 
 def parse_args() -> argparse.Namespace:
@@ -177,7 +180,9 @@ if __name__ == '__main__':
         search_type=args.search_type,
         search_kwargs=search_config,
         task=args.task,
-        model_name=args.generator_model
+        model_name=args.generator_model,
+        few_shot=args.few_shot,
+        training_path= 'data/train'
     )
 
     # Set up generator

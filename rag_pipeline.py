@@ -146,7 +146,9 @@ class RetrivalLM():
                  search_type: str,
                  search_kwargs: dict,
                  task='text-generation',
-                 model_name='mistralai/Mistral-7B-Instruct-v0.2'):
+                 model_name='mistralai/Mistral-7B-Instruct-v0.2',
+                 few_shot=False,
+                 training_path = 'data/train'):
         """
         Args:
             data_store (DataStore): DataStore storing chunked documents.
@@ -181,13 +183,41 @@ class RetrivalLM():
             torch_dtype=torch.bfloat16,
             device=DEVICE
         )
-        self.prompt_template = """\
-System: Answer user questions based solely on the context below:
+        if few_shot:
+            with open(os.path.join(training_path,'questions.txt'),'r') as f:
+                top_5_questions = f.readlines()[:5]
+            top_5_questions = [item.replace('\n','') for item in top_5_questions]
+            with open(os.path.join(training_path,'reference_answers.json'),'r') as f:
+                content = json.load(f)
+                top_5_answers = [content[str(i+1)] for i in range(5)]
+            example_text = "\n".join(
+                [f"{i+1}. **Question:** \"{q}\"\n   **Answer:** \"{a}\"" for i, (q, a) in enumerate(zip(top_5_questions, top_5_answers))]
+            )
+            self.prompt_template = f"""\
+    System: Answer user questions based solely on the context below. 
+    Only use the provided information and do not make up any details.
 
-<context>
-{context}
-</context>
-User: {question}"""
+    <context>
+    {{context}}
+    </context>
+
+    Here are five examples of how to answer questions based on the context:
+
+    {example_text}
+
+    Now, based on the context above, answer the following question:
+
+    User: {{question}}"""
+        else:             
+            self.prompt_template = """\
+    System: Answer user questions based solely on the context below:
+
+    <context>
+    {context}
+    </context>
+    User: {question}"""
+        
+
 
     def qa(self, query: Query, **kwargs):
         """

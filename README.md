@@ -61,11 +61,7 @@ python experiment_pipeline.py \
                         sentence-transformers model for embeddings
   --chunk_size CHUNK_SIZE
   --chunk_overlap CHUNK_OVERLAP
-  --is_semantic_chunking IS_SEMANTIC_CHUNKING
-                        Nothing will happen when including this flag
-                        Default to use hybrid semantic chunking
-  --not_semantic_chunking
-                        Include this flag to enable RecursiveCharacterTextSplitter only
+  --no_semantic_chunk   Include this flag to enable RecursiveCharacterTextSplitter only
   --search_type {similarity,similarity_score_threshold,mmr}
   --search_k SEARCH_K
   --fetch_k FETCH_K
@@ -78,10 +74,8 @@ python experiment_pipeline.py \
   --temperature TEMPERATURE
   --top_p TOP_P
   --repetition_penalty REPETITION_PENALTY
-  --do_sample           Nothing will happen when including this flag
   --not_do_sample       Include this flag to disable do_sampling for pipeline generation
-  --few_shot            Nothing will happen when including this flag
-  --add_few_shot        Include this flag to enable few-shot learning
+  --few_shot            Include this flag to enable few-shot learning
 ```
 
 # Assignment Handout

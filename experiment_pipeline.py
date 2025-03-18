@@ -123,8 +123,7 @@ def parse_generator_args(parser: argparse.ArgumentParser):
     parser.add_argument('--do_sample', action='store_true', default=True)
     parser.add_argument('--not_do_sample', action='store_false', dest='do_sample',
                         help='Include this flag to disable do_sampling for pipeline generation')
-    parser.add_argument('--few_shot', action='store_false', default=False)
-    parser.add_argument('--add_few_shot', action='store_true', dest='few_shot',
+    parser.add_argument('--few_shot', action='store_true', default=False,
                         help='Include this flag to enable few-shot learning')
 
 

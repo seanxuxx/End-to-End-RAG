@@ -50,7 +50,7 @@ class Query(TypedDict):
 class DataStore():
     def __init__(self, model_name: str, data_dir: str,
                  chunk_size=1000, chunk_overlap=100,
-                 filename_pattern='**/*.txt', is_semantic_chunking=True):
+                 filename_pattern='**/*.txt', no_semantic_chunk=False):
         """
         Args:
             model_name (str): Name of HuggingFaceEmbeddings model.
@@ -58,16 +58,16 @@ class DataStore():
             chunk_size (int, optional): Defaults to 500.
             chunk_overlap (int, optional): Defaults to 100.
             filename_pattern (str, optional): "glob" parameter for DirectoryLoader. Defaults to '**/*.txt'.
-            is_semantic_chunking (bool, optional):
-                True for mainly using SemanticChunker and False for RecursiveCharacterTextSplitter.
-                Defaults to True.
+            no_semantic_chunk (bool, optional):
+                True for RecursiveCharacterTextSplitter and False for mainly using SemanticChunker.
+                Defaults to False.
         """
         # Data config
         self.data_dir = data_dir
         self.filename_pattern = filename_pattern
 
         # Chunking config
-        self.is_semantic_chunking = is_semantic_chunking
+        self.no_semantic_chunk = no_semantic_chunk
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
 
@@ -114,7 +114,9 @@ class DataStore():
         # Chunk documents
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=self.chunk_size,
                                                        chunk_overlap=self.chunk_overlap)
-        if self.is_semantic_chunking:  # SemanticChunker + RecursiveCharacterTextSplitter
+        if self.no_semantic_chunk:  # Pure RecursiveCharacterTextSplitter
+            chunks = text_splitter.split_documents(docs)
+        else:  # SemanticChunker + RecursiveCharacterTextSplitter
             semantic_splitter = SemanticChunker(self.embeddings)
             semantic_chunks = [chunk for doc in tqdm(docs, desc='Chunk docs')
                                for chunk in semantic_splitter.split_documents([doc])]
@@ -124,8 +126,6 @@ class DataStore():
                     chunks.append(chunk)
                 else:  # Sub-chunk documents with length larger than chunk_size
                     chunks.extend(text_splitter.split_documents([chunk]))
-        else:  # Pure RecursiveCharacterTextSplitter
-            chunks = text_splitter.split_documents(docs)
 
         # Add IDs for the documents
         result = []

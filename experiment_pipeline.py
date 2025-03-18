@@ -98,10 +98,7 @@ def parse_datastore_args(parser: argparse.ArgumentParser):
                         help='sentence-transformers model for embeddings')
     parser.add_argument('--chunk_size', type=int, default=1000)
     parser.add_argument('--chunk_overlap', type=int, default=100)
-    parser.add_argument('--is_semantic_chunking', default=True,
-                        help='Nothing will happen when including this flag. Default to use hybrid semantic chunking')
-    parser.add_argument('--not_semantic_chunking', action='store_false',
-                        dest='is_semantic_chunking',
+    parser.add_argument('--no_semantic_chunk', action='store_true', default=False,
                         help='Include this flag to enable RecursiveCharacterTextSplitter only')
 
 
@@ -176,7 +173,7 @@ if __name__ == '__main__':
         model_name=args.embedding_model,
         chunk_size=args.chunk_size,
         chunk_overlap=args.chunk_overlap,
-        is_semantic_chunking=args.is_semantic_chunking,
+        no_semantic_chunk=args.no_semantic_chunk,
     )
 
     # Set up Retriver
